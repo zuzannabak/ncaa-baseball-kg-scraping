@@ -8,8 +8,6 @@ The two main outputs used for Neo4j ingestion are:
 - `all_schools_ontology_clean.json` – cleaned player + team ontology
 - `all_schools_staff_clean.json` – cleaned staff data
 
----
-
 ## Repository structure
 
 ```text
@@ -33,9 +31,8 @@ final-scrape/
 └── .gitignore
 ```
 
----
-
 ## How to use it
+
 1. Scrape rosters
 ```bash
 python scraping/scrape_rosters.py
@@ -54,7 +51,6 @@ After these steps, the JSON files:
 * `all_schools_staff_clean.json`
 are ready to be loaded into Neo4j (e.g. with `apoc.load.json` + Cypher merge scripts).
 
----
 ## Next steps
 
 In the main project I use these JSON files to build a multi-school NCAA baseball knowledge graph in Neo4j and run queries over conferences, positions, and roster composition.
