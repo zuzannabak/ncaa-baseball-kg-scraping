@@ -1,0 +1,1234 @@
+[
+  {
+    "School": {
+      "schoolId": "Duke_University",
+      "name": "Duke University",
+      "conference": "Atlantic Coast Conference (ACC)"
+    },
+    "Team": {
+      "teamId": "Duke_University_baseball_2024",
+      "teamName": "Duke University Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "Duke_University_baseball_2024_coach_1",
+        "fullName": "Corey Muscara",
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "Duke_University_baseball_2024_coach_2",
+        "fullName": "Scott Loiseau",
+        "role": "Associate Head Coach"
+      },
+      {
+        "coachId": "Duke_University_baseball_2024_coach_3",
+        "fullName": "Matt Wessinger",
+        "role": "Hitting Coach"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Duke_University_baseball_2024_staff_1",
+        "fullName": "Will Craig",
+        "role": "Recruiting Coordinator"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Florida_State_University",
+      "name": "Florida State University",
+      "conference": "Atlantic Coast Conference (ACC)"
+    },
+    "Team": {
+      "teamId": "Florida_State_University_baseball_2024",
+      "teamName": "Florida State University Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "Florida_State_University_baseball_2024_coach_1",
+        "fullName": "Link Jarrett",
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2024_coach_2",
+        "fullName": "Ty Megahee",
+        "role": "Assistant Coach/Recruiting Coordinator"
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2024_coach_3",
+        "fullName": "Micah Posey",
+        "role": "Assistant Coach/Pitching Coach"
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2024_coach_4",
+        "fullName": "Brad Vanderglas",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2024_coach_5",
+        "fullName": "Seiler Griffin",
+        "role": "Graduate Assistant"
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2024_coach_6",
+        "fullName": "Jack O'Reilly",
+        "role": "Graduate Assistant"
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2024_coach_7",
+        "fullName": "Jamie Burleson",
+        "role": "Strength & Conditioning Coach"
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2024_coach_8",
+        "fullName": "Nicki Bedgood",
+        "role": "Administrative Associate"
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2024_coach_9",
+        "fullName": "Charlie Healy",
+        "role": "Public Relations"
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2024_coach_10",
+        "fullName": "Stephen Ponder",
+        "role": "Baseball Oversight"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Florida_State_University_baseball_2024_staff_1",
+        "fullName": "Drew Linder",
+        "role": "Director of Baseball Operations"
+      },
+      {
+        "staffId": "Florida_State_University_baseball_2024_staff_2",
+        "fullName": "Rob Collison",
+        "role": "Quality Control & Catching, Pitching Analyst"
+      },
+      {
+        "staffId": "Florida_State_University_baseball_2024_staff_3",
+        "fullName": "Randy Burdette",
+        "role": "Director of Program Development"
+      },
+      {
+        "staffId": "Florida_State_University_baseball_2024_staff_4",
+        "fullName": "Phil Montano",
+        "role": "Athletic Trainer"
+      },
+      {
+        "staffId": "Florida_State_University_baseball_2024_staff_5",
+        "fullName": "Jacob Frye",
+        "role": "Equipment Coordinator"
+      },
+      {
+        "staffId": "Florida_State_University_baseball_2024_staff_6",
+        "fullName": "Andrew Zoch",
+        "role": "Creative Video Coordinator"
+      },
+      {
+        "staffId": "Florida_State_University_baseball_2024_staff_7",
+        "fullName": "Logan Wesolowski",
+        "role": "Assistant Director of Marketing"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "NC_State_University",
+      "name": "NC State University",
+      "conference": "Atlantic Coast Conference (ACC)"
+    },
+    "Team": {
+      "teamId": "NC_State_University_baseball_2024",
+      "teamName": "NC State University Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "NC_State_University_baseball_2024_coach_1",
+        "fullName": "Elliott Avent",
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2024_coach_2",
+        "fullName": "Chris Hart",
+        "role": "Associate Head Coach"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2024_coach_3",
+        "fullName": "Clint Chrysler",
+        "role": "Pitching Coach"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2024_coach_4",
+        "fullName": "Bo Robinson",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2024_coach_5",
+        "fullName": "Michael McCaughtry",
+        "role": "Assistant Strength & Conditioning Coach"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2024_coach_6",
+        "fullName": "Brady Austin",
+        "role": "Graduate Manager"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2024_coach_7",
+        "fullName": "Sam Thilman",
+        "role": "Student Manager"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2024_coach_8",
+        "fullName": "Eli McCoy",
+        "role": "Student Manager"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2024_coach_9",
+        "fullName": "Brendan Roe",
+        "role": "Student Manager"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2024_coach_10",
+        "fullName": "Bryce Thaxton",
+        "role": "Student Manager"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2024_coach_11",
+        "fullName": "Stephen Bollenbacher",
+        "role": "Student Manager"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2024_coach_12",
+        "fullName": "Jake Cunningham",
+        "role": "Assistant AD/Compliance (Women's Basketball, Baseball, Women's Soccer, Swim & Dive)"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "NC_State_University_baseball_2024_staff_1",
+        "fullName": "Tyler Stocum",
+        "role": "Director of Operations"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2024_staff_2",
+        "fullName": "J.T. Jarrett",
+        "role": "Director of Player & Program Development"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2024_staff_3",
+        "fullName": "Joshua Fisher",
+        "role": "Director of Baseball Analytics"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2024_staff_4",
+        "fullName": "Haley Hart",
+        "role": "Director of Administration for Baseball & Tennis"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2024_staff_5",
+        "fullName": "Scott Ensell",
+        "role": "Athletic Trainer"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2024_staff_6",
+        "fullName": "Cal Tomasic",
+        "role": "Equipment Manager - Doak Field - Baseball, Men's & Women's Tennis"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2024_staff_7",
+        "fullName": "Brad Brown",
+        "role": "Senior Associate AD/Facilities & Operations"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2024_staff_8",
+        "fullName": "Jennifer Womack",
+        "role": "Associate Director (baseball, w. basketball)"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2024_staff_9",
+        "fullName": "Brandon Mostyn",
+        "role": "Assistant Athletics Communications Director (secondary football / baseball)"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2024_staff_10",
+        "fullName": "Megan Johnston",
+        "role": "Assistant Director of Creative Video"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2024_staff_11",
+        "fullName": "Rachel Conway",
+        "role": "Assistant AD/Mental Health & Performance Psychology"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "University_of_Louisville",
+      "name": "University of Louisville",
+      "conference": "Atlantic Coast Conference (ACC)"
+    },
+    "Team": {
+      "teamId": "University_of_Louisville_baseball_2024",
+      "teamName": "University of Louisville Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "University_of_Louisville_baseball_2024_coach_1",
+        "fullName": "Dan McDonnell",
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "University_of_Louisville_baseball_2024_coach_2",
+        "fullName": "Roger Williams",
+        "role": "Associate Head Coach/Pitching"
+      },
+      {
+        "coachId": "University_of_Louisville_baseball_2024_coach_3",
+        "fullName": "Eric Snider",
+        "role": "Assistant Coach/Recruiting Coordinator"
+      },
+      {
+        "coachId": "University_of_Louisville_baseball_2024_coach_4",
+        "fullName": "Adam Vrable",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "University_of_Louisville_baseball_2024_coach_5",
+        "fullName": "Savanah Feldpausch",
+        "role": "Sports Dietitian"
+      },
+      {
+        "coachId": "University_of_Louisville_baseball_2024_coach_6",
+        "fullName": "Nieko Torres",
+        "role": "Senior Perfomance Coach"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "University_of_Louisville_baseball_2024_staff_1",
+        "fullName": "Brian Mundorf",
+        "role": "Director of Operations"
+      },
+      {
+        "staffId": "University_of_Louisville_baseball_2024_staff_2",
+        "fullName": "Michael Allman",
+        "role": "Director/Baseball Player Development"
+      },
+      {
+        "staffId": "University_of_Louisville_baseball_2024_staff_3",
+        "fullName": "Josh Gruber",
+        "role": "Athletic Trainer"
+      },
+      {
+        "staffId": "University_of_Louisville_baseball_2024_staff_4",
+        "fullName": "Rachel Overton",
+        "role": "Associate Director/Academic Services"
+      },
+      {
+        "staffId": "University_of_Louisville_baseball_2024_staff_5",
+        "fullName": "Reese Sturgeon",
+        "role": "Assistant Equipment Manager"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "University_of_North_Carolina",
+      "name": "University of North Carolina",
+      "conference": "Atlantic Coast Conference (ACC)"
+    },
+    "Team": {
+      "teamId": "University_of_North_Carolina_baseball_2024",
+      "teamName": "University of North Carolina Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_1",
+        "fullName": "Scott Forbes",
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_2",
+        "fullName": "Bryant Gaines",
+        "role": "Associate Head Coach / Pitching Coach"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_3",
+        "fullName": "Jesse Wierzbicki",
+        "role": "Assistant Coach / Hitting Coach / Infielders & Catchers"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_4",
+        "fullName": "Scott Jackson",
+        "role": "Assistant Coach/Recruiting Coordinator"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_5",
+        "fullName": "Carter Hicks",
+        "role": "General Manager"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_6",
+        "fullName": "Daniel Wilkerson",
+        "role": "Assistant to the Head Coach and Clubhouse/Equipment Manager"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_7",
+        "fullName": "Kate Douglas",
+        "role": "Administrative Assistant"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_8",
+        "fullName": "Josie Carver",
+        "role": "Student Manager"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_9",
+        "fullName": "Grayson Guy",
+        "role": "Student Manager"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_10",
+        "fullName": "Sam Heimowitz",
+        "role": "Student Manager"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_11",
+        "fullName": "J.B. Sebastiano",
+        "role": "Student Manager"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_12",
+        "fullName": "Dylan Slowik",
+        "role": "Student Manager"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_13",
+        "fullName": "Will Staats",
+        "role": "Bullpen Catcher"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "University_of_North_Carolina_baseball_2024_staff_1",
+        "fullName": "Jason Howell",
+        "role": "Director of Pitching Performance, Development and Analytics"
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2024_staff_2",
+        "fullName": "Dave Arendas",
+        "role": "Director of Baseball Operations"
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2024_staff_3",
+        "fullName": "Greg Gatz",
+        "role": "Assistant Athletic Director/Director of Strength & Conditioning for Olympic Sports"
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2024_staff_4",
+        "fullName": "Terri Jo Rucinski",
+        "role": "Head Athletic Trainer"
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2024_staff_5",
+        "fullName": "Dr. Jeni Shannon",
+        "role": "Director, Mental Health and Performance Psychology"
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2024_staff_6",
+        "fullName": "Allison Keim",
+        "role": "Associate Director of Sports Nutrition"
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2024_staff_7",
+        "fullName": "Megan Maxwell",
+        "role": "Graduate Assistant Athletic Trainer"
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2024_staff_8",
+        "fullName": "Hannah Scott",
+        "role": "Graduate Assistant Athletic Trainer"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Cal_Poly_(California_Polytechnic_State_University)",
+      "name": "Cal Poly (California Polytechnic State University)",
+      "conference": "Big West Conference"
+    },
+    "Team": {
+      "teamId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024",
+      "teamName": "Cal Poly (California Polytechnic State University) Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_1",
+        "fullName": "Larry Lee",
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_2",
+        "fullName": "Seth Moir",
+        "role": "Assistant Coach (Pitchers)"
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_3",
+        "fullName": "Jason Gill",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_4",
+        "fullName": "Logan Denholm",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_5",
+        "fullName": "Nick Meyer",
+        "role": "Student Assistant Coach"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_staff_1",
+        "fullName": "Mark Armstrong",
+        "role": "Director of Quality Control"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Cal_State_Fullerton_(California_State_University,_Fullerton)",
+      "name": "Cal State Fullerton (California State University, Fullerton)",
+      "conference": "Big West Conference"
+    },
+    "Team": {
+      "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024",
+      "teamName": "Cal State Fullerton (California State University, Fullerton) Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_coach_1",
+        "fullName": "Jason Dietrich",
+        "role": "Head Coach (5th Season)"
+      },
+      {
+        "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_coach_2",
+        "fullName": "Josh Belovsky",
+        "role": "Assistant Coach (5th Season)"
+      },
+      {
+        "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_coach_3",
+        "fullName": "Tony Schifano",
+        "role": "Assistant Coach (1st Season)"
+      },
+      {
+        "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_coach_4",
+        "fullName": "Ryan Day",
+        "role": "Assistant Coach (3rd Season)"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_staff_1",
+        "fullName": "Connor Spencer",
+        "role": "Director of Operations (4th Season)"
+      },
+      {
+        "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_staff_2",
+        "fullName": "Sean Skelly",
+        "role": "Director of Player Development (2nd Season)"
+      },
+      {
+        "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_staff_3",
+        "fullName": "Bryan Evans",
+        "role": "Assistant Director of Operations (1st Season)"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "CSUN_(California_State_University,_Northridge)",
+      "name": "CSUN (California State University, Northridge)",
+      "conference": "Big West Conference"
+    },
+    "Team": {
+      "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2024",
+      "teamName": "CSUN (California State University, Northridge) Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2024_coach_1",
+        "fullName": "Eddie Cornejo",
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2024_coach_2",
+        "fullName": "Paul Koss",
+        "role": "Pitching Coach"
+      },
+      {
+        "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2024_coach_3",
+        "fullName": "Nate Esposito",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2024_coach_4",
+        "fullName": "Brendan Brooks",
+        "role": "Assistant Coach"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "CSUN_(California_State_University,_Northridge)_baseball_2024_staff_1",
+        "fullName": "Broc Mortensen",
+        "role": "Director of Player Development & Camp Coordinator"
+      },
+      {
+        "staffId": "CSUN_(California_State_University,_Northridge)_baseball_2024_staff_2",
+        "fullName": "Nick Alfonso",
+        "role": "Director of Operations"
+      },
+      {
+        "staffId": "CSUN_(California_State_University,_Northridge)_baseball_2024_staff_3",
+        "fullName": "Natali Cerritos",
+        "role": "Assistant Athletic Trainer (BB, WGOLF)"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)",
+      "name": "UC Santa Barbara (University of California, Santa Barbara)",
+      "conference": "Big West Conference"
+    },
+    "Team": {
+      "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024",
+      "teamName": "UC Santa Barbara (University of California, Santa Barbara) Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_1",
+        "fullName": "Andrew Checketts",
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_2",
+        "fullName": "Matt Fonteno",
+        "role": "Associate Head Coach"
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_3",
+        "fullName": "Dylan Jones",
+        "role": "Assistant Coach/Recruiting Coordinator"
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_4",
+        "fullName": "Kyle Hunt",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_5",
+        "fullName": "Jaren Jaffe",
+        "role": "Undergraduate Assistant"
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_6",
+        "fullName": "Sam Smith",
+        "role": "Position Player Strength Coach"
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_7",
+        "fullName": "Luke Storey",
+        "role": "Pitcher Strength Coach"
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_8",
+        "fullName": "Marilyn Monroy Castro",
+        "role": "Academic Advisor"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_1",
+        "fullName": "Christian Kirtley",
+        "role": "Director of Player Development, Camps & Clinics"
+      },
+      {
+        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_2",
+        "fullName": "Justin Han",
+        "role": "Assistant Director of Player Development, Camps & Clinics"
+      },
+      {
+        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_3",
+        "fullName": "Alexis Kakuk",
+        "role": "Director of Baseball Operations"
+      },
+      {
+        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_4",
+        "fullName": "Kevin Cannon",
+        "role": "Director of Facilities"
+      },
+      {
+        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_5",
+        "fullName": "Sienna Baldwin",
+        "role": "Athletic Trainer"
+      },
+      {
+        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_6",
+        "fullName": "Isaac Shinbrot",
+        "role": "Player Development & Recruitment Assistant"
+      },
+      {
+        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_7",
+        "fullName": "Jake Underwood",
+        "role": "Student Director of Analytics"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Creighton_University",
+      "name": "Creighton University",
+      "conference": "Missouri Valley Conference (MVC)"
+    },
+    "Team": {
+      "teamId": "Creighton_University_baseball_2024",
+      "teamName": "Creighton University Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "Creighton_University_baseball_2024_coach_1",
+        "fullName": "Mark Kingston",
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "Creighton_University_baseball_2024_coach_2",
+        "fullName": "Billy Mohl",
+        "role": "Assistant Coach/Pitching Coach"
+      },
+      {
+        "coachId": "Creighton_University_baseball_2024_coach_3",
+        "fullName": "Mike Current",
+        "role": "Assistant Coach/Recruiting Coordinator"
+      },
+      {
+        "coachId": "Creighton_University_baseball_2024_coach_4",
+        "fullName": "Will McGillis",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "Creighton_University_baseball_2024_coach_5",
+        "fullName": "Dr. Chuck Rosipal",
+        "role": "Team Orthopedic Physician"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Creighton_University_baseball_2024_staff_1",
+        "fullName": "LT Tolbert",
+        "role": "Director of Player Development"
+      },
+      {
+        "staffId": "Creighton_University_baseball_2024_staff_2",
+        "fullName": "Curtis Self",
+        "role": "Associate Athletic Trainer (BSB, Insurance Coordinator)"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Murray_State_University",
+      "name": "Murray State University",
+      "conference": "Missouri Valley Conference (MVC)"
+    },
+    "Team": {
+      "teamId": "Murray_State_University_baseball_2024",
+      "teamName": "Murray State University Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "Murray_State_University_baseball_2024_coach_1",
+        "fullName": "Dan Skirka",
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "Murray_State_University_baseball_2024_coach_2",
+        "fullName": "Steve Adkins",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "Murray_State_University_baseball_2024_coach_3",
+        "fullName": "Hunter Wolfe",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "Murray_State_University_baseball_2024_coach_4",
+        "fullName": "Anthony Ortega",
+        "role": "Assistant Coach"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Murray_State_University_baseball_2024_staff_1",
+        "fullName": "Hayden Cross",
+        "role": "Director of Player Development"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "University_of_Evansville",
+      "name": "University of Evansville",
+      "conference": "Missouri Valley Conference (MVC)"
+    },
+    "Team": {
+      "teamId": "University_of_Evansville_baseball_2024",
+      "teamName": "University of Evansville Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "University_of_Evansville_baseball_2024_coach_1",
+        "fullName": "Wes Carroll",
+        "role": "Head Baseball Coach"
+      },
+      {
+        "coachId": "University_of_Evansville_baseball_2024_coach_2",
+        "fullName": "Matt Wollenzin",
+        "role": "Assistant Baseball Coach"
+      },
+      {
+        "coachId": "University_of_Evansville_baseball_2024_coach_3",
+        "fullName": "Jarrett Blunt",
+        "role": "Pitching Coach"
+      },
+      {
+        "coachId": "University_of_Evansville_baseball_2024_coach_4",
+        "fullName": "Brendan Hord",
+        "role": "Assistant Baseball Coach"
+      },
+      {
+        "coachId": "University_of_Evansville_baseball_2024_coach_5",
+        "fullName": "Nick Smith",
+        "role": "Graduate Assistant"
+      },
+      {
+        "coachId": "University_of_Evansville_baseball_2024_coach_6",
+        "fullName": "Myles Susott",
+        "role": "Student Manager"
+      }
+    ],
+    "SupportStaff": []
+  },
+  {
+    "School": {
+      "schoolId": "Wichita_State_University",
+      "name": "Wichita State University",
+      "conference": "Missouri Valley Conference (MVC)"
+    },
+    "Team": {
+      "teamId": "Wichita_State_University_baseball_2024",
+      "teamName": "Wichita State University Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "Wichita_State_University_baseball_2024_coach_1",
+        "fullName": "Brian Green",
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "Wichita_State_University_baseball_2024_coach_2",
+        "fullName": "Anthony Claggett",
+        "role": "Assistant Head Coach/Pitching Coach"
+      },
+      {
+        "coachId": "Wichita_State_University_baseball_2024_coach_3",
+        "fullName": "Marty Lees",
+        "role": "Assistant Coach/Recruiting Coordinator"
+      },
+      {
+        "coachId": "Wichita_State_University_baseball_2024_coach_4",
+        "fullName": "Collin Wilber",
+        "role": "Assistant Coach/Catching Coach"
+      },
+      {
+        "coachId": "Wichita_State_University_baseball_2024_coach_5",
+        "fullName": "Aaron Shellenberger",
+        "role": "Graduate Assistant"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Wichita_State_University_baseball_2024_staff_1",
+        "fullName": "Jason Foster",
+        "role": "Pitching Strategist and Director of Analytics"
+      },
+      {
+        "staffId": "Wichita_State_University_baseball_2024_staff_2",
+        "fullName": "Faith Weekley",
+        "role": "Director of Operations"
+      },
+      {
+        "staffId": "Wichita_State_University_baseball_2024_staff_3",
+        "fullName": "Jake Meyer",
+        "role": "Athletic Trainer"
+      },
+      {
+        "staffId": "Wichita_State_University_baseball_2024_staff_4",
+        "fullName": "Logan Barrett",
+        "role": "Assistant Director of Sports Performance"
+      },
+      {
+        "staffId": "Wichita_State_University_baseball_2024_staff_5",
+        "fullName": "Denning Gerig",
+        "role": "Associate Director of Communications/Broadcasting Manager"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Oregon_State_University",
+      "name": "Oregon State University",
+      "conference": "Pac-12 Conference"
+    },
+    "Team": {
+      "teamId": "Oregon_State_University_baseball_2026",
+      "teamName": "Oregon State University Baseball",
+      "seasonYear": 2026
+    },
+    "Coaches": [
+      {
+        "coachId": "Oregon_State_University_baseball_2026_coach_1",
+        "fullName": "Mitch Canham",
+        "role": "Pat Casey Head Baseball Coach"
+      },
+      {
+        "coachId": "Oregon_State_University_baseball_2026_coach_2",
+        "fullName": "Rich Dorman",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "Oregon_State_University_baseball_2026_coach_3",
+        "fullName": "Ryan Gipson",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "Oregon_State_University_baseball_2026_coach_4",
+        "fullName": "Joey Wong",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "Oregon_State_University_baseball_2026_coach_5",
+        "fullName": "Brady Kasper",
+        "role": "Undergraduate Assistant Coach"
+      },
+      {
+        "coachId": "Oregon_State_University_baseball_2026_coach_6",
+        "fullName": "Toni Langhans",
+        "role": "Sports Dietitian"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Oregon_State_University_baseball_2026_staff_1",
+        "fullName": "Ryan Gorton",
+        "role": "Director of Operations"
+      },
+      {
+        "staffId": "Oregon_State_University_baseball_2026_staff_2",
+        "fullName": "Brad Brown",
+        "role": "Director of Baseball Analytics and Advanced Scouting"
+      },
+      {
+        "staffId": "Oregon_State_University_baseball_2026_staff_3",
+        "fullName": "Zak Taylor",
+        "role": "Director of Beaver Baseball Development"
+      },
+      {
+        "staffId": "Oregon_State_University_baseball_2026_staff_4",
+        "fullName": "Jeremy Ainsworth",
+        "role": "Assistant Athletic Trainer"
+      },
+      {
+        "staffId": "Oregon_State_University_baseball_2026_staff_5",
+        "fullName": "Hank Hager",
+        "role": "Assistant Athletic Director, Integrated Communications"
+      },
+      {
+        "staffId": "Oregon_State_University_baseball_2026_staff_6",
+        "fullName": "Mike Henriques",
+        "role": "Assistant Sports Performance Coordinator (Baseball and Men's Golf)"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "UCLA_(University_of_California,_Los_Angeles)",
+      "name": "UCLA (University of California, Los Angeles)",
+      "conference": "Pac-12 Conference"
+    },
+    "Team": {
+      "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024",
+      "teamName": "UCLA (University of California, Los Angeles) Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_1",
+        "fullName": "John Savage",
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_2",
+        "fullName": "Bryant Ward",
+        "role": "Assistant Coach / Recruiting Coordinator"
+      },
+      {
+        "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_3",
+        "fullName": "Griffin Barnes",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_4",
+        "fullName": "Jake Palmer",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_5",
+        "fullName": "Kyle Hashimoto",
+        "role": "Athletic Performance Coach"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_staff_1",
+        "fullName": "Chris Minnick",
+        "role": "Director of Player Development"
+      },
+      {
+        "staffId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_staff_2",
+        "fullName": "Kaitlyn Gustafson",
+        "role": "Athletic Trainer"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "University_of_Washington",
+      "name": "University of Washington",
+      "conference": "Pac-12 Conference"
+    },
+    "Team": {
+      "teamId": "University_of_Washington_baseball_2024",
+      "teamName": "University of Washington Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "University_of_Washington_baseball_2024_coach_1",
+        "fullName": "Eddie Smith",
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "University_of_Washington_baseball_2024_coach_2",
+        "fullName": "Connor Lambert",
+        "role": "Pitching Coach"
+      },
+      {
+        "coachId": "University_of_Washington_baseball_2024_coach_3",
+        "fullName": "Kade Kryzsko",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "University_of_Washington_baseball_2024_coach_4",
+        "fullName": "Joseph Boschee",
+        "role": "Student Manager"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "University_of_Washington_baseball_2024_staff_1",
+        "fullName": "Damon Lessler",
+        "role": "Director of Player Development"
+      },
+      {
+        "staffId": "University_of_Washington_baseball_2024_staff_2",
+        "fullName": "Scott Junck",
+        "role": "Director of Baseball Operations"
+      },
+      {
+        "staffId": "University_of_Washington_baseball_2024_staff_3",
+        "fullName": "Jake Rook",
+        "role": "Director of Baseball Analytics"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Mississippi_State_University",
+      "name": "Mississippi State University",
+      "conference": "Southeastern Conference (SEC)"
+    },
+    "Team": {
+      "teamId": "Mississippi_State_University_baseball_2024",
+      "teamName": "Mississippi State University Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "Mississippi_State_University_baseball_2024_coach_1",
+        "fullName": "Brian O'Connor",
+        "role": "Head Baseball Coach"
+      },
+      {
+        "coachId": "Mississippi_State_University_baseball_2024_coach_2",
+        "fullName": "Kevin McMullan",
+        "role": "Associate Head Baseball Coach"
+      },
+      {
+        "coachId": "Mississippi_State_University_baseball_2024_coach_3",
+        "fullName": "Matt Kirby",
+        "role": "Assistant Baseball Coach"
+      },
+      {
+        "coachId": "Mississippi_State_University_baseball_2024_coach_4",
+        "fullName": "Justin Parker",
+        "role": "Assistant Baseball Coach"
+      },
+      {
+        "coachId": "Mississippi_State_University_baseball_2024_coach_5",
+        "fullName": "Justin Armistead",
+        "role": "Associate A.D./Baseball"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Mississippi_State_University_baseball_2024_staff_1",
+        "fullName": "Mike Roberts",
+        "role": "Director of Player Development and Scouting"
+      },
+      {
+        "staffId": "Mississippi_State_University_baseball_2024_staff_2",
+        "fullName": "Justin Weiss",
+        "role": "Baseball Operations Coordinator"
+      },
+      {
+        "staffId": "Mississippi_State_University_baseball_2024_staff_3",
+        "fullName": "Jonathan French",
+        "role": "Data/Video Analytics Coordinator"
+      },
+      {
+        "staffId": "Mississippi_State_University_baseball_2024_staff_4",
+        "fullName": "Travis Reifsnider",
+        "role": "Scouting/Assistant Recruiting Coordinator"
+      },
+      {
+        "staffId": "Mississippi_State_University_baseball_2024_staff_5",
+        "fullName": "Joe Savino",
+        "role": "Pitching Coordinator"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "University_of_Tennessee",
+      "name": "University of Tennessee",
+      "conference": "Southeastern Conference (SEC)"
+    },
+    "Team": {
+      "teamId": "University_of_Tennessee_baseball_2024",
+      "teamName": "University of Tennessee Baseball",
+      "seasonYear": 2024
+    },
+    "Coaches": [
+      {
+        "coachId": "University_of_Tennessee_baseball_2024_coach_1",
+        "fullName": "Josh Elander",
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "University_of_Tennessee_baseball_2024_coach_2",
+        "fullName": "Chuck Jeroloman",
+        "role": "Associate Head Coach"
+      },
+      {
+        "coachId": "University_of_Tennessee_baseball_2024_coach_3",
+        "fullName": "Ross Kivett",
+        "role": "Assistant Coach/Recruiting Coordinator"
+      },
+      {
+        "coachId": "University_of_Tennessee_baseball_2024_coach_4",
+        "fullName": "Josh Reynolds",
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "University_of_Tennessee_baseball_2024_coach_5",
+        "fullName": "Sean McCann",
+        "role": "Special Assistant to the Head Coach"
+      },
+      {
+        "coachId": "University_of_Tennessee_baseball_2024_coach_6",
+        "fullName": "Parker Serrano",
+        "role": "Student Assistant Coach"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "University_of_Tennessee_baseball_2024_staff_1",
+        "fullName": "Keegan Knoll",
+        "role": "Director of Sports Performance"
+      },
+      {
+        "staffId": "University_of_Tennessee_baseball_2024_staff_2",
+        "fullName": "Adam Low",
+        "role": "Director of Baseball Operations"
+      },
+      {
+        "staffId": "University_of_Tennessee_baseball_2024_staff_3",
+        "fullName": "Zach Stovall",
+        "role": "Director of Strategy"
+      },
+      {
+        "staffId": "University_of_Tennessee_baseball_2024_staff_4",
+        "fullName": "Ricky Martinez",
+        "role": "Director of Recruiting"
+      },
+      {
+        "staffId": "University_of_Tennessee_baseball_2024_staff_5",
+        "fullName": "Kirby Connell",
+        "role": "Individual Branding and Community Service Coordinator"
+      },
+      {
+        "staffId": "University_of_Tennessee_baseball_2024_staff_6",
+        "fullName": "Ethan Payne",
+        "role": "Camp Coordinator"
+      },
+      {
+        "staffId": "University_of_Tennessee_baseball_2024_staff_7",
+        "fullName": "Jeff Wood",
+        "role": "Associate Director of Sports Medicine"
+      },
+      {
+        "staffId": "University_of_Tennessee_baseball_2024_staff_8",
+        "fullName": "Sarah Nguyen",
+        "role": "Assistant Director of Sports Nutrition"
+      }
+    ]
+  }
+]

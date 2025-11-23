@@ -1,0 +1,101 @@
+{
+  "School": {
+    "schoolId": "Florida_State_University",
+    "name": "Florida State University",
+    "conference": "Atlantic Coast Conference (ACC)"
+  },
+  "Team": {
+    "teamId": "Florida_State_University_baseball_2024",
+    "teamName": "Florida State University Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "Florida_State_University_baseball_2024_coach_1",
+      "fullName": "Link Jarrett",
+      "role": "Head Coach"
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2024_coach_2",
+      "fullName": "Ty Megahee",
+      "role": "Assistant Coach/Recruiting Coordinator"
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2024_coach_3",
+      "fullName": "Micah Posey",
+      "role": "Assistant Coach/Pitching Coach"
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2024_coach_4",
+      "fullName": "Brad Vanderglas",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2024_coach_5",
+      "fullName": "Seiler Griffin",
+      "role": "Graduate Assistant"
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2024_coach_6",
+      "fullName": "Jack O'Reilly",
+      "role": "Graduate Assistant"
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2024_coach_7",
+      "fullName": "Jamie Burleson",
+      "role": "Strength & Conditioning Coach"
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2024_coach_8",
+      "fullName": "Nicki Bedgood",
+      "role": "Administrative Associate"
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2024_coach_9",
+      "fullName": "Charlie Healy",
+      "role": "Public Relations"
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2024_coach_10",
+      "fullName": "Stephen Ponder",
+      "role": "Baseball Oversight"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Florida_State_University_baseball_2024_staff_1",
+      "fullName": "Drew Linder",
+      "role": "Director of Baseball Operations"
+    },
+    {
+      "staffId": "Florida_State_University_baseball_2024_staff_2",
+      "fullName": "Rob Collison",
+      "role": "Quality Control & Catching, Pitching Analyst"
+    },
+    {
+      "staffId": "Florida_State_University_baseball_2024_staff_3",
+      "fullName": "Randy Burdette",
+      "role": "Director of Program Development"
+    },
+    {
+      "staffId": "Florida_State_University_baseball_2024_staff_4",
+      "fullName": "Phil Montano",
+      "role": "Athletic Trainer"
+    },
+    {
+      "staffId": "Florida_State_University_baseball_2024_staff_5",
+      "fullName": "Jacob Frye",
+      "role": "Equipment Coordinator"
+    },
+    {
+      "staffId": "Florida_State_University_baseball_2024_staff_6",
+      "fullName": "Andrew Zoch",
+      "role": "Creative Video Coordinator"
+    },
+    {
+      "staffId": "Florida_State_University_baseball_2024_staff_7",
+      "fullName": "Logan Wesolowski",
+      "role": "Assistant Director of Marketing"
+    }
+  ]
+}

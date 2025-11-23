@@ -1,0 +1,56 @@
+{
+  "School": {
+    "schoolId": "LSU_(Louisiana_State_University)",
+    "name": "LSU (Louisiana State University)",
+    "conference": "Southeastern Conference (SEC)"
+  },
+  "Team": {
+    "teamId": "LSU_(Louisiana_State_University)_baseball_2024",
+    "teamName": "LSU (Louisiana State University) Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "LSU_(Louisiana_State_University)_baseball_2024_coach_1",
+      "fullName": "Jay Johnson",
+      "role": "Head Coach"
+    },
+    {
+      "coachId": "LSU_(Louisiana_State_University)_baseball_2024_coach_2",
+      "fullName": "Nate Yeskie",
+      "role": "Pitching Coach"
+    },
+    {
+      "coachId": "LSU_(Louisiana_State_University)_baseball_2024_coach_3",
+      "fullName": "Josh Jordan",
+      "role": "Assistant Coach/Recruiting Coordinator"
+    },
+    {
+      "coachId": "LSU_(Louisiana_State_University)_baseball_2024_coach_4",
+      "fullName": "Marc Wanaka",
+      "role": "Assistant Coach"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "LSU_(Louisiana_State_University)_baseball_2024_staff_1",
+      "fullName": "Terry Rooney",
+      "role": "Associate Director of Program Development and Recruiting"
+    },
+    {
+      "staffId": "LSU_(Louisiana_State_University)_baseball_2024_staff_2",
+      "fullName": "Brent Haring",
+      "role": "Director of Operations"
+    },
+    {
+      "staffId": "LSU_(Louisiana_State_University)_baseball_2024_staff_3",
+      "fullName": "Jamie Tutko",
+      "role": "Director of Player Development/Video and Scouting"
+    },
+    {
+      "staffId": "LSU_(Louisiana_State_University)_baseball_2024_staff_4",
+      "fullName": "Drew Finley",
+      "role": "Student Assistant"
+    }
+  ]
+}

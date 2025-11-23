@@ -1,0 +1,36 @@
+{
+  "School": {
+    "schoolId": "Duke_University",
+    "name": "Duke University",
+    "conference": "Atlantic Coast Conference (ACC)"
+  },
+  "Team": {
+    "teamId": "Duke_University_baseball_2024",
+    "teamName": "Duke University Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "Duke_University_baseball_2024_coach_1",
+      "fullName": "Corey Muscara",
+      "role": "Head Coach"
+    },
+    {
+      "coachId": "Duke_University_baseball_2024_coach_2",
+      "fullName": "Scott Loiseau",
+      "role": "Associate Head Coach"
+    },
+    {
+      "coachId": "Duke_University_baseball_2024_coach_3",
+      "fullName": "Matt Wessinger",
+      "role": "Hitting Coach"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Duke_University_baseball_2024_staff_1",
+      "fullName": "Will Craig",
+      "role": "Recruiting Coordinator"
+    }
+  ]
+}

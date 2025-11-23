@@ -1,0 +1,650 @@
+{
+  "School": {
+    "schoolId": "Murray_State_University",
+    "name": "Murray State University"
+  },
+  "Conference": {
+    "conferenceId": "Missouri_Valley_Conference_(MVC)",
+    "conferenceName": "Missouri Valley Conference (MVC)"
+  },
+  "Season": {
+    "seasonId": "2024",
+    "seasonYear": 2024
+  },
+  "Team": {
+    "teamId": "Murray_State_University_baseball_2024",
+    "teamName": "Murray State University Baseball"
+  },
+  "Players": [
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_1",
+      "fullName": "Riley Hawthorne",
+      "classYear": "R-Jr",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "185 lbs",
+      "hometown": "Germantown, Tenn.",
+      "jersey": "1",
+      "lastSchool": "Houston HS",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_2",
+      "fullName": "Preston Shelton",
+      "classYear": "Sr",
+      "position": "INF",
+      "height": "5-11",
+      "weight": "185 lbs",
+      "hometown": "Lewisburg, Tenn.",
+      "jersey": "2",
+      "lastSchool": "Marshall County HS",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_3",
+      "fullName": "Drew Vogel",
+      "classYear": "R-Jr",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "195 lbs",
+      "hometown": "White House, Tenn.",
+      "jersey": "3",
+      "lastSchool": "White House HS",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_4",
+      "fullName": "Gunnar Bingham",
+      "classYear": "So",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "165 lbs",
+      "hometown": "Eddyville, Ky.",
+      "jersey": "4",
+      "lastSchool": "Lyon County HS",
+      "weightLbs": 165
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_5",
+      "fullName": "Harper McLendon",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "180 lbs",
+      "hometown": "Thomasville, Ga.",
+      "jersey": "5",
+      "lastSchool": "Brookwood HS",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_6",
+      "fullName": "Bryce Valero",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "245 lbs",
+      "hometown": "Fortson, Ga.",
+      "jersey": "6",
+      "lastSchool": "Motlow State CC",
+      "weightLbs": 245
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_7",
+      "fullName": "Dalton Rudd",
+      "classYear": "R-Jr",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "190 lbs",
+      "hometown": "Ellsinore, Mo.",
+      "jersey": "7",
+      "lastSchool": "East Carter HS",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_8",
+      "fullName": "Carson Garner",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Franklin, Tenn.",
+      "jersey": "8",
+      "lastSchool": "Franklin HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_9",
+      "fullName": "Dustin Mercer",
+      "classYear": "R-Jr",
+      "position": "OF",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Weddington, N.C.",
+      "jersey": "10",
+      "lastSchool": "Virginia Tech",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_10",
+      "fullName": "Parker Estes",
+      "classYear": "R-Jr",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "205 lbs",
+      "hometown": "Elizabethtown, Ky.",
+      "jersey": "11",
+      "lastSchool": "North Hardin HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_11",
+      "fullName": "Jordyn Naranjo",
+      "classYear": "R-Sr",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "225 lbs",
+      "hometown": "Clinton, Ky.",
+      "jersey": "12",
+      "lastSchool": "Graves County HS",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_12",
+      "fullName": "Kane Elmy",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Canton, Mich.",
+      "jersey": "13",
+      "lastSchool": "Plymouth HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_13",
+      "fullName": "Malik Pogue",
+      "classYear": "R-Sr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "200 lbs",
+      "hometown": "Martin, Tenn.",
+      "jersey": "14",
+      "lastSchool": "Itawamba CC",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_14",
+      "fullName": "Jonathan Hogart",
+      "classYear": "R-Jr",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Madisonville, Ky.",
+      "jersey": "15",
+      "lastSchool": "Madisonville-North Hopkins HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_15",
+      "fullName": "Logan Bland",
+      "classYear": "R-Sr",
+      "position": "INF",
+      "height": "5-9",
+      "weight": "195 lbs",
+      "hometown": "Olive Branch, Miss.",
+      "jersey": "16",
+      "lastSchool": "Northeast Mississippi CC",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_16",
+      "fullName": "Jacob Pennington",
+      "classYear": "Gr",
+      "position": "DH/RHP",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Murfreesboro, Tenn.",
+      "jersey": "17",
+      "lastSchool": "Oakland HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_17",
+      "fullName": "Jacob Hustedde",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "190 lbs",
+      "hometown": "Breese, Ill.",
+      "jersey": "18",
+      "lastSchool": "Mater Dei HS",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_18",
+      "fullName": "Joe Peca",
+      "classYear": "R-So",
+      "position": "LHP",
+      "height": "6-0",
+      "weight": "195 lbs",
+      "hometown": "Cadiz, Ky.",
+      "jersey": "19",
+      "lastSchool": "Trigg County HS",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_19",
+      "fullName": "Ethan Lyke",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-0",
+      "weight": "185 lbs",
+      "hometown": "Evansville, Ind",
+      "jersey": "20",
+      "lastSchool": "Central HS",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_20",
+      "fullName": "Nathan Holler",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "160 lbs",
+      "hometown": "Lake Barrington, Ill.",
+      "jersey": "21",
+      "lastSchool": "Kennesaw State",
+      "weightLbs": 160
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_21",
+      "fullName": "Ethan Krizen",
+      "classYear": "R-Sr",
+      "position": "C",
+      "height": "5-10",
+      "weight": "175 lbs",
+      "hometown": "North Port, Fla.",
+      "jersey": "22",
+      "lastSchool": "Tallahassee CC",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_22",
+      "fullName": "Allen Roulette",
+      "classYear": "Gr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "210 lbs",
+      "hometown": "Jacksonville, Fla.",
+      "jersey": "23",
+      "lastSchool": "University of South Alabama",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_23",
+      "fullName": "Taylor Howell",
+      "classYear": "Gr",
+      "position": "C/1B",
+      "height": "6-3",
+      "weight": "225 lbs",
+      "hometown": "Jackson, Tenn.",
+      "jersey": "24",
+      "lastSchool": "Memphis",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_24",
+      "fullName": "Brayden Buckner",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "225 lbs",
+      "hometown": "Tuscumbia, Ala.",
+      "jersey": "25",
+      "lastSchool": "Deshler HS",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_25",
+      "fullName": "Danny Rollins",
+      "classYear": "Fr",
+      "position": "C",
+      "height": "5-9",
+      "weight": "180 lbs",
+      "hometown": "Roselle, Ill.",
+      "jersey": "27",
+      "lastSchool": "Lake Park HS",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_26",
+      "fullName": "Brady Grabowski",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Streator, Ill.",
+      "jersey": "28",
+      "lastSchool": "Streator HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_27",
+      "fullName": "Jayden Stinson",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Mayfield, Ky.",
+      "jersey": "29",
+      "lastSchool": "Mayfield HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_28",
+      "fullName": "Preston Chaudoin",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "5-10",
+      "weight": "180 lbs",
+      "hometown": "Hopkinsville, Ky.",
+      "jersey": "30",
+      "lastSchool": "Hopkinsville HS",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_29",
+      "fullName": "Ben Mazur",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Lafayette, Ind.",
+      "jersey": "31",
+      "lastSchool": "Lafayette Central Catholic HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_30",
+      "fullName": "Cade Brown",
+      "classYear": "Gr",
+      "position": "RHP/1B",
+      "height": "6-4",
+      "weight": "230 lbs",
+      "hometown": "Cardiff, Calif.",
+      "jersey": "33",
+      "lastSchool": "Oklahoma",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_31",
+      "fullName": "Alex Elsing",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "200 lbs",
+      "hometown": "Trenton, Ill.",
+      "jersey": "34",
+      "lastSchool": "Wesclin HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_32",
+      "fullName": "Thomas Mcnabb",
+      "classYear": "R-Sr",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "165 lbs",
+      "hometown": "Conway, Ark.",
+      "jersey": "35",
+      "lastSchool": "Crowder College",
+      "weightLbs": 165
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_33",
+      "fullName": "Dan Tauken",
+      "classYear": "R-Jr",
+      "position": "OF",
+      "height": "6-3",
+      "weight": "215 lbs",
+      "hometown": "Congers, N.Y.",
+      "jersey": "37",
+      "lastSchool": "Clarkstown North HS",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_34",
+      "fullName": "Reed Braundmeier",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Aviston, Ill.",
+      "jersey": "38",
+      "lastSchool": "Mater Dei HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_35",
+      "fullName": "Cade Vernon",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "210 lbs",
+      "hometown": "Bowling Green, Ky.",
+      "jersey": "40",
+      "lastSchool": "South Warren HS",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_36",
+      "fullName": "Ryan Fender",
+      "classYear": "Gr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "215 lbs",
+      "hometown": "Crown Point, Ind.",
+      "jersey": "41",
+      "lastSchool": "Crown Point HS",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_37",
+      "fullName": "David Stokely",
+      "classYear": "Jr",
+      "position": "C",
+      "height": "6-4",
+      "weight": "225 lbs",
+      "hometown": "Palm Harbor, Fla.",
+      "jersey": "43",
+      "lastSchool": "Tarpon Springs HS",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2024_player_38",
+      "fullName": "John Orberson",
+      "classYear": "R-So",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "195 lbs",
+      "hometown": "Campbellsville, Ky.",
+      "jersey": "44",
+      "lastSchool": "Campbellsville HS",
+      "weightLbs": 195
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "Murray_State_University",
+        "teamId": "Murray_State_University_baseball_2024"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "Murray_State_University",
+        "conferenceId": "Missouri_Valley_Conference_(MVC)"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "Murray_State_University_baseball_2024",
+        "seasonId": "2024"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_1",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_2",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_3",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_4",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_5",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_6",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_7",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_8",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_9",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_10",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_11",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_12",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_13",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_14",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_15",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_16",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_17",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_18",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_19",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_20",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_21",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_22",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_23",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_24",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_25",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_26",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_27",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_28",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_29",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_30",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_31",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_32",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_33",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_34",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_35",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_36",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_37",
+        "teamId": "Murray_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2024_player_38",
+        "teamId": "Murray_State_University_baseball_2024"
+      }
+    ]
+  }
+}

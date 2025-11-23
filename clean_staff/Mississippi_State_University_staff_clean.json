@@ -1,0 +1,66 @@
+{
+  "School": {
+    "schoolId": "Mississippi_State_University",
+    "name": "Mississippi State University",
+    "conference": "Southeastern Conference (SEC)"
+  },
+  "Team": {
+    "teamId": "Mississippi_State_University_baseball_2024",
+    "teamName": "Mississippi State University Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "Mississippi_State_University_baseball_2024_coach_1",
+      "fullName": "Brian O'Connor",
+      "role": "Head Baseball Coach"
+    },
+    {
+      "coachId": "Mississippi_State_University_baseball_2024_coach_2",
+      "fullName": "Kevin McMullan",
+      "role": "Associate Head Baseball Coach"
+    },
+    {
+      "coachId": "Mississippi_State_University_baseball_2024_coach_3",
+      "fullName": "Matt Kirby",
+      "role": "Assistant Baseball Coach"
+    },
+    {
+      "coachId": "Mississippi_State_University_baseball_2024_coach_4",
+      "fullName": "Justin Parker",
+      "role": "Assistant Baseball Coach"
+    },
+    {
+      "coachId": "Mississippi_State_University_baseball_2024_coach_5",
+      "fullName": "Justin Armistead",
+      "role": "Associate A.D./Baseball"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Mississippi_State_University_baseball_2024_staff_1",
+      "fullName": "Mike Roberts",
+      "role": "Director of Player Development and Scouting"
+    },
+    {
+      "staffId": "Mississippi_State_University_baseball_2024_staff_2",
+      "fullName": "Justin Weiss",
+      "role": "Baseball Operations Coordinator"
+    },
+    {
+      "staffId": "Mississippi_State_University_baseball_2024_staff_3",
+      "fullName": "Jonathan French",
+      "role": "Data/Video Analytics Coordinator"
+    },
+    {
+      "staffId": "Mississippi_State_University_baseball_2024_staff_4",
+      "fullName": "Travis Reifsnider",
+      "role": "Scouting/Assistant Recruiting Coordinator"
+    },
+    {
+      "staffId": "Mississippi_State_University_baseball_2024_staff_5",
+      "fullName": "Joe Savino",
+      "role": "Pitching Coordinator"
+    }
+  ]
+}

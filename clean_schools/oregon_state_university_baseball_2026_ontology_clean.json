@@ -1,0 +1,634 @@
+{
+  "School": {
+    "schoolId": "Oregon_State_University",
+    "name": "Oregon State University"
+  },
+  "Conference": {
+    "conferenceId": "Pac-12_Conference",
+    "conferenceName": "Pac-12 Conference"
+  },
+  "Season": {
+    "seasonId": "2026",
+    "seasonYear": 2026
+  },
+  "Team": {
+    "teamId": "Oregon_State_University_baseball_2026",
+    "teamName": "Oregon State University Baseball"
+  },
+  "Players": [
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_1",
+      "fullName": "Isaac Yeager",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-6",
+      "weight": "254 lbs",
+      "hometown": "Seattle, Wash.",
+      "jersey": "0",
+      "lastSchool": "Bishop Blanchet",
+      "weightLbs": 254
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_2",
+      "fullName": "Cooper Vance",
+      "classYear": "Sr",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "196 lbs",
+      "hometown": "New Waterford, Ohio",
+      "jersey": "1",
+      "lastSchool": "Mohwak",
+      "weightLbs": 196
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_3",
+      "fullName": "Nyan Hayes",
+      "classYear": "Sr",
+      "position": "INF/OF",
+      "height": "5-9",
+      "weight": "165 lbs",
+      "hometown": "New Orleans, La.",
+      "jersey": "2",
+      "lastSchool": "Curtis",
+      "weightLbs": 165
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_4",
+      "fullName": "Mason Pike",
+      "classYear": "Fr",
+      "position": "RHP/INF",
+      "height": "5-11",
+      "weight": "208 lbs",
+      "hometown": "Puyallup, Wash.",
+      "jersey": "3",
+      "lastSchool": "Puyallup",
+      "weightLbs": 208
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_5",
+      "fullName": "Adam Haight",
+      "classYear": "So",
+      "position": "RHP/OF",
+      "height": "6-2",
+      "weight": "193 lbs",
+      "hometown": "Snohomish, Wash.",
+      "jersey": "4",
+      "lastSchool": "Cedar Park Christian",
+      "weightLbs": 193
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_6",
+      "fullName": "Easton Talt",
+      "classYear": "Sr",
+      "position": "OF",
+      "height": "5-10",
+      "weight": "175 lbs",
+      "hometown": "Everett, Wash.",
+      "jersey": "6",
+      "lastSchool": "Sunrise Mountain (AZ)",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_7",
+      "fullName": "AJ Singer",
+      "classYear": "Sr",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "171 lbs",
+      "hometown": "Glendale, Ariz.",
+      "jersey": "7",
+      "lastSchool": "Mountain Ridge",
+      "weightLbs": 171
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_8",
+      "fullName": "Dax Whitney",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "201 lbs",
+      "hometown": "Blackfoot, Idaho",
+      "jersey": "8",
+      "lastSchool": "Blackfoot",
+      "weightLbs": 201
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_9",
+      "fullName": "Jace Miller",
+      "classYear": "R-Jr",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "190 lbs",
+      "hometown": "Medford, Ore.",
+      "jersey": "9",
+      "lastSchool": "South Medford",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_10",
+      "fullName": "Bryce Hubbard",
+      "classYear": "Sr",
+      "position": "C",
+      "height": "6-0",
+      "weight": "225 lbs",
+      "hometown": "Norcross, Ga.",
+      "jersey": "10",
+      "lastSchool": "Wesleyan",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_11",
+      "fullName": "Tanner Douglas",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "199 lbs",
+      "hometown": "Medford, Ore.",
+      "jersey": "12",
+      "lastSchool": "South Medford",
+      "weightLbs": 199
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_12",
+      "fullName": "Jacob Galloway",
+      "classYear": "Sr",
+      "position": "C",
+      "height": "5-9",
+      "weight": "163 lbs",
+      "hometown": "Camarillo, Calif.",
+      "jersey": "13",
+      "lastSchool": "Harvard Westlake",
+      "weightLbs": 163
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_13",
+      "fullName": "Tyler Inge",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "176 lbs",
+      "hometown": "Brighton, Mich.",
+      "jersey": "14",
+      "lastSchool": "Detroit County",
+      "weightLbs": 176
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_14",
+      "fullName": "Ryan VandenBrink",
+      "classYear": "So",
+      "position": "C/INF",
+      "height": "6-1",
+      "weight": "231 lbs",
+      "hometown": "West Linn, Ore.",
+      "jersey": "15",
+      "lastSchool": "West Linn",
+      "weightLbs": 231
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_15",
+      "fullName": "Eric Segura",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Soledad, Calif.",
+      "jersey": "16",
+      "lastSchool": "Soledad",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_16",
+      "fullName": "Ethan Porter",
+      "classYear": "Fr",
+      "position": "INF/OF",
+      "height": "6-1",
+      "weight": "208 lbs",
+      "hometown": "Huntington Beach, Calif.",
+      "jersey": "17",
+      "lastSchool": "Huntington Beach",
+      "weightLbs": 208
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_17",
+      "fullName": "Wyatt Queen",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "203 lbs",
+      "hometown": "Marysville, Wash.",
+      "jersey": "19",
+      "lastSchool": "Lake Stevens",
+      "weightLbs": 203
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_18",
+      "fullName": "Bryson Glassco",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "187 lbs",
+      "hometown": "Spanish Springs, Nev.",
+      "jersey": "20",
+      "lastSchool": "Spanish Springs",
+      "weightLbs": 187
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_19",
+      "fullName": "Josh Proctor",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "222 lbs",
+      "hometown": "Altadena, Calif.",
+      "jersey": "21",
+      "lastSchool": "Marantha/La Canada",
+      "weightLbs": 222
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_20",
+      "fullName": "Jacob Krieg",
+      "classYear": "Sr",
+      "position": "INF",
+      "height": "6-5",
+      "weight": "260 lbs",
+      "hometown": "Antioch, Calif.",
+      "jersey": "22",
+      "lastSchool": "Clayton Valley",
+      "weightLbs": 260
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_21",
+      "fullName": "Ethan Kleinschmit",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "201 lbs",
+      "hometown": "Mount Angel, Ore.",
+      "jersey": "24",
+      "lastSchool": "John F. Kennedy",
+      "weightLbs": 201
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_22",
+      "fullName": "Eli Gries-Smith",
+      "classYear": "Sr",
+      "position": "OF",
+      "height": "6-2",
+      "weight": "192 lbs",
+      "hometown": "Cliffwood Beach, N.J.",
+      "jersey": "26",
+      "lastSchool": "Matawan Regional",
+      "weightLbs": 192
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_23",
+      "fullName": "Paul Vazquez",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-3",
+      "weight": "206 lbs",
+      "hometown": "Covina, Calif.",
+      "jersey": "27",
+      "lastSchool": "South Hills",
+      "weightLbs": 206
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_24",
+      "fullName": "Calvin Gregory",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "5-10",
+      "weight": "183 lbs",
+      "hometown": "Lake Oswego, Ore.",
+      "jersey": "28",
+      "lastSchool": "Lakeridge",
+      "weightLbs": 183
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_25",
+      "fullName": "Albert Roblez",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "221 lbs",
+      "hometown": "Moreno Valley, Calif.",
+      "jersey": "29",
+      "lastSchool": "Valley View",
+      "weightLbs": 221
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_26",
+      "fullName": "Trey Morris",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "258 lbs",
+      "hometown": "Easton, Calif.",
+      "jersey": "30",
+      "lastSchool": "Washington Union",
+      "weightLbs": 258
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_27",
+      "fullName": "Trevor Kaiser",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "218 lbs",
+      "hometown": "West Richland, Wash.",
+      "jersey": "31",
+      "lastSchool": "Hanford",
+      "weightLbs": 218
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_28",
+      "fullName": "AJ Hutcheson",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "186 lbs",
+      "hometown": "Elk Grove, Calif.",
+      "jersey": "32",
+      "lastSchool": "Elk Grove",
+      "weightLbs": 186
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_29",
+      "fullName": "Noah Scott",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "230 lbs",
+      "hometown": "Westminster, Colo.",
+      "jersey": "33",
+      "lastSchool": "Broomfield",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_30",
+      "fullName": "Max Fraser",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "199 lbs",
+      "hometown": "Camas, Wash.",
+      "jersey": "34",
+      "lastSchool": "Camas",
+      "weightLbs": 199
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_31",
+      "fullName": "Zach Kmatz",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "228 lbs",
+      "hometown": "Albuquerque, N.M.",
+      "jersey": "35",
+      "lastSchool": "Sandia",
+      "weightLbs": 228
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_32",
+      "fullName": "Jack Giordano",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "199 lbs",
+      "hometown": "San Diego, Calif.",
+      "jersey": "36",
+      "lastSchool": "Patrick Henry",
+      "weightLbs": 199
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_33",
+      "fullName": "Kameron Beck",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "216 lbs",
+      "hometown": "South Jordan, Utah",
+      "jersey": "40",
+      "lastSchool": "Bingham",
+      "weightLbs": 216
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_34",
+      "fullName": "Martin Serrano",
+      "classYear": "So",
+      "position": "C",
+      "height": "6-3",
+      "weight": "203 lbs",
+      "hometown": "Pocatello, Idaho",
+      "jersey": "43",
+      "lastSchool": "Pocatello",
+      "weightLbs": 203
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_35",
+      "fullName": "Tyler Bellerose",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "187 lbs",
+      "hometown": "Huntington Beach, Calif.",
+      "jersey": "44",
+      "lastSchool": "Huntington Beach",
+      "weightLbs": 187
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_36",
+      "fullName": "Zach Edwards",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "224 lbs",
+      "hometown": "Riverton, Utah",
+      "jersey": "50",
+      "lastSchool": "Riverton",
+      "weightLbs": 224
+    },
+    {
+      "playerId": "Oregon_State_University_baseball_2026_player_37",
+      "fullName": "Connor Mendez",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "203 lbs",
+      "hometown": "Pasco, Wash.",
+      "jersey": "51",
+      "lastSchool": "Chiawana",
+      "weightLbs": 203
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "Oregon_State_University",
+        "teamId": "Oregon_State_University_baseball_2026"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "Oregon_State_University",
+        "conferenceId": "Pac-12_Conference"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "Oregon_State_University_baseball_2026",
+        "seasonId": "2026"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_1",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_2",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_3",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_4",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_5",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_6",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_7",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_8",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_9",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_10",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_11",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_12",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_13",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_14",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_15",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_16",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_17",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_18",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_19",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_20",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_21",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_22",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_23",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_24",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_25",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_26",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_27",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_28",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_29",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_30",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_31",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_32",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_33",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_34",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_35",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_36",
+        "teamId": "Oregon_State_University_baseball_2026"
+      },
+      {
+        "playerId": "Oregon_State_University_baseball_2026_player_37",
+        "teamId": "Oregon_State_University_baseball_2026"
+      }
+    ]
+  }
+}

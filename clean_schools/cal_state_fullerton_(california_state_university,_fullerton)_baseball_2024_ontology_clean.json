@@ -1,0 +1,714 @@
+{
+  "School": {
+    "schoolId": "Cal_State_Fullerton_(California_State_University,_Fullerton)",
+    "name": "Cal State Fullerton (California State University, Fullerton)"
+  },
+  "Conference": {
+    "conferenceId": "Big_West_Conference",
+    "conferenceName": "Big West Conference"
+  },
+  "Season": {
+    "seasonId": "2024",
+    "seasonYear": 2024
+  },
+  "Team": {
+    "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024",
+    "teamName": "Cal State Fullerton (California State University, Fullerton) Baseball"
+  },
+  "Players": [
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_1",
+      "fullName": "Eli Lopez",
+      "classYear": "So.",
+      "position": "INF",
+      "height": "5-9",
+      "weight": "170 lbs",
+      "hometown": "Whittier, Calif.",
+      "jersey": "1",
+      "lastSchool": "Los Altos HS",
+      "weightLbs": 170
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_2",
+      "fullName": "Jack Haley",
+      "classYear": "Sr.",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "180 lbs",
+      "hometown": "Mission Viejo, Calif. / Capo Valley HS",
+      "jersey": "2",
+      "lastSchool": "Oregon",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_3",
+      "fullName": "Marcos Rosales",
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "5-9",
+      "weight": "185 lbs",
+      "hometown": "West Covina, Calif.",
+      "jersey": "3",
+      "lastSchool": "South Hills HS",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_4",
+      "fullName": "Mikiah Negrete",
+      "classYear": "So.",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Oceanside, Calif. / Servite HS",
+      "jersey": "4",
+      "lastSchool": "San Diego",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_5",
+      "fullName": "Chris Hernandez",
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "210 lbs",
+      "hometown": "Bakersfield, Calif.",
+      "jersey": "5",
+      "lastSchool": "Bakersfield Christian HS",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_6",
+      "fullName": "Maddox Latta",
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "5-11",
+      "weight": "190 lbs",
+      "hometown": "Granada Hills, Calif. / Chaminade College Prep",
+      "jersey": "6",
+      "lastSchool": "LA Valley College",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_7",
+      "fullName": "Jackson Giacone",
+      "classYear": "R-Fr.",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "180 lbs",
+      "hometown": "Eureka, Calif.",
+      "jersey": "9",
+      "lastSchool": "Eureka HS",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_8",
+      "fullName": "Ethan Munoz",
+      "classYear": "Fr.",
+      "position": "C",
+      "height": "5-9",
+      "weight": "195 lbs",
+      "hometown": "Simi Valley, Calif.",
+      "jersey": "10",
+      "lastSchool": "Sierra Canyon HS",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_9",
+      "fullName": "Matthew Bardowell",
+      "classYear": "Jr.",
+      "position": "OF/1B",
+      "height": "6-4",
+      "weight": "245 lbs",
+      "hometown": "Fontana, Calif. / Etiwanda HS",
+      "jersey": "12",
+      "lastSchool": "Riverside CC",
+      "weightLbs": 245
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_10",
+      "fullName": "Andrew Wright",
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "180 lbs",
+      "hometown": "Woodbridge, Calif.",
+      "jersey": "15",
+      "lastSchool": "Lodi HS",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_11",
+      "fullName": "Christian Rodriguez",
+      "classYear": "R-Jr.",
+      "position": "RHP",
+      "height": "6-6",
+      "weight": "223 lbs",
+      "hometown": "Orange, Calif.",
+      "jersey": "17",
+      "lastSchool": "Orange Lutheran HS",
+      "weightLbs": 223
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_12",
+      "fullName": "Seth Tomczak",
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "195 lbs",
+      "hometown": "Ione, Calif. / Argonaut HS",
+      "jersey": "18",
+      "lastSchool": "San Joaquin Delta",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_13",
+      "fullName": "Colby Wallace",
+      "classYear": "Jr.",
+      "position": "OF",
+      "height": "6-4",
+      "weight": "220 lbs",
+      "hometown": "Rancho Santa Margarita, Calif. / Santa Margarita Catholic HS",
+      "jersey": "19",
+      "lastSchool": "Washington",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_14",
+      "fullName": "Jared Snyder",
+      "classYear": "So.",
+      "position": "C",
+      "height": "6-2",
+      "weight": "180 lbs",
+      "hometown": "Highland, Calif. / Citrus Valley HS",
+      "jersey": "20",
+      "lastSchool": "Long Beach State",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_15",
+      "fullName": "Ny'Zaiah Thompson",
+      "classYear": "Fr.",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "165 lbs",
+      "hometown": "Oakland, Calif.",
+      "jersey": "22",
+      "lastSchool": "Mountain House HS",
+      "weightLbs": 165
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_16",
+      "fullName": "Ryan Faulks",
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "190 lbs",
+      "hometown": "Rancho Santa Margarita, Calif. / Trabuco Hills HS",
+      "jersey": "23",
+      "lastSchool": "San Diego St.",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_17",
+      "fullName": "Waldie Perez",
+      "classYear": "Jr.",
+      "position": "C",
+      "height": "6-1",
+      "weight": "220 lbs",
+      "hometown": "Florida, Puerto Rico / San Pedro HS",
+      "jersey": "24",
+      "lastSchool": "El Camino College",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_18",
+      "fullName": "Frank Estrada",
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "155 lbs",
+      "hometown": "Fontana, Calif.",
+      "jersey": "25",
+      "lastSchool": "Kaiser HS",
+      "weightLbs": 155
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_19",
+      "fullName": "Gavin Meyer",
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "240 lbs",
+      "hometown": "Hemet, Calif.",
+      "jersey": "26",
+      "lastSchool": "Tahquitz HS",
+      "weightLbs": 240
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_20",
+      "fullName": "Jason Blood",
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "185 lbs",
+      "hometown": "Buena Park, Calif. / Cypress HS",
+      "jersey": "27",
+      "lastSchool": "Golden West College",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_21",
+      "fullName": "Luke Mistone",
+      "classYear": "So.",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "210 lbs",
+      "hometown": "Upland, Calif.",
+      "jersey": "30",
+      "lastSchool": "Bonita HS",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_22",
+      "fullName": "Moises Guzman",
+      "classYear": "Jr.",
+      "position": "OF",
+      "height": "5-9",
+      "weight": "190 lbs",
+      "hometown": "Long Beach, Calif. / Long Beach Millikan HS",
+      "jersey": "31",
+      "lastSchool": "Long Beach CC",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_23",
+      "fullName": "Alijah Ramos",
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "5-9",
+      "weight": "165 lbs",
+      "hometown": "Fremont, Calif.",
+      "jersey": "32",
+      "lastSchool": "Archbishop Mitty HS",
+      "weightLbs": 165
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_24",
+      "fullName": "Peyton Jones",
+      "classYear": "Sr.",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "175 lbs",
+      "hometown": "South Jordan, Utah",
+      "jersey": "33",
+      "lastSchool": "Bingham HS",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_25",
+      "fullName": "Seth Sumner",
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "185 lbs",
+      "hometown": "Pomona, Calif. / Damien HS",
+      "jersey": "35",
+      "lastSchool": "UC San Diego",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_26",
+      "fullName": "Max Ortega",
+      "classYear": "So.",
+      "position": "C",
+      "height": "6-0",
+      "weight": "205 lbs",
+      "hometown": "Stockton, Calif.",
+      "jersey": "36",
+      "lastSchool": "Saint Mary's HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_27",
+      "fullName": "Cam Burdick",
+      "classYear": "Fr.",
+      "position": "OF",
+      "height": "6-3",
+      "weight": "185 lbs",
+      "hometown": "Carlsbad, Calif.",
+      "jersey": "38",
+      "lastSchool": "Carlsbad HS",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_28",
+      "fullName": "Draven Nushida",
+      "classYear": "So.",
+      "position": "INF/OF",
+      "height": "5-11",
+      "weight": "160 lbs",
+      "hometown": "Kailua, Oahu, Hi.",
+      "jersey": "39",
+      "lastSchool": "Mid-Pacific Institute",
+      "weightLbs": 160
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_29",
+      "fullName": "Evan Yates",
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "180 lbs",
+      "hometown": "Riverside, Calif.",
+      "jersey": "41",
+      "lastSchool": "Martin Luther King HS",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_30",
+      "fullName": "Nico Regino",
+      "classYear": "Sr.",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "195 lbs",
+      "hometown": "Elk Grove, Calif. / Franklin HS",
+      "jersey": "43",
+      "lastSchool": "Charleston Southern",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_31",
+      "fullName": "Payton Hawkinson",
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "6-7",
+      "weight": "230 lbs",
+      "hometown": "Turlock, Calif.",
+      "jersey": "44",
+      "lastSchool": "Turlock HS",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_32",
+      "fullName": "Aaron Ceniceros",
+      "classYear": "R-Fr.",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "185 lbs",
+      "hometown": "Orange, Calif.",
+      "jersey": "45",
+      "lastSchool": "El Modena HS",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_33",
+      "fullName": "Tyler Holley",
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "La Verne, Calif.",
+      "jersey": "46",
+      "lastSchool": "Bonita HS",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_34",
+      "fullName": "Dylan Goff",
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "190 lbs",
+      "hometown": "Fontana, Calif.",
+      "jersey": "47",
+      "lastSchool": "Etiwanda HS",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_35",
+      "fullName": "Andrew Morones",
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "190 lbs",
+      "hometown": "Tracy, Calif. / East Union HS",
+      "jersey": "49",
+      "lastSchool": "San Joaquin Delta",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_36",
+      "fullName": "Chad Gurnea",
+      "classYear": "Fr.",
+      "position": "RHP/C",
+      "height": "6-0",
+      "weight": "190 lbs",
+      "hometown": "Garden Grove, Calif.",
+      "jersey": "50",
+      "lastSchool": "Pacifica HS",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_37",
+      "fullName": "Michael Flores",
+      "classYear": "Jr.",
+      "position": "LHP",
+      "height": "5-8",
+      "weight": "160 lbs",
+      "hometown": "Corona, Calif. / Corona HS",
+      "jersey": "51",
+      "lastSchool": "Mt. San Antonio College",
+      "weightLbs": 160
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_38",
+      "fullName": "Jason Krakoski",
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "180 lbs",
+      "hometown": "Livermore, Calif.",
+      "jersey": "53",
+      "lastSchool": "Granada HS",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_39",
+      "fullName": "Derek Turner",
+      "classYear": "Fr.",
+      "position": "RHP/INF",
+      "height": "6-1",
+      "weight": "175 lbs",
+      "hometown": "Thousand Oaks, Calif.",
+      "jersey": "54",
+      "lastSchool": "Newbury Park HS",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_40",
+      "fullName": "Cristian Brewster",
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Porter Ranch, Calif.",
+      "jersey": "56",
+      "lastSchool": "Chaminade College Prep",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_41",
+      "fullName": "Jakob Schardt",
+      "classYear": "So.",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "180 lbs",
+      "hometown": "Camarillo, Calif.",
+      "jersey": "57",
+      "lastSchool": "Adolfo Camarillo HS",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_42",
+      "fullName": "Jesse Alfaro",
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "190 lbs",
+      "hometown": "Moreno Valley, Calif.",
+      "jersey": "58",
+      "lastSchool": "Canyon Springs HS",
+      "weightLbs": 190
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "Cal_State_Fullerton_(California_State_University,_Fullerton)",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "Cal_State_Fullerton_(California_State_University,_Fullerton)",
+        "conferenceId": "Big_West_Conference"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024",
+        "seasonId": "2024"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_1",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_2",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_3",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_4",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_5",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_6",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_7",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_8",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_9",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_10",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_11",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_12",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_13",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_14",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_15",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_16",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_17",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_18",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_19",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_20",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_21",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_22",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_23",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_24",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_25",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_26",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_27",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_28",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_29",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_30",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_31",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_32",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_33",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_34",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_35",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_36",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_37",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_38",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_39",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_40",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_41",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      },
+      {
+        "playerId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_player_42",
+        "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024"
+      }
+    ]
+  }
+}

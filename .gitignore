@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Raw scraped data (optional)
+raw_schools/
+raw_staff/
+
+# Logs, caches
+*.log
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp

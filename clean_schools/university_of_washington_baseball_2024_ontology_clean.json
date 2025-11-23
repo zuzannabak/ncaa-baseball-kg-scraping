@@ -1,0 +1,698 @@
+{
+  "School": {
+    "schoolId": "University_of_Washington",
+    "name": "University of Washington"
+  },
+  "Conference": {
+    "conferenceId": "Pac-12_Conference",
+    "conferenceName": "Pac-12 Conference"
+  },
+  "Season": {
+    "seasonId": "2024",
+    "seasonYear": 2024
+  },
+  "Team": {
+    "teamId": "University_of_Washington_baseball_2024",
+    "teamName": "University of Washington Baseball"
+  },
+  "Players": [
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_1",
+      "fullName": "Isaac Yeager",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-6",
+      "weight": "215 lbs",
+      "hometown": "Seattle, Wash.",
+      "jersey": "0",
+      "lastSchool": "Bishop Blanchet",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_2",
+      "fullName": "AJ Guerrero",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "210 lbs",
+      "hometown": "Fife, Wash.",
+      "jersey": "1",
+      "lastSchool": "Fife",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_3",
+      "fullName": "Colton Bower",
+      "classYear": "R-Fr",
+      "position": "C",
+      "height": "6-0",
+      "weight": "210 lbs",
+      "hometown": "Poulsbo, Wash.",
+      "jersey": "2",
+      "lastSchool": "North Kitsap",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_4",
+      "fullName": "Jake Leitgeb",
+      "classYear": "Sr",
+      "position": "C",
+      "height": "6-2",
+      "weight": "190 lbs",
+      "hometown": "Portland, Ore.",
+      "jersey": "3",
+      "lastSchool": "Lincoln",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_5",
+      "fullName": "Sawyer Parkin",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "195 lbs",
+      "hometown": "Vancouver, Wash.",
+      "jersey": "4",
+      "lastSchool": "Columbia River",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_6",
+      "fullName": "Braeden Terry",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "200 lbs",
+      "hometown": "Bellevue, Wash.",
+      "jersey": "5",
+      "lastSchool": "Newport",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_7",
+      "fullName": "Carson Ohland",
+      "classYear": "Fr",
+      "position": "C/OF",
+      "height": "5-11",
+      "weight": "185 lbs",
+      "hometown": "Maple Valley, Wash.",
+      "jersey": "6",
+      "lastSchool": "Tahoma",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_8",
+      "fullName": "Luke Rohleder",
+      "classYear": "Sr",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "175 lbs",
+      "hometown": "Sammamish, Wash.",
+      "jersey": "7",
+      "lastSchool": "Skyline",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_9",
+      "fullName": "Cooper Whitton",
+      "classYear": "So",
+      "position": "OF",
+      "height": "6-3",
+      "weight": "200 lbs",
+      "hometown": "San Diego, Calif.",
+      "jersey": "9",
+      "lastSchool": "Santa Fe Christian",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_10",
+      "fullName": "Lou Fujiwara",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "5-9",
+      "weight": "175 lbs",
+      "hometown": "Tokyo, Japan",
+      "jersey": "10",
+      "lastSchool": "JSerra Catholic",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_11",
+      "fullName": "Jase Evangelista",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "Riverside, Calif.",
+      "jersey": "11",
+      "lastSchool": "Martin Luther King",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_12",
+      "fullName": "Cam Clayton",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Lake Oswego, Ore.",
+      "jersey": "12",
+      "lastSchool": "Lakeridge",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_13",
+      "fullName": "Aiva Arquette",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-4",
+      "weight": "220 lbs",
+      "hometown": "Kailua, Hawai'i",
+      "jersey": "13",
+      "lastSchool": "Saint Louis",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_14",
+      "fullName": "Will Woodward",
+      "classYear": "R-Fr",
+      "position": "LHP",
+      "height": "6-7",
+      "weight": "225 lbs",
+      "hometown": "Redmond, Wash.",
+      "jersey": "15",
+      "lastSchool": "Eastlake",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_15",
+      "fullName": "Jeter Ybarra",
+      "classYear": "R-Jr",
+      "position": "INF/OF",
+      "height": "6-4",
+      "weight": "205 lbs",
+      "hometown": "San Jose, Calif.",
+      "jersey": "16",
+      "lastSchool": "Saint Francis",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_16",
+      "fullName": "Colton McIntosh",
+      "classYear": "R-Sr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "195 lbs",
+      "hometown": "Phoenix, Ariz.",
+      "jersey": "17",
+      "lastSchool": "Shadow Mountain",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_17",
+      "fullName": "Boston Warkentin",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Ladner, British Columbia",
+      "jersey": "18",
+      "lastSchool": "Foothills Composite",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_18",
+      "fullName": "Jared Engman",
+      "classYear": "R-Sr",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "215 lbs",
+      "hometown": "Kent, Wash.",
+      "jersey": "20",
+      "lastSchool": "Kentlake",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_19",
+      "fullName": "Sam Boyle",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Vancouver, Wash.",
+      "jersey": "21",
+      "lastSchool": "Columbia River",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_20",
+      "fullName": "Ethan Unruh",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-6",
+      "weight": "200 lbs",
+      "hometown": "Woodinville, Wash.",
+      "jersey": "22",
+      "lastSchool": "Woodinville",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_21",
+      "fullName": "Colin Blanchard",
+      "classYear": "R-So",
+      "position": "C",
+      "height": "6-1",
+      "weight": "195 lbs",
+      "hometown": "Ladera Ranch, Calif.",
+      "jersey": "23",
+      "lastSchool": "JSerra Catholic",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_22",
+      "fullName": "Kyle Fossum",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Sammamish, Wash.",
+      "jersey": "24",
+      "lastSchool": "Eastside Catholic",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_23",
+      "fullName": "Reilly McAdams",
+      "classYear": "R-Jr",
+      "position": "RHP",
+      "height": "6-6",
+      "weight": "235 lbs",
+      "hometown": "Seattle, Wash.",
+      "jersey": "25",
+      "lastSchool": "Ingraham",
+      "weightLbs": 235
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_24",
+      "fullName": "Blake Wilson",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "175 lbs",
+      "hometown": "Trabuco Canyon, Calif.",
+      "jersey": "26",
+      "lastSchool": "Santa Margarita Catholic",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_25",
+      "fullName": "Gianluca Shinn",
+      "classYear": "R-Jr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "210 lbs",
+      "hometown": "Menlo Park, Calif.",
+      "jersey": "27",
+      "lastSchool": "Saint Francis",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_26",
+      "fullName": "Calvin Kirchoff",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-6",
+      "weight": "225 lbs",
+      "hometown": "Sammamish, Wash.",
+      "jersey": "28",
+      "lastSchool": "Eastlake",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_27",
+      "fullName": "Grant Cunningham",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "225 lbs",
+      "hometown": "Seattle, Wash.",
+      "jersey": "31",
+      "lastSchool": "Seattle Prep",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_28",
+      "fullName": "Josh Emanuels",
+      "classYear": "R-Jr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "210 lbs",
+      "hometown": "Bellevue, Wash.",
+      "jersey": "32",
+      "lastSchool": "Interlake",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_29",
+      "fullName": "Jack Sand",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "5-10",
+      "weight": "195 lbs",
+      "hometown": "Aliso Viejo, Calif.",
+      "jersey": "33",
+      "lastSchool": "Crean Lutheran",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_30",
+      "fullName": "Michael Brown",
+      "classYear": "Sr",
+      "position": "INF",
+      "height": "6-5",
+      "weight": "250 lbs",
+      "hometown": "Vacaville, Calif.",
+      "jersey": "34",
+      "lastSchool": "Vacaville",
+      "weightLbs": 250
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_31",
+      "fullName": "Peysen Sweeney",
+      "classYear": "R-So",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "235 lbs",
+      "hometown": "Newcastle, Wash.",
+      "jersey": "35",
+      "lastSchool": "Liberty",
+      "weightLbs": 235
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_32",
+      "fullName": "Spencer Dessart",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "190 lbs",
+      "hometown": "Ponte Vedra Beach, Fla.",
+      "jersey": "36",
+      "lastSchool": "Suffield Academy",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_33",
+      "fullName": "Max Fraser",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Camas, Wash.",
+      "jersey": "38",
+      "lastSchool": "Camas",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_34",
+      "fullName": "Jaxson Gore",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "190 lbs",
+      "hometown": "Poulsbo, Wash.",
+      "jersey": "39",
+      "lastSchool": "North Kitsap",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_35",
+      "fullName": "Brody Mills",
+      "classYear": "Fr",
+      "position": "INF/LHP",
+      "height": "6-2",
+      "weight": "275 lbs",
+      "hometown": "Yakima, Wash.",
+      "jersey": "40",
+      "lastSchool": "West Valley",
+      "weightLbs": 275
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_36",
+      "fullName": "Carston Pearson",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "200 lbs",
+      "hometown": "Dublin, Calif.",
+      "jersey": "41",
+      "lastSchool": "Dublin",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_37",
+      "fullName": "Dylan Osborne",
+      "classYear": "Fr",
+      "position": "OF/LHP",
+      "height": "6-0",
+      "weight": "170 lbs",
+      "hometown": "Vancouver, Wash.",
+      "jersey": "42",
+      "lastSchool": "Union",
+      "weightLbs": 170
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_38",
+      "fullName": "Max Clark",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "210 lbs",
+      "hometown": "Mercer Island, Wash.",
+      "jersey": "44",
+      "lastSchool": "Mercer Island",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_39",
+      "fullName": "Sam DeCarlo",
+      "classYear": "So",
+      "position": "INF",
+      "height": "5-9",
+      "weight": "190 lbs",
+      "hometown": "Signal Hill, Calif.",
+      "jersey": "51",
+      "lastSchool": "Millikan",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_40",
+      "fullName": "Tommy Brandenburg",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "195 lbs",
+      "hometown": "Kalama, Wash.",
+      "jersey": "55",
+      "lastSchool": "Kalama",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "University_of_Washington_baseball_2024_player_41",
+      "fullName": "Logan Anderson",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "210 lbs",
+      "hometown": "Shoreline, Wash.",
+      "jersey": "99",
+      "lastSchool": "Shorewood",
+      "weightLbs": 210
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "University_of_Washington",
+        "teamId": "University_of_Washington_baseball_2024"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "University_of_Washington",
+        "conferenceId": "Pac-12_Conference"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "University_of_Washington_baseball_2024",
+        "seasonId": "2024"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_1",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_2",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_3",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_4",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_5",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_6",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_7",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_8",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_9",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_10",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_11",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_12",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_13",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_14",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_15",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_16",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_17",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_18",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_19",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_20",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_21",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_22",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_23",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_24",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_25",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_26",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_27",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_28",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_29",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_30",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_31",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_32",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_33",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_34",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_35",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_36",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_37",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_38",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_39",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_40",
+        "teamId": "University_of_Washington_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Washington_baseball_2024_player_41",
+        "teamId": "University_of_Washington_baseball_2024"
+      }
+    ]
+  }
+}

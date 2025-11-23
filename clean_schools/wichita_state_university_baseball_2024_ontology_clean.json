@@ -1,0 +1,714 @@
+{
+  "School": {
+    "schoolId": "Wichita_State_University",
+    "name": "Wichita State University"
+  },
+  "Conference": {
+    "conferenceId": "Missouri_Valley_Conference_(MVC)",
+    "conferenceName": "Missouri Valley Conference (MVC)"
+  },
+  "Season": {
+    "seasonId": "2024",
+    "seasonYear": 2024
+  },
+  "Team": {
+    "teamId": "Wichita_State_University_baseball_2024",
+    "teamName": "Wichita State University Baseball"
+  },
+  "Players": [
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_1",
+      "fullName": "Will Stark",
+      "classYear": "R-Fr.",
+      "position": "INF/OF",
+      "height": "5-11",
+      "weight": "170 lbs",
+      "hometown": "Katy, Texas",
+      "jersey": "1",
+      "lastSchool": "Obra D. Tompkins",
+      "weightLbs": 170
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_2",
+      "fullName": "Lane Bledsoe",
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "200 lbs",
+      "hometown": "Bristow, Okla.",
+      "jersey": "3",
+      "lastSchool": "Bristow",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_3",
+      "fullName": "Mauricio Millan",
+      "classYear": "Jr.",
+      "position": "C",
+      "height": "5-11",
+      "weight": "190 lbs",
+      "hometown": "El Paso, Texas / Coronado HS",
+      "jersey": "4",
+      "lastSchool": "El Paso CC",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_4",
+      "fullName": "Brayden Luikart",
+      "classYear": "R-So.",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "200 lbs",
+      "hometown": "St. Joseph, Mo. / Lafayette",
+      "jersey": "6",
+      "lastSchool": "Johnson County CC",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_5",
+      "fullName": "Alex Birge",
+      "classYear": "R-So.",
+      "position": "C/INF",
+      "height": "6-0",
+      "weight": "215 lbs",
+      "hometown": "Olathe, Kan.",
+      "jersey": "7",
+      "lastSchool": "Olathe West",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_6",
+      "fullName": "Dayvin Johnson",
+      "classYear": "Sr.",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "180 lbs",
+      "hometown": "Gardner, Kan. / Gardner Edgerton",
+      "jersey": "9",
+      "lastSchool": "Crowder College",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_7",
+      "fullName": "Logan Kreske",
+      "classYear": "Jr.",
+      "position": "C",
+      "height": "6-2",
+      "weight": "215 lbs",
+      "hometown": "Glenview, Ill. / Glenbrook South HS",
+      "jersey": "12",
+      "lastSchool": "Coastal Alabama CC",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_8",
+      "fullName": "Ronald Zayas",
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "220 lbs",
+      "hometown": "Miami, Fla. / Doral Academy",
+      "jersey": "13",
+      "lastSchool": "Middle Georgia State College",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_9",
+      "fullName": "Ryan Callahan",
+      "classYear": "R-Jr.",
+      "position": "INF/OF",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Overland Park, Kan. / Blue Valley Northwest HS",
+      "jersey": "15",
+      "lastSchool": "Johnson County CC",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_10",
+      "fullName": "Michael Mulhollon",
+      "classYear": "So.",
+      "position": "LHP",
+      "height": "6-4",
+      "weight": "210 lbs",
+      "hometown": "Lake Geneva, Wis.",
+      "jersey": "16",
+      "lastSchool": "Westosha Central",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_11",
+      "fullName": "Caden Favors",
+      "classYear": "Sr.",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "205 lbs",
+      "hometown": "Midwest City, Okla. / Carl Albert",
+      "jersey": "17",
+      "lastSchool": "Seminole State College",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_12",
+      "fullName": "Jordan Rogers",
+      "classYear": "R-Jr.",
+      "position": "INF/OF",
+      "height": "6-0",
+      "weight": "200 lbs",
+      "hometown": "Robinson, Texas",
+      "jersey": "18",
+      "lastSchool": "Robinson HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_13",
+      "fullName": "Holden Pantier",
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "195 lbs",
+      "hometown": "Erie, Colo.",
+      "jersey": "19",
+      "lastSchool": "Erie",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_14",
+      "fullName": "Jaden Gustafson",
+      "classYear": "So.",
+      "position": "OF",
+      "height": "6-3",
+      "weight": "215 lbs",
+      "hometown": "Wichita, Kan.",
+      "jersey": "21",
+      "lastSchool": "Maize HS",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_15",
+      "fullName": "Mason Munz",
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "195 lbs",
+      "hometown": "Kingman, Kan. / Kingman HS",
+      "jersey": "22",
+      "lastSchool": "Cloud County CC",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_16",
+      "fullName": "Seth Stroh",
+      "classYear": "Sr.",
+      "position": "OF",
+      "height": "6-4",
+      "weight": "250 lbs",
+      "hometown": "Kearney, Neb.",
+      "jersey": "23",
+      "lastSchool": "Kearney",
+      "weightLbs": 250
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_17",
+      "fullName": "Gavin Oswald",
+      "classYear": "Jr.",
+      "position": "LHP",
+      "height": "6-6",
+      "weight": "270 lbs",
+      "hometown": "Wildwood, Mo. / Lafayette",
+      "jersey": "25",
+      "lastSchool": "Mineral Area CC",
+      "weightLbs": 270
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_18",
+      "fullName": "Derek Williams",
+      "classYear": "Jr.",
+      "position": "INF/OF",
+      "height": "6-0",
+      "weight": "210 lbs",
+      "hometown": "St. Louis, Mo. / Windsor",
+      "jersey": "26",
+      "lastSchool": "Florida SouthWestern",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_19",
+      "fullName": "Caleb Anderson",
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "205 lbs",
+      "hometown": "Springdale, Ark. / Shiloh Christian School",
+      "jersey": "27",
+      "lastSchool": "Johnson County CC",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_20",
+      "fullName": "Daniel Zang",
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "180 lbs",
+      "hometown": "Prior Lake, Minn. / Jordan HS",
+      "jersey": "28",
+      "lastSchool": "Dakota County Technical College",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_21",
+      "fullName": "Hunter Holmes",
+      "classYear": "Jr.",
+      "position": "LHP",
+      "height": "6-4",
+      "weight": "200 lbs",
+      "hometown": "Corona, Calif. / Roosevelt HS",
+      "jersey": "29",
+      "lastSchool": "Mt. San Antonio College",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_22",
+      "fullName": "Gannon Snyder",
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "215 lbs",
+      "hometown": "St. Louis, Mo.",
+      "jersey": "30",
+      "lastSchool": "Parkway West HS",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_23",
+      "fullName": "Nate Adler",
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "240 lbs",
+      "hometown": "Andover, Kan. / Trinity Academy",
+      "jersey": "31",
+      "lastSchool": "Butler CC",
+      "weightLbs": 240
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_24",
+      "fullName": "Peyton Walters",
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "185 lbs",
+      "hometown": "Garden City, Kan. / Garden City HS",
+      "jersey": "32",
+      "lastSchool": "Garden City CC",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_25",
+      "fullName": "Jeremiah Arnett",
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "215 lbs",
+      "hometown": "Waco, Texas",
+      "jersey": "33",
+      "lastSchool": "Midway HS",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_26",
+      "fullName": "Drew Iverson",
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "6-4",
+      "weight": "220 lbs",
+      "hometown": "Plattsmouth, Neb.",
+      "jersey": "35",
+      "lastSchool": "Plattsmouth HS",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_27",
+      "fullName": "Camden Johnson",
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "175 lbs",
+      "hometown": "Boerne, Texas",
+      "jersey": "36",
+      "lastSchool": "Boerne HS",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_28",
+      "fullName": "Tyler Dobbs",
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "190 lbs",
+      "hometown": "Lewisville, Texas",
+      "jersey": "38",
+      "lastSchool": "Hebron HS",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_29",
+      "fullName": "Colton Vercoe",
+      "classYear": "R-So.",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "210 lbs",
+      "hometown": "San Tan Valley, Ariz. / Poston Butte HS",
+      "jersey": "39",
+      "lastSchool": "Mesa CC",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_30",
+      "fullName": "Lane Haworth",
+      "classYear": "Fr.",
+      "position": "OF",
+      "height": "5-10",
+      "weight": "195 lbs",
+      "hometown": "Lewisville, Texas",
+      "jersey": "42",
+      "lastSchool": "Hebron HS",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_31",
+      "fullName": "Ryan Geraghty",
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "210 lbs",
+      "hometown": "Mundelein, Ill.",
+      "jersey": "43",
+      "lastSchool": "Mundelein",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_32",
+      "fullName": "Brady Hamilton",
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "Edmond, Okla.",
+      "jersey": "44",
+      "lastSchool": "Deer Creek HS",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_33",
+      "fullName": "Josh Livingston",
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "215 lbs",
+      "hometown": "Prosper, Texas / Rock Hill HS",
+      "jersey": "45",
+      "lastSchool": "Crowder College",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_34",
+      "fullName": "Matt Wilkinson",
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "Cottage Grove, Minn. / Park",
+      "jersey": "46",
+      "lastSchool": "Iowa Central CC",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_35",
+      "fullName": "Trevor Lee",
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "230 lbs",
+      "hometown": "Woodbury, Minn.",
+      "jersey": "47",
+      "lastSchool": "East Ridge",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_36",
+      "fullName": "Jack Mount",
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "190 lbs",
+      "hometown": "Val-des-Monts, Quebec / Vauxhall HS",
+      "jersey": "48",
+      "lastSchool": "Cloud County CC",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_37",
+      "fullName": "Tommy LaPour",
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "230 lbs",
+      "hometown": "Blue Springs, Mo.",
+      "jersey": "49",
+      "lastSchool": "Blue Springs South",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_38",
+      "fullName": "Kam Durnin",
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "195 lbs",
+      "hometown": "Camdenton, Mo.",
+      "jersey": "50",
+      "lastSchool": "Camdenton HS",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_39",
+      "fullName": "Darnell Parker Jr.",
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "195 lbs",
+      "hometown": "Carrolton, Va.",
+      "jersey": "53",
+      "lastSchool": "Nansemond River",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_40",
+      "fullName": "Sammy Harris",
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "185 lbs",
+      "hometown": "Wylie, Texas / Wylie East",
+      "jersey": "",
+      "lastSchool": "Northern Oklahoma College-Enid",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_41",
+      "fullName": "Ben Leikam",
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "200 lbs",
+      "hometown": "Parker, Colo.",
+      "jersey": "",
+      "lastSchool": "Valor Christian",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2024_player_42",
+      "fullName": "AJ Rasmussen",
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "185 lbs",
+      "hometown": "Delano, Minn.",
+      "jersey": "",
+      "lastSchool": "Delano",
+      "weightLbs": 185
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "Wichita_State_University",
+        "teamId": "Wichita_State_University_baseball_2024"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "Wichita_State_University",
+        "conferenceId": "Missouri_Valley_Conference_(MVC)"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "Wichita_State_University_baseball_2024",
+        "seasonId": "2024"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_1",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_2",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_3",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_4",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_5",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_6",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_7",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_8",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_9",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_10",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_11",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_12",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_13",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_14",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_15",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_16",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_17",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_18",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_19",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_20",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_21",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_22",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_23",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_24",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_25",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_26",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_27",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_28",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_29",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_30",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_31",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_32",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_33",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_34",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_35",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_36",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_37",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_38",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_39",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_40",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_41",
+        "teamId": "Wichita_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2024_player_42",
+        "teamId": "Wichita_State_University_baseball_2024"
+      }
+    ]
+  }
+}

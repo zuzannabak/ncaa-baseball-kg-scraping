@@ -1,0 +1,131 @@
+{
+  "School": {
+    "schoolId": "NC_State_University",
+    "name": "NC State University",
+    "conference": "Atlantic Coast Conference (ACC)"
+  },
+  "Team": {
+    "teamId": "NC_State_University_baseball_2024",
+    "teamName": "NC State University Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_1",
+      "fullName": "Elliott Avent",
+      "role": "Head Coach"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_2",
+      "fullName": "Chris Hart",
+      "role": "Associate Head Coach"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_3",
+      "fullName": "Clint Chrysler",
+      "role": "Pitching Coach"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_4",
+      "fullName": "Bo Robinson",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_5",
+      "fullName": "Michael McCaughtry",
+      "role": "Assistant Strength & Conditioning Coach"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_6",
+      "fullName": "Brady Austin",
+      "role": "Graduate Manager"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_7",
+      "fullName": "Sam Thilman",
+      "role": "Student Manager"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_8",
+      "fullName": "Eli McCoy",
+      "role": "Student Manager"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_9",
+      "fullName": "Brendan Roe",
+      "role": "Student Manager"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_10",
+      "fullName": "Bryce Thaxton",
+      "role": "Student Manager"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_11",
+      "fullName": "Stephen Bollenbacher",
+      "role": "Student Manager"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_12",
+      "fullName": "Jake Cunningham",
+      "role": "Assistant AD/Compliance (Women's Basketball, Baseball, Women's Soccer, Swim & Dive)"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_1",
+      "fullName": "Tyler Stocum",
+      "role": "Director of Operations"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_2",
+      "fullName": "J.T. Jarrett",
+      "role": "Director of Player & Program Development"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_3",
+      "fullName": "Joshua Fisher",
+      "role": "Director of Baseball Analytics"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_4",
+      "fullName": "Haley Hart",
+      "role": "Director of Administration for Baseball & Tennis"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_5",
+      "fullName": "Scott Ensell",
+      "role": "Athletic Trainer"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_6",
+      "fullName": "Cal Tomasic",
+      "role": "Equipment Manager - Doak Field - Baseball, Men's & Women's Tennis"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_7",
+      "fullName": "Brad Brown",
+      "role": "Senior Associate AD/Facilities & Operations"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_8",
+      "fullName": "Jennifer Womack",
+      "role": "Associate Director (baseball, w. basketball)"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_9",
+      "fullName": "Brandon Mostyn",
+      "role": "Assistant Athletics Communications Director (secondary football / baseball)"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_10",
+      "fullName": "Megan Johnston",
+      "role": "Assistant Director of Creative Video"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_11",
+      "fullName": "Rachel Conway",
+      "role": "Assistant AD/Mental Health & Performance Psychology"
+    }
+  ]
+}

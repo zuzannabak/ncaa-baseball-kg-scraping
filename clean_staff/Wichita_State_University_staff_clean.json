@@ -1,0 +1,66 @@
+{
+  "School": {
+    "schoolId": "Wichita_State_University",
+    "name": "Wichita State University",
+    "conference": "Missouri Valley Conference (MVC)"
+  },
+  "Team": {
+    "teamId": "Wichita_State_University_baseball_2024",
+    "teamName": "Wichita State University Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "Wichita_State_University_baseball_2024_coach_1",
+      "fullName": "Brian Green",
+      "role": "Head Coach"
+    },
+    {
+      "coachId": "Wichita_State_University_baseball_2024_coach_2",
+      "fullName": "Anthony Claggett",
+      "role": "Assistant Head Coach/Pitching Coach"
+    },
+    {
+      "coachId": "Wichita_State_University_baseball_2024_coach_3",
+      "fullName": "Marty Lees",
+      "role": "Assistant Coach/Recruiting Coordinator"
+    },
+    {
+      "coachId": "Wichita_State_University_baseball_2024_coach_4",
+      "fullName": "Collin Wilber",
+      "role": "Assistant Coach/Catching Coach"
+    },
+    {
+      "coachId": "Wichita_State_University_baseball_2024_coach_5",
+      "fullName": "Aaron Shellenberger",
+      "role": "Graduate Assistant"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Wichita_State_University_baseball_2024_staff_1",
+      "fullName": "Jason Foster",
+      "role": "Pitching Strategist and Director of Analytics"
+    },
+    {
+      "staffId": "Wichita_State_University_baseball_2024_staff_2",
+      "fullName": "Faith Weekley",
+      "role": "Director of Operations"
+    },
+    {
+      "staffId": "Wichita_State_University_baseball_2024_staff_3",
+      "fullName": "Jake Meyer",
+      "role": "Athletic Trainer"
+    },
+    {
+      "staffId": "Wichita_State_University_baseball_2024_staff_4",
+      "fullName": "Logan Barrett",
+      "role": "Assistant Director of Sports Performance"
+    },
+    {
+      "staffId": "Wichita_State_University_baseball_2024_staff_5",
+      "fullName": "Denning Gerig",
+      "role": "Associate Director of Communications/Broadcasting Manager"
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "School": {
+    "schoolId": "University_of_North_Carolina",
+    "name": "University of North Carolina"
+  },
+  "Conference": {
+    "conferenceId": "Atlantic_Coast_Conference_(ACC)",
+    "conferenceName": "Atlantic Coast Conference (ACC)"
+  },
+  "Season": {
+    "seasonId": "2024",
+    "seasonYear": 2024
+  },
+  "Team": {
+    "teamId": "University_of_North_Carolina_baseball_2024",
+    "teamName": "University of North Carolina Baseball"
+  },
+  "Players": [
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_1",
+      "fullName": "Cooper Nicholson",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "5-11",
+      "weight": "195 lbs",
+      "hometown": "West Des Moines, Iowa",
+      "jersey": "1",
+      "lastSchool": "Dowling Catholic HS",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_2",
+      "fullName": "Jake Schaffner",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "175 lbs",
+      "hometown": "Janesville, Wis.",
+      "jersey": "2",
+      "lastSchool": "Craig HS",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_3",
+      "fullName": "Lee Sowers",
+      "classYear": "So",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "185 lbs",
+      "hometown": "Glen Allen, Va.",
+      "jersey": "3",
+      "lastSchool": "Freeman",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_4",
+      "fullName": "Sawyer Black",
+      "classYear": "So",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "194 lbs",
+      "hometown": "Oak Ridge, N.C.",
+      "jersey": "4",
+      "lastSchool": "Wesleyan Christian Academy",
+      "weightLbs": 194
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_5",
+      "fullName": "Gavin Gallaher",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "191 lbs",
+      "hometown": "Apex, N.C.",
+      "jersey": "5",
+      "lastSchool": "Pro5",
+      "weightLbs": 191
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_6",
+      "fullName": "Macon Winslow",
+      "classYear": "Jr",
+      "position": "C",
+      "height": "6-0",
+      "weight": "200 lbs",
+      "hometown": "Hertford, N.C.",
+      "jersey": "6",
+      "lastSchool": "Perquimans County HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_7",
+      "fullName": "Perry Hargett",
+      "classYear": "So",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "187 lbs",
+      "hometown": "Peachland, N.C.",
+      "jersey": "7",
+      "lastSchool": "Metrolina Christian Academy",
+      "weightLbs": 187
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_8",
+      "fullName": "Owen Hull",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "6-4",
+      "weight": "215 lbs",
+      "hometown": "Alexandria, Va.",
+      "jersey": "8",
+      "lastSchool": "Bishop Ireton HS",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_9",
+      "fullName": "Tom Chmielewski",
+      "classYear": "Gr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "210 lbs",
+      "hometown": "Needham, Mass.",
+      "jersey": "10",
+      "lastSchool": "Needham",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_10",
+      "fullName": "Matt McKnight",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "6-3",
+      "weight": "195 lbs",
+      "hometown": "Charlotte, N.C.",
+      "jersey": "11",
+      "lastSchool": "Charlotte Catholic HS",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_11",
+      "fullName": "Tyler Howe",
+      "classYear": "Fr",
+      "position": "OF/1B",
+      "height": "5-11",
+      "weight": "185 lbs",
+      "hometown": "Huntersville, N.C.",
+      "jersey": "12",
+      "lastSchool": "Hopewell HS",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_12",
+      "fullName": "Michael Maginnis",
+      "classYear": "Gr",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "210 lbs",
+      "hometown": "Newnan, Ga.",
+      "jersey": "14",
+      "lastSchool": "Newnan HS",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_13",
+      "fullName": "Cameron Padgett",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "195 lbs",
+      "hometown": "Salisbury, N.C.",
+      "jersey": "15",
+      "lastSchool": "East Rowan Major Communications",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_14",
+      "fullName": "Talan Holiday",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "190 lbs",
+      "hometown": "Pembroke Pines, Fla.",
+      "jersey": "17",
+      "lastSchool": "American Heritage HS",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_15",
+      "fullName": "Carter French",
+      "classYear": "Sr",
+      "position": "OF",
+      "height": "6-2",
+      "weight": "196 lbs",
+      "hometown": "Tampa, Fla.",
+      "jersey": "18",
+      "lastSchool": "Jesuit Major Biology",
+      "weightLbs": 196
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_16",
+      "fullName": "Camron Seagraves",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "179 lbs",
+      "hometown": "Ellerbe, N.C.",
+      "jersey": "19",
+      "lastSchool": "Grace Christian Academy",
+      "weightLbs": 179
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_17",
+      "fullName": "AJ Terry",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "190 lbs",
+      "hometown": "Randolph, N.J.",
+      "jersey": "20",
+      "lastSchool": "Randolph HS",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_18",
+      "fullName": "Colin Hynek",
+      "classYear": "Gr",
+      "position": "C",
+      "height": "6-1",
+      "weight": "200 lbs",
+      "hometown": "Rockmart, Ga.",
+      "jersey": "23",
+      "lastSchool": "Paulding County HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_19",
+      "fullName": "Matthew Matthijs",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "230 lbs",
+      "hometown": "Greenville, N.C.",
+      "jersey": "24",
+      "lastSchool": "D.H. Conley Major Business Administration",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_20",
+      "fullName": "Rom Kellis V",
+      "classYear": "Sr",
+      "position": "OF/C",
+      "height": "6-1",
+      "weight": "203 lbs",
+      "hometown": "Gilbert, S.C.",
+      "jersey": "25",
+      "lastSchool": "P27 Academy",
+      "weightLbs": 203
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_21",
+      "fullName": "Kyle Percival",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-5",
+      "weight": "220 lbs",
+      "hometown": "Lancaster, S.C.",
+      "jersey": "26",
+      "lastSchool": "Andrew Jackson Major Exercise and Sport Science",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_22",
+      "fullName": "Caden Glauber",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "210 lbs",
+      "hometown": "Fort Mill, S.C.",
+      "jersey": "27",
+      "lastSchool": "Catawba Ridge HS",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_23",
+      "fullName": "Jadyn Nunez",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "185 lbs",
+      "hometown": "Miami, Fla.",
+      "jersey": "28",
+      "lastSchool": "Doral Academy",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_24",
+      "fullName": "Jason DeCaro",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "230 lbs",
+      "hometown": "North Port, N.Y.",
+      "jersey": "29",
+      "lastSchool": "St. Anthony's",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_25",
+      "fullName": "Olin Johnson",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-6",
+      "weight": "230 lbs",
+      "hometown": "Bellingham, Wash.",
+      "jersey": "31",
+      "lastSchool": "McCallie (Tenn.)",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_26",
+      "fullName": "Jackson Rose",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "205 lbs",
+      "hometown": "Woodstock, Ga.",
+      "jersey": "35",
+      "lastSchool": "Etowah HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_27",
+      "fullName": "Folger Boaz",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "212 lbs",
+      "hometown": "Pilot Mountain, N.C.",
+      "jersey": "36",
+      "lastSchool": "East Surry Major Communication Studies",
+      "weightLbs": 212
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_28",
+      "fullName": "Jake Cackovic",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-7",
+      "weight": "215 lbs",
+      "hometown": "Holly Springs, N.C.",
+      "jersey": "39",
+      "lastSchool": "Holly Springs HS",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_29",
+      "fullName": "Walker McDuffie",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "200 lbs",
+      "hometown": "Broadway, N.C.",
+      "jersey": "40",
+      "lastSchool": "Lee County",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_30",
+      "fullName": "Justin Mabe",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "185 lbs",
+      "hometown": "Lexington, N.C.",
+      "jersey": "41",
+      "lastSchool": "North Davidson HS",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_31",
+      "fullName": "Boston Flannery",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "230 lbs",
+      "hometown": "New City, N.Y.",
+      "jersey": "42",
+      "lastSchool": "Brunswick",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_32",
+      "fullName": "Riley Leatherman",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "180 lbs",
+      "hometown": "Maple Grove, Minn.",
+      "jersey": "43",
+      "lastSchool": "Wayzata",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_33",
+      "fullName": "Erik Paulsen",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-3",
+      "weight": "215 lbs",
+      "hometown": "Massapequa, N.Y.",
+      "jersey": "44",
+      "lastSchool": "Massapequa HS",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_34",
+      "fullName": "Tim Lawson",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-5",
+      "weight": "230 lbs",
+      "hometown": "Fort Myers, Fla.",
+      "jersey": "51",
+      "lastSchool": "Bishop Verot",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_35",
+      "fullName": "Andrew Wallen",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-7",
+      "weight": "245 lbs",
+      "hometown": "Greenville, N.C.",
+      "jersey": "52",
+      "lastSchool": "JH Rose",
+      "weightLbs": 245
+    },
+    {
+      "playerId": "University_of_North_Carolina_baseball_2024_player_36",
+      "fullName": "Ryan Lynch",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "235 lbs",
+      "hometown": "Moorestown, N.J.",
+      "jersey": "53",
+      "lastSchool": "Moorestown",
+      "weightLbs": 235
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "University_of_North_Carolina",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "University_of_North_Carolina",
+        "conferenceId": "Atlantic_Coast_Conference_(ACC)"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "University_of_North_Carolina_baseball_2024",
+        "seasonId": "2024"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_1",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_2",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_3",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_4",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_5",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_6",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_7",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_8",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_9",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_10",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_11",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_12",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_13",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_14",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_15",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_16",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_17",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_18",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_19",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_20",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_21",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_22",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_23",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_24",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_25",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_26",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_27",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_28",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_29",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_30",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_31",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_32",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_33",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_34",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_35",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      },
+      {
+        "playerId": "University_of_North_Carolina_baseball_2024_player_36",
+        "teamId": "University_of_North_Carolina_baseball_2024"
+      }
+    ]
+  }
+}

@@ -1,0 +1,682 @@
+{
+  "School": {
+    "schoolId": "Creighton_University",
+    "name": "Creighton University"
+  },
+  "Conference": {
+    "conferenceId": "Missouri_Valley_Conference_(MVC)",
+    "conferenceName": "Missouri Valley Conference (MVC)"
+  },
+  "Season": {
+    "seasonId": "2024",
+    "seasonYear": 2024
+  },
+  "Team": {
+    "teamId": "Creighton_University_baseball_2024",
+    "teamName": "Creighton University Baseball"
+  },
+  "Players": [
+    {
+      "playerId": "Creighton_University_baseball_2024_player_1",
+      "fullName": "Nolan Sailors",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "190 lbs",
+      "hometown": "Omaha, Neb.",
+      "jersey": "1",
+      "lastSchool": "Ralston HS",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_2",
+      "fullName": "Connor Capece",
+      "classYear": "Fr",
+      "position": "C/RHP",
+      "height": "5-10",
+      "weight": "200 lbs",
+      "hometown": "Omaha, Neb.",
+      "jersey": "2",
+      "lastSchool": "Omaha Gross Catholic HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_3",
+      "fullName": "Matt Scherrman",
+      "classYear": "Gr",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "210 lbs",
+      "hometown": "Wheaton, Ill.",
+      "jersey": "3",
+      "lastSchool": "Wheaton Warrenville South HS",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_4",
+      "fullName": "Teddy Deters",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "6-2",
+      "weight": "210 lbs",
+      "hometown": "Orono, Minn.",
+      "jersey": "4",
+      "lastSchool": "Orono HS",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_5",
+      "fullName": "Sam Vomhof",
+      "classYear": "Gr",
+      "position": "INF",
+      "height": "6-3",
+      "weight": "200 lbs",
+      "hometown": "DeForest, Wis.",
+      "jersey": "5",
+      "lastSchool": "DeForest HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_6",
+      "fullName": "Cooper Dulich",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "200 lbs",
+      "hometown": "Encinitas, Calif.",
+      "jersey": "7",
+      "lastSchool": "La Costa Canyon HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_7",
+      "fullName": "Jack Scheri",
+      "classYear": "R-Fr",
+      "position": "INF",
+      "height": "5-9",
+      "weight": "210 lbs",
+      "hometown": "Peru, Ill.",
+      "jersey": "10",
+      "lastSchool": "La Salle-Peru HS",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_8",
+      "fullName": "Ben North",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "200 lbs",
+      "hometown": "Woodbury, Minn.",
+      "jersey": "11",
+      "lastSchool": "East Ridge HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_9",
+      "fullName": "Zane Skansi",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "200 lbs",
+      "hometown": "Gig Harbor, Wash.",
+      "jersey": "12",
+      "lastSchool": "Gig Harbor HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_10",
+      "fullName": "Jack Pineau",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "185 lbs",
+      "hometown": "Thunder Bay, Ontario, Canada",
+      "jersey": "13",
+      "lastSchool": "St. Ignatius HS",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_11",
+      "fullName": "Shea Wendt",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Blair, Neb.",
+      "jersey": "14",
+      "lastSchool": "Blair HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_12",
+      "fullName": "Kyle Hess",
+      "classYear": "R-Jr",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "195 lbs",
+      "hometown": "Mountainside, N.J.",
+      "jersey": "15",
+      "lastSchool": "St. Peter’s Prep",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_13",
+      "fullName": "Malakai Vetock",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Elkhorn, Neb.",
+      "jersey": "16",
+      "lastSchool": "Elkhorn HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_14",
+      "fullName": "Will MacLean",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Exeter, N.H.",
+      "jersey": "17",
+      "lastSchool": "St. Thomas Aquinas HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_15",
+      "fullName": "Jimmy Burke",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "190 lbs",
+      "hometown": "Orland Park, Ill.",
+      "jersey": "18",
+      "lastSchool": "Carl Sandburg HS",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_16",
+      "fullName": "Tate Gillen",
+      "classYear": "So",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "185 lbs",
+      "hometown": "Overland Park, Kan.",
+      "jersey": "20",
+      "lastSchool": "Blue Valley HS",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_17",
+      "fullName": "Cuyler Zukowski",
+      "classYear": "R-Fr",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "205 lbs",
+      "hometown": "Madison, Wis.",
+      "jersey": "21",
+      "lastSchool": "La Follette HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_18",
+      "fullName": "Hogan Helligso",
+      "classYear": "Jr",
+      "position": "C",
+      "height": "6-0",
+      "weight": "180 lbs",
+      "hometown": "Omaha, Neb.",
+      "jersey": "22",
+      "lastSchool": "Elkhorn South HS",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_19",
+      "fullName": "Parker Primeaux",
+      "classYear": "Gr",
+      "position": "RHP",
+      "height": "5-8",
+      "weight": "155 lbs",
+      "hometown": "Lake Charles, La.",
+      "jersey": "23",
+      "lastSchool": "Welsh HS",
+      "weightLbs": 155
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_20",
+      "fullName": "Nolan Clifford",
+      "classYear": "Sr",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "175 lbs",
+      "hometown": "Naperville, Ill.",
+      "jersey": "24",
+      "lastSchool": "Neuqua Valley HS",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_21",
+      "fullName": "Andrew Rakow",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "215 lbs",
+      "hometown": "Brooklyn Park, Minn.",
+      "jersey": "27",
+      "lastSchool": "Champlin Park HS",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_22",
+      "fullName": "Colby Canales",
+      "classYear": "Sr",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "220 lbs",
+      "hometown": "Orange, Calif.",
+      "jersey": "28",
+      "lastSchool": "JSerra Catholic HS",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_23",
+      "fullName": "Eli Nissen",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "5-10",
+      "weight": "200 lbs",
+      "hometown": "Minot, N.D.",
+      "jersey": "29",
+      "lastSchool": "Minot HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_24",
+      "fullName": "Shane Curtin",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-0",
+      "weight": "160 lbs",
+      "hometown": "La Grange, Ill.",
+      "jersey": "30",
+      "lastSchool": "Mount Carmel HS",
+      "weightLbs": 160
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_25",
+      "fullName": "Chad Saner",
+      "classYear": "Gr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Springfield, Ill.",
+      "jersey": "31",
+      "lastSchool": "Lanphier HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_26",
+      "fullName": "Braden Gluth",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "220 lbs",
+      "hometown": "Santa Teresa, N.M.",
+      "jersey": "32",
+      "lastSchool": "Santa Teresa HS",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_27",
+      "fullName": "Mason Koch",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "200 lbs",
+      "hometown": "Omaha, Neb.",
+      "jersey": "33",
+      "lastSchool": "Millard West HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_28",
+      "fullName": "Jack Grace",
+      "classYear": "Gr",
+      "position": "OF",
+      "height": "6-4",
+      "weight": "230 lbs",
+      "hometown": "La Grange, Ill.",
+      "jersey": "34",
+      "lastSchool": "Fenwick HS",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_29",
+      "fullName": "Tommy Lamb",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-0",
+      "weight": "190 lbs",
+      "hometown": "Grafton, Wis.",
+      "jersey": "35",
+      "lastSchool": "Grafton HS",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_30",
+      "fullName": "Jack Torosian",
+      "classYear": "R-Jr",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "175 lbs",
+      "hometown": "Omaha, Neb.",
+      "jersey": "36",
+      "lastSchool": "Concordia HS",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_31",
+      "fullName": "Jackson Brenna",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "225 lbs",
+      "hometown": "Waddell, Ariz.",
+      "jersey": "37",
+      "lastSchool": "Shadow Ridge HS",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_32",
+      "fullName": "Noah Klein",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "220 lbs",
+      "hometown": "Wilmette, Ill.",
+      "jersey": "38",
+      "lastSchool": "Loyola Academy",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_33",
+      "fullName": "Casey Trapp",
+      "classYear": "Gr",
+      "position": "LHP",
+      "height": "5-10",
+      "weight": "200 lbs",
+      "hometown": "Blaine, Minn.",
+      "jersey": "39",
+      "lastSchool": "Centennial HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_34",
+      "fullName": "Duke Coborn",
+      "classYear": "Gr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "North St. Paul, Minn.",
+      "jersey": "40",
+      "lastSchool": "St. Thomas Academy",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_35",
+      "fullName": "Cooper Fuchino",
+      "classYear": "R-Fr",
+      "position": "C",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Rolling Hills Estates, Calif.",
+      "jersey": "43",
+      "lastSchool": "Peninsula HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_36",
+      "fullName": "Jack Peluso",
+      "classYear": "Gr",
+      "position": "OF",
+      "height": "6-3",
+      "weight": "220 lbs",
+      "hometown": "Huntington, N.Y.",
+      "jersey": "44",
+      "lastSchool": "Chaminade HS",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_37",
+      "fullName": "Daniel Hammond",
+      "classYear": "Gr",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "185 lbs",
+      "hometown": "Prairie Village, Kan.",
+      "jersey": "45",
+      "lastSchool": "Shawnee Mission East HS",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_38",
+      "fullName": "Mason McCurdy",
+      "classYear": "Fr",
+      "position": "C",
+      "height": "5-10",
+      "weight": "195 lbs",
+      "hometown": "Lake Elmo, Minn.",
+      "jersey": "46",
+      "lastSchool": "Stillwater HS",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_39",
+      "fullName": "Cade Lommel",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-4",
+      "weight": "220 lbs",
+      "hometown": "Delano, Minn.",
+      "jersey": "50",
+      "lastSchool": "Delano HS",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Creighton_University_baseball_2024_player_40",
+      "fullName": "Dominic Cancellieri",
+      "classYear": "Gr",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "200 lbs",
+      "hometown": "Wayne, N.J.",
+      "jersey": "55",
+      "lastSchool": "Bergen Catholic HS",
+      "weightLbs": 200
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "Creighton_University",
+        "teamId": "Creighton_University_baseball_2024"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "Creighton_University",
+        "conferenceId": "Missouri_Valley_Conference_(MVC)"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "Creighton_University_baseball_2024",
+        "seasonId": "2024"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "Creighton_University_baseball_2024_player_1",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_2",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_3",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_4",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_5",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_6",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_7",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_8",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_9",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_10",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_11",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_12",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_13",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_14",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_15",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_16",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_17",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_18",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_19",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_20",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_21",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_22",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_23",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_24",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_25",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_26",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_27",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_28",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_29",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_30",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_31",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_32",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_33",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_34",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_35",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_36",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_37",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_38",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_39",
+        "teamId": "Creighton_University_baseball_2024"
+      },
+      {
+        "playerId": "Creighton_University_baseball_2024_player_40",
+        "teamId": "Creighton_University_baseball_2024"
+      }
+    ]
+  }
+}

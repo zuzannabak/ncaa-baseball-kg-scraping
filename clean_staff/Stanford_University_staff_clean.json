@@ -1,0 +1,91 @@
+{
+  "School": {
+    "schoolId": "Stanford_University",
+    "name": "Stanford University",
+    "conference": "Pac-12 Conference"
+  },
+  "Team": {
+    "teamId": "Stanford_University_baseball_2024",
+    "teamName": "Stanford University Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "Stanford_University_baseball_2024_coach_1",
+      "fullName": "David Esquer",
+      "role": "Clarke and Elizabeth Nelson Director of Baseball"
+    },
+    {
+      "coachId": "Stanford_University_baseball_2024_coach_2",
+      "fullName": "Thomas Eager",
+      "role": "Kathy Wolff Assistant Baseball Coach"
+    },
+    {
+      "coachId": "Stanford_University_baseball_2024_coach_3",
+      "fullName": "Steve Rodriguez",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "Stanford_University_baseball_2024_coach_4",
+      "fullName": "Andre Mercurio",
+      "role": "Assistant Coach"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Stanford_University_baseball_2024_staff_1",
+      "fullName": "Jeanette Morganti",
+      "role": "Assistant Athletics Director, Baseball Operations"
+    },
+    {
+      "staffId": "Stanford_University_baseball_2024_staff_2",
+      "fullName": "Ryan Kirby",
+      "role": "Director of Player Development"
+    },
+    {
+      "staffId": "Stanford_University_baseball_2024_staff_3",
+      "fullName": "John Ursone",
+      "role": "Sports Medicine"
+    },
+    {
+      "staffId": "Stanford_University_baseball_2024_staff_4",
+      "fullName": "Gunnar Cederberg",
+      "role": "Sports Performance"
+    },
+    {
+      "staffId": "Stanford_University_baseball_2024_staff_5",
+      "fullName": "Kristen Gravani",
+      "role": "Sports Nutrition"
+    },
+    {
+      "staffId": "Stanford_University_baseball_2024_staff_6",
+      "fullName": "Drew Miraglia",
+      "role": "Equipment"
+    },
+    {
+      "staffId": "Stanford_University_baseball_2024_staff_7",
+      "fullName": "Debbie Iwasaki",
+      "role": "Physical Therapist"
+    },
+    {
+      "staffId": "Stanford_University_baseball_2024_staff_8",
+      "fullName": "Nick Combo",
+      "role": "Academic Services"
+    },
+    {
+      "staffId": "Stanford_University_baseball_2024_staff_9",
+      "fullName": "Tyler Geivett",
+      "role": "Communications"
+    },
+    {
+      "staffId": "Stanford_University_baseball_2024_staff_10",
+      "fullName": "Michael Yedinak",
+      "role": "Event Manager"
+    },
+    {
+      "staffId": "Stanford_University_baseball_2024_staff_11",
+      "fullName": "Julia Lee",
+      "role": "Fan Experience"
+    }
+  ]
+}

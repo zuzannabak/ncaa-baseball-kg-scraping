@@ -1,0 +1,51 @@
+{
+  "School": {
+    "schoolId": "UCLA_(University_of_California,_Los_Angeles)",
+    "name": "UCLA (University of California, Los Angeles)",
+    "conference": "Pac-12 Conference"
+  },
+  "Team": {
+    "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024",
+    "teamName": "UCLA (University of California, Los Angeles) Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_1",
+      "fullName": "John Savage",
+      "role": "Head Coach"
+    },
+    {
+      "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_2",
+      "fullName": "Bryant Ward",
+      "role": "Assistant Coach / Recruiting Coordinator"
+    },
+    {
+      "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_3",
+      "fullName": "Griffin Barnes",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_4",
+      "fullName": "Jake Palmer",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_5",
+      "fullName": "Kyle Hashimoto",
+      "role": "Athletic Performance Coach"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_staff_1",
+      "fullName": "Chris Minnick",
+      "role": "Director of Player Development"
+    },
+    {
+      "staffId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_staff_2",
+      "fullName": "Kaitlyn Gustafson",
+      "role": "Athletic Trainer"
+    }
+  ]
+}

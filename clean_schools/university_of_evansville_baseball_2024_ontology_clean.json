@@ -1,0 +1,602 @@
+{
+  "School": {
+    "schoolId": "University_of_Evansville",
+    "name": "University of Evansville"
+  },
+  "Conference": {
+    "conferenceId": "Missouri_Valley_Conference_(MVC)",
+    "conferenceName": "Missouri Valley Conference (MVC)"
+  },
+  "Season": {
+    "seasonId": "2024",
+    "seasonYear": 2024
+  },
+  "Team": {
+    "teamId": "University_of_Evansville_baseball_2024",
+    "teamName": "University of Evansville Baseball"
+  },
+  "Players": [
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_1",
+      "fullName": "Brendan Hord",
+      "classYear": "Gr.",
+      "position": "C",
+      "height": "5-10",
+      "weight": "205 lbs",
+      "hometown": "Lexington, Ky.",
+      "jersey": "0",
+      "lastSchool": "Kentucky",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_2",
+      "fullName": "Aaron Nehls",
+      "classYear": "Fr.",
+      "position": "OF",
+      "height": "",
+      "weight": "",
+      "hometown": "Evansville, Ind.",
+      "jersey": "1",
+      "lastSchool": "",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_3",
+      "fullName": "Ty Rumsey",
+      "classYear": "Jr.",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "165 lbs",
+      "hometown": "Evansville, Ind.",
+      "jersey": "2",
+      "lastSchool": "North HS",
+      "weightLbs": 165
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_4",
+      "fullName": "Brent Widder",
+      "classYear": "Gr.",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "195 lbs",
+      "hometown": "Sheboygan, Wis.",
+      "jersey": "3",
+      "lastSchool": "Sheboygan North HS",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_5",
+      "fullName": "Drew Howard",
+      "classYear": "So.",
+      "position": "INF",
+      "height": "5-11",
+      "weight": "175 lbs",
+      "hometown": "Ferdinand, Ind.",
+      "jersey": "4",
+      "lastSchool": "Forest Park HS",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_6",
+      "fullName": "Kevin McCormick",
+      "classYear": "R-So.",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "185 lbs",
+      "hometown": "Orland Park, Ill.",
+      "jersey": "5",
+      "lastSchool": "St. Laurence HS",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_7",
+      "fullName": "Cal McGinnis",
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "",
+      "weight": "",
+      "hometown": "Kimberly, Wis.",
+      "jersey": "7",
+      "lastSchool": "Bradley University",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_8",
+      "fullName": "Charlie Longmeier",
+      "classYear": "Fr.",
+      "position": "OF",
+      "height": "",
+      "weight": "",
+      "hometown": "Seymour, Ind.",
+      "jersey": "8",
+      "lastSchool": "",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_9",
+      "fullName": "Simon Scherry",
+      "classYear": "Sr.",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "190 lbs",
+      "hometown": "Santa Claus, Ind.",
+      "jersey": "9",
+      "lastSchool": "Heritage Hills HS",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_10",
+      "fullName": "Jace Kressin",
+      "classYear": "Gr.",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "190 lbs",
+      "hometown": "Menomonie, Wis.",
+      "jersey": "10",
+      "lastSchool": "Menomonie HS",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_11",
+      "fullName": "Chase Hug",
+      "classYear": "Gr.",
+      "position": "UTL/LHP",
+      "height": "6-0",
+      "weight": "190 lbs",
+      "hometown": "Indianapolis, Ind.",
+      "jersey": "11",
+      "lastSchool": "Olney Central College",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_12",
+      "fullName": "Ethan Bell",
+      "classYear": "R-So.",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "165 lbs",
+      "hometown": "Huntingburg, Ind.",
+      "jersey": "12",
+      "lastSchool": "Southridge HS",
+      "weightLbs": 165
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_13",
+      "fullName": "Ben Stuart",
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "6-3",
+      "weight": "200 lbs",
+      "hometown": "Mason, Ohio",
+      "jersey": "14",
+      "lastSchool": "William Mason HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_14",
+      "fullName": "Max Hansmann",
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "200 lbs",
+      "hometown": "Elmhurst, Ill.",
+      "jersey": "15",
+      "lastSchool": "",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_15",
+      "fullName": "Kenton Deverman",
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "",
+      "weight": "",
+      "hometown": "Dardenne Prairie, Mo.",
+      "jersey": "16",
+      "lastSchool": "",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_16",
+      "fullName": "Shane Harris",
+      "classYear": "R-Sr.",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "205 lbs",
+      "hometown": "Poseyville, Ind.",
+      "jersey": "17",
+      "lastSchool": "Louisville",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_17",
+      "fullName": "Kip Fougerousse",
+      "classYear": "Sr.",
+      "position": "INF",
+      "height": "6-3",
+      "weight": "225 lbs",
+      "hometown": "Linton, Ind.",
+      "jersey": "18",
+      "lastSchool": "Indiana",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_18",
+      "fullName": "Drew Fieger",
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "",
+      "weight": "",
+      "hometown": "Fort Mitchell, Ky.",
+      "jersey": "20",
+      "lastSchool": "Lincoln Trail CC",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_19",
+      "fullName": "Harrison Taubert",
+      "classYear": "Jr.",
+      "position": "OF",
+      "height": "",
+      "weight": "",
+      "hometown": "Casper, Wyo.",
+      "jersey": "21",
+      "lastSchool": "Northeast CC",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_20",
+      "fullName": "Kevin Reed",
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "",
+      "weight": "",
+      "hometown": "Martinsville, Ind.",
+      "jersey": "24",
+      "lastSchool": "",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_21",
+      "fullName": "Evan Waggoner",
+      "classYear": "Jr.",
+      "position": "C",
+      "height": "6-2",
+      "weight": "200 lbs",
+      "hometown": "Bedford, Ind.",
+      "jersey": "25",
+      "lastSchool": "Bedford North Lawrence HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_22",
+      "fullName": "Brodie Peart",
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "",
+      "weight": "",
+      "hometown": "Markham, Ontario",
+      "jersey": "26",
+      "lastSchool": "",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_23",
+      "fullName": "Matt Maloney",
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "",
+      "weight": "",
+      "hometown": "Mokena, Ill.",
+      "jersey": "27",
+      "lastSchool": "Southwestern Illinois College",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_24",
+      "fullName": "Kellen Roberts",
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "",
+      "weight": "",
+      "hometown": "Monroe, Mich.",
+      "jersey": "29",
+      "lastSchool": "",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_25",
+      "fullName": "Jacob Jarvis",
+      "classYear": "Jr.",
+      "position": "LHP",
+      "height": "",
+      "weight": "",
+      "hometown": "Farmington, Mo.",
+      "jersey": "31",
+      "lastSchool": "Jefferson College",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_26",
+      "fullName": "Mark Shallenberger",
+      "classYear": "Gr.",
+      "position": "OF",
+      "height": "6-2",
+      "weight": "220 lbs",
+      "hometown": "St. Louis, Mo.",
+      "jersey": "32",
+      "lastSchool": "St. Louis Priory",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_27",
+      "fullName": "Andrew Dusablon",
+      "classYear": "R-So.",
+      "position": "RHP",
+      "height": "",
+      "weight": "",
+      "hometown": "Palmdale, Calif.",
+      "jersey": "34",
+      "lastSchool": "Cypress College / Virginia Tech",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_28",
+      "fullName": "Nick Smith",
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "230 lbs",
+      "hometown": "Boonville, Ind.",
+      "jersey": "35",
+      "lastSchool": "Boonville HS",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_29",
+      "fullName": "Elias Hachem",
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6-8",
+      "weight": "230 lbs",
+      "hometown": "Oak Park, Ill.",
+      "jersey": "36",
+      "lastSchool": "Mt. Carmel HS",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_30",
+      "fullName": "Jack Taczy",
+      "classYear": "So.",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "175 lbs",
+      "hometown": "Fox River Grove, Ill.",
+      "jersey": "37",
+      "lastSchool": "Cary Grove HS",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_31",
+      "fullName": "Kaleb Wilkey",
+      "classYear": "Fr.",
+      "position": "C",
+      "height": "",
+      "weight": "",
+      "hometown": "Manhattan, Ill.",
+      "jersey": "38",
+      "lastSchool": "",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_32",
+      "fullName": "Parker MacCauley",
+      "classYear": "R-So.",
+      "position": "RHP",
+      "height": "",
+      "weight": "",
+      "hometown": "Paducah, Ky.",
+      "jersey": "40",
+      "lastSchool": "Tennessee Tech",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_33",
+      "fullName": "Chance Bentley",
+      "classYear": "Fr.",
+      "position": "C",
+      "height": "",
+      "weight": "",
+      "hometown": "Connersville, Ind.",
+      "jersey": "41",
+      "lastSchool": "Connersville HS",
+      "weightLbs": null
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_34",
+      "fullName": "Donovan Schultz",
+      "classYear": "Sr.",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "215 lbs",
+      "hometown": "Kimberly, Wis.",
+      "jersey": "42",
+      "lastSchool": "Kimberly HS",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "University_of_Evansville_baseball_2024_player_35",
+      "fullName": "Jakob Meyer",
+      "classYear": "5th",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "215 lbs",
+      "hometown": "Columbus, Indiana",
+      "jersey": "44",
+      "lastSchool": "Columbus North HS",
+      "weightLbs": 215
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "University_of_Evansville",
+        "teamId": "University_of_Evansville_baseball_2024"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "University_of_Evansville",
+        "conferenceId": "Missouri_Valley_Conference_(MVC)"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "University_of_Evansville_baseball_2024",
+        "seasonId": "2024"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_1",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_2",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_3",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_4",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_5",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_6",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_7",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_8",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_9",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_10",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_11",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_12",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_13",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_14",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_15",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_16",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_17",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_18",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_19",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_20",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_21",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_22",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_23",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_24",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_25",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_26",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_27",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_28",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_29",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_30",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_31",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_32",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_33",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_34",
+        "teamId": "University_of_Evansville_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Evansville_baseball_2024_player_35",
+        "teamId": "University_of_Evansville_baseball_2024"
+      }
+    ]
+  }
+}

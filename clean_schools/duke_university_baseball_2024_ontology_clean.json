@@ -1,0 +1,666 @@
+{
+  "School": {
+    "schoolId": "Duke_University",
+    "name": "Duke University"
+  },
+  "Conference": {
+    "conferenceId": "Atlantic_Coast_Conference_(ACC)",
+    "conferenceName": "Atlantic Coast Conference (ACC)"
+  },
+  "Season": {
+    "seasonId": "2024",
+    "seasonYear": 2024
+  },
+  "Team": {
+    "teamId": "Duke_University_baseball_2024",
+    "teamName": "Duke University Baseball"
+  },
+  "Players": [
+    {
+      "playerId": "Duke_University_baseball_2024_player_1",
+      "fullName": "Jimmy Romano",
+      "classYear": "Jr",
+      "position": "RHP/INF",
+      "height": "6-1",
+      "weight": "200 lbs",
+      "hometown": "Roseland, N.J.",
+      "jersey": "1",
+      "lastSchool": "Saint Joseph Regional",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_2",
+      "fullName": "Andrew Healy",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-6",
+      "weight": "200 lbs",
+      "hometown": "Glen Mills, Pa.",
+      "jersey": "2",
+      "lastSchool": "William Penn Charter",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_3",
+      "fullName": "Andrew Yu",
+      "classYear": "Jr",
+      "position": "C",
+      "height": "6-0",
+      "weight": "220 lbs",
+      "hometown": "Nashville, Tenn.",
+      "jersey": "3",
+      "lastSchool": "Ensworth",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_4",
+      "fullName": "Gabe Nard",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "190 lbs",
+      "hometown": "Shaker Heights, Ohio",
+      "jersey": "4",
+      "lastSchool": "St. Ignatius",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_5",
+      "fullName": "Alex Stone",
+      "classYear": "Sr",
+      "position": "C",
+      "height": "6-5",
+      "weight": "235 lbs",
+      "hometown": "Andover, N.J.",
+      "jersey": "5",
+      "lastSchool": "Newton",
+      "weightLbs": 235
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_6",
+      "fullName": "Macon Winslow",
+      "classYear": "Fr",
+      "position": "C",
+      "height": "6-0",
+      "weight": "200 lbs",
+      "hometown": "Hertford, N.C.",
+      "jersey": "6",
+      "lastSchool": "Perquimans County",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_7",
+      "fullName": "Wallace Clark",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "180 lbs",
+      "hometown": "Tulsa, Okla.",
+      "jersey": "7",
+      "lastSchool": "Oklahoma",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_8",
+      "fullName": "Josh Allen",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "200 lbs",
+      "hometown": "Oviedo, Fla.",
+      "jersey": "8",
+      "lastSchool": "Oviedo",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_9",
+      "fullName": "Owen Proksch",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "225 lbs",
+      "hometown": "Southlake, Texas",
+      "jersey": "9",
+      "lastSchool": "Carroll Senior",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_10",
+      "fullName": "Aidan Weaver",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "230 lbs",
+      "hometown": "Jamison, Pa.",
+      "jersey": "10",
+      "lastSchool": "Central Bucks-East",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_11",
+      "fullName": "Edward Hart",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-5",
+      "weight": "235 lbs",
+      "hometown": "San Antonio, Texas",
+      "jersey": "11",
+      "lastSchool": "Alamo Heights",
+      "weightLbs": 235
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_12",
+      "fullName": "Jonathan Santucci",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Leominster, Mass.",
+      "jersey": "12",
+      "lastSchool": "Phillips Academy",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_13",
+      "fullName": "Devin Obee",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "6-2",
+      "weight": "215 lbs",
+      "hometown": "Nashville, Tenn.",
+      "jersey": "13",
+      "lastSchool": "Ensworth",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_14",
+      "fullName": "Kyle Johnson",
+      "classYear": "Fr",
+      "position": "OF/LHP",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Leesburg, Va.",
+      "jersey": "15",
+      "lastSchool": "Riverside",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_15",
+      "fullName": "Jackson Emus",
+      "classYear": "Gr",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "240 lbs",
+      "hometown": "Clinton, Mass.",
+      "jersey": "16",
+      "lastSchool": "Princeton",
+      "weightLbs": 240
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_16",
+      "fullName": "James Tallon",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-5",
+      "weight": "195 lbs",
+      "hometown": "Arlington, Va.",
+      "jersey": "17",
+      "lastSchool": "Yorktown",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_17",
+      "fullName": "Sam Harris",
+      "classYear": "Fr",
+      "position": "1B/OF",
+      "height": "6-5",
+      "weight": "220 lbs",
+      "hometown": "Urbandale, Iowa",
+      "jersey": "18",
+      "lastSchool": "Urbandale",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_18",
+      "fullName": "Tim Noone",
+      "classYear": "Gr",
+      "position": "LHP",
+      "height": "6-0",
+      "weight": "190 lbs",
+      "hometown": "Needham, Mass.",
+      "jersey": "19",
+      "lastSchool": "Babson College",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_19",
+      "fullName": "Nick Conte",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "5-10",
+      "weight": "200 lbs",
+      "hometown": "North Providence, R.I.",
+      "jersey": "20",
+      "lastSchool": "North Providence",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_20",
+      "fullName": "Mike Miller",
+      "classYear": "Fr",
+      "position": "RHP/1B",
+      "height": "6-4",
+      "weight": "220 lbs",
+      "hometown": "Mendota, Minn.",
+      "jersey": "21",
+      "lastSchool": "St. Thomas Academy",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_21",
+      "fullName": "Zac Morris",
+      "classYear": "Gr",
+      "position": "INF",
+      "height": "5-11",
+      "weight": "185 lbs",
+      "hometown": "Suffolk, Va.",
+      "jersey": "22",
+      "lastSchool": "VMI",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_22",
+      "fullName": "Logan Bravo",
+      "classYear": "Gr",
+      "position": "INF",
+      "height": "6-5",
+      "weight": "215 lbs",
+      "hometown": "Andover, Mass.",
+      "jersey": "23",
+      "lastSchool": "Harvard",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_23",
+      "fullName": "Chad Knight",
+      "classYear": "Gr",
+      "position": "C",
+      "height": "6-0",
+      "weight": "210 lbs",
+      "hometown": "Westport, Conn.",
+      "jersey": "24",
+      "lastSchool": "Staples",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_24",
+      "fullName": "Chase Krewson",
+      "classYear": "Fr",
+      "position": "OF/LHP",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Bridgeville, Pa.",
+      "jersey": "25",
+      "lastSchool": "South Fayette TWP",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_25",
+      "fullName": "Ryan Higgins",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "210 lbs",
+      "hometown": "New Canaan, Conn.",
+      "jersey": "27",
+      "lastSchool": "St. Luke's",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_26",
+      "fullName": "AJ Gracia",
+      "classYear": "Fr",
+      "position": "OF/LHP",
+      "height": "6-3",
+      "weight": "195 lbs",
+      "hometown": "Monroe, N.J.",
+      "jersey": "29",
+      "lastSchool": "Ranney",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_27",
+      "fullName": "Camron Poe",
+      "classYear": "Fr",
+      "position": "LHP/OF",
+      "height": "6-3",
+      "weight": "215 lbs",
+      "hometown": "Chesterfield, Mo.",
+      "jersey": "30",
+      "lastSchool": "Christian Brothers College",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_28",
+      "fullName": "Fran Oschell III",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-7",
+      "weight": "230 lbs",
+      "hometown": "Phoenixville, Pa.",
+      "jersey": "31",
+      "lastSchool": "Malvern Prep",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_29",
+      "fullName": "Sam Yelton",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "200 lbs",
+      "hometown": "Harrisburg, N.C.",
+      "jersey": "32",
+      "lastSchool": "Central Cabarrus",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_30",
+      "fullName": "Roman DiGiacomo",
+      "classYear": "So",
+      "position": "C",
+      "height": "6-3",
+      "weight": "220 lbs",
+      "hometown": "Fairfield, Conn.",
+      "jersey": "33",
+      "lastSchool": "Fairfield Warde",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_31",
+      "fullName": "Ben Miller",
+      "classYear": "Gr",
+      "position": "1B",
+      "height": "6-1",
+      "weight": "225 lbs",
+      "hometown": "Durham, N.C.",
+      "jersey": "34",
+      "lastSchool": "Penn",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_32",
+      "fullName": "David Boisvert",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "215 lbs",
+      "hometown": "Charlotte, N.C.",
+      "jersey": "35",
+      "lastSchool": "Cannon School",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_33",
+      "fullName": "Noah Murray",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "170 lbs",
+      "hometown": "Crozet, Va.",
+      "jersey": "36",
+      "lastSchool": "Pro5 Baseball Academy",
+      "weightLbs": 170
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_34",
+      "fullName": "Tyler Albright",
+      "classYear": "So",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "200 lbs",
+      "hometown": "Greensboro, N.C.",
+      "jersey": "40",
+      "lastSchool": "Grimsley",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_35",
+      "fullName": "Jimmy Evans",
+      "classYear": "Gr",
+      "position": "OF",
+      "height": "5-9",
+      "weight": "180 lbs",
+      "hometown": "Norwalk, Conn.",
+      "jersey": "45",
+      "lastSchool": "Tufts University",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_36",
+      "fullName": "Charlie Beilenson",
+      "classYear": "Gr",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "215 lbs",
+      "hometown": "Los Angeles, Calif.",
+      "jersey": "47",
+      "lastSchool": "Brown University",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_37",
+      "fullName": "James Raidt",
+      "classYear": "Fr",
+      "position": "RHP/OF",
+      "height": "6-3",
+      "weight": "180 lbs",
+      "hometown": "Stamford, Conn.",
+      "jersey": "49",
+      "lastSchool": "King & Low-Heywood Thomas School",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_38",
+      "fullName": "Harrison Rodgers",
+      "classYear": "Gr",
+      "position": "INF",
+      "height": "5-11",
+      "weight": "185 lbs",
+      "hometown": "San Diego, Calif.",
+      "jersey": "50",
+      "lastSchool": "Colorado Mesa",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Duke_University_baseball_2024_player_39",
+      "fullName": "Ben Weaver",
+      "classYear": "Gr",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "185 lbs",
+      "hometown": "Doylestown, Pa.",
+      "jersey": "51",
+      "lastSchool": "Wheaton College",
+      "weightLbs": 185
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "Duke_University",
+        "teamId": "Duke_University_baseball_2024"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "Duke_University",
+        "conferenceId": "Atlantic_Coast_Conference_(ACC)"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "Duke_University_baseball_2024",
+        "seasonId": "2024"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "Duke_University_baseball_2024_player_1",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_2",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_3",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_4",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_5",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_6",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_7",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_8",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_9",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_10",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_11",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_12",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_13",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_14",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_15",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_16",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_17",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_18",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_19",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_20",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_21",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_22",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_23",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_24",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_25",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_26",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_27",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_28",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_29",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_30",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_31",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_32",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_33",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_34",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_35",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_36",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_37",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_38",
+        "teamId": "Duke_University_baseball_2024"
+      },
+      {
+        "playerId": "Duke_University_baseball_2024_player_39",
+        "teamId": "Duke_University_baseball_2024"
+      }
+    ]
+  }
+}

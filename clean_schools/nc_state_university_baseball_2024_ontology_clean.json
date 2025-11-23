@@ -1,0 +1,666 @@
+{
+  "School": {
+    "schoolId": "NC_State_University",
+    "name": "NC State University"
+  },
+  "Conference": {
+    "conferenceId": "Atlantic_Coast_Conference_(ACC)",
+    "conferenceName": "Atlantic Coast Conference (ACC)"
+  },
+  "Season": {
+    "seasonId": "2024",
+    "seasonYear": 2024
+  },
+  "Team": {
+    "teamId": "NC_State_University_baseball_2024",
+    "teamName": "NC State University Baseball"
+  },
+  "Players": [
+    {
+      "playerId": "NC_State_University_baseball_2024_player_1",
+      "fullName": "Luke Nixon",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "162 lbs",
+      "hometown": "Wilmington, N.C.",
+      "jersey": "0",
+      "lastSchool": "New Hanover Major Exploratory Studies",
+      "weightLbs": 162
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_2",
+      "fullName": "Carson Falsken",
+      "classYear": "R-Jr",
+      "position": "INF/OF",
+      "height": "5-11",
+      "weight": "172 lbs",
+      "hometown": "Newbury Park, Calif.",
+      "jersey": "1",
+      "lastSchool": "Newbury Park Major Business Administration",
+      "weightLbs": 172
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_3",
+      "fullName": "Noah Soles",
+      "classYear": "Sr",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "210 lbs",
+      "hometown": "Thomasville, N.C.",
+      "jersey": "2",
+      "lastSchool": "Ledford Major Sport Management",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_4",
+      "fullName": "Brandon Butterworth",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "5-11",
+      "weight": "168 lbs",
+      "hometown": "Monroe, N.C.",
+      "jersey": "3",
+      "lastSchool": "Sun Valley (Western Carolina) Major Sport Management",
+      "weightLbs": 168
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_5",
+      "fullName": "Matt Heavner",
+      "classYear": "So",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "169 lbs",
+      "hometown": "Lincolnton, N.C.",
+      "jersey": "6",
+      "lastSchool": "North Lincoln Major Sport Management",
+      "weightLbs": 169
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_6",
+      "fullName": "Peyton Young",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "180 lbs",
+      "hometown": "Hickory, N.C.",
+      "jersey": "7",
+      "lastSchool": "Saint Stephens Major Sport Management",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_7",
+      "fullName": "Christopher Zupito",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "204 lbs",
+      "hometown": "Drexel Hill, Pa.",
+      "jersey": "8",
+      "lastSchool": "Upper Darby Major Sport Management",
+      "weightLbs": 204
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_8",
+      "fullName": "Chance Mako",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-7",
+      "weight": "195 lbs",
+      "hometown": "Salisbury, N.C.",
+      "jersey": "10",
+      "lastSchool": "East Rowan Major Exploratory Studies",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_9",
+      "fullName": "Garrett Payne",
+      "classYear": "R-Jr",
+      "position": "RHP",
+      "height": "6-8",
+      "weight": "212 lbs",
+      "hometown": "Charlottesville, Va.",
+      "jersey": "11",
+      "lastSchool": "Miller School of Albemarle Major Agricultural Business Management",
+      "weightLbs": 212
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_10",
+      "fullName": "Chase Nixon",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "200 lbs",
+      "hometown": "Wilmington, N.C.",
+      "jersey": "12",
+      "lastSchool": "New Hanover Major Business Administration",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_11",
+      "fullName": "Alex Sosa",
+      "classYear": "Fr",
+      "position": "C",
+      "height": "6-1",
+      "weight": "207 lbs",
+      "hometown": "Viera, Fla.",
+      "jersey": "13",
+      "lastSchool": "Viera Major Management",
+      "weightLbs": 207
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_12",
+      "fullName": "Jacob Cozart",
+      "classYear": "Jr",
+      "position": "C",
+      "height": "6-3",
+      "weight": "222 lbs",
+      "hometown": "High Point, N.C.",
+      "jersey": "14",
+      "lastSchool": "Wesleyan Christian Academy Major Sport Management",
+      "weightLbs": 222
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_13",
+      "fullName": "Drew Lanphere",
+      "classYear": "R-Fr",
+      "position": "C/INF",
+      "height": "5-10",
+      "weight": "190 lbs",
+      "hometown": "Wendell, N.C.",
+      "jersey": "15",
+      "lastSchool": "East Wake Academy Major Sport Management",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_14",
+      "fullName": "Eli Serrano III",
+      "classYear": "So",
+      "position": "INF/OF",
+      "height": "6-5",
+      "weight": "201 lbs",
+      "hometown": "Fuquay-Varina, N.C.",
+      "jersey": "16",
+      "lastSchool": "Pro5 Baseball Academy Major Sport Management",
+      "weightLbs": 201
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_15",
+      "fullName": "Sam Highfill",
+      "classYear": "Gr",
+      "position": "RHP/INF",
+      "height": "6-3",
+      "weight": "204 lbs",
+      "hometown": "Apex, N.C.",
+      "jersey": "17",
+      "lastSchool": "Apex Major Graduate: Business Analytics",
+      "weightLbs": 204
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_16",
+      "fullName": "Jaxon Lucas",
+      "classYear": "Fr",
+      "position": "RHP/INF",
+      "height": "6-3",
+      "weight": "194 lbs",
+      "hometown": "Garner, N.C.",
+      "jersey": "18",
+      "lastSchool": "Garner Major Sport Management",
+      "weightLbs": 194
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_17",
+      "fullName": "Heath Andrews",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "196 lbs",
+      "hometown": "Fincastle, Va.",
+      "jersey": "19",
+      "lastSchool": "James River Major Sport Management",
+      "weightLbs": 196
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_18",
+      "fullName": "Ryan Marohn",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "192 lbs",
+      "hometown": "Chantilly, Va.",
+      "jersey": "20",
+      "lastSchool": "Freedom Major Sport Management",
+      "weightLbs": 192
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_19",
+      "fullName": "Josh Hogue",
+      "classYear": "So",
+      "position": "OF/INF",
+      "height": "6-2",
+      "weight": "192 lbs",
+      "hometown": "North Palm Beach, Fla.",
+      "jersey": "22",
+      "lastSchool": "Palm Beach Gardens Major Communication",
+      "weightLbs": 192
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_20",
+      "fullName": "Matt Willadsen",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "188 lbs",
+      "hometown": "Holly Springs, N.C.",
+      "jersey": "23",
+      "lastSchool": "Holly Springs Major Business Administration",
+      "weightLbs": 188
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_21",
+      "fullName": "Carson Kelly",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "200 lbs",
+      "hometown": "Sanford, N.C.",
+      "jersey": "24",
+      "lastSchool": "Lee County Major Business Administration",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_22",
+      "fullName": "Derrick Smith",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "219 lbs",
+      "hometown": "White Bear Lake, Minn.",
+      "jersey": "25",
+      "lastSchool": "White Bear Lake Major Sport Management",
+      "weightLbs": 219
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_23",
+      "fullName": "Win Scott",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "212 lbs",
+      "hometown": "Jamestown, N.C.",
+      "jersey": "27",
+      "lastSchool": "Ragsdale Major Business Administration",
+      "weightLbs": 212
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_24",
+      "fullName": "Cooper Consiglio",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-0",
+      "weight": "192 lbs",
+      "hometown": "Palm Harbor, Fla.",
+      "jersey": "28",
+      "lastSchool": "East Lake/IMG Academy Major Sport Management",
+      "weightLbs": 192
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_25",
+      "fullName": "Logan Whitaker",
+      "classYear": "R-Sr",
+      "position": "RHP",
+      "height": "6-6",
+      "weight": "221 lbs",
+      "hometown": "Winston-Salem, N.C.",
+      "jersey": "29",
+      "lastSchool": "Ledford Major Post-Baccalaureate Studies",
+      "weightLbs": 221
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_26",
+      "fullName": "Robert Nedry",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "194 lbs",
+      "hometown": "Lighthouse Point, Fla.",
+      "jersey": "30",
+      "lastSchool": "Westminister Academy Major Sport Management",
+      "weightLbs": 194
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_27",
+      "fullName": "Shane Van Dam",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-6",
+      "weight": "198 lbs",
+      "hometown": "Cranford, N.J.",
+      "jersey": "31",
+      "lastSchool": "Cranford Major Sport Management",
+      "weightLbs": 198
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_28",
+      "fullName": "Garrett Pennington",
+      "classYear": "Gr",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "224 lbs",
+      "hometown": "Lenexa, Kan.",
+      "jersey": "33",
+      "lastSchool": "Shawnee Mission West (Wichita State/Central Missouri) Major Graduate: Sport & Entertainment Venue Management",
+      "weightLbs": 224
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_29",
+      "fullName": "P.J. Labriola",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-7",
+      "weight": "223 lbs",
+      "hometown": "Bradenton, Fla.",
+      "jersey": "34",
+      "lastSchool": "Cardinal Mooney Catholic (Clemson) Major Parks, Recreation & Tourism Management",
+      "weightLbs": 223
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_30",
+      "fullName": "Camden Wimbish",
+      "classYear": "Fr",
+      "position": "RHP/C",
+      "height": "6-2",
+      "weight": "233 lbs",
+      "hometown": "Locust, N.C.",
+      "jersey": "36",
+      "lastSchool": "West Stanly Major Sport Management",
+      "weightLbs": 233
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_31",
+      "fullName": "Jacob Halford",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "195 lbs",
+      "hometown": "Gastonia, N.C.",
+      "jersey": "40",
+      "lastSchool": "Northern Guilford Major Communication",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_32",
+      "fullName": "Jacob Dudan",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "191 lbs",
+      "hometown": "Huntersville, N.C.",
+      "jersey": "41",
+      "lastSchool": "Lake Norman Charter Major Sport Management",
+      "weightLbs": 191
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_33",
+      "fullName": "Jacob Dienes",
+      "classYear": "R-So",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "204 lbs",
+      "hometown": "Wilson, N.C.",
+      "jersey": "42",
+      "lastSchool": "Wake County Home School Major Business Administration",
+      "weightLbs": 204
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_34",
+      "fullName": "John Miralia",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-7",
+      "weight": "250 lbs",
+      "hometown": "Charlotte, N.C.",
+      "jersey": "43",
+      "lastSchool": "Providence Day Major Business Administration",
+      "weightLbs": 250
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_35",
+      "fullName": "Hollis Fanning",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-8",
+      "weight": "225 lbs",
+      "hometown": "Lynchburg, Tenn.",
+      "jersey": "45",
+      "lastSchool": "Tullahoma (Tennessee) Major Forestry",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_36",
+      "fullName": "Jake Bechtel",
+      "classYear": "Fr",
+      "position": "OF/RHP",
+      "height": "6-5",
+      "weight": "230 lbs",
+      "hometown": "Palm Harbor, Fla.",
+      "jersey": "47",
+      "lastSchool": "East Lake Major Sport Management",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_37",
+      "fullName": "Andrew Shaffner",
+      "classYear": "So",
+      "position": "RHP/UT",
+      "height": "6-2",
+      "weight": "184 lbs",
+      "hometown": "Elk Creek, Va.",
+      "jersey": "48",
+      "lastSchool": "Grayson County Major Sport Management",
+      "weightLbs": 184
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_38",
+      "fullName": "Dominic Fritton",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "193 lbs",
+      "hometown": "Fuquay-Varina, N.C.",
+      "jersey": "51",
+      "lastSchool": "Pro5 Baseball Academy Major Agricultural Business Management",
+      "weightLbs": 193
+    },
+    {
+      "playerId": "NC_State_University_baseball_2024_player_39",
+      "fullName": "Alec Makarewicz",
+      "classYear": "Gr",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "234 lbs",
+      "hometown": "Longwood, Fla.",
+      "jersey": "99",
+      "lastSchool": "Lake Brantley (East Carolina) Major Graduate: Sport & Entertainment Venue Management",
+      "weightLbs": 234
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "NC_State_University",
+        "teamId": "NC_State_University_baseball_2024"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "NC_State_University",
+        "conferenceId": "Atlantic_Coast_Conference_(ACC)"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "NC_State_University_baseball_2024",
+        "seasonId": "2024"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "NC_State_University_baseball_2024_player_1",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_2",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_3",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_4",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_5",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_6",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_7",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_8",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_9",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_10",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_11",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_12",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_13",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_14",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_15",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_16",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_17",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_18",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_19",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_20",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_21",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_22",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_23",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_24",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_25",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_26",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_27",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_28",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_29",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_30",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_31",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_32",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_33",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_34",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_35",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_36",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_37",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_38",
+        "teamId": "NC_State_University_baseball_2024"
+      },
+      {
+        "playerId": "NC_State_University_baseball_2024_player_39",
+        "teamId": "NC_State_University_baseball_2024"
+      }
+    ]
+  }
+}

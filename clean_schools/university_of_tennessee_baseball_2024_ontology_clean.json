@@ -1,0 +1,682 @@
+{
+  "School": {
+    "schoolId": "University_of_Tennessee",
+    "name": "University of Tennessee"
+  },
+  "Conference": {
+    "conferenceId": "Southeastern_Conference_(SEC)",
+    "conferenceName": "Southeastern Conference (SEC)"
+  },
+  "Season": {
+    "seasonId": "2024",
+    "seasonYear": 2024
+  },
+  "Team": {
+    "teamId": "University_of_Tennessee_baseball_2024",
+    "teamName": "University of Tennessee Baseball"
+  },
+  "Players": [
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_1",
+      "fullName": "Christian Moore",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "216 lbs",
+      "hometown": "Brooklyn, N.Y.",
+      "jersey": "1",
+      "lastSchool": "Suffield Academy (CT)",
+      "weightLbs": 216
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_2",
+      "fullName": "Ariel Antigua",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "5-8",
+      "weight": "184 lbs",
+      "hometown": "West Palm Beach, Fla.",
+      "jersey": "2",
+      "lastSchool": "Trinity Christian Academy",
+      "weightLbs": 184
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_3",
+      "fullName": "Alex Perry",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-4",
+      "weight": "206 lbs",
+      "hometown": "McComb, Miss.",
+      "jersey": "4",
+      "lastSchool": "North Pike High School",
+      "weightLbs": 206
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_4",
+      "fullName": "Cannon Peebles",
+      "classYear": "So",
+      "position": "C",
+      "height": "5-11",
+      "weight": "194 lbs",
+      "hometown": "Ashland, Va.",
+      "jersey": "5",
+      "lastSchool": "Hanover HS",
+      "weightLbs": 194
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_5",
+      "fullName": "Bradke Lohry",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "5-8",
+      "weight": "171 lbs",
+      "hometown": "Trinity, Fla.",
+      "jersey": "6",
+      "lastSchool": "Jesuit HS",
+      "weightLbs": 171
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_6",
+      "fullName": "Nate Snead",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "212 lbs",
+      "hometown": "South Milwaukee, Wisc.",
+      "jersey": "7",
+      "lastSchool": "South Milwaukee HS",
+      "weightLbs": 212
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_7",
+      "fullName": "Dylan Dreiling",
+      "classYear": "So",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "200 lbs",
+      "hometown": "Hays, Kan.",
+      "jersey": "8",
+      "lastSchool": "Hays HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_8",
+      "fullName": "Hunter Ensley",
+      "classYear": "R-Jr",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "196 lbs",
+      "hometown": "Huntingdon, Tenn.",
+      "jersey": "9",
+      "lastSchool": "Huntingdon HS",
+      "weightLbs": 196
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_9",
+      "fullName": "Cal Stark",
+      "classYear": "Sr",
+      "position": "C",
+      "height": "6-1",
+      "weight": "200 lbs",
+      "hometown": "Knoxville, Tenn.",
+      "jersey": "10",
+      "lastSchool": "Farragut HS",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_10",
+      "fullName": "Billy Amick",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "217 lbs",
+      "hometown": "Batesburg, S.C.",
+      "jersey": "11",
+      "lastSchool": "P27 Academy",
+      "weightLbs": 217
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_11",
+      "fullName": "Ethan Payne",
+      "classYear": "Gr",
+      "position": "UTL",
+      "height": "6-4",
+      "weight": "211 lbs",
+      "hometown": "Memphis, Tenn.",
+      "jersey": "12",
+      "lastSchool": "Germantown HS",
+      "weightLbs": 211
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_12",
+      "fullName": "Reese Chapman",
+      "classYear": "So",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "212 lbs",
+      "hometown": "Parker, Colo.",
+      "jersey": "13",
+      "lastSchool": "Grandview HS",
+      "weightLbs": 212
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_13",
+      "fullName": "Charlie Taylor",
+      "classYear": "R-Jr",
+      "position": "C",
+      "height": "5-11",
+      "weight": "190 lbs",
+      "hometown": "Dunwoody, Ga.",
+      "jersey": "14",
+      "lastSchool": "Wesleyan School",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_14",
+      "fullName": "JJ Garcia",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-6",
+      "weight": "209 lbs",
+      "hometown": "Statesville, N.C.",
+      "jersey": "15",
+      "lastSchool": "Combine Academy",
+      "weightLbs": 209
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_15",
+      "fullName": "Dalton Bargo",
+      "classYear": "So",
+      "position": "UTL",
+      "height": "6-1",
+      "weight": "196 lbs",
+      "hometown": "Omaha, Neb.",
+      "jersey": "16",
+      "lastSchool": "Westside HS",
+      "weightLbs": 196
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_16",
+      "fullName": "Robin Villeneuve",
+      "classYear": "Jr",
+      "position": "1B/OF",
+      "height": "6-1",
+      "weight": "214 lbs",
+      "hometown": "Gatineau, Quebec",
+      "jersey": "17",
+      "lastSchool": "Polyvalente Nicolas-Gatineau",
+      "weightLbs": 214
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_17",
+      "fullName": "AJ Causey",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "205 lbs",
+      "hometown": "Harvest, Ala.",
+      "jersey": "18",
+      "lastSchool": "Sparkman HS",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_18",
+      "fullName": "Andrew Behnke",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "5-10",
+      "weight": "181 lbs",
+      "hometown": "Nashville, Tenn.",
+      "jersey": "19",
+      "lastSchool": "Donelson Christian Academy",
+      "weightLbs": 181
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_19",
+      "fullName": "Colby Backus",
+      "classYear": "R-Jr",
+      "position": "OF",
+      "height": "6-4",
+      "weight": "223 lbs",
+      "hometown": "Johnson City, Tenn.",
+      "jersey": "20",
+      "lastSchool": "Daniel Boone HS",
+      "weightLbs": 223
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_20",
+      "fullName": "Kavares Tears",
+      "classYear": "R-So",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "200 lbs",
+      "hometown": "Lewisburg, Tenn.",
+      "jersey": "21",
+      "lastSchool": "Columbia Academy",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_21",
+      "fullName": "Dean Curley",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "6-3",
+      "weight": "212 lbs",
+      "hometown": "La Verne, Calif.",
+      "jersey": "23",
+      "lastSchool": "Northview HS",
+      "weightLbs": 212
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_22",
+      "fullName": "Blake Burke",
+      "classYear": "Jr",
+      "position": "1B",
+      "height": "6-3",
+      "weight": "236 lbs",
+      "hometown": "Brentwood, Calif.",
+      "jersey": "25",
+      "lastSchool": "De La Salle HS",
+      "weightLbs": 236
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_23",
+      "fullName": "Chris Stamos",
+      "classYear": "Gr",
+      "position": "LHP",
+      "height": "6-4",
+      "weight": "209 lbs",
+      "hometown": "Pasadena, Calif.",
+      "jersey": "27",
+      "lastSchool": "St. Francis HS",
+      "weightLbs": 209
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_24",
+      "fullName": "Aaron Combs",
+      "classYear": "R-Jr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "203 lbs",
+      "hometown": "Sarasota, Fla.",
+      "jersey": "28",
+      "lastSchool": "IMG Academy",
+      "weightLbs": 203
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_25",
+      "fullName": "Brady Robertson",
+      "classYear": "R-Fr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "199 lbs",
+      "hometown": "Humboldt, Tenn.",
+      "jersey": "29",
+      "lastSchool": "Trinity Christian Academy",
+      "weightLbs": 199
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_26",
+      "fullName": "Stone Lawless",
+      "classYear": "Fr",
+      "position": "C",
+      "height": "6-2",
+      "weight": "225 lbs",
+      "hometown": "Huntsville, Ala.",
+      "jersey": "30",
+      "lastSchool": "Huntsville HS",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_27",
+      "fullName": "Austin Hunley",
+      "classYear": "R-Fr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "196 lbs",
+      "hometown": "Mount Juliet, Tenn.",
+      "jersey": "31",
+      "lastSchool": "Mount Juliet HS",
+      "weightLbs": 196
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_28",
+      "fullName": "Drew Beam",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "207 lbs",
+      "hometown": "Murfreesboro, Tenn.",
+      "jersey": "32",
+      "lastSchool": "Blackman HS",
+      "weightLbs": 207
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_29",
+      "fullName": "AJ Russell",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-6",
+      "weight": "207 lbs",
+      "hometown": "Franklin, Tenn.",
+      "jersey": "33",
+      "lastSchool": "Franklin HS",
+      "weightLbs": 207
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_30",
+      "fullName": "Derek Schaefer",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "206 lbs",
+      "hometown": "Cave Creek, Ariz.",
+      "jersey": "34",
+      "lastSchool": "Cactus Shadows High School",
+      "weightLbs": 206
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_31",
+      "fullName": "Kirby Connell",
+      "classYear": "Gr",
+      "position": "LHP",
+      "height": "5-11",
+      "weight": "196 lbs",
+      "hometown": "Johnson City, Tenn.",
+      "jersey": "35",
+      "lastSchool": "Blacksburg HS (SC)",
+      "weightLbs": 196
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_32",
+      "fullName": "Blake Grimmer",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "6-3",
+      "weight": "202 lbs",
+      "hometown": "Spring Lake, Mich.",
+      "jersey": "36",
+      "lastSchool": "Orchard Lake St. Mary’s Prep",
+      "weightLbs": 202
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_33",
+      "fullName": "Dylan Loy",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-0",
+      "weight": "194 lbs",
+      "hometown": "Pigeon Forge, Tenn.",
+      "jersey": "37",
+      "lastSchool": "Pigeon Forge HS",
+      "weightLbs": 194
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_34",
+      "fullName": "Hunter High",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "198 lbs",
+      "hometown": "Crieve Hall, Tenn.",
+      "jersey": "40",
+      "lastSchool": "Lipscomb Academy",
+      "weightLbs": 198
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_35",
+      "fullName": "Camden Bates",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "165 lbs",
+      "hometown": "Washington, Okla.",
+      "jersey": "41",
+      "lastSchool": "Washington HS",
+      "weightLbs": 165
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_36",
+      "fullName": "Luke Payne",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-4",
+      "weight": "191 lbs",
+      "hometown": "Gallatin, Tenn.",
+      "jersey": "43",
+      "lastSchool": "Goodpasture Christian School",
+      "weightLbs": 191
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_37",
+      "fullName": "Marcus Phillips",
+      "classYear": "So",
+      "position": "RHP/OF",
+      "height": "6-4",
+      "weight": "250 lbs",
+      "hometown": "Sioux Falls, S.D.",
+      "jersey": "44",
+      "lastSchool": "Roosevelt HS",
+      "weightLbs": 250
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_38",
+      "fullName": "Matthew Dallas",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-5",
+      "weight": "192 lbs",
+      "hometown": "Memphis, Tennessee",
+      "jersey": "45",
+      "lastSchool": "Briarcrest Christian School",
+      "weightLbs": 192
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_39",
+      "fullName": "Brayden Sharp",
+      "classYear": "Fr",
+      "position": "OF/LHP",
+      "height": "6-2",
+      "weight": "174 lbs",
+      "hometown": "The Woodlands, Texas",
+      "jersey": "46",
+      "lastSchool": "The Woodlands HS",
+      "weightLbs": 174
+    },
+    {
+      "playerId": "University_of_Tennessee_baseball_2024_player_40",
+      "fullName": "Zander Sechrist",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "193 lbs",
+      "hometown": "Buford, Ga.",
+      "jersey": "48",
+      "lastSchool": "Flowery Branch HS",
+      "weightLbs": 193
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "University_of_Tennessee",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "University_of_Tennessee",
+        "conferenceId": "Southeastern_Conference_(SEC)"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "University_of_Tennessee_baseball_2024",
+        "seasonId": "2024"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_1",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_2",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_3",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_4",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_5",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_6",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_7",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_8",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_9",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_10",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_11",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_12",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_13",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_14",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_15",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_16",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_17",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_18",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_19",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_20",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_21",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_22",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_23",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_24",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_25",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_26",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_27",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_28",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_29",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_30",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_31",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_32",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_33",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_34",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_35",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_36",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_37",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_38",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_39",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      },
+      {
+        "playerId": "University_of_Tennessee_baseball_2024_player_40",
+        "teamId": "University_of_Tennessee_baseball_2024"
+      }
+    ]
+  }
+}

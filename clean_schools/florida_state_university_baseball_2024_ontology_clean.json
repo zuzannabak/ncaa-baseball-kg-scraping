@@ -1,0 +1,746 @@
+{
+  "School": {
+    "schoolId": "Florida_State_University",
+    "name": "Florida State University"
+  },
+  "Conference": {
+    "conferenceId": "Atlantic_Coast_Conference_(ACC)",
+    "conferenceName": "Atlantic Coast Conference (ACC)"
+  },
+  "Season": {
+    "seasonId": "2024",
+    "seasonYear": 2024
+  },
+  "Team": {
+    "teamId": "Florida_State_University_baseball_2024",
+    "teamName": "Florida State University Baseball"
+  },
+  "Players": [
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_1",
+      "fullName": "Alex Lodise",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "188 lbs",
+      "hometown": "St. Augustine, Fla.",
+      "jersey": "1",
+      "lastSchool": "Bartram Trail",
+      "weightLbs": 188
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_2",
+      "fullName": "Titan Kamaka",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "181 lbs",
+      "hometown": "Orlando, Fla.",
+      "jersey": "2",
+      "lastSchool": "West Orange",
+      "weightLbs": 181
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_3",
+      "fullName": "Drew Faurot",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-3",
+      "weight": "202 lbs",
+      "hometown": "Tallahassee, Fla.",
+      "jersey": "3",
+      "lastSchool": "Florida High",
+      "weightLbs": 202
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_4",
+      "fullName": "Cal Fisher",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "217 lbs",
+      "hometown": "Deerfield, Wis.",
+      "jersey": "4",
+      "lastSchool": "Deerfield",
+      "weightLbs": 217
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_5",
+      "fullName": "Spencer Butt",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "170 lbs",
+      "hometown": "Davie, Fla.",
+      "jersey": "5",
+      "lastSchool": "American Heritage",
+      "weightLbs": 170
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_6",
+      "fullName": "Jaime Ferrer",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "219 lbs",
+      "hometown": "Bayamón, Puerto Rico",
+      "jersey": "7",
+      "lastSchool": "Florida Virtual School",
+      "weightLbs": 219
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_7",
+      "fullName": "Brennen Oxford",
+      "classYear": "R-Sr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "201 lbs",
+      "hometown": "Durham, N.H.",
+      "jersey": "8",
+      "lastSchool": "Oyster River",
+      "weightLbs": 201
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_8",
+      "fullName": "Carson Dorsey",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "184 lbs",
+      "hometown": "Panama City Beach, Fla.",
+      "jersey": "9",
+      "lastSchool": "Arnold",
+      "weightLbs": 184
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_9",
+      "fullName": "Jordan Williams",
+      "classYear": "R-Jr",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "171 lbs",
+      "hometown": "Odessa, Fla.",
+      "jersey": "12",
+      "lastSchool": "Gaither",
+      "weightLbs": 171
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_10",
+      "fullName": "Conner Whittaker",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "181 lbs",
+      "hometown": "Sarasota, Fla.",
+      "jersey": "13",
+      "lastSchool": "Sarasota",
+      "weightLbs": 181
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_11",
+      "fullName": "Andrew Duncan",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "196 lbs",
+      "hometown": "Dunedin, Fla.",
+      "jersey": "14",
+      "lastSchool": "A3 Academy",
+      "weightLbs": 196
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_12",
+      "fullName": "Connor Hults",
+      "classYear": "R-Jr",
+      "position": "LHP",
+      "height": "5-11",
+      "weight": "179 lbs",
+      "hometown": "St. Johns, Fla.",
+      "jersey": "15",
+      "lastSchool": "Creekside",
+      "weightLbs": 179
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_13",
+      "fullName": "Jamie Arnold",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "191 lbs",
+      "hometown": "Tampa, Fla.",
+      "jersey": "16",
+      "lastSchool": "Jesuit",
+      "weightLbs": 191
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_14",
+      "fullName": "Yoel Tejeda Jr.",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-8",
+      "weight": "210 lbs",
+      "hometown": "Davie, Fla.",
+      "jersey": "17",
+      "lastSchool": "North Broward Prep",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_15",
+      "fullName": "Max Williams",
+      "classYear": "So",
+      "position": "OF",
+      "height": "6-2",
+      "weight": "198 lbs",
+      "hometown": "Ormond Beach, Fla.",
+      "jersey": "18",
+      "lastSchool": "Clay",
+      "weightLbs": 198
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_16",
+      "fullName": "Riley Jackson",
+      "classYear": "Fr",
+      "position": "C",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Melbourne, Fla.",
+      "jersey": "19",
+      "lastSchool": "Eau Gallie",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_17",
+      "fullName": "Jaxson West",
+      "classYear": "So",
+      "position": "C",
+      "height": "6-0",
+      "weight": "188 lbs",
+      "hometown": "Tallahassee, Fla.",
+      "jersey": "20",
+      "lastSchool": "Chiles",
+      "weightLbs": 188
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_18",
+      "fullName": "Gavin Adams",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "196 lbs",
+      "hometown": "Boynton Beach, Fla.",
+      "jersey": "21",
+      "lastSchool": "St. John Paul II",
+      "weightLbs": 196
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_19",
+      "fullName": "James Tibbs III",
+      "classYear": "Jr",
+      "position": "OF/1B",
+      "height": "6-0",
+      "weight": "204 lbs",
+      "hometown": "Marietta, Ga.",
+      "jersey": "22",
+      "lastSchool": "Pope",
+      "weightLbs": 204
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_20",
+      "fullName": "Brody DeLamielleure",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "196 lbs",
+      "hometown": "St. Augustine, Fla.",
+      "jersey": "23",
+      "lastSchool": "Bartram Trail",
+      "weightLbs": 196
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_21",
+      "fullName": "Cam Smith",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-3",
+      "weight": "229 lbs",
+      "hometown": "Lake Worth, Fla.",
+      "jersey": "24",
+      "lastSchool": "Palm Beach Central",
+      "weightLbs": 229
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_22",
+      "fullName": "McGwire Holbrook",
+      "classYear": "Sr",
+      "position": "C",
+      "height": "6-1",
+      "weight": "223 lbs",
+      "hometown": "Orlando, Fla.",
+      "jersey": "25",
+      "lastSchool": "Bishop Moore",
+      "weightLbs": 223
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_23",
+      "fullName": "Justin Best",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "6-4",
+      "weight": "199 lbs",
+      "hometown": "Cornelius, N.C.",
+      "jersey": "26",
+      "lastSchool": "Combine Academy",
+      "weightLbs": 199
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_24",
+      "fullName": "DeAmez Ross",
+      "classYear": "So",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "186 lbs",
+      "hometown": "Melbourne, Fla.",
+      "jersey": "27",
+      "lastSchool": "Eau Gallie",
+      "weightLbs": 186
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_25",
+      "fullName": "Jacob Marlowe",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-0",
+      "weight": "155 lbs",
+      "hometown": "Naples, Fla.",
+      "jersey": "28",
+      "lastSchool": "Barron Collier",
+      "weightLbs": 155
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_26",
+      "fullName": "Cam Leiter",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "218 lbs",
+      "hometown": "Bayville, N.J.",
+      "jersey": "30",
+      "lastSchool": "Central Regional",
+      "weightLbs": 218
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_27",
+      "fullName": "Ryan Denison",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "228 lbs",
+      "hometown": "Tampa, Fla.",
+      "jersey": "31",
+      "lastSchool": "Jesuit",
+      "weightLbs": 228
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_28",
+      "fullName": "Daniel Cantu",
+      "classYear": "R-Sr",
+      "position": "1B",
+      "height": "6-3",
+      "weight": "219 lbs",
+      "hometown": "Jacksonville, Fla.",
+      "jersey": "32",
+      "lastSchool": "Creekside",
+      "weightLbs": 219
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_29",
+      "fullName": "Ben Barrett",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "219 lbs",
+      "hometown": "Orlando, Fla.",
+      "jersey": "33",
+      "lastSchool": "The First Academy",
+      "weightLbs": 219
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_30",
+      "fullName": "Brady Louck",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "5-10",
+      "weight": "180 lbs",
+      "hometown": "Plainfield, Ill.",
+      "jersey": "35",
+      "lastSchool": "Plainfield East",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_31",
+      "fullName": "Noah Short",
+      "classYear": "R-Sr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "191 lbs",
+      "hometown": "Teays Valley, W.Va.",
+      "jersey": "36",
+      "lastSchool": "Hurricane",
+      "weightLbs": 191
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_32",
+      "fullName": "Andrew Armstrong",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "154 lbs",
+      "hometown": "Flowery Branch, Ga.",
+      "jersey": "37",
+      "lastSchool": "Flowery Branch",
+      "weightLbs": 154
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_33",
+      "fullName": "Joe Charles",
+      "classYear": "R-Jr",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "215 lbs",
+      "hometown": "Celebration, Fla.",
+      "jersey": "40",
+      "lastSchool": "TNXL Academy",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_34",
+      "fullName": "Matt Sauser",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "192 lbs",
+      "hometown": "Bloomington, Ill.",
+      "jersey": "41",
+      "lastSchool": "University",
+      "weightLbs": 192
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_35",
+      "fullName": "David Barrett",
+      "classYear": "R-Sr",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "193 lbs",
+      "hometown": "Sarasota, Fla.",
+      "jersey": "42",
+      "lastSchool": "Sarasota",
+      "weightLbs": 193
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_36",
+      "fullName": "Marco Dinges",
+      "classYear": "So",
+      "position": "C/OF",
+      "height": "6-0",
+      "weight": "194 lbs",
+      "hometown": "Beekman, N.Y.",
+      "jersey": "43",
+      "lastSchool": "East Lake (Fla.)",
+      "weightLbs": 194
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_37",
+      "fullName": "Hudson Rowan",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Panama City, Fla.",
+      "jersey": "46",
+      "lastSchool": "Mosley",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_38",
+      "fullName": "Matty Davis",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "6-3",
+      "weight": "202 lbs",
+      "hometown": "Palm Beach Gardens, Fla.",
+      "jersey": "47",
+      "lastSchool": "Dwyer",
+      "weightLbs": 202
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_39",
+      "fullName": "Lance Trippel",
+      "classYear": "So",
+      "position": "UTL",
+      "height": "6-2",
+      "weight": "196 lbs",
+      "hometown": "Sarasota, Fla.",
+      "jersey": "48",
+      "lastSchool": "Sarasota",
+      "weightLbs": 196
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_40",
+      "fullName": "James Hankerson Jr.",
+      "classYear": "Fr",
+      "position": "1B",
+      "height": "6-3",
+      "weight": "227 lbs",
+      "hometown": "Tampa, Fla.",
+      "jersey": "51",
+      "lastSchool": "Berkeley Prep",
+      "weightLbs": 227
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_41",
+      "fullName": "David Davila",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "5-9",
+      "weight": "176 lbs",
+      "hometown": "Miami, Fla.",
+      "jersey": "52",
+      "lastSchool": "Miami Springs Senior",
+      "weightLbs": 176
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_42",
+      "fullName": "John Abraham",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "198 lbs",
+      "hometown": "Tampa, Fla.",
+      "jersey": "53",
+      "lastSchool": "Jesuit",
+      "weightLbs": 198
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_43",
+      "fullName": "Mason McDougall",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "189 lbs",
+      "hometown": "Tampa, Fla.",
+      "jersey": "54",
+      "lastSchool": "Wiregrass Ranch",
+      "weightLbs": 189
+    },
+    {
+      "playerId": "Florida_State_University_baseball_2024_player_44",
+      "fullName": "Payton Manca",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-6",
+      "weight": "259 lbs",
+      "hometown": "Winchendon, Mass.",
+      "jersey": "55",
+      "lastSchool": "P27 Academy (S.C.)",
+      "weightLbs": 259
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "Florida_State_University",
+        "teamId": "Florida_State_University_baseball_2024"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "Florida_State_University",
+        "conferenceId": "Atlantic_Coast_Conference_(ACC)"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "Florida_State_University_baseball_2024",
+        "seasonId": "2024"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_1",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_2",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_3",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_4",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_5",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_6",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_7",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_8",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_9",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_10",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_11",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_12",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_13",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_14",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_15",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_16",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_17",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_18",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_19",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_20",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_21",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_22",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_23",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_24",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_25",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_26",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_27",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_28",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_29",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_30",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_31",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_32",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_33",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_34",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_35",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_36",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_37",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_38",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_39",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_40",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_41",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_42",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_43",
+        "teamId": "Florida_State_University_baseball_2024"
+      },
+      {
+        "playerId": "Florida_State_University_baseball_2024_player_44",
+        "teamId": "Florida_State_University_baseball_2024"
+      }
+    ]
+  }
+}
