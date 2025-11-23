@@ -21,11 +21,9 @@ final-scrape/
 │   ├── clean_rosters.py             # normalize roster JSON → *_ontology_clean.json
 │   └── clean_staff.py               # normalize staff JSON → *_staff_clean.json
 │
-├── raw_schools/                     # optional: per-school raw roster files
-├── raw_staff/                       # optional: per-school raw staff files
+├── clean_schools/                   # per-school cleaned roster files
+├── clean_staff/                     # per-school cleaned staff files
 │
-├── all_schools_ontology.json        # combined raw player/roster data
-├── all_schools_staff.json           # combined raw staff data
 ├── all_schools_ontology_clean.json  # final cleaned players/teams JSON
 ├── all_schools_staff_clean.json     # final cleaned staff JSON
 └── .gitignore
