@@ -19,6 +19,7 @@ all_schools_staff.json
 
 # Logs, caches
 *.log
+.env
 
 # VS Code
 .vscode/
