@@ -1,18 +1,37 @@
-# NCAA Baseball Roster & Staff Scraper
+# NCAA Baseball Knowledge Graph: Scraping, Modeling & Streamlit UI
 
-Small scraping and cleaning pipeline built for a **Graph Databases** course project.  
-The goal is to collect consistent roster and staff data for selected **NCAA Division I baseball programs**, normalize it, and use the final JSON files as input for a **Neo4j knowledge graph**.
 
-The two main outputs of the pipeline are:
+This project consists of three main components:
 
-- `all_schools_ontology_clean.json` – cleaned players/teams ontology
-- `all_schools_staff_clean.json` – cleaned coaching and support staff
+1. **Data scraping** – automated extraction of rosters and staff data from multiple NCAA Division I baseball programs (Sidearm Sports layouts).
+2. **Knowledge graph modeling** – cleaning, normalization, ontology design, and loading all data into Neo4j AuraDB (Cypher + APOC).
+3. **Streamlit UI** – an interactive application for browsing teams, rosters, staff, and running sample Cypher queries.
 
-These JSON files can be directly loaded into Neo4j using `apoc.load.json` and Cypher MERGE scripts.
+The pipeline takes raw HTML → produces structured JSON → builds a full multi-school knowledge graph → exposes it through a simple web UI.
+
+## Tech stack
+
+- **Python** – scraping, cleaning, JSON generation  
+- **Neo4j AuraDB** – graph database and Cypher queries  
+- **Cypher** – schema design, querying, and data loading  
+- **APOC** – JSON ingestion (`apoc.load.json`)  
+- **Streamlit** – interactive UI for browsing the knowledge graph  
+- **OWL / Protégé** – initial ontology sketch (conceptual domain model)
+
+
+## Project Workflow
+
+```text
+Step 1: Web Scraping               Step 2: Cleaning & Normalization       Step 3: Neo4j Loading                 Step 4: Streamlit UI
+ ┌───────────────────────┐          ┌──────────────────────────────┐       ┌──────────────────────────┐          ┌───────────────────────────┐
+ │ Python (requests, bs4)│   --->   │ JSON cleaning + schema map   │ --->  │ Cypher + APOC (MERGE)    │   --->   │ Interactive graph explorer│
+ │ HTML roster pages     │          │ consistent ontology across   │       │ load players/teams/staff │          │ team stats, rosters, etc. │
+ └───────────────────────┘          │ 8 schools                    │       └──────────────────────────┘          └───────────────────────────┘
+                                    └──────────────────────────────┘
+```
+
 
 ## Repository structure
-
-
 
 ```text
 final-scrape/
