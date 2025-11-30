@@ -1,14 +1,18 @@
 # NCAA Baseball Roster & Staff Scraper
 
-Small scraping pipeline I built for a **Graph Databases** course project.  
-The goal is to collect consistent roster and staff data for selected **NCAA Division I baseball programs**, clean it, and use the final JSON files as input for a **Neo4j knowledge graph** (Cypher + APOC).
+Small scraping and cleaning pipeline built for a **Graph Databases** course project.  
+The goal is to collect consistent roster and staff data for selected **NCAA Division I baseball programs**, normalize it, and use the final JSON files as input for a **Neo4j knowledge graph**.
 
-The two main outputs used for Neo4j ingestion are:
+The two main outputs of the pipeline are:
 
-- `all_schools_ontology_clean.json` – cleaned player + team ontology
-- `all_schools_staff_clean.json` – cleaned staff data
+- `all_schools_ontology_clean.json` – cleaned players/teams ontology
+- `all_schools_staff_clean.json` – cleaned coaching and support staff
+
+These JSON files can be directly loaded into Neo4j using `apoc.load.json` and Cypher MERGE scripts.
 
 ## Repository structure
+
+
 
 ```text
 final-scrape/
@@ -23,6 +27,9 @@ final-scrape/
 │
 ├── clean_schools/                   # per-school cleaned roster files
 ├── clean_staff/                     # per-school cleaned staff files
+│
+├── app.py                           # Streamlit UI for KG exploration
+├── neo4j_config.py                  # Neo4j AuraDB connection
 │
 ├── all_schools_ontology_clean.json  # final cleaned players/teams JSON
 ├── all_schools_staff_clean.json     # final cleaned staff JSON
@@ -49,7 +56,84 @@ After these steps, the JSON files:
 * `all_schools_staff_clean.json`
 are ready to be loaded into Neo4j (e.g. with `apoc.load.json` + Cypher merge scripts).
 
-## Next steps
+Example Cypher:
+```markdown
+CALL apoc.load.json("file:///all_schools_ontology_clean.json") YIELD value
+MERGE ...
+```
 
-In the main project I use these JSON files to build a multi-school NCAA baseball knowledge graph in Neo4j and run queries over conferences, positions, and roster composition.
+## Neo4j Browser
+
+Example Cypher (sample ego-graph around one team):
+
+```cypher
+// Neighborhood of one team: school, conference, season, players, coaches, staff
+MATCH (t:Team {teamId: "Mississippi_State_University_baseball_2024"})
+
+OPTIONAL MATCH (sch:School)-[m:HAS_TEAM]->(t)
+OPTIONAL MATCH (sch)-[mconf:MEMBER_OF]->(c:Conference)
+OPTIONAL MATCH (t)-[part:PARTICIPATES_IN]->(s:Season)
+
+OPTIONAL MATCH (p:Player)-[pf:PLAYS_FOR]->(t)
+OPTIONAL MATCH (co:Coach)-[coaches:COACHES]->(t)
+OPTIONAL MATCH (ss:SupportStaff)-[works:WORKS_FOR]->(t)
+
+RETURN sch, m, mconf, c, t, part, s,
+       p, pf,
+       co, coaches,
+       ss, works;
+```
+
+This query pulls a small “ego graph” centered on one team: the team node plus all its players, coaches, and support staff.
+You can run the same pattern for any `teamId` in the dataset.
+
+![Neo4j Browser visualization](screenshots/neo4j.png)
+
+In the screenshot above, Neo4j Browser shows the team in the center, with connected players, coaches, and support staff.
+This is the final structure produced by the scraping + cleaning pipeline (rosters + staff → Neo4j KG).
+
+## Streamlit UI
+
+The repository includes a lightweight Streamlit app for browsing the final graph.
+
+Features:
+- Conference → Team selection
+- Full roster display
+- Coaches and support staff tables
+- Team summary (player counts, class year distribution)
+- A simple Cypher explorer (read-only)
+
+Run the app:
+
+```bash
+streamlit run app.py
+```
+
+Make sure your `.env` contains the correct Neo4j Aura credentials:
+```csharp
+NEO4J_URI=bolt://...
+NEO4J_USER=...
+NEO4J_PASSWORD=...
+```
+
+## UI Preview
+
+Below are sample screenshots from the Streamlit interface used for browsing the NCAA Division I baseball knowledge graph.
+
+### Team overview
+![UI Overview](screenshots/ui_overview.png)
+
+### Roster view
+![UI Roster](screenshots/ui_roster.png)
+
+### Coaches and support staff
+![UI Staff](screenshots/ui_staff.png)
+
+### Cypher explorer
+![UI Explorer](screenshots/ui_explorer.png)
+
+## Notes
+
+This repository contains only the scraping, cleaning, and UI components.  
+The larger project (queries, modeling, Neo4j build) is documented separately for the course submission.
 
