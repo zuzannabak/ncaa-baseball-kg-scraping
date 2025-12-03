@@ -1,0 +1,58 @@
+{
+  "School": {
+    "schoolId": "Duke_University",
+    "name": "Duke University",
+    "conference": "Atlantic Coast Conference (ACC)"
+  },
+  "Team": {
+    "teamId": "Duke_University_baseball_2024",
+    "teamName": "Duke University Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "Duke_University_baseball_2024_coach_1",
+      "fullName": "Chris Pollard",
+      "role": "Head Coach",
+      "email": "christopher.pollard@duke.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Duke_University_baseball_2024_coach_2",
+      "fullName": "Ty Blankmeyer",
+      "role": "Assistant Coach/Recruiting Coordinator",
+      "email": "taylor.blankmeyer@duke.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Duke_University_baseball_2024_coach_3",
+      "fullName": "Brady Kirkpatrick",
+      "role": "Pitching Coach",
+      "email": "brady.kirkpatrick@duke.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Duke_University_baseball_2024_coach_4",
+      "fullName": "Eric Tyler",
+      "role": "Hitting Coach",
+      "email": "eric.tyler@duke.edu",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Duke_University_baseball_2024_staff_1",
+      "fullName": "Brian Sakowski",
+      "role": "Director of Recruiting, Analytics and Player Development",
+      "email": "brian.sakowski@duke.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "Duke_University_baseball_2024_staff_2",
+      "fullName": "Daniel Jung",
+      "role": "Director of Baseball Operations",
+      "email": "danny.jung@duke.edu",
+      "phone": ""
+    }
+  ]
+}

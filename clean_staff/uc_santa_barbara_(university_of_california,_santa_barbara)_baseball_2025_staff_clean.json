@@ -1,0 +1,121 @@
+{
+  "School": {
+    "schoolId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)",
+    "name": "UC Santa Barbara (University of California, Santa Barbara)",
+    "conference": "Big West Conference"
+  },
+  "Team": {
+    "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025",
+    "teamName": "UC Santa Barbara (University of California, Santa Barbara) Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_1",
+      "fullName": "Andrew Checketts",
+      "role": "Head Coach",
+      "email": "andrew.checketts@athletics.ucsb.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_2",
+      "fullName": "Matt Fonteno",
+      "role": "Associate Head Coach",
+      "email": "Matt.Fonteno@athletics.ucsb.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_3",
+      "fullName": "Dylan Jones",
+      "role": "Assistant Coach/Recruiting Coordinator",
+      "email": "Dylan.Jones@athletics.ucsb.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_4",
+      "fullName": "Kyle Hunt",
+      "role": "Assistant Coach",
+      "email": "kyle.hunt@athletics.ucsb.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_5",
+      "fullName": "Jaren Jaffe",
+      "role": "Undergraduate Assistant",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_6",
+      "fullName": "Sam Smith",
+      "role": "Position Player Strength Coach",
+      "email": "Samuel.Smith@athletics.ucsb.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_7",
+      "fullName": "Luke Storey",
+      "role": "Pitcher Strength Coach",
+      "email": "Luke.Storey@athletics.ucsb.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_8",
+      "fullName": "Marilyn Monroy Castro",
+      "role": "Academic Advisor",
+      "email": "marilynmonroy@ucsb.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_9",
+      "fullName": "Justin Han",
+      "role": "Student Manager Lead",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_staff_1",
+      "fullName": "David Tillotson",
+      "role": "Director of Player Development, Camps and Clinics",
+      "email": "david.tillotson@athletics.ucsb.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_staff_2",
+      "fullName": "Alexis Kakuk",
+      "role": "Director of Baseball Operations",
+      "email": "alexis.kakuk@athletics.ucsb.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_staff_3",
+      "fullName": "Kevin Cannon",
+      "role": "Director of Facilities",
+      "email": "kevin.cannon@athletics.ucsb.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_staff_4",
+      "fullName": "Sienna Baldwin",
+      "role": "Athletic Trainer",
+      "email": "siennabaldwin@ucsb.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_staff_5",
+      "fullName": "Isaac Shinbrot",
+      "role": "Player Development & Recruitment Assistant",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_staff_6",
+      "fullName": "Devon Kost",
+      "role": "Student Director of Analytics",
+      "email": "",
+      "phone": ""
+    }
+  ]
+}

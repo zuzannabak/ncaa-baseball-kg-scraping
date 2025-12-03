@@ -1,0 +1,672 @@
+{
+  "School": {
+    "schoolId": "Murray_State_University",
+    "name": "Murray State University"
+  },
+  "Conference": {
+    "conferenceId": "Missouri_Valley_Conference_(MVC)",
+    "conferenceName": "Missouri Valley Conference (MVC)"
+  },
+  "Season": {
+    "seasonId": "2025",
+    "seasonYear": 2025
+  },
+  "Team": {
+    "teamId": "Murray_State_University_baseball_2025",
+    "teamName": "Murray State University Baseball",
+    "seasonYear": 2025
+  },
+  "Players": [
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_1",
+      "fullName": "Nico Bermeo",
+      "classYear": "Gr",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "195 lbs",
+      "hometown": "Chicago, Ill.",
+      "jersey": "1",
+      "lastSchool": "Aurora University",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_2",
+      "fullName": "Nic Schutte",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "185 lbs",
+      "hometown": "Louisville, Ky.",
+      "jersey": "2",
+      "lastSchool": "Motlow CC",
+      "batsThrows": "R/R",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_3",
+      "fullName": "Jackson McCoy",
+      "classYear": "R-Jr",
+      "position": "OF",
+      "height": "6-3",
+      "weight": "205 lbs",
+      "hometown": "Booneville, Miss.",
+      "jersey": "3",
+      "lastSchool": "Southern Illinois",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_4",
+      "fullName": "Gunnar Bingham",
+      "classYear": "Jr",
+      "position": "Util",
+      "height": "6-0",
+      "weight": "165 lbs",
+      "hometown": "Eddyville, Ky.",
+      "jersey": "4",
+      "lastSchool": "Lyon County HS",
+      "batsThrows": "L/R",
+      "weightLbs": 165
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_5",
+      "fullName": "Harper McLendon",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "180 lbs",
+      "hometown": "Thomasville, Ga.",
+      "jersey": "5",
+      "lastSchool": "Brookwood HS",
+      "batsThrows": "R/R",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_6",
+      "fullName": "Isaac Huettl",
+      "classYear": "R-So",
+      "position": "C",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Mandan, N.D.",
+      "jersey": "6",
+      "lastSchool": "North Iowa Area CC",
+      "batsThrows": "L/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_7",
+      "fullName": "Holden Carpenter",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "215 lbs",
+      "hometown": "San Marcos, Calif.",
+      "jersey": "7",
+      "lastSchool": "San Marcos HS",
+      "batsThrows": "L/L",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_8",
+      "fullName": "Carson Garner",
+      "classYear": "Sr",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Franklin, Tenn.",
+      "jersey": "8",
+      "lastSchool": "Franklin HS",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_9",
+      "fullName": "Dustin Mercer",
+      "classYear": "Gr",
+      "position": "OF",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Weddington, N.C.",
+      "jersey": "10",
+      "lastSchool": "Virginia Tech",
+      "batsThrows": "L/L",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_10",
+      "fullName": "Jaxon Diamond",
+      "classYear": "R-Jr",
+      "position": "UTL",
+      "height": "6-0",
+      "weight": "195 lbs",
+      "hometown": "Johnson City, Tenn.",
+      "jersey": "11",
+      "lastSchool": "Columbia State CC",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_11",
+      "fullName": "Dom Decker",
+      "classYear": "R-So",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "205 lbs",
+      "hometown": "Sellerburg, Ind.",
+      "jersey": "12",
+      "lastSchool": "Wallace State-Hanceville CC",
+      "batsThrows": "L/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_12",
+      "fullName": "Kane Elmy",
+      "classYear": "Gr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Canton, Mich.",
+      "jersey": "13",
+      "lastSchool": "Plymouth HS",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_13",
+      "fullName": "Conner Cunningham",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "190 lbs",
+      "hometown": "Batesville, Ark.",
+      "jersey": "14",
+      "lastSchool": "Batesville HS",
+      "batsThrows": "L/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_14",
+      "fullName": "Jonathan Hogart",
+      "classYear": "R-Sr",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Madisonville, Ky.",
+      "jersey": "15",
+      "lastSchool": "Madisonville-North Hopkins HS",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_15",
+      "fullName": "Derek Lebron",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "210 lbs",
+      "hometown": "Rosedale, Ind.",
+      "jersey": "16",
+      "lastSchool": "Rend Lake CC",
+      "batsThrows": "R/R",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_16",
+      "fullName": "Will Vierling",
+      "classYear": "Jr",
+      "position": "C",
+      "height": "6-1",
+      "weight": "215 lbs",
+      "hometown": "Mequon, Wis.",
+      "jersey": "17",
+      "lastSchool": "Louisville",
+      "batsThrows": "L/R",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_17",
+      "fullName": "Jacob Hustedde",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "190 lbs",
+      "hometown": "Breese, Ill.",
+      "jersey": "18",
+      "lastSchool": "Mater Dei HS",
+      "batsThrows": "R/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_18",
+      "fullName": "Ethan Lyke",
+      "classYear": "R-Jr",
+      "position": "LHP",
+      "height": "6-0",
+      "weight": "185 lbs",
+      "hometown": "Evansville, Ind",
+      "jersey": "20",
+      "lastSchool": "Central HS",
+      "batsThrows": "L/L",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_19",
+      "fullName": "Reese Oakley",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "180 lbs",
+      "hometown": "Gilbertsville, Ky.",
+      "jersey": "21",
+      "lastSchool": "Marshall County HS",
+      "batsThrows": "R/R",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_20",
+      "fullName": "Brayden Baker",
+      "classYear": "Fr",
+      "position": "Util",
+      "height": "5-11",
+      "weight": "175 lbs",
+      "hometown": "Murfreesboro, Tenn.",
+      "jersey": "22",
+      "lastSchool": "Eagleville HS",
+      "batsThrows": "R/R",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_21",
+      "fullName": "Kingsley Guthrie",
+      "classYear": "So",
+      "position": "C",
+      "height": "5-11",
+      "weight": "200 lbs",
+      "hometown": "Miramar, Fla.",
+      "jersey": "24",
+      "lastSchool": "TNXL Academy",
+      "batsThrows": "S/R",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_22",
+      "fullName": "Luke Mistone",
+      "classYear": "Sr",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "210 lbs",
+      "hometown": "Upland, Calif.",
+      "jersey": "25",
+      "lastSchool": "Cal State-Fullerton",
+      "batsThrows": "R/R",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_23",
+      "fullName": "Danny Rollins",
+      "classYear": "R-Fr",
+      "position": "C",
+      "height": "5-9",
+      "weight": "180 lbs",
+      "hometown": "Roselle, Ill.",
+      "jersey": "27",
+      "lastSchool": "Lake Park HS",
+      "batsThrows": "R/R",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_24",
+      "fullName": "Brady Grabowski",
+      "classYear": "R-So",
+      "position": "OF",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Streator, Ill.",
+      "jersey": "28",
+      "lastSchool": "Streator HS",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_25",
+      "fullName": "Dylan Zentko",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-0",
+      "weight": "210 lbs",
+      "hometown": "Brazil, Ind.",
+      "jersey": "29",
+      "lastSchool": "Olney Central CC",
+      "batsThrows": "L/L",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_26",
+      "fullName": "Preston Chaudoin",
+      "classYear": "R-Jr",
+      "position": "RHP",
+      "height": "5-10",
+      "weight": "180 lbs",
+      "hometown": "Hopkinsville, Ky.",
+      "jersey": "30",
+      "lastSchool": "Hopkinsville HS",
+      "batsThrows": "R/R",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_27",
+      "fullName": "Parker Patterson",
+      "classYear": "Sr",
+      "position": "C",
+      "height": "5-10",
+      "weight": "195 lbs",
+      "hometown": "Dyersburg, Tenn.",
+      "jersey": "31",
+      "lastSchool": "Dyersburg State CC",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_28",
+      "fullName": "Isaac Silva",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "175 lbs",
+      "hometown": "Las Cruces, N.M.",
+      "jersey": "32",
+      "lastSchool": "Troy",
+      "batsThrows": "R/R",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_29",
+      "fullName": "Jack Wajda",
+      "classYear": "R-Jr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "200 lbs",
+      "hometown": "Mokena, Ill.",
+      "jersey": "33",
+      "lastSchool": "Lincoln Land CC",
+      "batsThrows": "R/R",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_30",
+      "fullName": "Matt Parenteau",
+      "classYear": "Sr",
+      "position": "P",
+      "height": "6-4",
+      "weight": "230 lbs",
+      "hometown": "Carmel, Ind.",
+      "jersey": "34",
+      "lastSchool": "Indiana State",
+      "batsThrows": "",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_31",
+      "fullName": "Brevin Scott",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "175 lbs",
+      "hometown": "Franklin, Ky.",
+      "jersey": "35",
+      "lastSchool": "Franklin-Simpson HS",
+      "batsThrows": "R/R",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_32",
+      "fullName": "Dan Tauken",
+      "classYear": "R-Sr",
+      "position": "OF",
+      "height": "6-3",
+      "weight": "215 lbs",
+      "hometown": "Congers, N.Y.",
+      "jersey": "37",
+      "lastSchool": "Clarkstown North HS",
+      "batsThrows": "L/L",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_33",
+      "fullName": "Reed Braundmeier",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Aviston, Ill.",
+      "jersey": "38",
+      "lastSchool": "Mater Dei HS",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_34",
+      "fullName": "Jackson Ugo",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "195 lbs",
+      "hometown": "Tinley Park, Ill.",
+      "jersey": "40",
+      "lastSchool": "Andrew HS",
+      "batsThrows": "L/L",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_35",
+      "fullName": "Graham Kelham",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "185 lbs",
+      "hometown": "LaOtto, Ind.",
+      "jersey": "41",
+      "lastSchool": "Univ. of St. Francis",
+      "batsThrows": "R/R",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_36",
+      "fullName": "Charlie Jury",
+      "classYear": "Sr",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "210 lbs",
+      "hometown": "Winfield, Ill.",
+      "jersey": "42",
+      "lastSchool": "Elgin CC",
+      "batsThrows": "L/L",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Murray_State_University_baseball_2025_player_37",
+      "fullName": "David Stokely",
+      "classYear": "Sr",
+      "position": "C",
+      "height": "6-4",
+      "weight": "225 lbs",
+      "hometown": "Palm Harbor, Fla.",
+      "jersey": "43",
+      "lastSchool": "Tarpon Springs HS",
+      "batsThrows": "R/R",
+      "weightLbs": 225
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "Murray_State_University",
+        "teamId": "Murray_State_University_baseball_2025"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "Murray_State_University",
+        "conferenceId": "Missouri_Valley_Conference_(MVC)"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "Murray_State_University_baseball_2025",
+        "seasonId": "2025"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_1",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_2",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_3",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_4",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_5",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_6",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_7",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_8",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_9",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_10",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_11",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_12",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_13",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_14",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_15",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_16",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_17",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_18",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_19",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_20",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_21",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_22",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_23",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_24",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_25",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_26",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_27",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_28",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_29",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_30",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_31",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_32",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_33",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_34",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_35",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_36",
+        "teamId": "Murray_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Murray_State_University_baseball_2025_player_37",
+        "teamId": "Murray_State_University_baseball_2025"
+      }
+    ]
+  }
+}

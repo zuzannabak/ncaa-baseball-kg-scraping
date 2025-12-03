@@ -13,7 +13,8 @@
   },
   "Team": {
     "teamId": "University_of_Tennessee_baseball_2024",
-    "teamName": "University of Tennessee Baseball"
+    "teamName": "University of Tennessee Baseball",
+    "seasonYear": 2024
   },
   "Players": [
     {
@@ -26,6 +27,7 @@
       "hometown": "Brooklyn, N.Y.",
       "jersey": "1",
       "lastSchool": "Suffield Academy (CT)",
+      "batsThrows": "",
       "weightLbs": 216
     },
     {
@@ -38,6 +40,7 @@
       "hometown": "West Palm Beach, Fla.",
       "jersey": "2",
       "lastSchool": "Trinity Christian Academy",
+      "batsThrows": "",
       "weightLbs": 184
     },
     {
@@ -50,6 +53,7 @@
       "hometown": "McComb, Miss.",
       "jersey": "4",
       "lastSchool": "North Pike High School",
+      "batsThrows": "",
       "weightLbs": 206
     },
     {
@@ -62,6 +66,7 @@
       "hometown": "Ashland, Va.",
       "jersey": "5",
       "lastSchool": "Hanover HS",
+      "batsThrows": "",
       "weightLbs": 194
     },
     {
@@ -74,6 +79,7 @@
       "hometown": "Trinity, Fla.",
       "jersey": "6",
       "lastSchool": "Jesuit HS",
+      "batsThrows": "",
       "weightLbs": 171
     },
     {
@@ -86,6 +92,7 @@
       "hometown": "South Milwaukee, Wisc.",
       "jersey": "7",
       "lastSchool": "South Milwaukee HS",
+      "batsThrows": "",
       "weightLbs": 212
     },
     {
@@ -98,6 +105,7 @@
       "hometown": "Hays, Kan.",
       "jersey": "8",
       "lastSchool": "Hays HS",
+      "batsThrows": "",
       "weightLbs": 200
     },
     {
@@ -110,6 +118,7 @@
       "hometown": "Huntingdon, Tenn.",
       "jersey": "9",
       "lastSchool": "Huntingdon HS",
+      "batsThrows": "",
       "weightLbs": 196
     },
     {
@@ -122,6 +131,7 @@
       "hometown": "Knoxville, Tenn.",
       "jersey": "10",
       "lastSchool": "Farragut HS",
+      "batsThrows": "",
       "weightLbs": 200
     },
     {
@@ -134,6 +144,7 @@
       "hometown": "Batesburg, S.C.",
       "jersey": "11",
       "lastSchool": "P27 Academy",
+      "batsThrows": "",
       "weightLbs": 217
     },
     {
@@ -146,6 +157,7 @@
       "hometown": "Memphis, Tenn.",
       "jersey": "12",
       "lastSchool": "Germantown HS",
+      "batsThrows": "",
       "weightLbs": 211
     },
     {
@@ -158,6 +170,7 @@
       "hometown": "Parker, Colo.",
       "jersey": "13",
       "lastSchool": "Grandview HS",
+      "batsThrows": "",
       "weightLbs": 212
     },
     {
@@ -170,6 +183,7 @@
       "hometown": "Dunwoody, Ga.",
       "jersey": "14",
       "lastSchool": "Wesleyan School",
+      "batsThrows": "",
       "weightLbs": 190
     },
     {
@@ -182,6 +196,7 @@
       "hometown": "Statesville, N.C.",
       "jersey": "15",
       "lastSchool": "Combine Academy",
+      "batsThrows": "",
       "weightLbs": 209
     },
     {
@@ -194,6 +209,7 @@
       "hometown": "Omaha, Neb.",
       "jersey": "16",
       "lastSchool": "Westside HS",
+      "batsThrows": "",
       "weightLbs": 196
     },
     {
@@ -206,6 +222,7 @@
       "hometown": "Gatineau, Quebec",
       "jersey": "17",
       "lastSchool": "Polyvalente Nicolas-Gatineau",
+      "batsThrows": "",
       "weightLbs": 214
     },
     {
@@ -218,6 +235,7 @@
       "hometown": "Harvest, Ala.",
       "jersey": "18",
       "lastSchool": "Sparkman HS",
+      "batsThrows": "",
       "weightLbs": 205
     },
     {
@@ -230,6 +248,7 @@
       "hometown": "Nashville, Tenn.",
       "jersey": "19",
       "lastSchool": "Donelson Christian Academy",
+      "batsThrows": "",
       "weightLbs": 181
     },
     {
@@ -242,6 +261,7 @@
       "hometown": "Johnson City, Tenn.",
       "jersey": "20",
       "lastSchool": "Daniel Boone HS",
+      "batsThrows": "",
       "weightLbs": 223
     },
     {
@@ -254,6 +274,7 @@
       "hometown": "Lewisburg, Tenn.",
       "jersey": "21",
       "lastSchool": "Columbia Academy",
+      "batsThrows": "",
       "weightLbs": 200
     },
     {
@@ -266,6 +287,7 @@
       "hometown": "La Verne, Calif.",
       "jersey": "23",
       "lastSchool": "Northview HS",
+      "batsThrows": "",
       "weightLbs": 212
     },
     {
@@ -278,6 +300,7 @@
       "hometown": "Brentwood, Calif.",
       "jersey": "25",
       "lastSchool": "De La Salle HS",
+      "batsThrows": "",
       "weightLbs": 236
     },
     {
@@ -290,6 +313,7 @@
       "hometown": "Pasadena, Calif.",
       "jersey": "27",
       "lastSchool": "St. Francis HS",
+      "batsThrows": "",
       "weightLbs": 209
     },
     {
@@ -302,6 +326,7 @@
       "hometown": "Sarasota, Fla.",
       "jersey": "28",
       "lastSchool": "IMG Academy",
+      "batsThrows": "",
       "weightLbs": 203
     },
     {
@@ -314,6 +339,7 @@
       "hometown": "Humboldt, Tenn.",
       "jersey": "29",
       "lastSchool": "Trinity Christian Academy",
+      "batsThrows": "",
       "weightLbs": 199
     },
     {
@@ -326,6 +352,7 @@
       "hometown": "Huntsville, Ala.",
       "jersey": "30",
       "lastSchool": "Huntsville HS",
+      "batsThrows": "",
       "weightLbs": 225
     },
     {
@@ -338,6 +365,7 @@
       "hometown": "Mount Juliet, Tenn.",
       "jersey": "31",
       "lastSchool": "Mount Juliet HS",
+      "batsThrows": "",
       "weightLbs": 196
     },
     {
@@ -350,6 +378,7 @@
       "hometown": "Murfreesboro, Tenn.",
       "jersey": "32",
       "lastSchool": "Blackman HS",
+      "batsThrows": "",
       "weightLbs": 207
     },
     {
@@ -362,6 +391,7 @@
       "hometown": "Franklin, Tenn.",
       "jersey": "33",
       "lastSchool": "Franklin HS",
+      "batsThrows": "",
       "weightLbs": 207
     },
     {
@@ -374,6 +404,7 @@
       "hometown": "Cave Creek, Ariz.",
       "jersey": "34",
       "lastSchool": "Cactus Shadows High School",
+      "batsThrows": "",
       "weightLbs": 206
     },
     {
@@ -386,6 +417,7 @@
       "hometown": "Johnson City, Tenn.",
       "jersey": "35",
       "lastSchool": "Blacksburg HS (SC)",
+      "batsThrows": "",
       "weightLbs": 196
     },
     {
@@ -398,6 +430,7 @@
       "hometown": "Spring Lake, Mich.",
       "jersey": "36",
       "lastSchool": "Orchard Lake St. Mary’s Prep",
+      "batsThrows": "",
       "weightLbs": 202
     },
     {
@@ -410,6 +443,7 @@
       "hometown": "Pigeon Forge, Tenn.",
       "jersey": "37",
       "lastSchool": "Pigeon Forge HS",
+      "batsThrows": "",
       "weightLbs": 194
     },
     {
@@ -422,6 +456,7 @@
       "hometown": "Crieve Hall, Tenn.",
       "jersey": "40",
       "lastSchool": "Lipscomb Academy",
+      "batsThrows": "",
       "weightLbs": 198
     },
     {
@@ -434,6 +469,7 @@
       "hometown": "Washington, Okla.",
       "jersey": "41",
       "lastSchool": "Washington HS",
+      "batsThrows": "",
       "weightLbs": 165
     },
     {
@@ -446,6 +482,7 @@
       "hometown": "Gallatin, Tenn.",
       "jersey": "43",
       "lastSchool": "Goodpasture Christian School",
+      "batsThrows": "",
       "weightLbs": 191
     },
     {
@@ -458,6 +495,7 @@
       "hometown": "Sioux Falls, S.D.",
       "jersey": "44",
       "lastSchool": "Roosevelt HS",
+      "batsThrows": "",
       "weightLbs": 250
     },
     {
@@ -470,6 +508,7 @@
       "hometown": "Memphis, Tennessee",
       "jersey": "45",
       "lastSchool": "Briarcrest Christian School",
+      "batsThrows": "",
       "weightLbs": 192
     },
     {
@@ -482,6 +521,7 @@
       "hometown": "The Woodlands, Texas",
       "jersey": "46",
       "lastSchool": "The Woodlands HS",
+      "batsThrows": "",
       "weightLbs": 174
     },
     {
@@ -494,6 +534,7 @@
       "hometown": "Buford, Ga.",
       "jersey": "48",
       "lastSchool": "Flowery Branch HS",
+      "batsThrows": "",
       "weightLbs": 193
     }
   ],

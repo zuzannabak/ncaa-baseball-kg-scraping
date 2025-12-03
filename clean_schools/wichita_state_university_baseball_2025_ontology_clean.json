@@ -1,0 +1,740 @@
+{
+  "School": {
+    "schoolId": "Wichita_State_University",
+    "name": "Wichita State University"
+  },
+  "Conference": {
+    "conferenceId": "Missouri_Valley_Conference_(MVC)",
+    "conferenceName": "Missouri Valley Conference (MVC)"
+  },
+  "Season": {
+    "seasonId": "2025",
+    "seasonYear": 2025
+  },
+  "Team": {
+    "teamId": "Wichita_State_University_baseball_2025",
+    "teamName": "Wichita State University Baseball",
+    "seasonYear": 2025
+  },
+  "Players": [
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_1",
+      "fullName": "Zeb Henry",
+      "classYear": "So",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "170 lbs",
+      "hometown": "Bartlesville, Okla. / Bartlesville HS",
+      "jersey": "1",
+      "lastSchool": "Eastern Oklahoma State College",
+      "batsThrows": "S/R",
+      "weightLbs": 170
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_2",
+      "fullName": "JC Dermody",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-4",
+      "weight": "180 lbs",
+      "hometown": "Council Bluffs, Iowa / Lewis Central HS",
+      "jersey": "3",
+      "lastSchool": "Des Moines Area CC",
+      "batsThrows": "L/L",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_3",
+      "fullName": "Mauricio Millan",
+      "classYear": "Sr",
+      "position": "C",
+      "height": "5-11",
+      "weight": "190 lbs",
+      "hometown": "El Paso, Texas / Coronado HS",
+      "jersey": "4",
+      "lastSchool": "El Paso CC",
+      "batsThrows": "R/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_4",
+      "fullName": "Camden Johnson",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "185 lbs",
+      "hometown": "Boerne, Texas",
+      "jersey": "6",
+      "lastSchool": "Boerne HS",
+      "batsThrows": "L/R",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_5",
+      "fullName": "Brock Lulewicz",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "195 lbs",
+      "hometown": "Muskego, Wis.",
+      "jersey": "7",
+      "lastSchool": "Muskego HS",
+      "batsThrows": "L/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_6",
+      "fullName": "Lane Haworth",
+      "classYear": "So",
+      "position": "OF",
+      "height": "5-10",
+      "weight": "195 lbs",
+      "hometown": "Lewisville, Texas",
+      "jersey": "8",
+      "lastSchool": "Hebron HS",
+      "batsThrows": "L/L",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_7",
+      "fullName": "Aaron Arnold",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "225 lbs",
+      "hometown": "Bentonville, Ark. / Bentonville West HS",
+      "jersey": "9",
+      "lastSchool": "Crowder College",
+      "batsThrows": "R/R",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_8",
+      "fullName": "Logan Kreske",
+      "classYear": "R-Sr",
+      "position": "C",
+      "height": "6-2",
+      "weight": "215 lbs",
+      "hometown": "Glenview, Ill. / Glenbrook South HS",
+      "jersey": "12",
+      "lastSchool": "Coastal Alabama CC",
+      "batsThrows": "R/R",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_9",
+      "fullName": "Arnad Mulamekic",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-6",
+      "weight": "230 lbs",
+      "hometown": "Rego Park, NY / Monsignor McClancy HS",
+      "jersey": "13",
+      "lastSchool": "Siena",
+      "batsThrows": "L/L",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_10",
+      "fullName": "Hunter Carlson",
+      "classYear": "Fr",
+      "position": "C",
+      "height": "6-2",
+      "weight": "215 lbs",
+      "hometown": "Hudson, Wis.",
+      "jersey": "14",
+      "lastSchool": "Hudson HS",
+      "batsThrows": "L/R",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_11",
+      "fullName": "Ryan Callahan",
+      "classYear": "R-Sr",
+      "position": "INF/OF",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Overland Park, Kan. / Blue Valley Northwest HS",
+      "jersey": "15",
+      "lastSchool": "Johnson County CC",
+      "batsThrows": "L/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_12",
+      "fullName": "Grant Adler",
+      "classYear": "R-Sr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "195 lbs",
+      "hometown": "Wichita, Kan. / Derby HS",
+      "jersey": "17",
+      "lastSchool": "Kansas",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_13",
+      "fullName": "Jordan Rogers",
+      "classYear": "R-Sr",
+      "position": "INF/OF",
+      "height": "6-0",
+      "weight": "200 lbs",
+      "hometown": "Robinson, Texas",
+      "jersey": "18",
+      "lastSchool": "Robinson HS",
+      "batsThrows": "R/R",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_14",
+      "fullName": "Melvin Blocker",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "5-8",
+      "weight": "165 lbs",
+      "hometown": "Locust Grove, Ga.",
+      "jersey": "19",
+      "lastSchool": "Locust Grove HS",
+      "batsThrows": "S/R",
+      "weightLbs": 165
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_15",
+      "fullName": "Jaden Gustafson",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "6-3",
+      "weight": "215 lbs",
+      "hometown": "Wichita, Kan.",
+      "jersey": "21",
+      "lastSchool": "Maize HS",
+      "batsThrows": "L/L",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_16",
+      "fullName": "Cole Dillon",
+      "classYear": "Sr",
+      "position": "C",
+      "height": "5-10",
+      "weight": "175 lbs",
+      "hometown": "Rockwall, Texas / Rockwall HS",
+      "jersey": "22",
+      "lastSchool": "Arizona",
+      "batsThrows": "R/R",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_17",
+      "fullName": "Jordan Black",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "225 lbs",
+      "hometown": "Shawnee, Kan.",
+      "jersey": "23",
+      "lastSchool": "Shawnee Mission North HS",
+      "batsThrows": "R/R",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_18",
+      "fullName": "Owen Washburn",
+      "classYear": "Sr",
+      "position": "INF/OF",
+      "height": "6-0",
+      "weight": "210 lbs",
+      "hometown": "Webster, Wis. / Webster HS",
+      "jersey": "25",
+      "lastSchool": "Texas Tech",
+      "batsThrows": "L/R",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_19",
+      "fullName": "MJ Seo",
+      "classYear": "R-Fr",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "190 lbs",
+      "hometown": "Dallas, Texas / Hebron HS",
+      "jersey": "26",
+      "lastSchool": "LSU",
+      "batsThrows": "R/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_20",
+      "fullName": "Caleb Anderson",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "205 lbs",
+      "hometown": "Springdale, Ark. / Shiloh Christian School",
+      "jersey": "27",
+      "lastSchool": "Johnson County CC",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_21",
+      "fullName": "Daniel Zang",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "180 lbs",
+      "hometown": "Prior Lake, Minn. / Jordan HS",
+      "jersey": "28",
+      "lastSchool": "Dakota County Technical College",
+      "batsThrows": "R/R",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_22",
+      "fullName": "Hunter Holmes",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-4",
+      "weight": "200 lbs",
+      "hometown": "Corona, Calif. / Roosevelt HS",
+      "jersey": "29",
+      "lastSchool": "Mt. San Antonio College",
+      "batsThrows": "L/L",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_23",
+      "fullName": "Gannon Snyder",
+      "classYear": "So",
+      "position": "INF/OF",
+      "height": "6-2",
+      "weight": "215 lbs",
+      "hometown": "St. Louis, Mo.",
+      "jersey": "30",
+      "lastSchool": "Parkway West HS",
+      "batsThrows": "R/R",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_24",
+      "fullName": "Karsen Richard",
+      "classYear": "R-Jr",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "225 lbs",
+      "hometown": "Little Rock, Ark. / Central Arkansas Christian HS",
+      "jersey": "31",
+      "lastSchool": "Crowder College",
+      "batsThrows": "R/R",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_25",
+      "fullName": "Peyton Walters",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "185 lbs",
+      "hometown": "Garden City, Kan. / Garden City HS",
+      "jersey": "32",
+      "lastSchool": "Garden City CC",
+      "batsThrows": "R/R",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_26",
+      "fullName": "Jeremiah Arnett",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "215 lbs",
+      "hometown": "Waco, Texas",
+      "jersey": "33",
+      "lastSchool": "Midway HS",
+      "batsThrows": "R/R",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_27",
+      "fullName": "Drew Iverson",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-4",
+      "weight": "220 lbs",
+      "hometown": "Plattsmouth, Neb.",
+      "jersey": "35",
+      "lastSchool": "Plattsmouth HS",
+      "batsThrows": "L/L",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_28",
+      "fullName": "Jace Miner",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "190 lbs",
+      "hometown": "Justin, Texas / Brookville HS",
+      "jersey": "36",
+      "lastSchool": "Oklahoma",
+      "batsThrows": "L/L",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_29",
+      "fullName": "Tyler Dobbs",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "210 lbs",
+      "hometown": "Lewisville, Texas",
+      "jersey": "38",
+      "lastSchool": "Hebron HS",
+      "batsThrows": "R/L",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_30",
+      "fullName": "Colton Vercoe",
+      "classYear": "R-Jr",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "210 lbs",
+      "hometown": "San Tan Valley, Ariz. / Poston Butte HS",
+      "jersey": "39",
+      "lastSchool": "Mesa CC",
+      "batsThrows": "R/R",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_31",
+      "fullName": "Nate Langbehn",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "215 lbs",
+      "hometown": "Rothschild, Wis.",
+      "jersey": "43",
+      "lastSchool": "DC Everest HS",
+      "batsThrows": "R/R",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_32",
+      "fullName": "Brady Hamilton",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "Edmond, Okla.",
+      "jersey": "44",
+      "lastSchool": "Deer Creek HS",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_33",
+      "fullName": "Josh Livingston",
+      "classYear": "Sr",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "215 lbs",
+      "hometown": "Prosper, Texas / Rock Hill HS",
+      "jersey": "45",
+      "lastSchool": "Crowder College",
+      "batsThrows": "L/R",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_34",
+      "fullName": "Owen Reynolds",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "5-11",
+      "weight": "185 lbs",
+      "hometown": "Wichita, Kan. / Goddard Eisenhower HS",
+      "jersey": "46",
+      "lastSchool": "Oral Roberts",
+      "batsThrows": "L/L",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_35",
+      "fullName": "Nick Potter",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "195 lbs",
+      "hometown": "Greenwood, Mo. / Lee's Summit West HS",
+      "jersey": "47",
+      "lastSchool": "Crowder College",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_36",
+      "fullName": "Jack Mount",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "190 lbs",
+      "hometown": "Val-des-Monts, Quebec / Vauxhall HS",
+      "jersey": "48",
+      "lastSchool": "Cloud County CC",
+      "batsThrows": "R/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_37",
+      "fullName": "Tucker Russell",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "170 lbs",
+      "hometown": "Olathe, Kan. / Olathe South HS",
+      "jersey": "49",
+      "lastSchool": "Highland CC",
+      "batsThrows": "L/L",
+      "weightLbs": 170
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_38",
+      "fullName": "Kam Durnin",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "195 lbs",
+      "hometown": "Camdenton, Mo.",
+      "jersey": "50",
+      "lastSchool": "Camdenton HS",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_39",
+      "fullName": "Davis Mauzy",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "6-3",
+      "weight": "195 lbs",
+      "hometown": "Meridian, Idaho / Rocky Mountain HS",
+      "jersey": "51",
+      "lastSchool": "Blue Mountain CC",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_40",
+      "fullName": "James Umbarger",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-6",
+      "weight": "220 lbs",
+      "hometown": "Leavenworth, Kan.",
+      "jersey": "52",
+      "lastSchool": "Lansing HS",
+      "batsThrows": "R/R",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "Wichita_State_University_baseball_2025_player_41",
+      "fullName": "Kaleb Duncan",
+      "classYear": "R-So",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "190 lbs",
+      "hometown": "Goodyear, Ariz. / Millenium HS",
+      "jersey": "53",
+      "lastSchool": "Golden West CC",
+      "batsThrows": "R/R",
+      "weightLbs": 190
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "Wichita_State_University",
+        "teamId": "Wichita_State_University_baseball_2025"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "Wichita_State_University",
+        "conferenceId": "Missouri_Valley_Conference_(MVC)"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "Wichita_State_University_baseball_2025",
+        "seasonId": "2025"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_1",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_2",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_3",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_4",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_5",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_6",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_7",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_8",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_9",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_10",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_11",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_12",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_13",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_14",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_15",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_16",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_17",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_18",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_19",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_20",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_21",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_22",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_23",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_24",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_25",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_26",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_27",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_28",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_29",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_30",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_31",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_32",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_33",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_34",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_35",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_36",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_37",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_38",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_39",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_40",
+        "teamId": "Wichita_State_University_baseball_2025"
+      },
+      {
+        "playerId": "Wichita_State_University_baseball_2025_player_41",
+        "teamId": "Wichita_State_University_baseball_2025"
+      }
+    ]
+  }
+}

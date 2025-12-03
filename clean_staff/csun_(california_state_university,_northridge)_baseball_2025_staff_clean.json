@@ -1,0 +1,58 @@
+{
+  "School": {
+    "schoolId": "CSUN_(California_State_University,_Northridge)",
+    "name": "CSUN (California State University, Northridge)",
+    "conference": "Big West Conference"
+  },
+  "Team": {
+    "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025",
+    "teamName": "CSUN (California State University, Northridge) Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2025_coach_1",
+      "fullName": "Eddie Cornejo",
+      "role": "Head Coach",
+      "email": "ecornejo@csun.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2025_coach_2",
+      "fullName": "Bobby Andrews",
+      "role": "Assistant Coach",
+      "email": "bobby.andrews@csun.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2025_coach_3",
+      "fullName": "Jon Strauss",
+      "role": "Assistant Coach",
+      "email": "jon.strauss@csun.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2025_coach_4",
+      "fullName": "Nate Esposito",
+      "role": "Assistant Coach",
+      "email": "nathan.esposito@csun.edu",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "CSUN_(California_State_University,_Northridge)_baseball_2025_staff_1",
+      "fullName": "Brendan Brooks",
+      "role": "Director of Player Development/Camp Coordinator",
+      "email": "brendan.brooks@csun.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "CSUN_(California_State_University,_Northridge)_baseball_2025_staff_2",
+      "fullName": "Freddy Smith",
+      "role": "Director of Players/Operations",
+      "email": "fred.smith@csun.edu",
+      "phone": ""
+    }
+  ]
+}

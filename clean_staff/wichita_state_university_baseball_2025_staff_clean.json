@@ -1,0 +1,79 @@
+{
+  "School": {
+    "schoolId": "Wichita_State_University",
+    "name": "Wichita State University",
+    "conference": "Missouri Valley Conference (MVC)"
+  },
+  "Team": {
+    "teamId": "Wichita_State_University_baseball_2025",
+    "teamName": "Wichita State University Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "Wichita_State_University_baseball_2025_coach_1",
+      "fullName": "Brian Green",
+      "role": "Head Coach",
+      "email": "baseball@goshockers.com",
+      "phone": "(316) 978-3636"
+    },
+    {
+      "coachId": "Wichita_State_University_baseball_2025_coach_2",
+      "fullName": "Anthony Claggett",
+      "role": "Assistant Head Coach/Pitching Coach",
+      "email": "aclaggett@goshockers.com",
+      "phone": "(316) 978-3636"
+    },
+    {
+      "coachId": "Wichita_State_University_baseball_2025_coach_3",
+      "fullName": "Clay Overcash",
+      "role": "Catching Coach/Recruiting Coordinator",
+      "email": "jovercash@goshockers.com",
+      "phone": "(316) 978-3636"
+    },
+    {
+      "coachId": "Wichita_State_University_baseball_2025_coach_4",
+      "fullName": "Michael Mulhollon",
+      "role": "Student Assistant Pitching Coach",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Wichita_State_University_baseball_2025_coach_5",
+      "fullName": "Faith Weekley",
+      "role": "Administrative Assistant",
+      "email": "fweekley@goshockers.com",
+      "phone": "(316) 978-3636"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Wichita_State_University_baseball_2025_staff_1",
+      "fullName": "Tad Reida",
+      "role": "Director of Operations",
+      "email": "treida@goshockers.com",
+      "phone": "(316) 978-3636"
+    },
+    {
+      "staffId": "Wichita_State_University_baseball_2025_staff_2",
+      "fullName": "Jake Meyer",
+      "role": "Graduate Assistant/Athletic Trainer",
+      "email": "jmeyer@goshockers.com",
+      "phone": "(316) 978-7599"
+    },
+    {
+      "staffId": "Wichita_State_University_baseball_2025_staff_3",
+      "fullName": "Alex Dee",
+      "role": "Assistant Director of Sports Performance - BSB, MTEN, WTEN",
+      "email": "adee@goshockers.com",
+      "phone": ""
+    },
+    {
+      "staffId": "Wichita_State_University_baseball_2025_staff_4",
+      "fullName": "Denning Gerig",
+      "role": "Associate Director of Communications/Broadcasting Manager-BSB, VB, BOWL",
+      "email": "dgerig@goshockers.com",
+      "phone": "(316) 978-5461"
+    }
+  ]
+}

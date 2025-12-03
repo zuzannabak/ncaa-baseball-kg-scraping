@@ -1,0 +1,65 @@
+{
+  "School": {
+    "schoolId": "Mississippi_State_University",
+    "name": "Mississippi State University",
+    "conference": "Southeastern Conference (SEC)"
+  },
+  "Team": {
+    "teamId": "Mississippi_State_University_baseball_2025",
+    "teamName": "Mississippi State University Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "Mississippi_State_University_baseball_2025_coach_1",
+      "fullName": "Chris Lemonis",
+      "role": "Head Baseball Coach",
+      "email": "",
+      "phone": "(662) 325-3597"
+    },
+    {
+      "coachId": "Mississippi_State_University_baseball_2025_coach_2",
+      "fullName": "Justin Parker",
+      "role": "Assistant Coach",
+      "email": "hailstatebaseball@athletics.msstate.edu",
+      "phone": "(662) 325-3597"
+    },
+    {
+      "coachId": "Mississippi_State_University_baseball_2025_coach_3",
+      "fullName": "Jake Gautreau",
+      "role": "Assistant Coach",
+      "email": "jgautreau@athletics.msstate.edu",
+      "phone": "(662) 325-3597"
+    },
+    {
+      "coachId": "Mississippi_State_University_baseball_2025_coach_4",
+      "fullName": "Kyle Cheesebrough",
+      "role": "Camps Coordinator/Assistant Coach",
+      "email": "cheese@athletics.msstate.edu",
+      "phone": "(662) 325-3597"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Mississippi_State_University_baseball_2025_staff_1",
+      "fullName": "Bobby Austin",
+      "role": "Coordinator of Baseball Player Development",
+      "email": "baustin@athletics.msstate.edu",
+      "phone": "(662) 325-3597"
+    },
+    {
+      "staffId": "Mississippi_State_University_baseball_2025_staff_2",
+      "fullName": "Roger Rodeheaver",
+      "role": "Director of Baseball Operations",
+      "email": "rrodeheaver@athletics.msstate.edu",
+      "phone": "(662) 325-3597"
+    },
+    {
+      "staffId": "Mississippi_State_University_baseball_2025_staff_3",
+      "fullName": "Blake Loper",
+      "role": "Coordinator of Baseball Operations",
+      "email": "bloper@athletics.msstate.edu",
+      "phone": "(662) 325-3597"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "School": {
+    "schoolId": "UCLA_(University_of_California,_Los_Angeles)",
+    "name": "UCLA (University of California, Los Angeles)",
+    "conference": "Pac-12 Conference"
+  },
+  "Team": {
+    "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025",
+    "teamName": "UCLA (University of California, Los Angeles) Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_coach_1",
+      "fullName": "John Savage",
+      "role": "Head Coach",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_coach_2",
+      "fullName": "Bryant Ward",
+      "role": "Assistant Coach / Recruiting Coordinator",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_coach_3",
+      "fullName": "Niko Gallego",
+      "role": "Assistant Coach",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_coach_4",
+      "fullName": "Griffin Barnes",
+      "role": "Assistant Coach",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_coach_5",
+      "fullName": "Kyle Hashimoto",
+      "role": "Athletic Performance Coach",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_staff_1",
+      "fullName": "Max Schuh",
+      "role": "Director of Operations",
+      "email": "mns@athletics.ucla.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_staff_2",
+      "fullName": "Jake Palmer",
+      "role": "Director of Player Development",
+      "email": "jpalmer@athletics.ucla.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_staff_3",
+      "fullName": "Kaitlyn Gustafson",
+      "role": "Athletic Trainer",
+      "email": "kgustafson@athletics.ucla.edu",
+      "phone": ""
+    }
+  ]
+}

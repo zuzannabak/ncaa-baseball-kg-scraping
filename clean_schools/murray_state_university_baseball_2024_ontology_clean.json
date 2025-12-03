@@ -13,7 +13,8 @@
   },
   "Team": {
     "teamId": "Murray_State_University_baseball_2024",
-    "teamName": "Murray State University Baseball"
+    "teamName": "Murray State University Baseball",
+    "seasonYear": 2024
   },
   "Players": [
     {
@@ -26,6 +27,7 @@
       "hometown": "Germantown, Tenn.",
       "jersey": "1",
       "lastSchool": "Houston HS",
+      "batsThrows": "L/R",
       "weightLbs": 185
     },
     {
@@ -38,6 +40,7 @@
       "hometown": "Lewisburg, Tenn.",
       "jersey": "2",
       "lastSchool": "Marshall County HS",
+      "batsThrows": "R/R",
       "weightLbs": 185
     },
     {
@@ -50,6 +53,7 @@
       "hometown": "White House, Tenn.",
       "jersey": "3",
       "lastSchool": "White House HS",
+      "batsThrows": "R/R",
       "weightLbs": 195
     },
     {
@@ -62,6 +66,7 @@
       "hometown": "Eddyville, Ky.",
       "jersey": "4",
       "lastSchool": "Lyon County HS",
+      "batsThrows": "L/R",
       "weightLbs": 165
     },
     {
@@ -74,6 +79,7 @@
       "hometown": "Thomasville, Ga.",
       "jersey": "5",
       "lastSchool": "Brookwood HS",
+      "batsThrows": "R/R",
       "weightLbs": 180
     },
     {
@@ -86,6 +92,7 @@
       "hometown": "Fortson, Ga.",
       "jersey": "6",
       "lastSchool": "Motlow State CC",
+      "batsThrows": "R/R",
       "weightLbs": 245
     },
     {
@@ -98,6 +105,7 @@
       "hometown": "Ellsinore, Mo.",
       "jersey": "7",
       "lastSchool": "East Carter HS",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -110,6 +118,7 @@
       "hometown": "Franklin, Tenn.",
       "jersey": "8",
       "lastSchool": "Franklin HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -122,6 +131,7 @@
       "hometown": "Weddington, N.C.",
       "jersey": "10",
       "lastSchool": "Virginia Tech",
+      "batsThrows": "L/L",
       "weightLbs": 205
     },
     {
@@ -134,6 +144,7 @@
       "hometown": "Elizabethtown, Ky.",
       "jersey": "11",
       "lastSchool": "North Hardin HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -146,6 +157,7 @@
       "hometown": "Clinton, Ky.",
       "jersey": "12",
       "lastSchool": "Graves County HS",
+      "batsThrows": "L/L",
       "weightLbs": 225
     },
     {
@@ -158,6 +170,7 @@
       "hometown": "Canton, Mich.",
       "jersey": "13",
       "lastSchool": "Plymouth HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -170,6 +183,7 @@
       "hometown": "Martin, Tenn.",
       "jersey": "14",
       "lastSchool": "Itawamba CC",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -182,6 +196,7 @@
       "hometown": "Madisonville, Ky.",
       "jersey": "15",
       "lastSchool": "Madisonville-North Hopkins HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -194,6 +209,7 @@
       "hometown": "Olive Branch, Miss.",
       "jersey": "16",
       "lastSchool": "Northeast Mississippi CC",
+      "batsThrows": "S/R",
       "weightLbs": 195
     },
     {
@@ -206,6 +222,7 @@
       "hometown": "Murfreesboro, Tenn.",
       "jersey": "17",
       "lastSchool": "Oakland HS",
+      "batsThrows": "L/R",
       "weightLbs": 205
     },
     {
@@ -218,6 +235,7 @@
       "hometown": "Breese, Ill.",
       "jersey": "18",
       "lastSchool": "Mater Dei HS",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -230,6 +248,7 @@
       "hometown": "Cadiz, Ky.",
       "jersey": "19",
       "lastSchool": "Trigg County HS",
+      "batsThrows": "L/L",
       "weightLbs": 195
     },
     {
@@ -242,6 +261,7 @@
       "hometown": "Evansville, Ind",
       "jersey": "20",
       "lastSchool": "Central HS",
+      "batsThrows": "L/L",
       "weightLbs": 185
     },
     {
@@ -254,6 +274,7 @@
       "hometown": "Lake Barrington, Ill.",
       "jersey": "21",
       "lastSchool": "Kennesaw State",
+      "batsThrows": "R/R",
       "weightLbs": 160
     },
     {
@@ -266,6 +287,7 @@
       "hometown": "North Port, Fla.",
       "jersey": "22",
       "lastSchool": "Tallahassee CC",
+      "batsThrows": "R/R",
       "weightLbs": 175
     },
     {
@@ -278,6 +300,7 @@
       "hometown": "Jacksonville, Fla.",
       "jersey": "23",
       "lastSchool": "University of South Alabama",
+      "batsThrows": "L/L",
       "weightLbs": 210
     },
     {
@@ -290,6 +313,7 @@
       "hometown": "Jackson, Tenn.",
       "jersey": "24",
       "lastSchool": "Memphis",
+      "batsThrows": "R/R",
       "weightLbs": 225
     },
     {
@@ -302,6 +326,7 @@
       "hometown": "Tuscumbia, Ala.",
       "jersey": "25",
       "lastSchool": "Deshler HS",
+      "batsThrows": "R/R",
       "weightLbs": 225
     },
     {
@@ -314,6 +339,7 @@
       "hometown": "Roselle, Ill.",
       "jersey": "27",
       "lastSchool": "Lake Park HS",
+      "batsThrows": "R/R",
       "weightLbs": 180
     },
     {
@@ -326,6 +352,7 @@
       "hometown": "Streator, Ill.",
       "jersey": "28",
       "lastSchool": "Streator HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -338,6 +365,7 @@
       "hometown": "Mayfield, Ky.",
       "jersey": "29",
       "lastSchool": "Mayfield HS",
+      "batsThrows": "",
       "weightLbs": 205
     },
     {
@@ -350,6 +378,7 @@
       "hometown": "Hopkinsville, Ky.",
       "jersey": "30",
       "lastSchool": "Hopkinsville HS",
+      "batsThrows": "R/R",
       "weightLbs": 180
     },
     {
@@ -362,6 +391,7 @@
       "hometown": "Lafayette, Ind.",
       "jersey": "31",
       "lastSchool": "Lafayette Central Catholic HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -374,6 +404,7 @@
       "hometown": "Cardiff, Calif.",
       "jersey": "33",
       "lastSchool": "Oklahoma",
+      "batsThrows": "R/R",
       "weightLbs": 230
     },
     {
@@ -386,6 +417,7 @@
       "hometown": "Trenton, Ill.",
       "jersey": "34",
       "lastSchool": "Wesclin HS",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -398,6 +430,7 @@
       "hometown": "Conway, Ark.",
       "jersey": "35",
       "lastSchool": "Crowder College",
+      "batsThrows": "L/L",
       "weightLbs": 165
     },
     {
@@ -410,6 +443,7 @@
       "hometown": "Congers, N.Y.",
       "jersey": "37",
       "lastSchool": "Clarkstown North HS",
+      "batsThrows": "L/L",
       "weightLbs": 215
     },
     {
@@ -422,6 +456,7 @@
       "hometown": "Aviston, Ill.",
       "jersey": "38",
       "lastSchool": "Mater Dei HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -434,6 +469,7 @@
       "hometown": "Bowling Green, Ky.",
       "jersey": "40",
       "lastSchool": "South Warren HS",
+      "batsThrows": "R/R",
       "weightLbs": 210
     },
     {
@@ -446,6 +482,7 @@
       "hometown": "Crown Point, Ind.",
       "jersey": "41",
       "lastSchool": "Crown Point HS",
+      "batsThrows": "R/R",
       "weightLbs": 215
     },
     {
@@ -458,6 +495,7 @@
       "hometown": "Palm Harbor, Fla.",
       "jersey": "43",
       "lastSchool": "Tarpon Springs HS",
+      "batsThrows": "R/R",
       "weightLbs": 225
     },
     {
@@ -470,6 +508,7 @@
       "hometown": "Campbellsville, Ky.",
       "jersey": "44",
       "lastSchool": "Campbellsville HS",
+      "batsThrows": "L/L",
       "weightLbs": 195
     }
   ],

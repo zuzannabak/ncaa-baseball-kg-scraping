@@ -1,0 +1,65 @@
+{
+  "School": {
+    "schoolId": "Creighton_University",
+    "name": "Creighton University",
+    "conference": "Missouri Valley Conference (MVC)"
+  },
+  "Team": {
+    "teamId": "Creighton_University_baseball_2025",
+    "teamName": "Creighton University Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "Creighton_University_baseball_2025_coach_1",
+      "fullName": "Ed Servais",
+      "role": "Head Coach",
+      "email": "eservais@creighton.edu",
+      "phone": "(402) 280-2483"
+    },
+    {
+      "coachId": "Creighton_University_baseball_2025_coach_2",
+      "fullName": "Mark Kingston",
+      "role": "Associate Head Coach",
+      "email": "markkingston@creighton.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Creighton_University_baseball_2025_coach_3",
+      "fullName": "Billy Mohl",
+      "role": "Assistant Coach/Pitching Coach",
+      "email": "billymohl@creighton.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Creighton_University_baseball_2025_coach_4",
+      "fullName": "Mike Current",
+      "role": "Assistant Coach",
+      "email": "michaelcurrent@creighton.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Creighton_University_baseball_2025_coach_5",
+      "fullName": "Dr. Chuck Rosipal",
+      "role": "Team Orthopedic Physician",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Creighton_University_baseball_2025_staff_1",
+      "fullName": "Chad Miller",
+      "role": "Director of Baseball Operations & Player Development",
+      "email": "ChadMiller@creighton.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "Creighton_University_baseball_2025_staff_2",
+      "fullName": "Curtis Self",
+      "role": "Associate Athletic Trainer (BSB, Insurance Coordinator)",
+      "email": "curtisself@creighton.edu",
+      "phone": "(402) 280-5554"
+    }
+  ]
+}

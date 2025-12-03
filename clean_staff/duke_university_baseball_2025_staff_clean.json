@@ -1,0 +1,58 @@
+{
+  "School": {
+    "schoolId": "Duke_University",
+    "name": "Duke University",
+    "conference": "Atlantic Coast Conference (ACC)"
+  },
+  "Team": {
+    "teamId": "Duke_University_baseball_2025",
+    "teamName": "Duke University Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "Duke_University_baseball_2025_coach_1",
+      "fullName": "Chris Pollard",
+      "role": "Head Coach",
+      "email": "christopher.pollard@duke.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Duke_University_baseball_2025_coach_2",
+      "fullName": "Brady Kirkpatrick",
+      "role": "Associate Head Coach/Pitching Coach",
+      "email": "brady.kirkpatrick@duke.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Duke_University_baseball_2025_coach_3",
+      "fullName": "Eric Tyler",
+      "role": "Hitting Coach/Recruiting Coordinator",
+      "email": "eric.tyler@duke.edu",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Duke_University_baseball_2025_staff_1",
+      "fullName": "Derek Simmons",
+      "role": "Infielders/Recruiting Coordinator",
+      "email": "derek.simmons@duke.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "Duke_University_baseball_2025_staff_2",
+      "fullName": "Brian Sakowski",
+      "role": "Director of Recruiting, Analytics and Player Development",
+      "email": "brian.sakowski@duke.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "Duke_University_baseball_2025_staff_3",
+      "fullName": "John Natoli",
+      "role": "Director of Baseball Operations/Pitching Development",
+      "email": "john.natoli@duke.edu",
+      "phone": ""
+    }
+  ]
+}

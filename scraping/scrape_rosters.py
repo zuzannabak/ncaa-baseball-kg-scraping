@@ -7,124 +7,133 @@ import os  # dodaj, jeśli jeszcze nie ma
 
 OUTPUT_DIR = "raw_schools"
 
+YEARS = [2024, 2025]
 # ---------- CONFIG: YOUR 20 SCHOOLS ----------
 
-SCHOOLS = [
+BASE_SCHOOLS = [
     {
         "school_name": "Duke University",
         "conference": "Atlantic Coast Conference (ACC)",
-        "url": "https://goduke.com/sports/baseball/roster/2024",
-        "season_year": 2024,
+        "url": "https://goduke.com/sports/baseball/roster/{year}",
     },
     {
         "school_name": "Florida State University",
         "conference": "Atlantic Coast Conference (ACC)",
-        "url": "https://seminoles.com/sports/baseball/roster/2024",
-        "season_year": 2024,
+        "url": "https://seminoles.com/sports/baseball/roster/{year}",
     },
     {
         "school_name": "NC State University",
         "conference": "Atlantic Coast Conference (ACC)",
-        "url": "https://gopack.com/sports/baseball/roster/2024",
-        "season_year": 2024,
+        "url": "https://gopack.com/sports/baseball/roster/{year}",
     },
     {
         "school_name": "University of Louisville",
         "conference": "Atlantic Coast Conference (ACC)",
-        "url": "https://gocards.com/sports/baseball/roster",
-        "season_year": 2024,
+        "url": "https://gocards.com/sports/baseball/roster/{year}",
     },
     {
         "school_name": "University of North Carolina",
         "conference": "Atlantic Coast Conference (ACC)",
-        "url": "https://goheels.com/sports/baseball/roster",
-        "season_year": 2024,
+        "url": "https://goheels.com/sports/baseball/roster/{year}",
     },
     {
         "school_name": "Cal Poly (California Polytechnic State University)",
         "conference": "Big West Conference",
-        "url": "https://gopoly.com/sports/baseball/roster/2024",
-        "season_year": 2024,
+        "url": "https://gopoly.com/sports/baseball/roster/{year}",
     },
     {
         "school_name": "CSUN (California State University, Northridge)",
         "conference": "Big West Conference",
-        "url": "https://gomatadors.com/sports/baseball/roster/2024",
-        "season_year": 2024,
+        "url": "https://gomatadors.com/sports/baseball/roster/{year}",
     },
 
     # --- TU ZACZYNAJĄ SIĘ 4 SZKOŁY ZE SPECJALNYM PARSEREM (VIEW2) ---
     {
         "school_name": "Cal State Fullerton (California State University, Fullerton)",
         "conference": "Big West Conference",
-        "url": "https://fullertontitans.com/sports/baseball/roster/2024",
-        "season_year": 2024,
+        "url": "https://fullertontitans.com/sports/baseball/roster/{year}",
     },
     {
         "school_name": "UC Santa Barbara (University of California, Santa Barbara)",
         "conference": "Big West Conference",
-        "url": "https://ucsbgauchos.com/sports/baseball/roster/2024?view=2",
-        "season_year": 2024,
+        "url": "https://ucsbgauchos.com/sports/baseball/roster/{year}?view=2",
     },
     {
         "school_name": "University of Evansville",
         "conference": "Missouri Valley Conference (MVC)",
-        "url": "https://gopurpleaces.com/sports/baseball/roster/2024",
-        "season_year": 2024,
+        "url": "https://gopurpleaces.com/sports/baseball/roster/{year}",
     },
     {
         "school_name": "Wichita State University",
         "conference": "Missouri Valley Conference (MVC)",
-        "url": "https://goshockers.com/sports/baseball/roster/2024",
-        "season_year": 2024,
+        "url": "https://goshockers.com/sports/baseball/roster/{year}",
     },
     # --- KONIEC 4 SPECJALNYCH ---
 
     {
         "school_name": "Creighton University",
         "conference": "Missouri Valley Conference (MVC)",
-        "url": "https://gocreighton.com/sports/baseball/roster/2024",
-        "season_year": 2024,
+        "url": "https://gocreighton.com/sports/baseball/roster/{year}",
     },
     {
         "school_name": "Murray State University",
         "conference": "Missouri Valley Conference (MVC)",
-        "url": "https://goracers.com/sports/baseball/roster/2024",
-        "season_year": 2024,
+        "url": "https://goracers.com/sports/baseball/roster/{year}",
     },
     {
         "school_name": "Oregon State University",
         "conference": "Pac-12 Conference",
-        "url": "https://osubeavers.com/sports/baseball/roster",
-        "season_year": 2026,  # strona pokazuje obecny roster jako 2026
+        "url": "https://osubeavers.com/sports/baseball/roster/{year}",
     },
     {
         "school_name": "UCLA (University of California, Los Angeles)",
         "conference": "Pac-12 Conference",
-        "url": "https://uclabruins.com/sports/baseball/roster/2024",
-        "season_year": 2024,
+        "url": "https://uclabruins.com/sports/baseball/roster/{year}",
     },
     {
         "school_name": "University of Washington",
         "conference": "Pac-12 Conference",
-        "url": "https://gohuskies.com/sports/baseball/roster/2024",
-        "season_year": 2024,
+        "url": "https://gohuskies.com/sports/baseball/roster/{year}",
     },
     {
         "school_name": "Mississippi State University",
         "conference": "Southeastern Conference (SEC)",
-        "url": "https://hailstate.com/sports/baseball/roster/2024",
-        "season_year": 2024,
+        "url": "https://hailstate.com/sports/baseball/roster/{year}",
     },
     {
         "school_name": "University of Tennessee",
         "conference": "Southeastern Conference (SEC)",
-        "url": "https://utsports.com/sports/baseball/roster/2024",
-        "season_year": 2024,
+        "url": "https://utsports.com/sports/baseball/roster/{year}",
     },
 ]
 
+SCHOOLS = []
 
+for base in BASE_SCHOOLS:
+    tmpl = base["url"]          # 👈 WAŻNE: 'url', nie 'url_template'
+
+    # jeśli URL ma {year} → generujemy wpis dla każdego roku
+    if "{year}" in tmpl:
+        for year in YEARS:
+            SCHOOLS.append(
+                {
+                    "school_name": base["school_name"],
+                    "conference": base["conference"],
+                    "url": tmpl.format(year=year),
+                    "season_year": year,
+                }
+            )
+    else:
+        # brak {year} w URL → używamy tylko pierwszego roku z YEARS
+        year = YEARS[0]
+        SCHOOLS.append(
+            {
+                "school_name": base["school_name"],
+                "conference": base["conference"],
+                "url": tmpl,
+                "season_year": year,
+            }
+        )
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; ZuzannaScraper/1.0)"
@@ -165,9 +174,10 @@ def parse_pos_block(text: str):
     'Position C/1B Academic Year Gr.Height 6' 3'' Weight 225 lbs Custom Field 1 R/R'
     """
     position = class_year = height = weight = ""
+    bats_throws = ""  # np. "R/R", "L/R" itd.
 
     if "Position" not in text:
-        return position, class_year, height, weight
+        return position, class_year, height, weight, bats_throws
 
     part = text.split("Position", 1)[1].strip()
 
@@ -184,12 +194,23 @@ def parse_pos_block(text: str):
     if "Weight" in part:
         height, rest = part.split("Weight", 1)
         height = height.strip()
-        weight = rest.strip()
-        # wywalamy końcówkę 'Custom Field ...' jeśli jest
-        if "Custom Field" in weight:
-            weight = weight.split("Custom Field", 1)[0].strip()
 
-    return position, class_year, height, weight
+        # spróbuj wyciągnąć R/R z fragmentu po "Custom Field"
+        if "Custom Field" in rest:
+            before_cf, cf_tail = rest.split("Custom Field", 1)
+            weight = before_cf.strip()
+
+            # szukamy tokenu w stylu "R/R", "L/R", "R/L", "L/L", "S/R" itd.
+            for tok in cf_tail.split():
+                tok_clean = tok.strip(" ,.;")
+                if "/" in tok_clean and len(tok_clean) <= 4:
+                    bats_throws = tok_clean
+                    break
+        else:
+            weight = rest.strip()
+
+    return position, class_year, height, weight, bats_throws
+
 
 
 def parse_home_block(text: str):
@@ -282,7 +303,7 @@ def parse_player_from_jersey_anchor(jersey_anchor: Tag):
         end = min(end_candidates) if end_candidates else len(block_text)
         home_segment = block_text[start:end].strip()
 
-    position, class_year, height, weight = parse_pos_block(pos_segment)
+    position, class_year, height, weight, bats_throws = parse_pos_block(pos_segment)
     hometown, last_school = parse_home_block(home_segment)
 
     return {
@@ -294,7 +315,9 @@ def parse_player_from_jersey_anchor(jersey_anchor: Tag):
         "weight": weight,
         "hometown": hometown,
         "last_school": last_school,
+        "bats_throws": bats_throws,  # << NOWE POLE
     }
+
 
 
 def parse_sidearm_roster_accessible(soup: BeautifulSoup):
@@ -357,6 +380,7 @@ def build_ontology_json_for_school(school_cfg, players):
         "Team": {
             "teamId": team_id,
             "teamName": f"{school_cfg['school_name']} Baseball",
+            "seasonYear": school_cfg["season_year"],   # 👈 DODANE
         },
         "Players": [],
     }
@@ -386,11 +410,13 @@ def build_ontology_json_for_school(school_cfg, players):
             "hometown": p.get("hometown", ""),
             "jersey": p.get("jersey", ""),
             "lastSchool": p.get("last_school", ""),
+            "batsThrows": p.get("bats_throws", ""),  # << NOWE POLE W KG
         }
         nodes["Players"].append(node_player)
         relationships["PLAYS_FOR"].append(
             {"playerId": player_id, "teamId": team_id}
         )
+
 
     return {
         "School": nodes["School"],

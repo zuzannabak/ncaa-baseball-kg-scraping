@@ -1,0 +1,107 @@
+{
+  "School": {
+    "schoolId": "Oregon_State_University",
+    "name": "Oregon State University",
+    "conference": "Pac-12 Conference"
+  },
+  "Team": {
+    "teamId": "Oregon_State_University_baseball_2025",
+    "teamName": "Oregon State University Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "Oregon_State_University_baseball_2025_coach_1",
+      "fullName": "Mitch Canham",
+      "role": "Pat Casey Head Baseball Coach",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Oregon_State_University_baseball_2025_coach_2",
+      "fullName": "Rich Dorman",
+      "role": "Assistant Coach",
+      "email": "richard.dorman@oregonstate.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Oregon_State_University_baseball_2025_coach_3",
+      "fullName": "Ryan Gipson",
+      "role": "Assistant Coach",
+      "email": "ryan.gipson@oregonstate.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Oregon_State_University_baseball_2025_coach_4",
+      "fullName": "Joey Wong",
+      "role": "Assistant Coach",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Oregon_State_University_baseball_2025_coach_5",
+      "fullName": "Brady Kasper",
+      "role": "Undergraduate Assistant Coach",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Oregon_State_University_baseball_2025_coach_6",
+      "fullName": "Toni Langhans",
+      "role": "Sports Dietitian",
+      "email": "toni.langhans@oregonstate.edu",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Oregon_State_University_baseball_2025_staff_1",
+      "fullName": "Ryan Gorton",
+      "role": "Director of Operations",
+      "email": "ryan.gorton@oregonstate.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "Oregon_State_University_baseball_2025_staff_2",
+      "fullName": "Brad Brown",
+      "role": "Director of Baseball Analytics and Advanced Scouting",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "staffId": "Oregon_State_University_baseball_2025_staff_3",
+      "fullName": "Zak Taylor",
+      "role": "Director of Beaver Baseball Development",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "staffId": "Oregon_State_University_baseball_2025_staff_4",
+      "fullName": "Jeremy Ainsworth",
+      "role": "Assistant Athletic Trainer",
+      "email": "Jeremy.ainsworth@oregonstate.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "Oregon_State_University_baseball_2025_staff_5",
+      "fullName": "Hank Hager",
+      "role": "Assistant Athletic Director, Integrated Communications",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "staffId": "Oregon_State_University_baseball_2025_staff_6",
+      "fullName": "Mike Henriques",
+      "role": "Assistant Sports Performance Coordinator (Baseball and Men's Golf)",
+      "email": "michael.henriques@oregonstate.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "Oregon_State_University_baseball_2025_staff_7",
+      "fullName": "Dr. Doug Aukerman",
+      "role": "Senior Associate Athletic Director, Sports Medicine",
+      "email": "doug.aukerman@oregonstate.edu",
+      "phone": ""
+    }
+  ]
+}

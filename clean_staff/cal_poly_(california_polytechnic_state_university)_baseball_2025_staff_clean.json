@@ -1,0 +1,58 @@
+{
+  "School": {
+    "schoolId": "Cal_Poly_(California_Polytechnic_State_University)",
+    "name": "Cal Poly (California Polytechnic State University)",
+    "conference": "Big West Conference"
+  },
+  "Team": {
+    "teamId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2025",
+    "teamName": "Cal Poly (California Polytechnic State University) Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2025_coach_1",
+      "fullName": "Larry Lee",
+      "role": "Head Coach",
+      "email": "llee@calpoly.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2025_coach_2",
+      "fullName": "Seth Moir",
+      "role": "Assistant Coach (Pitchers)",
+      "email": "smoir@calpoly.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2025_coach_3",
+      "fullName": "Jason Gill",
+      "role": "Assistant Coach",
+      "email": "jgill32@calpoly.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2025_coach_4",
+      "fullName": "Logan Denholm",
+      "role": "Assistant Coach",
+      "email": "ldenholm@calpoly.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2025_coach_5",
+      "fullName": "Nick Meyer",
+      "role": "Student Assistant Coach",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2025_staff_1",
+      "fullName": "Mark Armstrong",
+      "role": "Director of Quality Control",
+      "email": "marmst11@calpoly.edu",
+      "phone": ""
+    }
+  ]
+}

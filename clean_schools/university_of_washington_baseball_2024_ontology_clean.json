@@ -13,7 +13,8 @@
   },
   "Team": {
     "teamId": "University_of_Washington_baseball_2024",
-    "teamName": "University of Washington Baseball"
+    "teamName": "University of Washington Baseball",
+    "seasonYear": 2024
   },
   "Players": [
     {
@@ -26,6 +27,7 @@
       "hometown": "Seattle, Wash.",
       "jersey": "0",
       "lastSchool": "Bishop Blanchet",
+      "batsThrows": "L/R",
       "weightLbs": 215
     },
     {
@@ -38,6 +40,7 @@
       "hometown": "Fife, Wash.",
       "jersey": "1",
       "lastSchool": "Fife",
+      "batsThrows": "R/R",
       "weightLbs": 210
     },
     {
@@ -50,6 +53,7 @@
       "hometown": "Poulsbo, Wash.",
       "jersey": "2",
       "lastSchool": "North Kitsap",
+      "batsThrows": "R/R",
       "weightLbs": 210
     },
     {
@@ -62,6 +66,7 @@
       "hometown": "Portland, Ore.",
       "jersey": "3",
       "lastSchool": "Lincoln",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -74,6 +79,7 @@
       "hometown": "Vancouver, Wash.",
       "jersey": "4",
       "lastSchool": "Columbia River",
+      "batsThrows": "R/R",
       "weightLbs": 195
     },
     {
@@ -86,6 +92,7 @@
       "hometown": "Bellevue, Wash.",
       "jersey": "5",
       "lastSchool": "Newport",
+      "batsThrows": "L/L",
       "weightLbs": 200
     },
     {
@@ -98,6 +105,7 @@
       "hometown": "Maple Valley, Wash.",
       "jersey": "6",
       "lastSchool": "Tahoma",
+      "batsThrows": "S/R",
       "weightLbs": 185
     },
     {
@@ -110,6 +118,7 @@
       "hometown": "Sammamish, Wash.",
       "jersey": "7",
       "lastSchool": "Skyline",
+      "batsThrows": "L/L",
       "weightLbs": 175
     },
     {
@@ -122,6 +131,7 @@
       "hometown": "San Diego, Calif.",
       "jersey": "9",
       "lastSchool": "Santa Fe Christian",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -134,6 +144,7 @@
       "hometown": "Tokyo, Japan",
       "jersey": "10",
       "lastSchool": "JSerra Catholic",
+      "batsThrows": "R/R",
       "weightLbs": 175
     },
     {
@@ -146,6 +157,7 @@
       "hometown": "Riverside, Calif.",
       "jersey": "11",
       "lastSchool": "Martin Luther King",
+      "batsThrows": "R/R",
       "weightLbs": 195
     },
     {
@@ -158,6 +170,7 @@
       "hometown": "Lake Oswego, Ore.",
       "jersey": "12",
       "lastSchool": "Lakeridge",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -170,6 +183,7 @@
       "hometown": "Kailua, Hawai'i",
       "jersey": "13",
       "lastSchool": "Saint Louis",
+      "batsThrows": "R/R",
       "weightLbs": 220
     },
     {
@@ -182,6 +196,7 @@
       "hometown": "Redmond, Wash.",
       "jersey": "15",
       "lastSchool": "Eastlake",
+      "batsThrows": "L/L",
       "weightLbs": 225
     },
     {
@@ -194,6 +209,7 @@
       "hometown": "San Jose, Calif.",
       "jersey": "16",
       "lastSchool": "Saint Francis",
+      "batsThrows": "L/R",
       "weightLbs": 205
     },
     {
@@ -206,6 +222,7 @@
       "hometown": "Phoenix, Ariz.",
       "jersey": "17",
       "lastSchool": "Shadow Mountain",
+      "batsThrows": "L/R",
       "weightLbs": 195
     },
     {
@@ -218,6 +235,7 @@
       "hometown": "Ladner, British Columbia",
       "jersey": "18",
       "lastSchool": "Foothills Composite",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -230,6 +248,7 @@
       "hometown": "Kent, Wash.",
       "jersey": "20",
       "lastSchool": "Kentlake",
+      "batsThrows": "R/R",
       "weightLbs": 215
     },
     {
@@ -242,6 +261,7 @@
       "hometown": "Vancouver, Wash.",
       "jersey": "21",
       "lastSchool": "Columbia River",
+      "batsThrows": "R/L",
       "weightLbs": 205
     },
     {
@@ -254,6 +274,7 @@
       "hometown": "Woodinville, Wash.",
       "jersey": "22",
       "lastSchool": "Woodinville",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -266,6 +287,7 @@
       "hometown": "Ladera Ranch, Calif.",
       "jersey": "23",
       "lastSchool": "JSerra Catholic",
+      "batsThrows": "L/R",
       "weightLbs": 195
     },
     {
@@ -278,6 +300,7 @@
       "hometown": "Sammamish, Wash.",
       "jersey": "24",
       "lastSchool": "Eastside Catholic",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -290,6 +313,7 @@
       "hometown": "Seattle, Wash.",
       "jersey": "25",
       "lastSchool": "Ingraham",
+      "batsThrows": "R/R",
       "weightLbs": 235
     },
     {
@@ -302,6 +326,7 @@
       "hometown": "Trabuco Canyon, Calif.",
       "jersey": "26",
       "lastSchool": "Santa Margarita Catholic",
+      "batsThrows": "R/R",
       "weightLbs": 175
     },
     {
@@ -314,6 +339,7 @@
       "hometown": "Menlo Park, Calif.",
       "jersey": "27",
       "lastSchool": "Saint Francis",
+      "batsThrows": "L/L",
       "weightLbs": 210
     },
     {
@@ -326,6 +352,7 @@
       "hometown": "Sammamish, Wash.",
       "jersey": "28",
       "lastSchool": "Eastlake",
+      "batsThrows": "R/R",
       "weightLbs": 225
     },
     {
@@ -338,6 +365,7 @@
       "hometown": "Seattle, Wash.",
       "jersey": "31",
       "lastSchool": "Seattle Prep",
+      "batsThrows": "R/R",
       "weightLbs": 225
     },
     {
@@ -350,6 +378,7 @@
       "hometown": "Bellevue, Wash.",
       "jersey": "32",
       "lastSchool": "Interlake",
+      "batsThrows": "R/R",
       "weightLbs": 210
     },
     {
@@ -362,6 +391,7 @@
       "hometown": "Aliso Viejo, Calif.",
       "jersey": "33",
       "lastSchool": "Crean Lutheran",
+      "batsThrows": "L/L",
       "weightLbs": 195
     },
     {
@@ -374,6 +404,7 @@
       "hometown": "Vacaville, Calif.",
       "jersey": "34",
       "lastSchool": "Vacaville",
+      "batsThrows": "L/L",
       "weightLbs": 250
     },
     {
@@ -386,6 +417,7 @@
       "hometown": "Newcastle, Wash.",
       "jersey": "35",
       "lastSchool": "Liberty",
+      "batsThrows": "L/R",
       "weightLbs": 235
     },
     {
@@ -398,6 +430,7 @@
       "hometown": "Ponte Vedra Beach, Fla.",
       "jersey": "36",
       "lastSchool": "Suffield Academy",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -410,6 +443,7 @@
       "hometown": "Camas, Wash.",
       "jersey": "38",
       "lastSchool": "Camas",
+      "batsThrows": "L/L",
       "weightLbs": 205
     },
     {
@@ -422,6 +456,7 @@
       "hometown": "Poulsbo, Wash.",
       "jersey": "39",
       "lastSchool": "North Kitsap",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -434,6 +469,7 @@
       "hometown": "Yakima, Wash.",
       "jersey": "40",
       "lastSchool": "West Valley",
+      "batsThrows": "L/L",
       "weightLbs": 275
     },
     {
@@ -446,6 +482,7 @@
       "hometown": "Dublin, Calif.",
       "jersey": "41",
       "lastSchool": "Dublin",
+      "batsThrows": "L/L",
       "weightLbs": 200
     },
     {
@@ -458,6 +495,7 @@
       "hometown": "Vancouver, Wash.",
       "jersey": "42",
       "lastSchool": "Union",
+      "batsThrows": "L/L",
       "weightLbs": 170
     },
     {
@@ -470,6 +508,7 @@
       "hometown": "Mercer Island, Wash.",
       "jersey": "44",
       "lastSchool": "Mercer Island",
+      "batsThrows": "R/R",
       "weightLbs": 210
     },
     {
@@ -482,6 +521,7 @@
       "hometown": "Signal Hill, Calif.",
       "jersey": "51",
       "lastSchool": "Millikan",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -494,6 +534,7 @@
       "hometown": "Kalama, Wash.",
       "jersey": "55",
       "lastSchool": "Kalama",
+      "batsThrows": "R/R",
       "weightLbs": 195
     },
     {
@@ -506,6 +547,7 @@
       "hometown": "Shoreline, Wash.",
       "jersey": "99",
       "lastSchool": "Shorewood",
+      "batsThrows": "R/R",
       "weightLbs": 210
     }
   ],

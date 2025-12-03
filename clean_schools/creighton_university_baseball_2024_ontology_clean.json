@@ -13,7 +13,8 @@
   },
   "Team": {
     "teamId": "Creighton_University_baseball_2024",
-    "teamName": "Creighton University Baseball"
+    "teamName": "Creighton University Baseball",
+    "seasonYear": 2024
   },
   "Players": [
     {
@@ -26,6 +27,7 @@
       "hometown": "Omaha, Neb.",
       "jersey": "1",
       "lastSchool": "Ralston HS",
+      "batsThrows": "L/R",
       "weightLbs": 190
     },
     {
@@ -38,6 +40,7 @@
       "hometown": "Omaha, Neb.",
       "jersey": "2",
       "lastSchool": "Omaha Gross Catholic HS",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -50,6 +53,7 @@
       "hometown": "Wheaton, Ill.",
       "jersey": "3",
       "lastSchool": "Wheaton Warrenville South HS",
+      "batsThrows": "R/R",
       "weightLbs": 210
     },
     {
@@ -62,6 +66,7 @@
       "hometown": "Orono, Minn.",
       "jersey": "4",
       "lastSchool": "Orono HS",
+      "batsThrows": "R/R",
       "weightLbs": 210
     },
     {
@@ -74,6 +79,7 @@
       "hometown": "DeForest, Wis.",
       "jersey": "5",
       "lastSchool": "DeForest HS",
+      "batsThrows": "L/R",
       "weightLbs": 200
     },
     {
@@ -86,6 +92,7 @@
       "hometown": "Encinitas, Calif.",
       "jersey": "7",
       "lastSchool": "La Costa Canyon HS",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -98,6 +105,7 @@
       "hometown": "Peru, Ill.",
       "jersey": "10",
       "lastSchool": "La Salle-Peru HS",
+      "batsThrows": "R/R",
       "weightLbs": 210
     },
     {
@@ -110,6 +118,7 @@
       "hometown": "Woodbury, Minn.",
       "jersey": "11",
       "lastSchool": "East Ridge HS",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -122,6 +131,7 @@
       "hometown": "Gig Harbor, Wash.",
       "jersey": "12",
       "lastSchool": "Gig Harbor HS",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -134,6 +144,7 @@
       "hometown": "Thunder Bay, Ontario, Canada",
       "jersey": "13",
       "lastSchool": "St. Ignatius HS",
+      "batsThrows": "R/R",
       "weightLbs": 185
     },
     {
@@ -146,6 +157,7 @@
       "hometown": "Blair, Neb.",
       "jersey": "14",
       "lastSchool": "Blair HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -158,6 +170,7 @@
       "hometown": "Mountainside, N.J.",
       "jersey": "15",
       "lastSchool": "St. Peter’s Prep",
+      "batsThrows": "L/R",
       "weightLbs": 195
     },
     {
@@ -170,6 +183,7 @@
       "hometown": "Elkhorn, Neb.",
       "jersey": "16",
       "lastSchool": "Elkhorn HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -182,6 +196,7 @@
       "hometown": "Exeter, N.H.",
       "jersey": "17",
       "lastSchool": "St. Thomas Aquinas HS",
+      "batsThrows": "L/L",
       "weightLbs": 205
     },
     {
@@ -194,6 +209,7 @@
       "hometown": "Orland Park, Ill.",
       "jersey": "18",
       "lastSchool": "Carl Sandburg HS",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -206,6 +222,7 @@
       "hometown": "Overland Park, Kan.",
       "jersey": "20",
       "lastSchool": "Blue Valley HS",
+      "batsThrows": "L/L",
       "weightLbs": 185
     },
     {
@@ -218,6 +235,7 @@
       "hometown": "Madison, Wis.",
       "jersey": "21",
       "lastSchool": "La Follette HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -230,6 +248,7 @@
       "hometown": "Omaha, Neb.",
       "jersey": "22",
       "lastSchool": "Elkhorn South HS",
+      "batsThrows": "R/R",
       "weightLbs": 180
     },
     {
@@ -242,6 +261,7 @@
       "hometown": "Lake Charles, La.",
       "jersey": "23",
       "lastSchool": "Welsh HS",
+      "batsThrows": "R/R",
       "weightLbs": 155
     },
     {
@@ -254,6 +274,7 @@
       "hometown": "Naperville, Ill.",
       "jersey": "24",
       "lastSchool": "Neuqua Valley HS",
+      "batsThrows": "L/R",
       "weightLbs": 175
     },
     {
@@ -266,6 +287,7 @@
       "hometown": "Brooklyn Park, Minn.",
       "jersey": "27",
       "lastSchool": "Champlin Park HS",
+      "batsThrows": "L/L",
       "weightLbs": 215
     },
     {
@@ -278,6 +300,7 @@
       "hometown": "Orange, Calif.",
       "jersey": "28",
       "lastSchool": "JSerra Catholic HS",
+      "batsThrows": "R/R",
       "weightLbs": 220
     },
     {
@@ -290,6 +313,7 @@
       "hometown": "Minot, N.D.",
       "jersey": "29",
       "lastSchool": "Minot HS",
+      "batsThrows": "L/L",
       "weightLbs": 200
     },
     {
@@ -302,6 +326,7 @@
       "hometown": "La Grange, Ill.",
       "jersey": "30",
       "lastSchool": "Mount Carmel HS",
+      "batsThrows": "L/L",
       "weightLbs": 160
     },
     {
@@ -314,6 +339,7 @@
       "hometown": "Springfield, Ill.",
       "jersey": "31",
       "lastSchool": "Lanphier HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -326,6 +352,7 @@
       "hometown": "Santa Teresa, N.M.",
       "jersey": "32",
       "lastSchool": "Santa Teresa HS",
+      "batsThrows": "R/R",
       "weightLbs": 220
     },
     {
@@ -338,6 +365,7 @@
       "hometown": "Omaha, Neb.",
       "jersey": "33",
       "lastSchool": "Millard West HS",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -350,6 +378,7 @@
       "hometown": "La Grange, Ill.",
       "jersey": "34",
       "lastSchool": "Fenwick HS",
+      "batsThrows": "R/R",
       "weightLbs": 230
     },
     {
@@ -362,6 +391,7 @@
       "hometown": "Grafton, Wis.",
       "jersey": "35",
       "lastSchool": "Grafton HS",
+      "batsThrows": "L/L",
       "weightLbs": 190
     },
     {
@@ -374,6 +404,7 @@
       "hometown": "Omaha, Neb.",
       "jersey": "36",
       "lastSchool": "Concordia HS",
+      "batsThrows": "L/R",
       "weightLbs": 175
     },
     {
@@ -386,6 +417,7 @@
       "hometown": "Waddell, Ariz.",
       "jersey": "37",
       "lastSchool": "Shadow Ridge HS",
+      "batsThrows": "L/L",
       "weightLbs": 225
     },
     {
@@ -398,6 +430,7 @@
       "hometown": "Wilmette, Ill.",
       "jersey": "38",
       "lastSchool": "Loyola Academy",
+      "batsThrows": "R/R",
       "weightLbs": 220
     },
     {
@@ -410,6 +443,7 @@
       "hometown": "Blaine, Minn.",
       "jersey": "39",
       "lastSchool": "Centennial HS",
+      "batsThrows": "L/L",
       "weightLbs": 200
     },
     {
@@ -422,6 +456,7 @@
       "hometown": "North St. Paul, Minn.",
       "jersey": "40",
       "lastSchool": "St. Thomas Academy",
+      "batsThrows": "R/R",
       "weightLbs": 195
     },
     {
@@ -434,6 +469,7 @@
       "hometown": "Rolling Hills Estates, Calif.",
       "jersey": "43",
       "lastSchool": "Peninsula HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -446,6 +482,7 @@
       "hometown": "Huntington, N.Y.",
       "jersey": "44",
       "lastSchool": "Chaminade HS",
+      "batsThrows": "R/R",
       "weightLbs": 220
     },
     {
@@ -458,6 +495,7 @@
       "hometown": "Prairie Village, Kan.",
       "jersey": "45",
       "lastSchool": "Shawnee Mission East HS",
+      "batsThrows": "R/R",
       "weightLbs": 185
     },
     {
@@ -470,6 +508,7 @@
       "hometown": "Lake Elmo, Minn.",
       "jersey": "46",
       "lastSchool": "Stillwater HS",
+      "batsThrows": "R/R",
       "weightLbs": 195
     },
     {
@@ -482,6 +521,7 @@
       "hometown": "Delano, Minn.",
       "jersey": "50",
       "lastSchool": "Delano HS",
+      "batsThrows": "L/L",
       "weightLbs": 220
     },
     {
@@ -494,6 +534,7 @@
       "hometown": "Wayne, N.J.",
       "jersey": "55",
       "lastSchool": "Bergen Catholic HS",
+      "batsThrows": "R/R",
       "weightLbs": 200
     }
   ],

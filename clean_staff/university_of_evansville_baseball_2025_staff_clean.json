@@ -1,0 +1,50 @@
+{
+  "School": {
+    "schoolId": "University_of_Evansville",
+    "name": "University of Evansville",
+    "conference": "Missouri Valley Conference (MVC)"
+  },
+  "Team": {
+    "teamId": "University_of_Evansville_baseball_2025",
+    "teamName": "University of Evansville Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "University_of_Evansville_baseball_2025_coach_1",
+      "fullName": "Wes Carroll",
+      "role": "Head Baseball Coach",
+      "email": "wc2@evansville.edu",
+      "phone": "(812) 488-2059"
+    },
+    {
+      "coachId": "University_of_Evansville_baseball_2025_coach_2",
+      "fullName": "Matt Wollenzin",
+      "role": "Assistant Baseball Coach",
+      "email": "MW312@evansville.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Evansville_baseball_2025_coach_3",
+      "fullName": "Jarrett Blunt",
+      "role": "Pitching Coach",
+      "email": "jb928@evansville.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Evansville_baseball_2025_coach_4",
+      "fullName": "Griffin McCormick",
+      "role": "Assistant Baseball Coach",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Evansville_baseball_2025_coach_5",
+      "fullName": "Brendan Hord",
+      "role": "Graduate Assistant Baseball Coach",
+      "email": "bh312@evansville.edu",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": []
+}

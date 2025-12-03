@@ -13,25 +13,105 @@
     "Coaches": [
       {
         "coachId": "Duke_University_baseball_2024_coach_1",
-        "fullName": "Corey Muscara",
-        "role": "Head Coach"
+        "fullName": "Chris Pollard",
+        "role": "Head Coach",
+        "email": "christopher.pollard@duke.edu",
+        "phone": ""
       },
       {
         "coachId": "Duke_University_baseball_2024_coach_2",
-        "fullName": "Scott Loiseau",
-        "role": "Associate Head Coach"
+        "fullName": "Ty Blankmeyer",
+        "role": "Assistant Coach/Recruiting Coordinator",
+        "email": "taylor.blankmeyer@duke.edu",
+        "phone": ""
       },
       {
         "coachId": "Duke_University_baseball_2024_coach_3",
-        "fullName": "Matt Wessinger",
-        "role": "Hitting Coach"
+        "fullName": "Brady Kirkpatrick",
+        "role": "Pitching Coach",
+        "email": "brady.kirkpatrick@duke.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "Duke_University_baseball_2024_coach_4",
+        "fullName": "Eric Tyler",
+        "role": "Hitting Coach",
+        "email": "eric.tyler@duke.edu",
+        "phone": ""
       }
     ],
     "SupportStaff": [
       {
         "staffId": "Duke_University_baseball_2024_staff_1",
-        "fullName": "Will Craig",
-        "role": "Recruiting Coordinator"
+        "fullName": "Brian Sakowski",
+        "role": "Director of Recruiting, Analytics and Player Development",
+        "email": "brian.sakowski@duke.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "Duke_University_baseball_2024_staff_2",
+        "fullName": "Daniel Jung",
+        "role": "Director of Baseball Operations",
+        "email": "danny.jung@duke.edu",
+        "phone": ""
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Duke_University",
+      "name": "Duke University",
+      "conference": "Atlantic Coast Conference (ACC)"
+    },
+    "Team": {
+      "teamId": "Duke_University_baseball_2025",
+      "teamName": "Duke University Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "Duke_University_baseball_2025_coach_1",
+        "fullName": "Chris Pollard",
+        "role": "Head Coach",
+        "email": "christopher.pollard@duke.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "Duke_University_baseball_2025_coach_2",
+        "fullName": "Brady Kirkpatrick",
+        "role": "Associate Head Coach/Pitching Coach",
+        "email": "brady.kirkpatrick@duke.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "Duke_University_baseball_2025_coach_3",
+        "fullName": "Eric Tyler",
+        "role": "Hitting Coach/Recruiting Coordinator",
+        "email": "eric.tyler@duke.edu",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Duke_University_baseball_2025_staff_1",
+        "fullName": "Derek Simmons",
+        "role": "Infielders/Recruiting Coordinator",
+        "email": "derek.simmons@duke.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "Duke_University_baseball_2025_staff_2",
+        "fullName": "Brian Sakowski",
+        "role": "Director of Recruiting, Analytics and Player Development",
+        "email": "brian.sakowski@duke.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "Duke_University_baseball_2025_staff_3",
+        "fullName": "John Natoli",
+        "role": "Director of Baseball Operations/Pitching Development",
+        "email": "john.natoli@duke.edu",
+        "phone": ""
       }
     ]
   },
@@ -50,89 +130,216 @@
       {
         "coachId": "Florida_State_University_baseball_2024_coach_1",
         "fullName": "Link Jarrett",
-        "role": "Head Coach"
+        "role": "Head Coach",
+        "email": "coachjarrett@fsu.edu",
+        "phone": "(850) 644-1073"
       },
       {
         "coachId": "Florida_State_University_baseball_2024_coach_2",
         "fullName": "Ty Megahee",
-        "role": "Assistant Coach/Recruiting Coordinator"
+        "role": "Assistant Coach/Recruiting Coordinator",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "Florida_State_University_baseball_2024_coach_3",
         "fullName": "Micah Posey",
-        "role": "Assistant Coach/Pitching Coach"
+        "role": "Assistant Coach/Pitching Coach",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "Florida_State_University_baseball_2024_coach_4",
         "fullName": "Brad Vanderglas",
-        "role": "Assistant Coach"
+        "role": "Assistant Coach",
+        "email": "",
+        "phone": "(850) 644-1073"
       },
       {
         "coachId": "Florida_State_University_baseball_2024_coach_5",
-        "fullName": "Seiler Griffin",
-        "role": "Graduate Assistant"
+        "fullName": "Bryce Hulett",
+        "role": "Graduate Assistant",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "Florida_State_University_baseball_2024_coach_6",
-        "fullName": "Jack O'Reilly",
-        "role": "Graduate Assistant"
+        "fullName": "Jamie Burleson",
+        "role": "Strength & Conditioning Coach",
+        "email": "jburleson@fsu.edu",
+        "phone": "(850) 645-4607"
       },
       {
         "coachId": "Florida_State_University_baseball_2024_coach_7",
-        "fullName": "Jamie Burleson",
-        "role": "Strength & Conditioning Coach"
+        "fullName": "Nicki Bedgood",
+        "role": "Administrative Associate",
+        "email": "nbedgood@fsu.edu",
+        "phone": "(850) 644-1073"
       },
       {
         "coachId": "Florida_State_University_baseball_2024_coach_8",
-        "fullName": "Nicki Bedgood",
-        "role": "Administrative Associate"
-      },
-      {
-        "coachId": "Florida_State_University_baseball_2024_coach_9",
-        "fullName": "Charlie Healy",
-        "role": "Public Relations"
-      },
-      {
-        "coachId": "Florida_State_University_baseball_2024_coach_10",
         "fullName": "Stephen Ponder",
-        "role": "Baseball Oversight"
+        "role": "Baseball Oversight",
+        "email": "sb-president-ceo@fsu.edu",
+        "phone": ""
       }
     ],
     "SupportStaff": [
       {
         "staffId": "Florida_State_University_baseball_2024_staff_1",
-        "fullName": "Drew Linder",
-        "role": "Director of Baseball Operations"
+        "fullName": "Rob Collison",
+        "role": "Quality Control & Catching, Pitching Analyst",
+        "email": "",
+        "phone": ""
       },
       {
         "staffId": "Florida_State_University_baseball_2024_staff_2",
-        "fullName": "Rob Collison",
-        "role": "Quality Control & Catching, Pitching Analyst"
+        "fullName": "Phil Montano",
+        "role": "Athletic Trainer",
+        "email": "pm23n@fsu.edu",
+        "phone": ""
       },
       {
         "staffId": "Florida_State_University_baseball_2024_staff_3",
-        "fullName": "Randy Burdette",
-        "role": "Director of Program Development"
+        "fullName": "Sean Guite",
+        "role": "Director of Baseball Operations",
+        "email": "sguite@fsu.edu",
+        "phone": "(850) 644-1073"
       },
       {
         "staffId": "Florida_State_University_baseball_2024_staff_4",
+        "fullName": "Randy Burdette",
+        "role": "Director of Program Development",
+        "email": "",
+        "phone": ""
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Florida_State_University",
+      "name": "Florida State University",
+      "conference": "Atlantic Coast Conference (ACC)"
+    },
+    "Team": {
+      "teamId": "Florida_State_University_baseball_2025",
+      "teamName": "Florida State University Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "Florida_State_University_baseball_2025_coach_1",
+        "fullName": "Link Jarrett",
+        "role": "Head Coach",
+        "email": "coachjarrett@fsu.edu",
+        "phone": "(850) 644-1073"
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2025_coach_2",
+        "fullName": "Ty Megahee",
+        "role": "Assistant Coach/Recruiting Coordinator",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2025_coach_3",
+        "fullName": "Micah Posey",
+        "role": "Assistant Coach/Pitching Coach",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2025_coach_4",
+        "fullName": "Brad Vanderglas",
+        "role": "Assistant Coach",
+        "email": "",
+        "phone": "(850) 644-1073"
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2025_coach_5",
+        "fullName": "Jamie Burleson",
+        "role": "Strength & Conditioning Coach",
+        "email": "jburleson@fsu.edu",
+        "phone": "(850) 645-4607"
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2025_coach_6",
+        "fullName": "Sebastian Jimenez",
+        "role": "Graduate Assistant",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2025_coach_7",
+        "fullName": "Nicki Bedgood",
+        "role": "Administrative Associate",
+        "email": "nbedgood@fsu.edu",
+        "phone": "(850) 644-1073"
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2025_coach_8",
+        "fullName": "Charlie Healy",
+        "role": "Public Relations",
+        "email": "chealy2@fsu.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "Florida_State_University_baseball_2025_coach_9",
+        "fullName": "Stephen Ponder",
+        "role": "Baseball Oversight",
+        "email": "sb-president-ceo@fsu.edu",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Florida_State_University_baseball_2025_staff_1",
+        "fullName": "Rob Collison",
+        "role": "Quality Control & Catching, Pitching Analyst",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "staffId": "Florida_State_University_baseball_2025_staff_2",
+        "fullName": "Drew Linder",
+        "role": "Director of Baseball Operations",
+        "email": "klinder@fsu.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "Florida_State_University_baseball_2025_staff_3",
+        "fullName": "Randy Burdette",
+        "role": "Director of Program Development",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "staffId": "Florida_State_University_baseball_2025_staff_4",
         "fullName": "Phil Montano",
-        "role": "Athletic Trainer"
+        "role": "Athletic Trainer",
+        "email": "pm23n@fsu.edu",
+        "phone": ""
       },
       {
-        "staffId": "Florida_State_University_baseball_2024_staff_5",
+        "staffId": "Florida_State_University_baseball_2025_staff_5",
         "fullName": "Jacob Frye",
-        "role": "Equipment Coordinator"
+        "role": "Equipment Coordinator",
+        "email": "jtfrye@fsu.edu",
+        "phone": ""
       },
       {
-        "staffId": "Florida_State_University_baseball_2024_staff_6",
+        "staffId": "Florida_State_University_baseball_2025_staff_6",
         "fullName": "Andrew Zoch",
-        "role": "Creative Video Coordinator"
+        "role": "Creative Video Coordinator",
+        "email": "apz21@fsu.edu",
+        "phone": ""
       },
       {
-        "staffId": "Florida_State_University_baseball_2024_staff_7",
+        "staffId": "Florida_State_University_baseball_2025_staff_7",
         "fullName": "Logan Wesolowski",
-        "role": "Assistant Director of Marketing"
+        "role": "Assistant Director of Marketing",
+        "email": "lmw23a@fsu.edu",
+        "phone": "(850) 644-8623"
       }
     ]
   },
@@ -151,119 +358,314 @@
       {
         "coachId": "NC_State_University_baseball_2024_coach_1",
         "fullName": "Elliott Avent",
-        "role": "Head Coach"
+        "role": "Head Coach",
+        "email": "ncstatebaseball@ncsu.edu",
+        "phone": "(919) 515-3613"
       },
       {
         "coachId": "NC_State_University_baseball_2024_coach_2",
         "fullName": "Chris Hart",
-        "role": "Associate Head Coach"
+        "role": "Associate Head Coach",
+        "email": "cjhart@ncsu.edu",
+        "phone": "(919) 515-3613"
       },
       {
         "coachId": "NC_State_University_baseball_2024_coach_3",
         "fullName": "Clint Chrysler",
-        "role": "Pitching Coach"
+        "role": "Pitching Coach",
+        "email": "rcchrysl@ncsu.edu",
+        "phone": "(919) 515-3613"
       },
       {
         "coachId": "NC_State_University_baseball_2024_coach_4",
         "fullName": "Bo Robinson",
-        "role": "Assistant Coach"
+        "role": "Assistant Coach",
+        "email": "barobin4@ncsu.edu",
+        "phone": "(919) 515-3613"
       },
       {
         "coachId": "NC_State_University_baseball_2024_coach_5",
-        "fullName": "Michael McCaughtry",
-        "role": "Assistant Strength & Conditioning Coach"
+        "fullName": "Mason Cook",
+        "role": "Graduate Manager",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "NC_State_University_baseball_2024_coach_6",
-        "fullName": "Brady Austin",
-        "role": "Graduate Manager"
+        "fullName": "Andrew Kissell",
+        "role": "Team Manager",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "NC_State_University_baseball_2024_coach_7",
-        "fullName": "Sam Thilman",
-        "role": "Student Manager"
+        "fullName": "Tyler DeJong",
+        "role": "Team Manager",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "NC_State_University_baseball_2024_coach_8",
-        "fullName": "Eli McCoy",
-        "role": "Student Manager"
+        "fullName": "Sam Thilman",
+        "role": "Team Manager",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "NC_State_University_baseball_2024_coach_9",
-        "fullName": "Brendan Roe",
-        "role": "Student Manager"
+        "fullName": "Eli McCoy",
+        "role": "Team Manager",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "NC_State_University_baseball_2024_coach_10",
-        "fullName": "Bryce Thaxton",
-        "role": "Student Manager"
-      },
-      {
-        "coachId": "NC_State_University_baseball_2024_coach_11",
-        "fullName": "Stephen Bollenbacher",
-        "role": "Student Manager"
-      },
-      {
-        "coachId": "NC_State_University_baseball_2024_coach_12",
-        "fullName": "Jake Cunningham",
-        "role": "Assistant AD/Compliance (Women's Basketball, Baseball, Women's Soccer, Swim & Dive)"
+        "fullName": "Dr. Ariane Smith Machin",
+        "role": "Sport Psychologist",
+        "email": "alsmithm@ncsu.edu",
+        "phone": "(919) 515-4658"
       }
     ],
     "SupportStaff": [
       {
         "staffId": "NC_State_University_baseball_2024_staff_1",
-        "fullName": "Tyler Stocum",
-        "role": "Director of Operations"
+        "fullName": "Michael Salamino",
+        "role": "Director of Operations",
+        "email": "mjsalami@ncsu.edu",
+        "phone": "(919) 515-5913"
       },
       {
         "staffId": "NC_State_University_baseball_2024_staff_2",
-        "fullName": "J.T. Jarrett",
-        "role": "Director of Player & Program Development"
+        "fullName": "Joshua Fisher",
+        "role": "Director of Baseball Analytics",
+        "email": "jofisher@ncsu.edu",
+        "phone": "(919) 515-5913"
       },
       {
         "staffId": "NC_State_University_baseball_2024_staff_3",
-        "fullName": "Joshua Fisher",
-        "role": "Director of Baseball Analytics"
+        "fullName": "J.T. Jarrett",
+        "role": "Director of Player & Program Development",
+        "email": "jtjarret@ncsu.edu",
+        "phone": "(919) 515-5913"
       },
       {
         "staffId": "NC_State_University_baseball_2024_staff_4",
-        "fullName": "Haley Hart",
-        "role": "Director of Administration for Baseball & Tennis"
+        "fullName": "Gabe Button",
+        "role": "Associate Director of Strength & Conditioning (Baseball, Men's Tennis)",
+        "email": "grbutton@ncsu.edu",
+        "phone": "(919) 513-4324"
       },
       {
         "staffId": "NC_State_University_baseball_2024_staff_5",
         "fullName": "Scott Ensell",
-        "role": "Athletic Trainer"
+        "role": "Athletic Trainer",
+        "email": "sdensell@ncsu.edu",
+        "phone": "(919) 513-2111"
       },
       {
         "staffId": "NC_State_University_baseball_2024_staff_6",
-        "fullName": "Cal Tomasic",
-        "role": "Equipment Manager - Doak Field - Baseball, Men's & Women's Tennis"
+        "fullName": "Haley Hart",
+        "role": "Director of Administration for Baseball & Tennis",
+        "email": "hewalke2@ncsu.edu",
+        "phone": "(919) 515-3613"
       },
       {
         "staffId": "NC_State_University_baseball_2024_staff_7",
-        "fullName": "Brad Brown",
-        "role": "Senior Associate AD/Facilities & Operations"
+        "fullName": "Tyler Stocum",
+        "role": "Graduate Manager/Equipment Manager",
+        "email": "tstocum@ncsu.edu",
+        "phone": "(919) 515-3613"
       },
       {
         "staffId": "NC_State_University_baseball_2024_staff_8",
-        "fullName": "Jennifer Womack",
-        "role": "Associate Director (baseball, w. basketball)"
+        "fullName": "Cal Tomasic",
+        "role": "Graduate Manager/Equipment Manager",
+        "email": "",
+        "phone": ""
       },
       {
         "staffId": "NC_State_University_baseball_2024_staff_9",
-        "fullName": "Brandon Mostyn",
-        "role": "Assistant Athletics Communications Director (secondary football / baseball)"
+        "fullName": "Megan Johnston",
+        "role": "Assistant Director of Creative Video",
+        "email": "mmjohnst@ncsu.edu",
+        "phone": ""
       },
       {
         "staffId": "NC_State_University_baseball_2024_staff_10",
-        "fullName": "Megan Johnston",
-        "role": "Assistant Director of Creative Video"
+        "fullName": "Tyler Hotz",
+        "role": "Assistant Athletics Communications Director (baseball / w. soccer)",
+        "email": "thotz@ncsu.edu",
+        "phone": ""
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "NC_State_University",
+      "name": "NC State University",
+      "conference": "Atlantic Coast Conference (ACC)"
+    },
+    "Team": {
+      "teamId": "NC_State_University_baseball_2025",
+      "teamName": "NC State University Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "NC_State_University_baseball_2025_coach_1",
+        "fullName": "Elliott Avent",
+        "role": "Head Coach",
+        "email": "ncstatebaseball@ncsu.edu",
+        "phone": "(919) 515-3613"
       },
       {
-        "staffId": "NC_State_University_baseball_2024_staff_11",
-        "fullName": "Rachel Conway",
-        "role": "Assistant AD/Mental Health & Performance Psychology"
+        "coachId": "NC_State_University_baseball_2025_coach_2",
+        "fullName": "Chris Hart",
+        "role": "Associate Head Coach",
+        "email": "cjhart@ncsu.edu",
+        "phone": "(919) 515-3613"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2025_coach_3",
+        "fullName": "Clint Chrysler",
+        "role": "Pitching Coach",
+        "email": "rcchrysl@ncsu.edu",
+        "phone": "(919) 515-3613"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2025_coach_4",
+        "fullName": "Bo Robinson",
+        "role": "Assistant Coach",
+        "email": "barobin4@ncsu.edu",
+        "phone": "(919) 515-3613"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2025_coach_5",
+        "fullName": "Michael McCaughtry",
+        "role": "Assistant Strength & Conditioning Coach",
+        "email": "mpmccaug@ncsu.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "NC_State_University_baseball_2025_coach_6",
+        "fullName": "Cal Tomasic",
+        "role": "Graduate Manager",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "NC_State_University_baseball_2025_coach_7",
+        "fullName": "Brady Austin",
+        "role": "Graduate Manager",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "NC_State_University_baseball_2025_coach_8",
+        "fullName": "Andrew Kissell",
+        "role": "Team Manager",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "NC_State_University_baseball_2025_coach_9",
+        "fullName": "Sam Thilman",
+        "role": "Team Manager",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "NC_State_University_baseball_2025_coach_10",
+        "fullName": "Eli McCoy",
+        "role": "Team Manager",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "NC_State_University_baseball_2025_coach_11",
+        "fullName": "Dr. Ariane Smith Machin",
+        "role": "Sport Psychologist",
+        "email": "alsmithm@ncsu.edu",
+        "phone": "(919) 515-4658"
+      },
+      {
+        "coachId": "NC_State_University_baseball_2025_coach_12",
+        "fullName": "Jake Cunningham",
+        "role": "Assistant AD/Compliance (Women's Basketball, Baseball, Women's Soccer, Swim & Dive)",
+        "email": "jrcunni2@ncsu.edu",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "NC_State_University_baseball_2025_staff_1",
+        "fullName": "Michael Salamino",
+        "role": "Director of Operations",
+        "email": "mjsalami@ncsu.edu",
+        "phone": "(919) 515-5913"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2025_staff_2",
+        "fullName": "J.T. Jarrett",
+        "role": "Director of Player & Program Development",
+        "email": "jtjarret@ncsu.edu",
+        "phone": "(919) 515-5913"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2025_staff_3",
+        "fullName": "Joshua Fisher",
+        "role": "Director of Baseball Analytics",
+        "email": "jofisher@ncsu.edu",
+        "phone": "(919) 515-5913"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2025_staff_4",
+        "fullName": "Scott Ensell",
+        "role": "Athletic Trainer",
+        "email": "sdensell@ncsu.edu",
+        "phone": "(919) 513-2111"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2025_staff_5",
+        "fullName": "Haley Hart",
+        "role": "Director of Administration for Baseball & Tennis",
+        "email": "hewalke2@ncsu.edu",
+        "phone": "(919) 515-3613"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2025_staff_6",
+        "fullName": "Tyler Stocum",
+        "role": "Equipment Manager",
+        "email": "tstocum@ncsu.edu",
+        "phone": "(919) 515-3613"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2025_staff_7",
+        "fullName": "Jennifer Womack",
+        "role": "Associate Director (baseball, w. basketball)",
+        "email": "jmkoch@ncsu.edu",
+        "phone": "(919) 513-1983"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2025_staff_8",
+        "fullName": "Brandon Mostyn",
+        "role": "Assistant Athletics Communications Director (secondary football / baseball)",
+        "email": "bamostyn@ncsu.edu",
+        "phone": "(248) 836-8364"
+      },
+      {
+        "staffId": "NC_State_University_baseball_2025_staff_9",
+        "fullName": "Megan Johnston",
+        "role": "Assistant Director of Creative Video",
+        "email": "mmjohnst@ncsu.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "NC_State_University_baseball_2025_staff_10",
+        "fullName": "Kyle Collins",
+        "role": "Director of Creative Services",
+        "email": "kdcolli2@ncsu.edu",
+        "phone": ""
       }
     ]
   },
@@ -282,59 +684,174 @@
       {
         "coachId": "University_of_Louisville_baseball_2024_coach_1",
         "fullName": "Dan McDonnell",
-        "role": "Head Coach"
+        "role": "Head Coach",
+        "email": "dan@GoCards.com",
+        "phone": ""
       },
       {
         "coachId": "University_of_Louisville_baseball_2024_coach_2",
         "fullName": "Roger Williams",
-        "role": "Associate Head Coach/Pitching"
+        "role": "Associate Head Coach/Pitching",
+        "email": "roger@GoCards.com",
+        "phone": ""
       },
       {
         "coachId": "University_of_Louisville_baseball_2024_coach_3",
         "fullName": "Eric Snider",
-        "role": "Assistant Coach/Recruiting Coordinator"
+        "role": "Assistant Coach/Recruiting Coordinator",
+        "email": "eric@GoCards.com",
+        "phone": ""
       },
       {
         "coachId": "University_of_Louisville_baseball_2024_coach_4",
         "fullName": "Adam Vrable",
-        "role": "Assistant Coach"
+        "role": "Assistant Coach",
+        "email": "adamv@GoCards.com",
+        "phone": ""
       },
       {
         "coachId": "University_of_Louisville_baseball_2024_coach_5",
         "fullName": "Savanah Feldpausch",
-        "role": "Sports Dietitian"
+        "role": "Sports Dietitian",
+        "email": "savanah@GoCards.com",
+        "phone": ""
       },
       {
         "coachId": "University_of_Louisville_baseball_2024_coach_6",
-        "fullName": "Nieko Torres",
-        "role": "Senior Perfomance Coach"
+        "fullName": "Rance Terry",
+        "role": "Senior Performance Coach",
+        "email": "rance@GoCards.com",
+        "phone": ""
       }
     ],
     "SupportStaff": [
       {
         "staffId": "University_of_Louisville_baseball_2024_staff_1",
         "fullName": "Brian Mundorf",
-        "role": "Director of Operations"
+        "role": "Director of Operations",
+        "email": "brianm@GoCards.com",
+        "phone": ""
       },
       {
         "staffId": "University_of_Louisville_baseball_2024_staff_2",
         "fullName": "Michael Allman",
-        "role": "Director/Baseball Player Development"
+        "role": "Director/Baseball Player Development",
+        "email": "michaela@GoCards.com",
+        "phone": ""
       },
       {
         "staffId": "University_of_Louisville_baseball_2024_staff_3",
-        "fullName": "Josh Gruber",
-        "role": "Athletic Trainer"
+        "fullName": "Oliver Cross",
+        "role": "Assistant Equipment Manager",
+        "email": "",
+        "phone": ""
       },
       {
         "staffId": "University_of_Louisville_baseball_2024_staff_4",
-        "fullName": "Rachel Overton",
-        "role": "Associate Director/Academic Services"
+        "fullName": "Josh Gruber",
+        "role": "Athletic Trainer",
+        "email": "joshg@GoCards.com",
+        "phone": ""
       },
       {
         "staffId": "University_of_Louisville_baseball_2024_staff_5",
+        "fullName": "Rachel Overton",
+        "role": "Associate Director/Academic Services",
+        "email": "rachelo@GoCards.com",
+        "phone": ""
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "University_of_Louisville",
+      "name": "University of Louisville",
+      "conference": "Atlantic Coast Conference (ACC)"
+    },
+    "Team": {
+      "teamId": "University_of_Louisville_baseball_2025",
+      "teamName": "University of Louisville Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "University_of_Louisville_baseball_2025_coach_1",
+        "fullName": "Dan McDonnell",
+        "role": "Head Coach",
+        "email": "dan@GoCards.com",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Louisville_baseball_2025_coach_2",
+        "fullName": "Roger Williams",
+        "role": "Associate Head Coach/Pitching",
+        "email": "roger@GoCards.com",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Louisville_baseball_2025_coach_3",
+        "fullName": "Eric Snider",
+        "role": "Assistant Coach/Recruiting Coordinator",
+        "email": "eric@GoCards.com",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Louisville_baseball_2025_coach_4",
+        "fullName": "Adam Vrable",
+        "role": "Assistant Coach",
+        "email": "adamv@GoCards.com",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Louisville_baseball_2025_coach_5",
+        "fullName": "Savanah Feldpausch",
+        "role": "Sports Dietitian",
+        "email": "savanah@GoCards.com",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Louisville_baseball_2025_coach_6",
+        "fullName": "Nieko Torres",
+        "role": "Senior Perfomance Coach",
+        "email": "nieko@GoCards.com",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "University_of_Louisville_baseball_2025_staff_1",
+        "fullName": "Brian Mundorf",
+        "role": "Director of Operations",
+        "email": "brianm@GoCards.com",
+        "phone": ""
+      },
+      {
+        "staffId": "University_of_Louisville_baseball_2025_staff_2",
+        "fullName": "Michael Allman",
+        "role": "Director/Baseball Player Development",
+        "email": "michaela@GoCards.com",
+        "phone": ""
+      },
+      {
+        "staffId": "University_of_Louisville_baseball_2025_staff_3",
+        "fullName": "Josh Gruber",
+        "role": "Athletic Trainer",
+        "email": "joshg@GoCards.com",
+        "phone": ""
+      },
+      {
+        "staffId": "University_of_Louisville_baseball_2025_staff_4",
+        "fullName": "Rachel Overton",
+        "role": "Associate Director/Academic Services",
+        "email": "rachelo@GoCards.com",
+        "phone": ""
+      },
+      {
+        "staffId": "University_of_Louisville_baseball_2025_staff_5",
         "fullName": "Reese Sturgeon",
-        "role": "Assistant Equipment Manager"
+        "role": "Assistant Equipment Manager",
+        "email": "reese@GoCards.com",
+        "phone": ""
       }
     ]
   },
@@ -353,109 +870,342 @@
       {
         "coachId": "University_of_North_Carolina_baseball_2024_coach_1",
         "fullName": "Scott Forbes",
-        "role": "Head Coach"
+        "role": "Head Coach",
+        "email": "cahicks@unc.edu",
+        "phone": "(919) 962-2351"
       },
       {
         "coachId": "University_of_North_Carolina_baseball_2024_coach_2",
         "fullName": "Bryant Gaines",
-        "role": "Associate Head Coach / Pitching Coach"
+        "role": "Assistant Head Coach / Pitching Coach",
+        "email": "unc-baseball@unc.edu",
+        "phone": "(919) 962-2351"
       },
       {
         "coachId": "University_of_North_Carolina_baseball_2024_coach_3",
         "fullName": "Jesse Wierzbicki",
-        "role": "Assistant Coach / Hitting Coach / Infielders & Catchers"
+        "role": "Assistant Coach / Hitting Coach / Infielders & Catchers",
+        "email": "unc-baseball@unc.edu",
+        "phone": "(919) 962-2351"
       },
       {
         "coachId": "University_of_North_Carolina_baseball_2024_coach_4",
         "fullName": "Scott Jackson",
-        "role": "Assistant Coach/Recruiting Coordinator"
+        "role": "Assistant Coach/Recruiting Coordinator",
+        "email": "unc-baseball@unc.edu",
+        "phone": "(919) 962-2351"
       },
       {
         "coachId": "University_of_North_Carolina_baseball_2024_coach_5",
-        "fullName": "Carter Hicks",
-        "role": "General Manager"
+        "fullName": "Brandon Riley",
+        "role": "Undergraduate Assistant Coach",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "University_of_North_Carolina_baseball_2024_coach_6",
         "fullName": "Daniel Wilkerson",
-        "role": "Assistant to the Head Coach and Clubhouse/Equipment Manager"
+        "role": "Assistant to the Head Coach and Clubhouse/Equipment Manager",
+        "email": "dwilk@unc.edu",
+        "phone": "(919) 962-2351"
       },
       {
         "coachId": "University_of_North_Carolina_baseball_2024_coach_7",
-        "fullName": "Kate Douglas",
-        "role": "Administrative Assistant"
+        "fullName": "Joan Holt",
+        "role": "Administrative Assistant",
+        "email": "jholt@unc.edu",
+        "phone": "(919) 962-2351"
       },
       {
         "coachId": "University_of_North_Carolina_baseball_2024_coach_8",
-        "fullName": "Josie Carver",
-        "role": "Student Manager"
+        "fullName": "Hunt Bailey",
+        "role": "Student Manager",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "University_of_North_Carolina_baseball_2024_coach_9",
-        "fullName": "Grayson Guy",
-        "role": "Student Manager"
+        "fullName": "Josie Carver",
+        "role": "Student Manager",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "University_of_North_Carolina_baseball_2024_coach_10",
-        "fullName": "Sam Heimowitz",
-        "role": "Student Manager"
+        "fullName": "Grayson Guy",
+        "role": "Student Manager",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "University_of_North_Carolina_baseball_2024_coach_11",
-        "fullName": "J.B. Sebastiano",
-        "role": "Student Manager"
+        "fullName": "Sam Heimowitz",
+        "role": "Student Manager",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "University_of_North_Carolina_baseball_2024_coach_12",
-        "fullName": "Dylan Slowik",
-        "role": "Student Manager"
+        "fullName": "J.B. Sebastiano",
+        "role": "Student Manager",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "University_of_North_Carolina_baseball_2024_coach_13",
+        "fullName": "Lewis Dubrowski",
+        "role": "Data Analytics",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_14",
+        "fullName": "Liam Jackson",
+        "role": "Bullpen Catcher",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_15",
+        "fullName": "Cael Laird",
+        "role": "Bullpen Catcher",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2024_coach_16",
         "fullName": "Will Staats",
-        "role": "Bullpen Catcher"
+        "role": "Bullpen Catcher",
+        "email": "",
+        "phone": ""
       }
     ],
     "SupportStaff": [
       {
         "staffId": "University_of_North_Carolina_baseball_2024_staff_1",
         "fullName": "Jason Howell",
-        "role": "Director of Pitching Performance, Development and Analytics"
+        "role": "Director of Pitching Performance, Development and Analytics",
+        "email": "unc-baseball@unc.edu",
+        "phone": "(919) 962-2351"
       },
       {
         "staffId": "University_of_North_Carolina_baseball_2024_staff_2",
         "fullName": "Dave Arendas",
-        "role": "Director of Baseball Operations"
+        "role": "Director of Baseball Operations",
+        "email": "arendas@unc.edu",
+        "phone": "(919) 962-6999"
       },
       {
         "staffId": "University_of_North_Carolina_baseball_2024_staff_3",
-        "fullName": "Greg Gatz",
-        "role": "Assistant Athletic Director/Director of Strength & Conditioning for Olympic Sports"
+        "fullName": "Carter Hicks",
+        "role": "Director of Player And Program Development",
+        "email": "cahicks@unc.edu",
+        "phone": "(919) 962-2351"
       },
       {
         "staffId": "University_of_North_Carolina_baseball_2024_staff_4",
-        "fullName": "Terri Jo Rucinski",
-        "role": "Head Athletic Trainer"
+        "fullName": "Greg Gatz",
+        "role": "Assistant Athletic Director/Director of Strength & Conditioning for Olympic Sports",
+        "email": "ggg@uncaa.unc.edu",
+        "phone": "(919) 962-1402"
       },
       {
         "staffId": "University_of_North_Carolina_baseball_2024_staff_5",
-        "fullName": "Dr. Jeni Shannon",
-        "role": "Director, Mental Health and Performance Psychology"
+        "fullName": "Terri Jo Rucinski",
+        "role": "Head Athletic Trainer",
+        "email": "tjrucinski@uncaa.unc.edu",
+        "phone": "(919) 962-2067"
       },
       {
         "staffId": "University_of_North_Carolina_baseball_2024_staff_6",
-        "fullName": "Allison Keim",
-        "role": "Associate Director of Sports Nutrition"
+        "fullName": "Dr. Jeni Shannon",
+        "role": "Director, Mental Health and Performance Psychology",
+        "email": "jenishannon@unc.edu",
+        "phone": "(919) 966-3655"
       },
       {
         "staffId": "University_of_North_Carolina_baseball_2024_staff_7",
-        "fullName": "Megan Maxwell",
-        "role": "Graduate Assistant Athletic Trainer"
+        "fullName": "Allison Keim",
+        "role": "Associate Director of Sports Nutrition",
+        "email": "keima@unc.edu",
+        "phone": "(919) 966-6548"
       },
       {
         "staffId": "University_of_North_Carolina_baseball_2024_staff_8",
+        "fullName": "T'Era Brown",
+        "role": "Graduate Assistant Athletic Trainer",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2024_staff_9",
+        "fullName": "Megan Maxwell",
+        "role": "Graduate Assistant Athletic Trainer",
+        "email": "",
+        "phone": ""
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "University_of_North_Carolina",
+      "name": "University of North Carolina",
+      "conference": "Atlantic Coast Conference (ACC)"
+    },
+    "Team": {
+      "teamId": "University_of_North_Carolina_baseball_2025",
+      "teamName": "University of North Carolina Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "University_of_North_Carolina_baseball_2025_coach_1",
+        "fullName": "Scott Forbes",
+        "role": "Head Coach",
+        "email": "cahicks@unc.edu",
+        "phone": "(919) 962-2351"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2025_coach_2",
+        "fullName": "Bryant Gaines",
+        "role": "Associate Head Coach / Pitching Coach",
+        "email": "unc-baseball@unc.edu",
+        "phone": "(919) 962-2351"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2025_coach_3",
+        "fullName": "Jesse Wierzbicki",
+        "role": "Assistant Coach / Hitting Coach / Infielders & Catchers",
+        "email": "unc-baseball@unc.edu",
+        "phone": "(919) 962-2351"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2025_coach_4",
+        "fullName": "Scott Jackson",
+        "role": "Assistant Coach/Recruiting Coordinator",
+        "email": "unc-baseball@unc.edu",
+        "phone": "(919) 962-2351"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2025_coach_5",
+        "fullName": "Carter Hicks",
+        "role": "General Manager",
+        "email": "cahicks@unc.edu",
+        "phone": "(919) 962-2351"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2025_coach_6",
+        "fullName": "Daniel Wilkerson",
+        "role": "Assistant to the Head Coach and Clubhouse/Equipment Manager",
+        "email": "dwilk@unc.edu",
+        "phone": "(919) 962-2351"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2025_coach_7",
+        "fullName": "Kate Douglas",
+        "role": "Administrative Assistant",
+        "email": "kdougla@unc.edu",
+        "phone": "(919) 962-2351"
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2025_coach_8",
+        "fullName": "Josie Carver",
+        "role": "Student Manager",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2025_coach_9",
+        "fullName": "Grayson Guy",
+        "role": "Student Manager",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2025_coach_10",
+        "fullName": "Sam Heimowitz",
+        "role": "Student Manager",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2025_coach_11",
+        "fullName": "J.B. Sebastiano",
+        "role": "Student Manager",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2025_coach_12",
+        "fullName": "Dylan Slowik",
+        "role": "Student Manager",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_North_Carolina_baseball_2025_coach_13",
+        "fullName": "Will Staats",
+        "role": "Bullpen Catcher",
+        "email": "",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "University_of_North_Carolina_baseball_2025_staff_1",
+        "fullName": "Jason Howell",
+        "role": "Director of Pitching Performance, Development and Analytics",
+        "email": "unc-baseball@unc.edu",
+        "phone": "(919) 962-2351"
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2025_staff_2",
+        "fullName": "Dave Arendas",
+        "role": "Director of Baseball Operations",
+        "email": "arendas@unc.edu",
+        "phone": "(919) 962-6999"
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2025_staff_3",
+        "fullName": "Greg Gatz",
+        "role": "Assistant Athletic Director/Director of Strength & Conditioning for Olympic Sports",
+        "email": "ggg@uncaa.unc.edu",
+        "phone": "(919) 962-1402"
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2025_staff_4",
+        "fullName": "Terri Jo Rucinski",
+        "role": "Head Athletic Trainer",
+        "email": "tjrucinski@uncaa.unc.edu",
+        "phone": "(919) 962-2067"
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2025_staff_5",
+        "fullName": "Dr. Jeni Shannon",
+        "role": "Director, Mental Health and Performance Psychology",
+        "email": "jenishannon@unc.edu",
+        "phone": "(919) 966-3655"
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2025_staff_6",
+        "fullName": "Allison Keim",
+        "role": "Associate Director of Sports Nutrition",
+        "email": "keima@unc.edu",
+        "phone": "(919) 966-6548"
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2025_staff_7",
+        "fullName": "Megan Maxwell",
+        "role": "Graduate Assistant Athletic Trainer",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "staffId": "University_of_North_Carolina_baseball_2025_staff_8",
         "fullName": "Hannah Scott",
-        "role": "Graduate Assistant Athletic Trainer"
+        "role": "Graduate Assistant Athletic Trainer",
+        "email": "",
+        "phone": ""
       }
     ]
   },
@@ -474,34 +1224,307 @@
       {
         "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_1",
         "fullName": "Larry Lee",
-        "role": "Head Coach"
+        "role": "Head Coach",
+        "email": "llee@calpoly.edu",
+        "phone": ""
       },
       {
         "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_2",
         "fullName": "Seth Moir",
-        "role": "Assistant Coach (Pitchers)"
+        "role": "Assistant Coach (Pitchers)",
+        "email": "smoir@calpoly.edu",
+        "phone": ""
       },
       {
         "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_3",
         "fullName": "Jason Gill",
-        "role": "Assistant Coach"
+        "role": "Assistant Coach",
+        "email": "jgill32@calpoly.edu",
+        "phone": ""
       },
       {
         "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_4",
         "fullName": "Logan Denholm",
-        "role": "Assistant Coach"
+        "role": "Assistant Coach",
+        "email": "ldenholm@calpoly.edu",
+        "phone": ""
       },
       {
         "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_5",
-        "fullName": "Nick Meyer",
-        "role": "Student Assistant Coach"
+        "fullName": "Neal Mc Ivor",
+        "role": "Sports Medicine Professional",
+        "email": "nmcivor@calpoly.edu",
+        "phone": "(805) 756-5491"
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_6",
+        "fullName": "Ben Hamik",
+        "role": "Head Student Manager (field)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_7",
+        "fullName": "Alejo Rosas",
+        "role": "Student Manager (field)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_8",
+        "fullName": "Jack Bennett",
+        "role": "Student Manager (Field)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_9",
+        "fullName": "Matthew Karr",
+        "role": "Student Manager (Field)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_10",
+        "fullName": "Jonah Bronstone",
+        "role": "Student Manager (field)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_11",
+        "fullName": "Curran Bledsoe",
+        "role": "Student Manager (field)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_12",
+        "fullName": "Ellie Rashkin",
+        "role": "Student Manager (social media)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_13",
+        "fullName": "Bella Rinaldi",
+        "role": "Student Manager (social media)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_14",
+        "fullName": "Daniel Erro",
+        "role": "Head Student Manager (Statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_15",
+        "fullName": "Henry Peacock",
+        "role": "Student Manager (Statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_16",
+        "fullName": "Will Kapner",
+        "role": "Student Manager (Statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_17",
+        "fullName": "Myles Harp",
+        "role": "Student Manager (Statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_18",
+        "fullName": "Jason Blake",
+        "role": "Student Manager (Statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_19",
+        "fullName": "Adam Del Rio",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_20",
+        "fullName": "Cameron An",
+        "role": "Student Manager (Statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_21",
+        "fullName": "Luca Schoenwetter",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_22",
+        "fullName": "Emma Durler",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_23",
+        "fullName": "Mia Hodges",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_24",
+        "fullName": "Alex Klahr",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_25",
+        "fullName": "Gabe Riedel",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_26",
+        "fullName": "Curtis LeQuang",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_27",
+        "fullName": "Kylie Scharf",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_28",
+        "fullName": "Brandon Solari",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_29",
+        "fullName": "Deven Singh",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_30",
+        "fullName": "Carly Waldeck",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_31",
+        "fullName": "Jackson Scott",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_32",
+        "fullName": "Diego Jara",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_33",
+        "fullName": "Bowden Widmann",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_34",
+        "fullName": "Johnny Young",
+        "role": "Student Manager (statistics)",
+        "email": "",
+        "phone": ""
       }
     ],
     "SupportStaff": [
       {
         "staffId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_staff_1",
         "fullName": "Mark Armstrong",
-        "role": "Director of Quality Control"
+        "role": "Director of Quality Control",
+        "email": "marmst11@calpoly.edu",
+        "phone": ""
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Cal_Poly_(California_Polytechnic_State_University)",
+      "name": "Cal Poly (California Polytechnic State University)",
+      "conference": "Big West Conference"
+    },
+    "Team": {
+      "teamId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2025",
+      "teamName": "Cal Poly (California Polytechnic State University) Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2025_coach_1",
+        "fullName": "Larry Lee",
+        "role": "Head Coach",
+        "email": "llee@calpoly.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2025_coach_2",
+        "fullName": "Seth Moir",
+        "role": "Assistant Coach (Pitchers)",
+        "email": "smoir@calpoly.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2025_coach_3",
+        "fullName": "Jason Gill",
+        "role": "Assistant Coach",
+        "email": "jgill32@calpoly.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2025_coach_4",
+        "fullName": "Logan Denholm",
+        "role": "Assistant Coach",
+        "email": "ldenholm@calpoly.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2025_coach_5",
+        "fullName": "Nick Meyer",
+        "role": "Student Assistant Coach",
+        "email": "",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2025_staff_1",
+        "fullName": "Mark Armstrong",
+        "role": "Director of Quality Control",
+        "email": "marmst11@calpoly.edu",
+        "phone": ""
       }
     ]
   },
@@ -520,39 +1543,118 @@
       {
         "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_coach_1",
         "fullName": "Jason Dietrich",
-        "role": "Head Coach (5th Season)"
+        "role": "Head Coach",
+        "email": "csufbaseball@fullerton.edu",
+        "phone": "(657) 278-2777"
       },
       {
         "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_coach_2",
-        "fullName": "Josh Belovsky",
-        "role": "Assistant Coach (5th Season)"
+        "fullName": "Neil Walton",
+        "role": "Assistant Coach",
+        "email": "nwalton@fullerton.edu",
+        "phone": "(657) 278-8449"
       },
       {
         "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_coach_3",
-        "fullName": "Tony Schifano",
-        "role": "Assistant Coach (1st Season)"
+        "fullName": "Josh Belovsky",
+        "role": "Assistant Coach",
+        "email": "jbelovsky@fullerton.edu",
+        "phone": "(657) 278-3789"
       },
       {
         "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_coach_4",
-        "fullName": "Ryan Day",
-        "role": "Assistant Coach (3rd Season)"
+        "fullName": "Jake Pavletich",
+        "role": "Assistant Coach",
+        "email": "jpavletich@fullerton.edu",
+        "phone": "(657) 278-2777"
       }
     ],
     "SupportStaff": [
       {
         "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_staff_1",
-        "fullName": "Connor Spencer",
-        "role": "Director of Operations (4th Season)"
+        "fullName": "Garrett Fisher",
+        "role": "Director of Operations",
+        "email": "gfisher@fullerton.edu",
+        "phone": "(657) 278-3789"
       },
       {
         "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_staff_2",
-        "fullName": "Sean Skelly",
-        "role": "Director of Player Development (2nd Season)"
+        "fullName": "Connor Spencer",
+        "role": "Director of Player Development",
+        "email": "cospencer@fullerton.edu",
+        "phone": "(657) 278-3789"
       },
       {
         "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_staff_3",
-        "fullName": "Bryan Evans",
-        "role": "Assistant Director of Operations (1st Season)"
+        "fullName": "Ryan Day",
+        "role": "Assistant Director of Operations",
+        "email": "rday@fullerton.edu",
+        "phone": "(657) 278-3789"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Cal_State_Fullerton_(California_State_University,_Fullerton)",
+      "name": "Cal State Fullerton (California State University, Fullerton)",
+      "conference": "Big West Conference"
+    },
+    "Team": {
+      "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025",
+      "teamName": "Cal State Fullerton (California State University, Fullerton) Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025_coach_1",
+        "fullName": "Jason Dietrich",
+        "role": "Head Coach (4th Season)",
+        "email": "csufbaseball@fullerton.edu",
+        "phone": "(657) 278-2777"
+      },
+      {
+        "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025_coach_2",
+        "fullName": "Neil Walton",
+        "role": "Assistant Coach (4th Season)",
+        "email": "nwalton@fullerton.edu",
+        "phone": "(657) 278-8449"
+      },
+      {
+        "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025_coach_3",
+        "fullName": "Josh Belovsky",
+        "role": "Assistant Coach (4th Season)",
+        "email": "jbelovsky@fullerton.edu",
+        "phone": "(657) 278-3789"
+      },
+      {
+        "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025_coach_4",
+        "fullName": "Ryan Day",
+        "role": "Assistant Coach (2nd Season)",
+        "email": "rday@fullerton.edu",
+        "phone": "(657) 278-3789"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025_staff_1",
+        "fullName": "Connor Spencer",
+        "role": "Director of Operations (3rd Season)",
+        "email": "cospencer@fullerton.edu",
+        "phone": "(657) 278-3789"
+      },
+      {
+        "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025_staff_2",
+        "fullName": "Sean Skelly",
+        "role": "Director of Player Development (1st Season)",
+        "email": "sskelly@fullerton.edu",
+        "phone": "(657) 278-3789"
+      },
+      {
+        "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025_staff_3",
+        "fullName": "Tanner Carlson",
+        "role": "Assistant Director of Operations (1st Season)",
+        "email": "tacarlson@fullerton.edu",
+        "phone": ""
       }
     ]
   },
@@ -571,39 +1673,111 @@
       {
         "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2024_coach_1",
         "fullName": "Eddie Cornejo",
-        "role": "Head Coach"
+        "role": "Head Coach",
+        "email": "ecornejo@csun.edu",
+        "phone": ""
       },
       {
         "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2024_coach_2",
-        "fullName": "Paul Koss",
-        "role": "Pitching Coach"
+        "fullName": "Bobby Andrews",
+        "role": "Assistant Coach",
+        "email": "bobby.andrews@csun.edu",
+        "phone": ""
       },
       {
         "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2024_coach_3",
-        "fullName": "Nate Esposito",
-        "role": "Assistant Coach"
+        "fullName": "Elliot Surrey",
+        "role": "Assistant Coach",
+        "email": "elliot.surrey@csun.edu",
+        "phone": ""
       },
       {
         "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2024_coach_4",
-        "fullName": "Brendan Brooks",
-        "role": "Assistant Coach"
+        "fullName": "Youngjin Yoon",
+        "role": "Assistant Coach",
+        "email": "youngjin.yoon@csun.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2024_coach_5",
+        "fullName": "Oscar Fernandez",
+        "role": "Team Manager",
+        "email": "",
+        "phone": ""
       }
     ],
     "SupportStaff": [
       {
         "staffId": "CSUN_(California_State_University,_Northridge)_baseball_2024_staff_1",
-        "fullName": "Broc Mortensen",
-        "role": "Director of Player Development & Camp Coordinator"
+        "fullName": "Bart West",
+        "role": "Director of Operations",
+        "email": "bart.west@csun.edu",
+        "phone": ""
       },
       {
         "staffId": "CSUN_(California_State_University,_Northridge)_baseball_2024_staff_2",
-        "fullName": "Nick Alfonso",
-        "role": "Director of Operations"
+        "fullName": "Joseph Rivas",
+        "role": "Assistant Athletic Trainer (Baseball, WGOLF, WWP)",
+        "email": "joseph.rivas@csun.edu",
+        "phone": ""
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "CSUN_(California_State_University,_Northridge)",
+      "name": "CSUN (California State University, Northridge)",
+      "conference": "Big West Conference"
+    },
+    "Team": {
+      "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025",
+      "teamName": "CSUN (California State University, Northridge) Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2025_coach_1",
+        "fullName": "Eddie Cornejo",
+        "role": "Head Coach",
+        "email": "ecornejo@csun.edu",
+        "phone": ""
       },
       {
-        "staffId": "CSUN_(California_State_University,_Northridge)_baseball_2024_staff_3",
-        "fullName": "Natali Cerritos",
-        "role": "Assistant Athletic Trainer (BB, WGOLF)"
+        "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2025_coach_2",
+        "fullName": "Bobby Andrews",
+        "role": "Assistant Coach",
+        "email": "bobby.andrews@csun.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2025_coach_3",
+        "fullName": "Jon Strauss",
+        "role": "Assistant Coach",
+        "email": "jon.strauss@csun.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "CSUN_(California_State_University,_Northridge)_baseball_2025_coach_4",
+        "fullName": "Nate Esposito",
+        "role": "Assistant Coach",
+        "email": "nathan.esposito@csun.edu",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "CSUN_(California_State_University,_Northridge)_baseball_2025_staff_1",
+        "fullName": "Brendan Brooks",
+        "role": "Director of Player Development/Camp Coordinator",
+        "email": "brendan.brooks@csun.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "CSUN_(California_State_University,_Northridge)_baseball_2025_staff_2",
+        "fullName": "Freddy Smith",
+        "role": "Director of Players/Operations",
+        "email": "fred.smith@csun.edu",
+        "phone": ""
       }
     ]
   },
@@ -622,79 +1796,188 @@
       {
         "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_1",
         "fullName": "Andrew Checketts",
-        "role": "Head Coach"
+        "role": "Head Coach",
+        "email": "andrew.checketts@athletics.ucsb.edu",
+        "phone": ""
       },
       {
         "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_2",
         "fullName": "Matt Fonteno",
-        "role": "Associate Head Coach"
+        "role": "Associate Head Coach",
+        "email": "Matt.Fonteno@athletics.ucsb.edu",
+        "phone": ""
       },
       {
         "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_3",
         "fullName": "Dylan Jones",
-        "role": "Assistant Coach/Recruiting Coordinator"
+        "role": "Assistant Coach/Recruiting Coordinator",
+        "email": "Dylan.Jones@athletics.ucsb.edu",
+        "phone": ""
       },
       {
         "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_4",
-        "fullName": "Kyle Hunt",
-        "role": "Assistant Coach"
+        "fullName": "Spencer Erdman",
+        "role": "Assistant Coach",
+        "email": "spencer.erdman@athletics.ucsb.edu",
+        "phone": ""
       },
       {
         "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_5",
-        "fullName": "Jaren Jaffe",
-        "role": "Undergraduate Assistant"
+        "fullName": "Michael Marsh",
+        "role": "Undergraduate Assistant Coach",
+        "email": "michaelmarsh@ucsb.edu",
+        "phone": ""
       },
       {
         "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_6",
-        "fullName": "Sam Smith",
-        "role": "Position Player Strength Coach"
-      },
-      {
-        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_7",
-        "fullName": "Luke Storey",
-        "role": "Pitcher Strength Coach"
-      },
-      {
-        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_8",
-        "fullName": "Marilyn Monroy Castro",
-        "role": "Academic Advisor"
+        "fullName": "Justin Han",
+        "role": "Student Manager Lead",
+        "email": "",
+        "phone": ""
       }
     ],
     "SupportStaff": [
       {
         "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_1",
-        "fullName": "Christian Kirtley",
-        "role": "Director of Player Development, Camps & Clinics"
+        "fullName": "Justin Jacome",
+        "role": "Director of Baseball Operations",
+        "email": "",
+        "phone": ""
       },
       {
         "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_2",
-        "fullName": "Justin Han",
-        "role": "Assistant Director of Player Development, Camps & Clinics"
+        "fullName": "Kevin Cannon",
+        "role": "Director of Facilities",
+        "email": "kevin.cannon@athletics.ucsb.edu",
+        "phone": ""
       },
       {
         "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_3",
+        "fullName": "Devon Kost",
+        "role": "Student Director of Analytics",
+        "email": "",
+        "phone": ""
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)",
+      "name": "UC Santa Barbara (University of California, Santa Barbara)",
+      "conference": "Big West Conference"
+    },
+    "Team": {
+      "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025",
+      "teamName": "UC Santa Barbara (University of California, Santa Barbara) Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_1",
+        "fullName": "Andrew Checketts",
+        "role": "Head Coach",
+        "email": "andrew.checketts@athletics.ucsb.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_2",
+        "fullName": "Matt Fonteno",
+        "role": "Associate Head Coach",
+        "email": "Matt.Fonteno@athletics.ucsb.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_3",
+        "fullName": "Dylan Jones",
+        "role": "Assistant Coach/Recruiting Coordinator",
+        "email": "Dylan.Jones@athletics.ucsb.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_4",
+        "fullName": "Kyle Hunt",
+        "role": "Assistant Coach",
+        "email": "kyle.hunt@athletics.ucsb.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_5",
+        "fullName": "Jaren Jaffe",
+        "role": "Undergraduate Assistant",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_6",
+        "fullName": "Sam Smith",
+        "role": "Position Player Strength Coach",
+        "email": "Samuel.Smith@athletics.ucsb.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_7",
+        "fullName": "Luke Storey",
+        "role": "Pitcher Strength Coach",
+        "email": "Luke.Storey@athletics.ucsb.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_8",
+        "fullName": "Marilyn Monroy Castro",
+        "role": "Academic Advisor",
+        "email": "marilynmonroy@ucsb.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_coach_9",
+        "fullName": "Justin Han",
+        "role": "Student Manager Lead",
+        "email": "",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_staff_1",
+        "fullName": "David Tillotson",
+        "role": "Director of Player Development, Camps and Clinics",
+        "email": "david.tillotson@athletics.ucsb.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_staff_2",
         "fullName": "Alexis Kakuk",
-        "role": "Director of Baseball Operations"
+        "role": "Director of Baseball Operations",
+        "email": "alexis.kakuk@athletics.ucsb.edu",
+        "phone": ""
       },
       {
-        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_4",
+        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_staff_3",
         "fullName": "Kevin Cannon",
-        "role": "Director of Facilities"
+        "role": "Director of Facilities",
+        "email": "kevin.cannon@athletics.ucsb.edu",
+        "phone": ""
       },
       {
-        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_5",
+        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_staff_4",
         "fullName": "Sienna Baldwin",
-        "role": "Athletic Trainer"
+        "role": "Athletic Trainer",
+        "email": "siennabaldwin@ucsb.edu",
+        "phone": ""
       },
       {
-        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_6",
+        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_staff_5",
         "fullName": "Isaac Shinbrot",
-        "role": "Player Development & Recruitment Assistant"
+        "role": "Player Development & Recruitment Assistant",
+        "email": "",
+        "phone": ""
       },
       {
-        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_7",
-        "fullName": "Jake Underwood",
-        "role": "Student Director of Analytics"
+        "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_staff_6",
+        "fullName": "Devon Kost",
+        "role": "Student Director of Analytics",
+        "email": "",
+        "phone": ""
       }
     ]
   },
@@ -712,40 +1995,105 @@
     "Coaches": [
       {
         "coachId": "Creighton_University_baseball_2024_coach_1",
-        "fullName": "Mark Kingston",
-        "role": "Head Coach"
+        "fullName": "Ed Servais",
+        "role": "Head Coach",
+        "email": "eservais@creighton.edu",
+        "phone": "(402) 280-2483"
       },
       {
         "coachId": "Creighton_University_baseball_2024_coach_2",
-        "fullName": "Billy Mohl",
-        "role": "Assistant Coach/Pitching Coach"
+        "fullName": "Connor Gandossy",
+        "role": "Assistant Coach (Recruiting Coordinator/Hitting Coach)",
+        "email": "connorgandossy@creighton.edu",
+        "phone": ""
       },
       {
         "coachId": "Creighton_University_baseball_2024_coach_3",
-        "fullName": "Mike Current",
-        "role": "Assistant Coach/Recruiting Coordinator"
+        "fullName": "Mitch Mormann",
+        "role": "Assistant Baseball Coach",
+        "email": "mitchmormann@creighton.edu",
+        "phone": ""
       },
       {
         "coachId": "Creighton_University_baseball_2024_coach_4",
-        "fullName": "Will McGillis",
-        "role": "Assistant Coach"
-      },
-      {
-        "coachId": "Creighton_University_baseball_2024_coach_5",
-        "fullName": "Dr. Chuck Rosipal",
-        "role": "Team Orthopedic Physician"
+        "fullName": "Cam Johnson",
+        "role": "Assistant Coach/Director of Baseball Operations",
+        "email": "CamJohnson@creighton.edu",
+        "phone": ""
       }
     ],
     "SupportStaff": [
       {
         "staffId": "Creighton_University_baseball_2024_staff_1",
-        "fullName": "LT Tolbert",
-        "role": "Director of Player Development"
+        "fullName": "Curtis Self",
+        "role": "Associate Athletic Trainer",
+        "email": "curtisself@creighton.edu",
+        "phone": "(402) 280-5554"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Creighton_University",
+      "name": "Creighton University",
+      "conference": "Missouri Valley Conference (MVC)"
+    },
+    "Team": {
+      "teamId": "Creighton_University_baseball_2025",
+      "teamName": "Creighton University Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "Creighton_University_baseball_2025_coach_1",
+        "fullName": "Ed Servais",
+        "role": "Head Coach",
+        "email": "eservais@creighton.edu",
+        "phone": "(402) 280-2483"
       },
       {
-        "staffId": "Creighton_University_baseball_2024_staff_2",
+        "coachId": "Creighton_University_baseball_2025_coach_2",
+        "fullName": "Mark Kingston",
+        "role": "Associate Head Coach",
+        "email": "markkingston@creighton.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "Creighton_University_baseball_2025_coach_3",
+        "fullName": "Billy Mohl",
+        "role": "Assistant Coach/Pitching Coach",
+        "email": "billymohl@creighton.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "Creighton_University_baseball_2025_coach_4",
+        "fullName": "Mike Current",
+        "role": "Assistant Coach",
+        "email": "michaelcurrent@creighton.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "Creighton_University_baseball_2025_coach_5",
+        "fullName": "Dr. Chuck Rosipal",
+        "role": "Team Orthopedic Physician",
+        "email": "",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Creighton_University_baseball_2025_staff_1",
+        "fullName": "Chad Miller",
+        "role": "Director of Baseball Operations & Player Development",
+        "email": "ChadMiller@creighton.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "Creighton_University_baseball_2025_staff_2",
         "fullName": "Curtis Self",
-        "role": "Associate Athletic Trainer (BSB, Insurance Coordinator)"
+        "role": "Associate Athletic Trainer (BSB, Insurance Coordinator)",
+        "email": "curtisself@creighton.edu",
+        "phone": "(402) 280-5554"
       }
     ]
   },
@@ -764,29 +2112,90 @@
       {
         "coachId": "Murray_State_University_baseball_2024_coach_1",
         "fullName": "Dan Skirka",
-        "role": "Head Coach"
+        "role": "Head Coach",
+        "email": "msu.baseball@murraystate.edu",
+        "phone": "(270) 809-4892"
       },
       {
         "coachId": "Murray_State_University_baseball_2024_coach_2",
         "fullName": "Steve Adkins",
-        "role": "Assistant Coach"
+        "role": "Assistant Coach",
+        "email": "sadkins6@murraystate.edu",
+        "phone": "(270) 809-3475"
       },
       {
         "coachId": "Murray_State_University_baseball_2024_coach_3",
-        "fullName": "Hunter Wolfe",
-        "role": "Assistant Coach"
+        "fullName": "Cooper Goen",
+        "role": "Assistant Coach",
+        "email": "cgoen@murraystate.edu",
+        "phone": "(270) 809-3869"
       },
       {
         "coachId": "Murray_State_University_baseball_2024_coach_4",
-        "fullName": "Anthony Ortega",
-        "role": "Assistant Coach"
+        "fullName": "Tommy Goodale",
+        "role": "Assistant Coach",
+        "email": "tgoodale1@murraystate.edu",
+        "phone": "(270) 809-4192"
       }
     ],
     "SupportStaff": [
       {
         "staffId": "Murray_State_University_baseball_2024_staff_1",
+        "fullName": "Morgan Schumacher",
+        "role": "Athletic Trainer",
+        "email": "",
+        "phone": ""
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Murray_State_University",
+      "name": "Murray State University",
+      "conference": "Missouri Valley Conference (MVC)"
+    },
+    "Team": {
+      "teamId": "Murray_State_University_baseball_2025",
+      "teamName": "Murray State University Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "Murray_State_University_baseball_2025_coach_1",
+        "fullName": "Dan Skirka",
+        "role": "Head Coach",
+        "email": "msu.baseball@murraystate.edu",
+        "phone": "(270) 809-4892"
+      },
+      {
+        "coachId": "Murray_State_University_baseball_2025_coach_2",
+        "fullName": "Steve Adkins",
+        "role": "Assistant Coach",
+        "email": "sadkins6@murraystate.edu",
+        "phone": "(270) 809-3475"
+      },
+      {
+        "coachId": "Murray_State_University_baseball_2025_coach_3",
+        "fullName": "Hunter Wolfe",
+        "role": "Assistant Coach",
+        "email": "wwolfe@murraystate.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "Murray_State_University_baseball_2025_coach_4",
+        "fullName": "Anthony Ortega",
+        "role": "Assistant Coach",
+        "email": "aortega@murraystate.edu",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Murray_State_University_baseball_2025_staff_1",
         "fullName": "Hayden Cross",
-        "role": "Director of Player Development"
+        "role": "Director of Player Development",
+        "email": "hcross3@murraystate.edu",
+        "phone": ""
       }
     ]
   },
@@ -805,32 +2214,80 @@
       {
         "coachId": "University_of_Evansville_baseball_2024_coach_1",
         "fullName": "Wes Carroll",
-        "role": "Head Baseball Coach"
+        "role": "Head Baseball Coach",
+        "email": "wc2@evansville.edu",
+        "phone": "(812) 488-2059"
       },
       {
         "coachId": "University_of_Evansville_baseball_2024_coach_2",
         "fullName": "Matt Wollenzin",
-        "role": "Assistant Baseball Coach"
+        "role": "Assistant Baseball Coach",
+        "email": "MW312@evansville.edu",
+        "phone": ""
       },
       {
         "coachId": "University_of_Evansville_baseball_2024_coach_3",
         "fullName": "Jarrett Blunt",
-        "role": "Pitching Coach"
+        "role": "Baseball Graduate Assistant",
+        "email": "jb928@evansville.edu",
+        "phone": ""
       },
       {
         "coachId": "University_of_Evansville_baseball_2024_coach_4",
+        "fullName": "Griffin McCormick",
+        "role": "Volunteer Assistant",
+        "email": "",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": []
+  },
+  {
+    "School": {
+      "schoolId": "University_of_Evansville",
+      "name": "University of Evansville",
+      "conference": "Missouri Valley Conference (MVC)"
+    },
+    "Team": {
+      "teamId": "University_of_Evansville_baseball_2025",
+      "teamName": "University of Evansville Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "University_of_Evansville_baseball_2025_coach_1",
+        "fullName": "Wes Carroll",
+        "role": "Head Baseball Coach",
+        "email": "wc2@evansville.edu",
+        "phone": "(812) 488-2059"
+      },
+      {
+        "coachId": "University_of_Evansville_baseball_2025_coach_2",
+        "fullName": "Matt Wollenzin",
+        "role": "Assistant Baseball Coach",
+        "email": "MW312@evansville.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Evansville_baseball_2025_coach_3",
+        "fullName": "Jarrett Blunt",
+        "role": "Pitching Coach",
+        "email": "jb928@evansville.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Evansville_baseball_2025_coach_4",
+        "fullName": "Griffin McCormick",
+        "role": "Assistant Baseball Coach",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Evansville_baseball_2025_coach_5",
         "fullName": "Brendan Hord",
-        "role": "Assistant Baseball Coach"
-      },
-      {
-        "coachId": "University_of_Evansville_baseball_2024_coach_5",
-        "fullName": "Nick Smith",
-        "role": "Graduate Assistant"
-      },
-      {
-        "coachId": "University_of_Evansville_baseball_2024_coach_6",
-        "fullName": "Myles Susott",
-        "role": "Student Manager"
+        "role": "Graduate Assistant Baseball Coach",
+        "email": "bh312@evansville.edu",
+        "phone": ""
       }
     ],
     "SupportStaff": []
@@ -850,54 +2307,146 @@
       {
         "coachId": "Wichita_State_University_baseball_2024_coach_1",
         "fullName": "Brian Green",
-        "role": "Head Coach"
+        "role": "Head Coach",
+        "email": "baseball@goshockers.com",
+        "phone": "(316) 978-3636"
       },
       {
         "coachId": "Wichita_State_University_baseball_2024_coach_2",
         "fullName": "Anthony Claggett",
-        "role": "Assistant Head Coach/Pitching Coach"
+        "role": "Pitching Coach",
+        "email": "aclaggett@goshockers.com",
+        "phone": "(316) 978-3636"
       },
       {
         "coachId": "Wichita_State_University_baseball_2024_coach_3",
-        "fullName": "Marty Lees",
-        "role": "Assistant Coach/Recruiting Coordinator"
+        "fullName": "Clay Overcash",
+        "role": "Catching Coach/Recruiting Coordinator",
+        "email": "jovercash@goshockers.com",
+        "phone": "(316) 978-3636"
       },
       {
         "coachId": "Wichita_State_University_baseball_2024_coach_4",
-        "fullName": "Collin Wilber",
-        "role": "Assistant Coach/Catching Coach"
+        "fullName": "Anthony Miller",
+        "role": "Outfield/Hitting Coach",
+        "email": "amiller@goshockers.com",
+        "phone": "(316) 978-3636"
       },
       {
         "coachId": "Wichita_State_University_baseball_2024_coach_5",
-        "fullName": "Aaron Shellenberger",
-        "role": "Graduate Assistant"
+        "fullName": "Faith Weekley",
+        "role": "Administrative Assistant",
+        "email": "fweekley@goshockers.com",
+        "phone": "(316) 978-3636"
       }
     ],
     "SupportStaff": [
       {
         "staffId": "Wichita_State_University_baseball_2024_staff_1",
-        "fullName": "Jason Foster",
-        "role": "Pitching Strategist and Director of Analytics"
+        "fullName": "Tad Reida",
+        "role": "Director of Operations",
+        "email": "treida@goshockers.com",
+        "phone": "(316) 978-3636"
       },
       {
         "staffId": "Wichita_State_University_baseball_2024_staff_2",
-        "fullName": "Faith Weekley",
-        "role": "Director of Operations"
+        "fullName": "Arin Ver Hagen",
+        "role": "Assistant Athletic Trainer (BSB)",
+        "email": "averhagen@goshockers.com",
+        "phone": "(316) 978-5573"
       },
       {
         "staffId": "Wichita_State_University_baseball_2024_staff_3",
-        "fullName": "Jake Meyer",
-        "role": "Athletic Trainer"
+        "fullName": "Alex Dee",
+        "role": "Assistant Director of Sports Performance - BSB, MTEN, WTEN",
+        "email": "adee@goshockers.com",
+        "phone": ""
       },
       {
         "staffId": "Wichita_State_University_baseball_2024_staff_4",
-        "fullName": "Logan Barrett",
-        "role": "Assistant Director of Sports Performance"
+        "fullName": "Denning Gerig",
+        "role": "Assistant Director of Communications-BSB, VB",
+        "email": "dgerig@goshockers.com",
+        "phone": "(316) 978-5461"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Wichita_State_University",
+      "name": "Wichita State University",
+      "conference": "Missouri Valley Conference (MVC)"
+    },
+    "Team": {
+      "teamId": "Wichita_State_University_baseball_2025",
+      "teamName": "Wichita State University Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "Wichita_State_University_baseball_2025_coach_1",
+        "fullName": "Brian Green",
+        "role": "Head Coach",
+        "email": "baseball@goshockers.com",
+        "phone": "(316) 978-3636"
       },
       {
-        "staffId": "Wichita_State_University_baseball_2024_staff_5",
+        "coachId": "Wichita_State_University_baseball_2025_coach_2",
+        "fullName": "Anthony Claggett",
+        "role": "Assistant Head Coach/Pitching Coach",
+        "email": "aclaggett@goshockers.com",
+        "phone": "(316) 978-3636"
+      },
+      {
+        "coachId": "Wichita_State_University_baseball_2025_coach_3",
+        "fullName": "Clay Overcash",
+        "role": "Catching Coach/Recruiting Coordinator",
+        "email": "jovercash@goshockers.com",
+        "phone": "(316) 978-3636"
+      },
+      {
+        "coachId": "Wichita_State_University_baseball_2025_coach_4",
+        "fullName": "Michael Mulhollon",
+        "role": "Student Assistant Pitching Coach",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Wichita_State_University_baseball_2025_coach_5",
+        "fullName": "Faith Weekley",
+        "role": "Administrative Assistant",
+        "email": "fweekley@goshockers.com",
+        "phone": "(316) 978-3636"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Wichita_State_University_baseball_2025_staff_1",
+        "fullName": "Tad Reida",
+        "role": "Director of Operations",
+        "email": "treida@goshockers.com",
+        "phone": "(316) 978-3636"
+      },
+      {
+        "staffId": "Wichita_State_University_baseball_2025_staff_2",
+        "fullName": "Jake Meyer",
+        "role": "Graduate Assistant/Athletic Trainer",
+        "email": "jmeyer@goshockers.com",
+        "phone": "(316) 978-7599"
+      },
+      {
+        "staffId": "Wichita_State_University_baseball_2025_staff_3",
+        "fullName": "Alex Dee",
+        "role": "Assistant Director of Sports Performance - BSB, MTEN, WTEN",
+        "email": "adee@goshockers.com",
+        "phone": ""
+      },
+      {
+        "staffId": "Wichita_State_University_baseball_2025_staff_4",
         "fullName": "Denning Gerig",
-        "role": "Associate Director of Communications/Broadcasting Manager"
+        "role": "Associate Director of Communications/Broadcasting Manager-BSB, VB, BOWL",
+        "email": "dgerig@goshockers.com",
+        "phone": "(316) 978-5461"
       }
     ]
   },
@@ -908,72 +2457,224 @@
       "conference": "Pac-12 Conference"
     },
     "Team": {
-      "teamId": "Oregon_State_University_baseball_2026",
+      "teamId": "Oregon_State_University_baseball_2024",
       "teamName": "Oregon State University Baseball",
-      "seasonYear": 2026
+      "seasonYear": 2024
     },
     "Coaches": [
       {
-        "coachId": "Oregon_State_University_baseball_2026_coach_1",
+        "coachId": "Oregon_State_University_baseball_2024_coach_1",
         "fullName": "Mitch Canham",
-        "role": "Pat Casey Head Baseball Coach"
+        "role": "Pat Casey Head Baseball Coach",
+        "email": "",
+        "phone": ""
       },
       {
-        "coachId": "Oregon_State_University_baseball_2026_coach_2",
+        "coachId": "Oregon_State_University_baseball_2024_coach_2",
         "fullName": "Rich Dorman",
-        "role": "Assistant Coach"
+        "role": "Assistant Coach",
+        "email": "richard.dorman@oregonstate.edu",
+        "phone": ""
       },
       {
-        "coachId": "Oregon_State_University_baseball_2026_coach_3",
+        "coachId": "Oregon_State_University_baseball_2024_coach_3",
         "fullName": "Ryan Gipson",
-        "role": "Assistant Coach"
+        "role": "Assistant Coach",
+        "email": "ryan.gipson@oregonstate.edu",
+        "phone": ""
       },
       {
-        "coachId": "Oregon_State_University_baseball_2026_coach_4",
+        "coachId": "Oregon_State_University_baseball_2024_coach_4",
         "fullName": "Joey Wong",
-        "role": "Assistant Coach"
+        "role": "Assistant Coach",
+        "email": "",
+        "phone": ""
       },
       {
-        "coachId": "Oregon_State_University_baseball_2026_coach_5",
-        "fullName": "Brady Kasper",
-        "role": "Undergraduate Assistant Coach"
+        "coachId": "Oregon_State_University_baseball_2024_coach_5",
+        "fullName": "Nate Esposito",
+        "role": "Undergraduate Assistant Coach",
+        "email": "",
+        "phone": ""
       },
       {
-        "coachId": "Oregon_State_University_baseball_2026_coach_6",
+        "coachId": "Oregon_State_University_baseball_2024_coach_6",
+        "fullName": "Kyle Froemke",
+        "role": "Undergraduate Assistant Coach",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Oregon_State_University_baseball_2024_coach_7",
+        "fullName": "Darr Tucknott",
+        "role": "Academic Counselor",
+        "email": "darr.tucknott@oregonstate.edu",
+        "phone": "(541) 257-7753"
+      },
+      {
+        "coachId": "Oregon_State_University_baseball_2024_coach_8",
         "fullName": "Toni Langhans",
-        "role": "Sports Dietitian"
+        "role": "Sports Dietitian",
+        "email": "toni.langhans@oregonstate.edu",
+        "phone": ""
       }
     ],
     "SupportStaff": [
       {
-        "staffId": "Oregon_State_University_baseball_2026_staff_1",
+        "staffId": "Oregon_State_University_baseball_2024_staff_1",
         "fullName": "Ryan Gorton",
-        "role": "Director of Operations"
+        "role": "Director of Operations",
+        "email": "ryan.gorton@oregonstate.edu",
+        "phone": ""
       },
       {
-        "staffId": "Oregon_State_University_baseball_2026_staff_2",
+        "staffId": "Oregon_State_University_baseball_2024_staff_2",
         "fullName": "Brad Brown",
-        "role": "Director of Baseball Analytics and Advanced Scouting"
+        "role": "Director of Baseball Analytics and Advanced Scouting",
+        "email": "",
+        "phone": ""
       },
       {
-        "staffId": "Oregon_State_University_baseball_2026_staff_3",
+        "staffId": "Oregon_State_University_baseball_2024_staff_3",
         "fullName": "Zak Taylor",
-        "role": "Director of Beaver Baseball Development"
+        "role": "Director of Beaver Baseball Development",
+        "email": "",
+        "phone": ""
       },
       {
-        "staffId": "Oregon_State_University_baseball_2026_staff_4",
+        "staffId": "Oregon_State_University_baseball_2024_staff_4",
         "fullName": "Jeremy Ainsworth",
-        "role": "Assistant Athletic Trainer"
+        "role": "Assistant Athletic Trainer",
+        "email": "Jeremy.ainsworth@oregonstate.edu",
+        "phone": ""
       },
       {
-        "staffId": "Oregon_State_University_baseball_2026_staff_5",
+        "staffId": "Oregon_State_University_baseball_2024_staff_5",
         "fullName": "Hank Hager",
-        "role": "Assistant Athletic Director, Integrated Communications"
+        "role": "Assistant Athletic Director, Integrated Communications",
+        "email": "",
+        "phone": ""
       },
       {
-        "staffId": "Oregon_State_University_baseball_2026_staff_6",
+        "staffId": "Oregon_State_University_baseball_2024_staff_6",
         "fullName": "Mike Henriques",
-        "role": "Assistant Sports Performance Coordinator (Baseball and Men's Golf)"
+        "role": "Assistant Sports Performance Coordinator (Baseball and Men's Golf)",
+        "email": "michael.henriques@oregonstate.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "Oregon_State_University_baseball_2024_staff_7",
+        "fullName": "Dr. Doug Aukerman",
+        "role": "Senior Associate Athletic Director, Sports Medicine",
+        "email": "doug.aukerman@oregonstate.edu",
+        "phone": ""
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Oregon_State_University",
+      "name": "Oregon State University",
+      "conference": "Pac-12 Conference"
+    },
+    "Team": {
+      "teamId": "Oregon_State_University_baseball_2025",
+      "teamName": "Oregon State University Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "Oregon_State_University_baseball_2025_coach_1",
+        "fullName": "Mitch Canham",
+        "role": "Pat Casey Head Baseball Coach",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Oregon_State_University_baseball_2025_coach_2",
+        "fullName": "Rich Dorman",
+        "role": "Assistant Coach",
+        "email": "richard.dorman@oregonstate.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "Oregon_State_University_baseball_2025_coach_3",
+        "fullName": "Ryan Gipson",
+        "role": "Assistant Coach",
+        "email": "ryan.gipson@oregonstate.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "Oregon_State_University_baseball_2025_coach_4",
+        "fullName": "Joey Wong",
+        "role": "Assistant Coach",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Oregon_State_University_baseball_2025_coach_5",
+        "fullName": "Brady Kasper",
+        "role": "Undergraduate Assistant Coach",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "Oregon_State_University_baseball_2025_coach_6",
+        "fullName": "Toni Langhans",
+        "role": "Sports Dietitian",
+        "email": "toni.langhans@oregonstate.edu",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Oregon_State_University_baseball_2025_staff_1",
+        "fullName": "Ryan Gorton",
+        "role": "Director of Operations",
+        "email": "ryan.gorton@oregonstate.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "Oregon_State_University_baseball_2025_staff_2",
+        "fullName": "Brad Brown",
+        "role": "Director of Baseball Analytics and Advanced Scouting",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "staffId": "Oregon_State_University_baseball_2025_staff_3",
+        "fullName": "Zak Taylor",
+        "role": "Director of Beaver Baseball Development",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "staffId": "Oregon_State_University_baseball_2025_staff_4",
+        "fullName": "Jeremy Ainsworth",
+        "role": "Assistant Athletic Trainer",
+        "email": "Jeremy.ainsworth@oregonstate.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "Oregon_State_University_baseball_2025_staff_5",
+        "fullName": "Hank Hager",
+        "role": "Assistant Athletic Director, Integrated Communications",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "staffId": "Oregon_State_University_baseball_2025_staff_6",
+        "fullName": "Mike Henriques",
+        "role": "Assistant Sports Performance Coordinator (Baseball and Men's Golf)",
+        "email": "michael.henriques@oregonstate.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "Oregon_State_University_baseball_2025_staff_7",
+        "fullName": "Dr. Doug Aukerman",
+        "role": "Senior Associate Athletic Director, Sports Medicine",
+        "email": "doug.aukerman@oregonstate.edu",
+        "phone": ""
       }
     ]
   },
@@ -992,39 +2693,132 @@
       {
         "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_1",
         "fullName": "John Savage",
-        "role": "Head Coach"
+        "role": "Head Coach",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_2",
         "fullName": "Bryant Ward",
-        "role": "Assistant Coach / Recruiting Coordinator"
+        "role": "Assistant Coach / Recruiting Coordinator",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_3",
-        "fullName": "Griffin Barnes",
-        "role": "Assistant Coach"
+        "fullName": "Niko Gallego",
+        "role": "Assistant Coach",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_4",
-        "fullName": "Jake Palmer",
-        "role": "Assistant Coach"
-      },
-      {
-        "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_coach_5",
-        "fullName": "Kyle Hashimoto",
-        "role": "Athletic Performance Coach"
+        "fullName": "David Berg",
+        "role": "Assistant Coach",
+        "email": "",
+        "phone": ""
       }
     ],
     "SupportStaff": [
       {
         "staffId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_staff_1",
-        "fullName": "Chris Minnick",
-        "role": "Director of Player Development"
+        "fullName": "Griffin Barnes",
+        "role": "Director of Baseball Operations",
+        "email": "",
+        "phone": ""
       },
       {
         "staffId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_staff_2",
+        "fullName": "Carl Stocklin",
+        "role": "Athletic Trainer",
+        "email": "cstocklin@athletics.ucla.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_staff_3",
+        "fullName": "Sean Swetnam",
+        "role": "Athletic Performance",
+        "email": "sswetnam@athletics.ucla.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024_staff_4",
+        "fullName": "Jake Palmer",
+        "role": "Director of Player Development",
+        "email": "jpalmer@athletics.ucla.edu",
+        "phone": ""
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "UCLA_(University_of_California,_Los_Angeles)",
+      "name": "UCLA (University of California, Los Angeles)",
+      "conference": "Pac-12 Conference"
+    },
+    "Team": {
+      "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025",
+      "teamName": "UCLA (University of California, Los Angeles) Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_coach_1",
+        "fullName": "John Savage",
+        "role": "Head Coach",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_coach_2",
+        "fullName": "Bryant Ward",
+        "role": "Assistant Coach / Recruiting Coordinator",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_coach_3",
+        "fullName": "Niko Gallego",
+        "role": "Assistant Coach",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_coach_4",
+        "fullName": "Griffin Barnes",
+        "role": "Assistant Coach",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_coach_5",
+        "fullName": "Kyle Hashimoto",
+        "role": "Athletic Performance Coach",
+        "email": "",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_staff_1",
+        "fullName": "Max Schuh",
+        "role": "Director of Operations",
+        "email": "mns@athletics.ucla.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_staff_2",
+        "fullName": "Jake Palmer",
+        "role": "Director of Player Development",
+        "email": "jpalmer@athletics.ucla.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_staff_3",
         "fullName": "Kaitlyn Gustafson",
-        "role": "Athletic Trainer"
+        "role": "Athletic Trainer",
+        "email": "kgustafson@athletics.ucla.edu",
+        "phone": ""
       }
     ]
   },
@@ -1042,40 +2836,154 @@
     "Coaches": [
       {
         "coachId": "University_of_Washington_baseball_2024_coach_1",
-        "fullName": "Eddie Smith",
-        "role": "Head Coach"
+        "fullName": "Jason Kelly",
+        "role": "Head Coach",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "University_of_Washington_baseball_2024_coach_2",
-        "fullName": "Connor Lambert",
-        "role": "Pitching Coach"
+        "fullName": "Jake Silverman",
+        "role": "Associate Head Coach",
+        "email": "silver19@uw.edu",
+        "phone": ""
       },
       {
         "coachId": "University_of_Washington_baseball_2024_coach_3",
-        "fullName": "Kade Kryzsko",
-        "role": "Assistant Coach"
+        "fullName": "Joe DeMers",
+        "role": "Undergraduate Assistant",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "University_of_Washington_baseball_2024_coach_4",
-        "fullName": "Joseph Boschee",
-        "role": "Student Manager"
+        "fullName": "Joe Murray",
+        "role": "Strength & Conditioning Coach",
+        "email": "jmurra43@uw.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Washington_baseball_2024_coach_5",
+        "fullName": "Michael Schreiber",
+        "role": "Student Manager",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Washington_baseball_2024_coach_6",
+        "fullName": "Ben Parker",
+        "role": "Student Manager",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Washington_baseball_2024_coach_7",
+        "fullName": "Colton Steepy",
+        "role": "Student Manager",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Washington_baseball_2024_coach_8",
+        "fullName": "Josh Wodka",
+        "role": "Student Manager",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Washington_baseball_2024_coach_9",
+        "fullName": "Ashwin Rao, MD",
+        "role": "Team Physician",
+        "email": "ashwin@uw.edu",
+        "phone": ""
       }
     ],
     "SupportStaff": [
       {
         "staffId": "University_of_Washington_baseball_2024_staff_1",
-        "fullName": "Damon Lessler",
-        "role": "Director of Player Development"
+        "fullName": "Mike Gange",
+        "role": "Recruiting Coordinator",
+        "email": "mrgange2@uw.edu",
+        "phone": ""
       },
       {
         "staffId": "University_of_Washington_baseball_2024_staff_2",
-        "fullName": "Scott Junck",
-        "role": "Director of Baseball Operations"
+        "fullName": "Jason Ellison",
+        "role": "Hitting & Outfield Coordinator",
+        "email": "jje7@uw.edu",
+        "phone": ""
       },
       {
         "staffId": "University_of_Washington_baseball_2024_staff_3",
-        "fullName": "Jake Rook",
-        "role": "Director of Baseball Analytics"
+        "fullName": "Jacob Hatloe",
+        "role": "Director of Baseball Operations",
+        "email": "jhatloe@uw.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "University_of_Washington_baseball_2024_staff_4",
+        "fullName": "Iain Mistrot",
+        "role": "Athletic Trainer",
+        "email": "imistrot@uw.edu",
+        "phone": "(206) 616-0156"
+      },
+      {
+        "staffId": "University_of_Washington_baseball_2024_staff_5",
+        "fullName": "Phil Mann",
+        "role": "Equipment Manager",
+        "email": "philmann@uw.edu",
+        "phone": "(206) 616-0167"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "University_of_Washington",
+      "name": "University of Washington",
+      "conference": "Pac-12 Conference"
+    },
+    "Team": {
+      "teamId": "University_of_Washington_baseball_2025",
+      "teamName": "University of Washington Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "University_of_Washington_baseball_2025_coach_1",
+        "fullName": "Eddie Smith",
+        "role": "Head Coach",
+        "email": "baseball@uw.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Washington_baseball_2025_coach_2",
+        "fullName": "Connor Lambert",
+        "role": "Pitching Coach",
+        "email": "lambo35@uw.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Washington_baseball_2025_coach_3",
+        "fullName": "Joe Murray",
+        "role": "Strength & Conditioning Coach",
+        "email": "jmurra43@uw.edu",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "University_of_Washington_baseball_2025_staff_1",
+        "fullName": "Mike Gange",
+        "role": "Recruiting Coordinator",
+        "email": "mrgange2@uw.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "University_of_Washington_baseball_2025_staff_2",
+        "fullName": "Damon Lessler",
+        "role": "Director of Player Development",
+        "email": "lessler5@uw.edu",
+        "phone": ""
       }
     ]
   },
@@ -1093,55 +3001,119 @@
     "Coaches": [
       {
         "coachId": "Mississippi_State_University_baseball_2024_coach_1",
-        "fullName": "Brian O'Connor",
-        "role": "Head Baseball Coach"
+        "fullName": "Chris Lemonis",
+        "role": "Head Baseball Coach",
+        "email": "",
+        "phone": "(662) 325-3597"
       },
       {
         "coachId": "Mississippi_State_University_baseball_2024_coach_2",
-        "fullName": "Kevin McMullan",
-        "role": "Associate Head Baseball Coach"
+        "fullName": "Jake Gautreau",
+        "role": "Assistant Coach",
+        "email": "jgautreau@athletics.msstate.edu",
+        "phone": "(662) 325-3597"
       },
       {
         "coachId": "Mississippi_State_University_baseball_2024_coach_3",
-        "fullName": "Matt Kirby",
-        "role": "Assistant Baseball Coach"
+        "fullName": "Justin Parker",
+        "role": "Assistant Coach",
+        "email": "hailstatebaseball@athletics.msstate.edu",
+        "phone": "(662) 325-3597"
       },
       {
         "coachId": "Mississippi_State_University_baseball_2024_coach_4",
-        "fullName": "Justin Parker",
-        "role": "Assistant Baseball Coach"
-      },
-      {
-        "coachId": "Mississippi_State_University_baseball_2024_coach_5",
-        "fullName": "Justin Armistead",
-        "role": "Associate A.D./Baseball"
+        "fullName": "Kyle Cheesebrough",
+        "role": "Camps Coordinator/Assistant Coach",
+        "email": "cheese@athletics.msstate.edu",
+        "phone": "(662) 325-3597"
       }
     ],
     "SupportStaff": [
       {
         "staffId": "Mississippi_State_University_baseball_2024_staff_1",
-        "fullName": "Mike Roberts",
-        "role": "Director of Player Development and Scouting"
+        "fullName": "Bobby Austin",
+        "role": "Coordinator of Baseball Player Development",
+        "email": "baustin@athletics.msstate.edu",
+        "phone": "(662) 325-3597"
       },
       {
         "staffId": "Mississippi_State_University_baseball_2024_staff_2",
-        "fullName": "Justin Weiss",
-        "role": "Baseball Operations Coordinator"
+        "fullName": "Roger Rodeheaver",
+        "role": "Director of Baseball Operations",
+        "email": "rrodeheaver@athletics.msstate.edu",
+        "phone": "(662) 325-3597"
       },
       {
         "staffId": "Mississippi_State_University_baseball_2024_staff_3",
-        "fullName": "Jonathan French",
-        "role": "Data/Video Analytics Coordinator"
+        "fullName": "Blake Loper",
+        "role": "Coordinator of Baseball Operations",
+        "email": "bloper@athletics.msstate.edu",
+        "phone": "(662) 325-3597"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "Mississippi_State_University",
+      "name": "Mississippi State University",
+      "conference": "Southeastern Conference (SEC)"
+    },
+    "Team": {
+      "teamId": "Mississippi_State_University_baseball_2025",
+      "teamName": "Mississippi State University Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "Mississippi_State_University_baseball_2025_coach_1",
+        "fullName": "Chris Lemonis",
+        "role": "Head Baseball Coach",
+        "email": "",
+        "phone": "(662) 325-3597"
       },
       {
-        "staffId": "Mississippi_State_University_baseball_2024_staff_4",
-        "fullName": "Travis Reifsnider",
-        "role": "Scouting/Assistant Recruiting Coordinator"
+        "coachId": "Mississippi_State_University_baseball_2025_coach_2",
+        "fullName": "Justin Parker",
+        "role": "Assistant Coach",
+        "email": "hailstatebaseball@athletics.msstate.edu",
+        "phone": "(662) 325-3597"
       },
       {
-        "staffId": "Mississippi_State_University_baseball_2024_staff_5",
-        "fullName": "Joe Savino",
-        "role": "Pitching Coordinator"
+        "coachId": "Mississippi_State_University_baseball_2025_coach_3",
+        "fullName": "Jake Gautreau",
+        "role": "Assistant Coach",
+        "email": "jgautreau@athletics.msstate.edu",
+        "phone": "(662) 325-3597"
+      },
+      {
+        "coachId": "Mississippi_State_University_baseball_2025_coach_4",
+        "fullName": "Kyle Cheesebrough",
+        "role": "Camps Coordinator/Assistant Coach",
+        "email": "cheese@athletics.msstate.edu",
+        "phone": "(662) 325-3597"
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "Mississippi_State_University_baseball_2025_staff_1",
+        "fullName": "Bobby Austin",
+        "role": "Coordinator of Baseball Player Development",
+        "email": "baustin@athletics.msstate.edu",
+        "phone": "(662) 325-3597"
+      },
+      {
+        "staffId": "Mississippi_State_University_baseball_2025_staff_2",
+        "fullName": "Roger Rodeheaver",
+        "role": "Director of Baseball Operations",
+        "email": "rrodeheaver@athletics.msstate.edu",
+        "phone": "(662) 325-3597"
+      },
+      {
+        "staffId": "Mississippi_State_University_baseball_2025_staff_3",
+        "fullName": "Blake Loper",
+        "role": "Coordinator of Baseball Operations",
+        "email": "bloper@athletics.msstate.edu",
+        "phone": "(662) 325-3597"
       }
     ]
   },
@@ -1159,75 +3131,189 @@
     "Coaches": [
       {
         "coachId": "University_of_Tennessee_baseball_2024_coach_1",
-        "fullName": "Josh Elander",
-        "role": "Head Coach"
+        "fullName": "Tony Vitello",
+        "role": "Head Coach",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "University_of_Tennessee_baseball_2024_coach_2",
-        "fullName": "Chuck Jeroloman",
-        "role": "Associate Head Coach"
+        "fullName": "Josh Elander",
+        "role": "Associate Head Coach/Recruiting Coordinator",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "University_of_Tennessee_baseball_2024_coach_3",
-        "fullName": "Ross Kivett",
-        "role": "Assistant Coach/Recruiting Coordinator"
+        "fullName": "Frank Anderson",
+        "role": "Assistant Coach/Pitching",
+        "email": "",
+        "phone": ""
       },
       {
         "coachId": "University_of_Tennessee_baseball_2024_coach_4",
-        "fullName": "Josh Reynolds",
-        "role": "Assistant Coach"
+        "fullName": "Richard Jackson",
+        "role": "Assistant Coach",
+        "email": "rjacks53@tennessee.edu",
+        "phone": "(865) 974-2053"
       },
       {
         "coachId": "University_of_Tennessee_baseball_2024_coach_5",
-        "fullName": "Sean McCann",
-        "role": "Special Assistant to the Head Coach"
-      },
-      {
-        "coachId": "University_of_Tennessee_baseball_2024_coach_6",
         "fullName": "Parker Serrano",
-        "role": "Student Assistant Coach"
+        "role": "Student Assistant Coach",
+        "email": "",
+        "phone": ""
       }
     ],
     "SupportStaff": [
       {
         "staffId": "University_of_Tennessee_baseball_2024_staff_1",
-        "fullName": "Keegan Knoll",
-        "role": "Director of Sports Performance"
+        "fullName": "Luke Bonfield",
+        "role": "Director of Player Development",
+        "email": "Lbonfiel@tennessee.edu",
+        "phone": ""
       },
       {
         "staffId": "University_of_Tennessee_baseball_2024_staff_2",
-        "fullName": "Adam Low",
-        "role": "Director of Baseball Operations"
+        "fullName": "Quentin Eberhardt",
+        "role": "Director of Baseball Sports Performance",
+        "email": "",
+        "phone": ""
       },
       {
         "staffId": "University_of_Tennessee_baseball_2024_staff_3",
-        "fullName": "Zach Stovall",
-        "role": "Director of Strategy"
+        "fullName": "Sean McCann",
+        "role": "Video Coordinator",
+        "email": "smccann3@utk.edu",
+        "phone": ""
       },
       {
         "staffId": "University_of_Tennessee_baseball_2024_staff_4",
-        "fullName": "Ricky Martinez",
-        "role": "Director of Recruiting"
+        "fullName": "Zach Stovall",
+        "role": "Director of Analytics",
+        "email": "Zstovall@utk.edu",
+        "phone": ""
       },
       {
         "staffId": "University_of_Tennessee_baseball_2024_staff_5",
-        "fullName": "Kirby Connell",
-        "role": "Individual Branding and Community Service Coordinator"
+        "fullName": "Jeff Wood",
+        "role": "Associate Director of Sports Medicine - Baseball",
+        "email": "jwood8@utk.edu",
+        "phone": "(865) 974-1902"
       },
       {
         "staffId": "University_of_Tennessee_baseball_2024_staff_6",
-        "fullName": "Ethan Payne",
-        "role": "Camp Coordinator"
+        "fullName": "Adam Low",
+        "role": "Assistant Director of Baseball Operations",
+        "email": "alow1@utk.edu",
+        "phone": "(865) 974-2057"
+      }
+    ]
+  },
+  {
+    "School": {
+      "schoolId": "University_of_Tennessee",
+      "name": "University of Tennessee",
+      "conference": "Southeastern Conference (SEC)"
+    },
+    "Team": {
+      "teamId": "University_of_Tennessee_baseball_2025",
+      "teamName": "University of Tennessee Baseball",
+      "seasonYear": 2025
+    },
+    "Coaches": [
+      {
+        "coachId": "University_of_Tennessee_baseball_2025_coach_1",
+        "fullName": "Tony Vitello",
+        "role": "Head Coach",
+        "email": "",
+        "phone": ""
       },
       {
-        "staffId": "University_of_Tennessee_baseball_2024_staff_7",
+        "coachId": "University_of_Tennessee_baseball_2025_coach_2",
+        "fullName": "Josh Elander",
+        "role": "Associate Head Coach/Recruiting Coordinator",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Tennessee_baseball_2025_coach_3",
+        "fullName": "Frank Anderson",
+        "role": "Assistant Coach/Pitching",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Tennessee_baseball_2025_coach_4",
+        "fullName": "Ross Kivett",
+        "role": "Assistant Coach",
+        "email": "mkivett@utk.edu",
+        "phone": ""
+      },
+      {
+        "coachId": "University_of_Tennessee_baseball_2025_coach_5",
+        "fullName": "Parker Serrano",
+        "role": "Student Assistant Coach",
+        "email": "",
+        "phone": ""
+      }
+    ],
+    "SupportStaff": [
+      {
+        "staffId": "University_of_Tennessee_baseball_2025_staff_1",
+        "fullName": "Quentin Eberhardt",
+        "role": "Director of Baseball Sports Performance",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "staffId": "University_of_Tennessee_baseball_2025_staff_2",
+        "fullName": "Ricky Martinez",
+        "role": "Director of Player Development",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "staffId": "University_of_Tennessee_baseball_2025_staff_3",
+        "fullName": "Josh Reynolds",
+        "role": "Director of Baseball Operations and Pitching Performance",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "staffId": "University_of_Tennessee_baseball_2025_staff_4",
+        "fullName": "Sean McCann",
+        "role": "Video Coordinator",
+        "email": "smccann3@utk.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "University_of_Tennessee_baseball_2025_staff_5",
+        "fullName": "Zach Stovall",
+        "role": "Director of Analytics",
+        "email": "Zstovall@utk.edu",
+        "phone": ""
+      },
+      {
+        "staffId": "University_of_Tennessee_baseball_2025_staff_6",
         "fullName": "Jeff Wood",
-        "role": "Associate Director of Sports Medicine"
+        "role": "Associate Director of Sports Medicine - Baseball",
+        "email": "jwood8@utk.edu",
+        "phone": "(865) 974-1902"
       },
       {
-        "staffId": "University_of_Tennessee_baseball_2024_staff_8",
-        "fullName": "Sarah Nguyen",
-        "role": "Assistant Director of Sports Nutrition"
+        "staffId": "University_of_Tennessee_baseball_2025_staff_7",
+        "fullName": "Adam Low",
+        "role": "Assistant Director of Baseball Operations",
+        "email": "alow1@utk.edu",
+        "phone": "(865) 974-2057"
+      },
+      {
+        "staffId": "University_of_Tennessee_baseball_2025_staff_8",
+        "fullName": "Beth Schwartz",
+        "role": "Assistant Director of Sports Nutrition",
+        "email": "eschwar2@utk.edu",
+        "phone": ""
       }
     ]
   }

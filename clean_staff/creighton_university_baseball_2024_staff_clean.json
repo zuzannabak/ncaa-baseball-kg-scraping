@@ -1,0 +1,51 @@
+{
+  "School": {
+    "schoolId": "Creighton_University",
+    "name": "Creighton University",
+    "conference": "Missouri Valley Conference (MVC)"
+  },
+  "Team": {
+    "teamId": "Creighton_University_baseball_2024",
+    "teamName": "Creighton University Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "Creighton_University_baseball_2024_coach_1",
+      "fullName": "Ed Servais",
+      "role": "Head Coach",
+      "email": "eservais@creighton.edu",
+      "phone": "(402) 280-2483"
+    },
+    {
+      "coachId": "Creighton_University_baseball_2024_coach_2",
+      "fullName": "Connor Gandossy",
+      "role": "Assistant Coach (Recruiting Coordinator/Hitting Coach)",
+      "email": "connorgandossy@creighton.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Creighton_University_baseball_2024_coach_3",
+      "fullName": "Mitch Mormann",
+      "role": "Assistant Baseball Coach",
+      "email": "mitchmormann@creighton.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Creighton_University_baseball_2024_coach_4",
+      "fullName": "Cam Johnson",
+      "role": "Assistant Coach/Director of Baseball Operations",
+      "email": "CamJohnson@creighton.edu",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Creighton_University_baseball_2024_staff_1",
+      "fullName": "Curtis Self",
+      "role": "Associate Athletic Trainer",
+      "email": "curtisself@creighton.edu",
+      "phone": "(402) 280-5554"
+    }
+  ]
+}

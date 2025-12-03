@@ -13,7 +13,8 @@
   },
   "Team": {
     "teamId": "Florida_State_University_baseball_2024",
-    "teamName": "Florida State University Baseball"
+    "teamName": "Florida State University Baseball",
+    "seasonYear": 2024
   },
   "Players": [
     {
@@ -26,6 +27,7 @@
       "hometown": "St. Augustine, Fla.",
       "jersey": "1",
       "lastSchool": "Bartram Trail",
+      "batsThrows": "R/R",
       "weightLbs": 188
     },
     {
@@ -38,6 +40,7 @@
       "hometown": "Orlando, Fla.",
       "jersey": "2",
       "lastSchool": "West Orange",
+      "batsThrows": "R/R",
       "weightLbs": 181
     },
     {
@@ -50,6 +53,7 @@
       "hometown": "Tallahassee, Fla.",
       "jersey": "3",
       "lastSchool": "Florida High",
+      "batsThrows": "S/R",
       "weightLbs": 202
     },
     {
@@ -62,6 +66,7 @@
       "hometown": "Deerfield, Wis.",
       "jersey": "4",
       "lastSchool": "Deerfield",
+      "batsThrows": "R/R",
       "weightLbs": 217
     },
     {
@@ -74,6 +79,7 @@
       "hometown": "Davie, Fla.",
       "jersey": "5",
       "lastSchool": "American Heritage",
+      "batsThrows": "L/R",
       "weightLbs": 170
     },
     {
@@ -86,6 +92,7 @@
       "hometown": "Bayamón, Puerto Rico",
       "jersey": "7",
       "lastSchool": "Florida Virtual School",
+      "batsThrows": "R/R",
       "weightLbs": 219
     },
     {
@@ -98,6 +105,7 @@
       "hometown": "Durham, N.H.",
       "jersey": "8",
       "lastSchool": "Oyster River",
+      "batsThrows": "R/L",
       "weightLbs": 201
     },
     {
@@ -110,6 +118,7 @@
       "hometown": "Panama City Beach, Fla.",
       "jersey": "9",
       "lastSchool": "Arnold",
+      "batsThrows": "L/L",
       "weightLbs": 184
     },
     {
@@ -122,6 +131,7 @@
       "hometown": "Odessa, Fla.",
       "jersey": "12",
       "lastSchool": "Gaither",
+      "batsThrows": "S/R",
       "weightLbs": 171
     },
     {
@@ -134,6 +144,7 @@
       "hometown": "Sarasota, Fla.",
       "jersey": "13",
       "lastSchool": "Sarasota",
+      "batsThrows": "R/R",
       "weightLbs": 181
     },
     {
@@ -146,6 +157,7 @@
       "hometown": "Dunedin, Fla.",
       "jersey": "14",
       "lastSchool": "A3 Academy",
+      "batsThrows": "R/R",
       "weightLbs": 196
     },
     {
@@ -158,6 +170,7 @@
       "hometown": "St. Johns, Fla.",
       "jersey": "15",
       "lastSchool": "Creekside",
+      "batsThrows": "L/L",
       "weightLbs": 179
     },
     {
@@ -170,6 +183,7 @@
       "hometown": "Tampa, Fla.",
       "jersey": "16",
       "lastSchool": "Jesuit",
+      "batsThrows": "L/L",
       "weightLbs": 191
     },
     {
@@ -182,6 +196,7 @@
       "hometown": "Davie, Fla.",
       "jersey": "17",
       "lastSchool": "North Broward Prep",
+      "batsThrows": "S/R",
       "weightLbs": 210
     },
     {
@@ -194,6 +209,7 @@
       "hometown": "Ormond Beach, Fla.",
       "jersey": "18",
       "lastSchool": "Clay",
+      "batsThrows": "L/L",
       "weightLbs": 198
     },
     {
@@ -206,6 +222,7 @@
       "hometown": "Melbourne, Fla.",
       "jersey": "19",
       "lastSchool": "Eau Gallie",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -218,6 +235,7 @@
       "hometown": "Tallahassee, Fla.",
       "jersey": "20",
       "lastSchool": "Chiles",
+      "batsThrows": "L/R",
       "weightLbs": 188
     },
     {
@@ -230,6 +248,7 @@
       "hometown": "Boynton Beach, Fla.",
       "jersey": "21",
       "lastSchool": "St. John Paul II",
+      "batsThrows": "R/R",
       "weightLbs": 196
     },
     {
@@ -242,6 +261,7 @@
       "hometown": "Marietta, Ga.",
       "jersey": "22",
       "lastSchool": "Pope",
+      "batsThrows": "L/L",
       "weightLbs": 204
     },
     {
@@ -254,6 +274,7 @@
       "hometown": "St. Augustine, Fla.",
       "jersey": "23",
       "lastSchool": "Bartram Trail",
+      "batsThrows": "R/R",
       "weightLbs": 196
     },
     {
@@ -266,6 +287,7 @@
       "hometown": "Lake Worth, Fla.",
       "jersey": "24",
       "lastSchool": "Palm Beach Central",
+      "batsThrows": "R/R",
       "weightLbs": 229
     },
     {
@@ -278,6 +300,7 @@
       "hometown": "Orlando, Fla.",
       "jersey": "25",
       "lastSchool": "Bishop Moore",
+      "batsThrows": "R/R",
       "weightLbs": 223
     },
     {
@@ -290,6 +313,7 @@
       "hometown": "Cornelius, N.C.",
       "jersey": "26",
       "lastSchool": "Combine Academy",
+      "batsThrows": "L/R",
       "weightLbs": 199
     },
     {
@@ -302,6 +326,7 @@
       "hometown": "Melbourne, Fla.",
       "jersey": "27",
       "lastSchool": "Eau Gallie",
+      "batsThrows": "L/L",
       "weightLbs": 186
     },
     {
@@ -314,6 +339,7 @@
       "hometown": "Naples, Fla.",
       "jersey": "28",
       "lastSchool": "Barron Collier",
+      "batsThrows": "L/L",
       "weightLbs": 155
     },
     {
@@ -326,6 +352,7 @@
       "hometown": "Bayville, N.J.",
       "jersey": "30",
       "lastSchool": "Central Regional",
+      "batsThrows": "R/R",
       "weightLbs": 218
     },
     {
@@ -338,6 +365,7 @@
       "hometown": "Tampa, Fla.",
       "jersey": "31",
       "lastSchool": "Jesuit",
+      "batsThrows": "R/R",
       "weightLbs": 228
     },
     {
@@ -350,6 +378,7 @@
       "hometown": "Jacksonville, Fla.",
       "jersey": "32",
       "lastSchool": "Creekside",
+      "batsThrows": "L/R",
       "weightLbs": 219
     },
     {
@@ -362,6 +391,7 @@
       "hometown": "Orlando, Fla.",
       "jersey": "33",
       "lastSchool": "The First Academy",
+      "batsThrows": "R/R",
       "weightLbs": 219
     },
     {
@@ -374,6 +404,7 @@
       "hometown": "Plainfield, Ill.",
       "jersey": "35",
       "lastSchool": "Plainfield East",
+      "batsThrows": "L/L",
       "weightLbs": 180
     },
     {
@@ -386,6 +417,7 @@
       "hometown": "Teays Valley, W.Va.",
       "jersey": "36",
       "lastSchool": "Hurricane",
+      "batsThrows": "R/R",
       "weightLbs": 191
     },
     {
@@ -398,6 +430,7 @@
       "hometown": "Flowery Branch, Ga.",
       "jersey": "37",
       "lastSchool": "Flowery Branch",
+      "batsThrows": "L/L",
       "weightLbs": 154
     },
     {
@@ -410,6 +443,7 @@
       "hometown": "Celebration, Fla.",
       "jersey": "40",
       "lastSchool": "TNXL Academy",
+      "batsThrows": "R/R",
       "weightLbs": 215
     },
     {
@@ -422,6 +456,7 @@
       "hometown": "Bloomington, Ill.",
       "jersey": "41",
       "lastSchool": "University",
+      "batsThrows": "L/R",
       "weightLbs": 192
     },
     {
@@ -434,6 +469,7 @@
       "hometown": "Sarasota, Fla.",
       "jersey": "42",
       "lastSchool": "Sarasota",
+      "batsThrows": "R/R",
       "weightLbs": 193
     },
     {
@@ -446,6 +482,7 @@
       "hometown": "Beekman, N.Y.",
       "jersey": "43",
       "lastSchool": "East Lake (Fla.)",
+      "batsThrows": "R/R",
       "weightLbs": 194
     },
     {
@@ -458,6 +495,7 @@
       "hometown": "Panama City, Fla.",
       "jersey": "46",
       "lastSchool": "Mosley",
+      "batsThrows": "R/L",
       "weightLbs": 205
     },
     {
@@ -470,6 +508,7 @@
       "hometown": "Palm Beach Gardens, Fla.",
       "jersey": "47",
       "lastSchool": "Dwyer",
+      "batsThrows": "R/R",
       "weightLbs": 202
     },
     {
@@ -482,6 +521,7 @@
       "hometown": "Sarasota, Fla.",
       "jersey": "48",
       "lastSchool": "Sarasota",
+      "batsThrows": "R/R",
       "weightLbs": 196
     },
     {
@@ -494,6 +534,7 @@
       "hometown": "Tampa, Fla.",
       "jersey": "51",
       "lastSchool": "Berkeley Prep",
+      "batsThrows": "S/L",
       "weightLbs": 227
     },
     {
@@ -506,6 +547,7 @@
       "hometown": "Miami, Fla.",
       "jersey": "52",
       "lastSchool": "Miami Springs Senior",
+      "batsThrows": "L/L",
       "weightLbs": 176
     },
     {
@@ -518,6 +560,7 @@
       "hometown": "Tampa, Fla.",
       "jersey": "53",
       "lastSchool": "Jesuit",
+      "batsThrows": "R/R",
       "weightLbs": 198
     },
     {
@@ -530,6 +573,7 @@
       "hometown": "Tampa, Fla.",
       "jersey": "54",
       "lastSchool": "Wiregrass Ranch",
+      "batsThrows": "L/L",
       "weightLbs": 189
     },
     {
@@ -542,6 +586,7 @@
       "hometown": "Winchendon, Mass.",
       "jersey": "55",
       "lastSchool": "P27 Academy (S.C.)",
+      "batsThrows": "L/L",
       "weightLbs": 259
     }
   ],

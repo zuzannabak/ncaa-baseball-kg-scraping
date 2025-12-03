@@ -1,0 +1,740 @@
+{
+  "School": {
+    "schoolId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)",
+    "name": "UC Santa Barbara (University of California, Santa Barbara)"
+  },
+  "Conference": {
+    "conferenceId": "Big_West_Conference",
+    "conferenceName": "Big West Conference"
+  },
+  "Season": {
+    "seasonId": "2025",
+    "seasonYear": 2025
+  },
+  "Team": {
+    "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025",
+    "teamName": "UC Santa Barbara (University of California, Santa Barbara) Baseball",
+    "seasonYear": 2025
+  },
+  "Players": [
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_1",
+      "fullName": "Reiss Calvin",
+      "classYear": "Sr",
+      "position": "OF/INF",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "Woodbury, Minn. / Woodbury HS",
+      "jersey": "1",
+      "lastSchool": "Ventura College",
+      "batsThrows": "S/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_2",
+      "fullName": "Jackson Flora",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "205 lbs",
+      "hometown": "Pleasanton, Calif.",
+      "jersey": "2",
+      "lastSchool": "Foothill HS",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_3",
+      "fullName": "Rowan Kelly",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "5-10",
+      "weight": "175 lbs",
+      "hometown": "Menlo Park, Calif.",
+      "jersey": "3",
+      "lastSchool": "Menlo Atherton HS",
+      "batsThrows": "L/L",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_4",
+      "fullName": "Jonathan Mendez",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "200 lbs",
+      "hometown": "Los Angeles, Calif.",
+      "jersey": "5",
+      "lastSchool": "JSerra Catholic HS",
+      "batsThrows": "R/R",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_5",
+      "fullName": "Nolan Farley",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-4",
+      "weight": "190 lbs",
+      "hometown": "Encinitas, Calif. / La Costa Canyon HS",
+      "jersey": "6",
+      "lastSchool": "Ohio State",
+      "batsThrows": "R/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_6",
+      "fullName": "Cole Tryba",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-0",
+      "weight": "180 lbs",
+      "hometown": "Long Beach, Calif.",
+      "jersey": "7",
+      "lastSchool": "Los Alamitos HS",
+      "batsThrows": "L/L",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_7",
+      "fullName": "Jack Meissner",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "180 lbs",
+      "hometown": "Phoenix, Ariz.",
+      "jersey": "9",
+      "lastSchool": "Brophy College Prep",
+      "batsThrows": "L/R",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_8",
+      "fullName": "Liam Barrett",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "185 lbs",
+      "hometown": "Mountain View, Calif.",
+      "jersey": "10",
+      "lastSchool": "Mountain View HS",
+      "batsThrows": "L/R",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_9",
+      "fullName": "Nate Vargas",
+      "classYear": "Jr",
+      "position": "C",
+      "height": "6-3",
+      "weight": "225 lbs",
+      "hometown": "Rocklin, Calif. / Whitney HS",
+      "jersey": "12",
+      "lastSchool": "Folsom Lake College",
+      "batsThrows": "L/R",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_10",
+      "fullName": "Hudson Aber",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "Danville, Calif.",
+      "jersey": "14",
+      "lastSchool": "San Ramon Valley HS",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_11",
+      "fullName": "Cole Kosciusko",
+      "classYear": "Jr",
+      "position": "INF/OF",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Castro Valley, Calif. / Castro Valley HS",
+      "jersey": "15",
+      "lastSchool": "Santa Barbara City College",
+      "batsThrows": "L/L",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_12",
+      "fullName": "Corey Nunez",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-3",
+      "weight": "190 lbs",
+      "hometown": "Torrance, Calif.",
+      "jersey": "16",
+      "lastSchool": "Torrance HS",
+      "batsThrows": "R/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_13",
+      "fullName": "Carson Timothy",
+      "classYear": "R-Fr",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "190 lbs",
+      "hometown": "Woodland, Calif.",
+      "jersey": "17",
+      "lastSchool": "Pioneer HS",
+      "batsThrows": "R/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_14",
+      "fullName": "Tyler Bremner",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "190 lbs",
+      "hometown": "San Diego, Calif.",
+      "jersey": "18",
+      "lastSchool": "Scripps Ranch HS",
+      "batsThrows": "R/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_15",
+      "fullName": "Nic Peterson",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "200 lbs",
+      "hometown": "Tustin, Calif.",
+      "jersey": "19",
+      "lastSchool": "Orange Lutheran HS",
+      "batsThrows": "R/L",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_16",
+      "fullName": "Nathan Aceves",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "200 lbs",
+      "hometown": "Huntington Beach, Calif.",
+      "jersey": "20",
+      "lastSchool": "Huntington Beach HS",
+      "batsThrows": "R/R",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_17",
+      "fullName": "Masen Swan",
+      "classYear": "R-Fr",
+      "position": "LHP",
+      "height": "6-0",
+      "weight": "185 lbs",
+      "hometown": "Riverside, Calif.",
+      "jersey": "21",
+      "lastSchool": "Martin Luther King HS",
+      "batsThrows": "S/L",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_18",
+      "fullName": "Frank Camarillo",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "210 lbs",
+      "hometown": "Moreno Valley, Calif.",
+      "jersey": "22",
+      "lastSchool": "Moreno Valley HS",
+      "batsThrows": "R/R",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_19",
+      "fullName": "Peter Storjohann",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "230 lbs",
+      "hometown": "Danville, Calif. / De La Salle HS",
+      "jersey": "23",
+      "lastSchool": "Diablo Valley College",
+      "batsThrows": "R/R",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_20",
+      "fullName": "Van Froling",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-4",
+      "weight": "210 lbs",
+      "hometown": "Sacramento, Calif.",
+      "jersey": "24",
+      "lastSchool": "Inderkum HS",
+      "batsThrows": "L/L",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_21",
+      "fullName": "Jeremiah Crain",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Tacoma, Wash. / Puyallup HS",
+      "jersey": "25",
+      "lastSchool": "Tacoma Community College",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_22",
+      "fullName": "Jack Haferkamp",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "6-4",
+      "weight": "195 lbs",
+      "hometown": "Carlsbad, Calif.",
+      "jersey": "26",
+      "lastSchool": "Santa Fe Christian HS",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_23",
+      "fullName": "Raymond Olivas",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "175 lbs",
+      "hometown": "Stockton, Calif.",
+      "jersey": "28",
+      "lastSchool": "Lincoln HS",
+      "batsThrows": "R/R",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_24",
+      "fullName": "Jack Holman",
+      "classYear": "Sr",
+      "position": "INF/OF",
+      "height": "6-4",
+      "weight": "225 lbs",
+      "hometown": "Wrightwood, Calif. / Etiwanda HS",
+      "jersey": "29",
+      "lastSchool": "UCLA",
+      "batsThrows": "L/R",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_25",
+      "fullName": "Elliot Gallegos",
+      "classYear": "R-Sr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Torrance, Calif. / Torrance HS",
+      "jersey": "30",
+      "lastSchool": "Fullerton College",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_26",
+      "fullName": "Xavier Esquer",
+      "classYear": "R-So",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "185 lbs",
+      "hometown": "Palo Alto, Calif. / Palo Alto Senior High",
+      "jersey": "31",
+      "lastSchool": "Arizona",
+      "batsThrows": "R/R",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_27",
+      "fullName": "Calvin Proskey",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "195 lbs",
+      "hometown": "Oak Park, Ill.",
+      "jersey": "32",
+      "lastSchool": "Oak Park River Forest HS",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_28",
+      "fullName": "Casey Euper",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "190 lbs",
+      "hometown": "Irvine, Calif.",
+      "jersey": "33",
+      "lastSchool": "University HS",
+      "batsThrows": "L/L",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_29",
+      "fullName": "Stunner Gonzales",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-7",
+      "weight": "200 lbs",
+      "hometown": "Carlsbad, Calif.",
+      "jersey": "34",
+      "lastSchool": "La Costa Canyon HS",
+      "batsThrows": "R/R",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_30",
+      "fullName": "LeTrey McCollum",
+      "classYear": "Sr",
+      "position": "OF/INF",
+      "height": "6-4",
+      "weight": "212 lbs",
+      "hometown": "Murrieta, Calif.",
+      "jersey": "35",
+      "lastSchool": "Vista Murrieta HS",
+      "batsThrows": "R/R",
+      "weightLbs": 212
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_31",
+      "fullName": "Hudson Barrett",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-5",
+      "weight": "225 lbs",
+      "hometown": "Bakersfield, Calif.",
+      "jersey": "36",
+      "lastSchool": "Frontier HS",
+      "batsThrows": "L/L",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_32",
+      "fullName": "Ian Fernandez",
+      "classYear": "Fr",
+      "position": "C",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "Napa, Calif.",
+      "jersey": "37",
+      "lastSchool": "Vintage HS",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_33",
+      "fullName": "Jimmy Zakhar",
+      "classYear": "R-Jr",
+      "position": "C",
+      "height": "6-1",
+      "weight": "195 lbs",
+      "hometown": "Trabuco Canyon, Calif. / Mission Viejo HS",
+      "jersey": "38",
+      "lastSchool": "Irvine Valley College",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_34",
+      "fullName": "Rex DeAngelis",
+      "classYear": "So",
+      "position": "OF/INF",
+      "height": "6-4",
+      "weight": "220 lbs",
+      "hometown": "Canby, Ore.",
+      "jersey": "40",
+      "lastSchool": "North Marion HS",
+      "batsThrows": "L/L",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_35",
+      "fullName": "Isaac Kim",
+      "classYear": "Gr",
+      "position": "INF",
+      "height": "6-4",
+      "weight": "230 lbs",
+      "hometown": "Valencia, Calif. / Hart HS",
+      "jersey": "41",
+      "lastSchool": "Pomona-Pitzer",
+      "batsThrows": "R/R",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_36",
+      "fullName": "Chase Hoover",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Santa Barbara, Calif. / San Marcos HS",
+      "jersey": "43",
+      "lastSchool": "TCU",
+      "batsThrows": "L/L",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_37",
+      "fullName": "Hayden Hattenbach",
+      "classYear": "R-Sr",
+      "position": "LHP",
+      "height": "6-7",
+      "weight": "245 lbs",
+      "hometown": "San Rafael, Calif.",
+      "jersey": "44",
+      "lastSchool": "San Rafael HS",
+      "batsThrows": "L/L",
+      "weightLbs": 245
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_38",
+      "fullName": "AJ Krodel",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "195 lbs",
+      "hometown": "Villa Park, Calif.",
+      "jersey": "45",
+      "lastSchool": "Villa Park HS",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_39",
+      "fullName": "Donovann Jackson",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "190 lbs",
+      "hometown": "Glendora, Calif. / Glendora HS",
+      "jersey": "46",
+      "lastSchool": "Chaffey College",
+      "batsThrows": "L/L",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_40",
+      "fullName": "Reed Moring",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "190 lbs",
+      "hometown": "Aptos, Calif.",
+      "jersey": "48",
+      "lastSchool": "Aptos HS",
+      "batsThrows": "R/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_41",
+      "fullName": "Nick Salmon",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "215 lbs",
+      "hometown": "Newport Coast, Calif.",
+      "jersey": "51",
+      "lastSchool": "Corona Del Mar HS",
+      "batsThrows": "L/R",
+      "weightLbs": 215
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)",
+        "conferenceId": "Big_West_Conference"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025",
+        "seasonId": "2025"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_1",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_2",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_3",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_4",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_5",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_6",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_7",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_8",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_9",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_10",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_11",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_12",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_13",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_14",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_15",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_16",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_17",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_18",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_19",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_20",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_21",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_22",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_23",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_24",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_25",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_26",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_27",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_28",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_29",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_30",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_31",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_32",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_33",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_34",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_35",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_36",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_37",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_38",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_39",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_40",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      },
+      {
+        "playerId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025_player_41",
+        "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2025"
+      }
+    ]
+  }
+}

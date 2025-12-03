@@ -13,7 +13,8 @@
   },
   "Team": {
     "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2024",
-    "teamName": "UCLA (University of California, Los Angeles) Baseball"
+    "teamName": "UCLA (University of California, Los Angeles) Baseball",
+    "seasonYear": 2024
   },
   "Players": [
     {
@@ -26,6 +27,7 @@
       "hometown": "Chandler, Ariz.",
       "jersey": "1",
       "lastSchool": "Hamilton HS",
+      "batsThrows": "R/R",
       "weightLbs": 195
     },
     {
@@ -38,6 +40,7 @@
       "hometown": "San Diego, Calif.",
       "jersey": "2",
       "lastSchool": "Point Loma HS",
+      "batsThrows": "L/R",
       "weightLbs": 200
     },
     {
@@ -50,6 +53,7 @@
       "hometown": "San Clemente, Calif.",
       "jersey": "3",
       "lastSchool": "JSerra Catholic HS",
+      "batsThrows": "R/R",
       "weightLbs": 215
     },
     {
@@ -62,6 +66,7 @@
       "hometown": "Porter Ranch, Calif.",
       "jersey": "4",
       "lastSchool": "Calabasas HS",
+      "batsThrows": "R/R",
       "weightLbs": 180
     },
     {
@@ -74,6 +79,7 @@
       "hometown": "Northridge, Calif.",
       "jersey": "5",
       "lastSchool": "Notre Dame HS",
+      "batsThrows": "R/R",
       "weightLbs": 195
     },
     {
@@ -86,6 +92,7 @@
       "hometown": "Norco, Calif.",
       "jersey": "6",
       "lastSchool": "Norco HS",
+      "batsThrows": "R/R",
       "weightLbs": 180
     },
     {
@@ -98,6 +105,7 @@
       "hometown": "Whittier, Calif.",
       "jersey": "7",
       "lastSchool": "Servite HS",
+      "batsThrows": "R/R",
       "weightLbs": 170
     },
     {
@@ -110,6 +118,7 @@
       "hometown": "San Marcos, Calif.",
       "jersey": "8",
       "lastSchool": "Mission Hills HS",
+      "batsThrows": "R/R",
       "weightLbs": 185
     },
     {
@@ -122,6 +131,7 @@
       "hometown": "Jurupa Valley, Calif.",
       "jersey": "9",
       "lastSchool": "Norco HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -134,6 +144,7 @@
       "hometown": "Seattle, Wash.",
       "jersey": "10",
       "lastSchool": "Ballard HS",
+      "batsThrows": "R/R",
       "weightLbs": 225
     },
     {
@@ -146,6 +157,7 @@
       "hometown": "Rocklin, Calif.",
       "jersey": "11",
       "lastSchool": "Rocklin HS",
+      "batsThrows": "L/R",
       "weightLbs": 200
     },
     {
@@ -158,6 +170,7 @@
       "hometown": "Glendora, Calif.",
       "jersey": "14",
       "lastSchool": "Glendora HS",
+      "batsThrows": "L/R",
       "weightLbs": 215
     },
     {
@@ -170,6 +183,7 @@
       "hometown": "Anaheim Hills, Calif.",
       "jersey": "15",
       "lastSchool": "Servite HS",
+      "batsThrows": "R/R",
       "weightLbs": 180
     },
     {
@@ -182,6 +196,7 @@
       "hometown": "Palos Verdes, Calif.",
       "jersey": "16",
       "lastSchool": "Palos Verdes HS",
+      "batsThrows": "R/R",
       "weightLbs": 195
     },
     {
@@ -194,6 +209,7 @@
       "hometown": "Wrightwood, Calif.",
       "jersey": "17",
       "lastSchool": "Etiwanda HS",
+      "batsThrows": "L/R",
       "weightLbs": 230
     },
     {
@@ -206,6 +222,7 @@
       "hometown": "San Jose, Calif.",
       "jersey": "18",
       "lastSchool": "Leland HS",
+      "batsThrows": "R/R",
       "weightLbs": 225
     },
     {
@@ -218,6 +235,7 @@
       "hometown": "Morgan Hill, Calif.",
       "jersey": "19",
       "lastSchool": "Live Oak HS",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -230,6 +248,7 @@
       "hometown": "Los Angeles, Calif.",
       "jersey": "20",
       "lastSchool": "Notre Dame HS",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -242,6 +261,7 @@
       "hometown": "Pasadena, Calif.",
       "jersey": "21",
       "lastSchool": "St. John Bosco HS",
+      "batsThrows": "L/R",
       "weightLbs": 220
     },
     {
@@ -254,6 +274,7 @@
       "hometown": "Marysville, Wash.",
       "jersey": "24",
       "lastSchool": "Marysville Getchell HS",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -266,6 +287,7 @@
       "hometown": "Roseville, Calif.",
       "jersey": "25",
       "lastSchool": "Roseville HS",
+      "batsThrows": "R/R",
       "weightLbs": 230
     },
     {
@@ -278,6 +300,7 @@
       "hometown": "Highlands Ranch, Colo.",
       "jersey": "27",
       "lastSchool": "Valor Christian HS",
+      "batsThrows": "L/R",
       "weightLbs": 190
     },
     {
@@ -290,6 +313,7 @@
       "hometown": "Discovery Bay, Calif.",
       "jersey": "28",
       "lastSchool": "De La Salle HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -302,6 +326,7 @@
       "hometown": "Carlsbad, Calif.",
       "jersey": "29",
       "lastSchool": "Carlsbad HS",
+      "batsThrows": "R/R",
       "weightLbs": 220
     },
     {
@@ -314,6 +339,7 @@
       "hometown": "Westlake Village, Calif.",
       "jersey": "30",
       "lastSchool": "Oaks Christian HS",
+      "batsThrows": "R/R",
       "weightLbs": 180
     },
     {
@@ -326,6 +352,7 @@
       "hometown": "Oak Park, Calif.",
       "jersey": "31",
       "lastSchool": "Notre Dame HS",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -338,6 +365,7 @@
       "hometown": "Santa Clarita, Calif.",
       "jersey": "32",
       "lastSchool": "West Ranch HS",
+      "batsThrows": "R/R",
       "weightLbs": 235
     },
     {
@@ -350,6 +378,7 @@
       "hometown": "Rancho Santa Margarita, Calif.",
       "jersey": "33",
       "lastSchool": "Santa Margarita HS",
+      "batsThrows": "L/R",
       "weightLbs": 185
     },
     {
@@ -362,6 +391,7 @@
       "hometown": "Shafter, Calif.",
       "jersey": "34",
       "lastSchool": "Frontier HS",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -374,6 +404,7 @@
       "hometown": "Ladera Ranch, Calif.",
       "jersey": "35",
       "lastSchool": "JSerra Catholic HS",
+      "batsThrows": "R/R",
       "weightLbs": 225
     },
     {
@@ -386,6 +417,7 @@
       "hometown": "Woodland Hills, Calif.",
       "jersey": "36",
       "lastSchool": "Notre Dame HS",
+      "batsThrows": "L/R",
       "weightLbs": 180
     },
     {
@@ -398,6 +430,7 @@
       "hometown": "Flossmoor, Ill.",
       "jersey": "37",
       "lastSchool": "Homewood-Flossmoor HS",
+      "batsThrows": "L/L",
       "weightLbs": 180
     },
     {
@@ -410,6 +443,7 @@
       "hometown": "Yucaipa, Calif.",
       "jersey": "38",
       "lastSchool": "Aquinas HS",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -422,6 +456,7 @@
       "hometown": "Huntington Beach, Calif.",
       "jersey": "39",
       "lastSchool": "Ocean View HS",
+      "batsThrows": "L/R",
       "weightLbs": 215
     },
     {
@@ -434,6 +469,7 @@
       "hometown": "Castle Pines, Colo.",
       "jersey": "40",
       "lastSchool": "Valor Christian HS",
+      "batsThrows": "L/R",
       "weightLbs": 195
     },
     {
@@ -446,6 +482,7 @@
       "hometown": "Lodi, Calif.",
       "jersey": "43",
       "lastSchool": "Lodi HS",
+      "batsThrows": "R/R",
       "weightLbs": 210
     },
     {
@@ -458,6 +495,7 @@
       "hometown": "Encino, Calif.",
       "jersey": "44",
       "lastSchool": "Harvard-Westlake School",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -470,6 +508,7 @@
       "hometown": "Anaheim Hills, Calif.",
       "jersey": "45",
       "lastSchool": "Servite HS",
+      "batsThrows": "L/L",
       "weightLbs": 215
     },
     {
@@ -482,6 +521,7 @@
       "hometown": "Kailua, Hawaii",
       "jersey": "47",
       "lastSchool": "Kamehameha Kapalama HS",
+      "batsThrows": "L/L",
       "weightLbs": 180
     },
     {
@@ -494,6 +534,7 @@
       "hometown": "Huntington Beach, Calif.",
       "jersey": "48",
       "lastSchool": "Huntington Beach HS",
+      "batsThrows": "L/L",
       "weightLbs": 185
     },
     {
@@ -506,6 +547,7 @@
       "hometown": "Moreno Valley, Calif.",
       "jersey": "50",
       "lastSchool": "Moreno Valley HS",
+      "batsThrows": "R/R",
       "weightLbs": 170
     },
     {
@@ -518,6 +560,7 @@
       "hometown": "Reno, Nev.",
       "jersey": "51",
       "lastSchool": "Reno HS",
+      "batsThrows": "R/R",
       "weightLbs": 195
     },
     {
@@ -530,6 +573,7 @@
       "hometown": "Lafayette, Calif.",
       "jersey": "55",
       "lastSchool": "College Park HS",
+      "batsThrows": "R/R",
       "weightLbs": 205
     }
   ],

@@ -1,0 +1,51 @@
+{
+  "School": {
+    "schoolId": "Murray_State_University",
+    "name": "Murray State University",
+    "conference": "Missouri Valley Conference (MVC)"
+  },
+  "Team": {
+    "teamId": "Murray_State_University_baseball_2024",
+    "teamName": "Murray State University Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "Murray_State_University_baseball_2024_coach_1",
+      "fullName": "Dan Skirka",
+      "role": "Head Coach",
+      "email": "msu.baseball@murraystate.edu",
+      "phone": "(270) 809-4892"
+    },
+    {
+      "coachId": "Murray_State_University_baseball_2024_coach_2",
+      "fullName": "Steve Adkins",
+      "role": "Assistant Coach",
+      "email": "sadkins6@murraystate.edu",
+      "phone": "(270) 809-3475"
+    },
+    {
+      "coachId": "Murray_State_University_baseball_2024_coach_3",
+      "fullName": "Cooper Goen",
+      "role": "Assistant Coach",
+      "email": "cgoen@murraystate.edu",
+      "phone": "(270) 809-3869"
+    },
+    {
+      "coachId": "Murray_State_University_baseball_2024_coach_4",
+      "fullName": "Tommy Goodale",
+      "role": "Assistant Coach",
+      "email": "tgoodale1@murraystate.edu",
+      "phone": "(270) 809-4192"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Murray_State_University_baseball_2024_staff_1",
+      "fullName": "Morgan Schumacher",
+      "role": "Athletic Trainer",
+      "email": "",
+      "phone": ""
+    }
+  ]
+}

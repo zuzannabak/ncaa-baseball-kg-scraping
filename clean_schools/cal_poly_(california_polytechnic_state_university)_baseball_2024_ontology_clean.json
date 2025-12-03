@@ -13,7 +13,8 @@
   },
   "Team": {
     "teamId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024",
-    "teamName": "Cal Poly (California Polytechnic State University) Baseball"
+    "teamName": "Cal Poly (California Polytechnic State University) Baseball",
+    "seasonYear": 2024
   },
   "Players": [
     {
@@ -26,6 +27,7 @@
       "hometown": "Perris, CA",
       "jersey": "1",
       "lastSchool": "Orange Vista HS (Riverside City College)",
+      "batsThrows": "",
       "weightLbs": 185
     },
     {
@@ -38,6 +40,7 @@
       "hometown": "Mission Viejo, CA",
       "jersey": "2",
       "lastSchool": "Mission Viejo HS (CSU Bakersfield)",
+      "batsThrows": "",
       "weightLbs": 175
     },
     {
@@ -50,6 +53,7 @@
       "hometown": "Paso Robles, CA",
       "jersey": "4",
       "lastSchool": "Paso Robles HS",
+      "batsThrows": "",
       "weightLbs": 170
     },
     {
@@ -62,6 +66,7 @@
       "hometown": "Bakersfield, CA",
       "jersey": "5",
       "lastSchool": "Highland HS",
+      "batsThrows": "",
       "weightLbs": 165
     },
     {
@@ -74,6 +79,7 @@
       "hometown": "Madera, CA",
       "jersey": "6",
       "lastSchool": "San Joaquin Memorial HS",
+      "batsThrows": "",
       "weightLbs": 200
     },
     {
@@ -86,6 +92,7 @@
       "hometown": "Folsom, CA",
       "jersey": "7",
       "lastSchool": "Folsom HS",
+      "batsThrows": "",
       "weightLbs": 180
     },
     {
@@ -98,6 +105,7 @@
       "hometown": "El Cajon, CA",
       "jersey": "8",
       "lastSchool": "Granite Hills HS (Cuesta College)",
+      "batsThrows": "",
       "weightLbs": 170
     },
     {
@@ -110,6 +118,7 @@
       "hometown": "San Pedro, CA",
       "jersey": "11",
       "lastSchool": "San Pedro HS (Golden West College)",
+      "batsThrows": "",
       "weightLbs": 210
     },
     {
@@ -122,6 +131,7 @@
       "hometown": "Elk Grove, CA",
       "jersey": "12",
       "lastSchool": "Elk Grove HS (San Joaquin Delta College)",
+      "batsThrows": "",
       "weightLbs": 170
     },
     {
@@ -134,6 +144,7 @@
       "hometown": "San Diego CA",
       "jersey": "14",
       "lastSchool": "Clairemont HS (Regis University)",
+      "batsThrows": "",
       "weightLbs": 200
     },
     {
@@ -146,6 +157,7 @@
       "hometown": "Renton, WA",
       "jersey": "15",
       "lastSchool": "Kentridge HS (Bellevue College)",
+      "batsThrows": "",
       "weightLbs": 205
     },
     {
@@ -158,6 +170,7 @@
       "hometown": "Aiea, HI",
       "jersey": "16",
       "lastSchool": "Mid-Pacific Institute (Feather River Community College)",
+      "batsThrows": "",
       "weightLbs": 195
     },
     {
@@ -170,6 +183,7 @@
       "hometown": "Patterson, CA",
       "jersey": "17",
       "lastSchool": "Central Catholic HS",
+      "batsThrows": "",
       "weightLbs": 220
     },
     {
@@ -182,6 +196,7 @@
       "hometown": "Santa Clarita, CA",
       "jersey": "19",
       "lastSchool": "Hart HS",
+      "batsThrows": "",
       "weightLbs": 215
     },
     {
@@ -194,6 +209,7 @@
       "hometown": "Santa Maria, CA",
       "jersey": "20",
       "lastSchool": "Righetti HS (Hancock College)",
+      "batsThrows": "",
       "weightLbs": 185
     },
     {
@@ -206,6 +222,7 @@
       "hometown": "Manhattan Beach CA",
       "jersey": "23",
       "lastSchool": "Mira Costa HS (El Camino College)",
+      "batsThrows": "",
       "weightLbs": 190
     },
     {
@@ -218,6 +235,7 @@
       "hometown": "Brisbane, Australia",
       "jersey": "24",
       "lastSchool": "Iona College Brisbane (Odessa College, TX)",
+      "batsThrows": "",
       "weightLbs": 235
     },
     {
@@ -230,6 +248,7 @@
       "hometown": "Bakersfield, CA",
       "jersey": "25",
       "lastSchool": "Bakersfield Christian HS",
+      "batsThrows": "",
       "weightLbs": 210
     },
     {
@@ -242,6 +261,7 @@
       "hometown": "Alameda, CA",
       "jersey": "26",
       "lastSchool": "Alameda HS",
+      "batsThrows": "",
       "weightLbs": 215
     },
     {
@@ -254,6 +274,7 @@
       "hometown": "Laguna Beach, CA",
       "jersey": "27",
       "lastSchool": "Laguna Beach HS",
+      "batsThrows": "",
       "weightLbs": 190
     },
     {
@@ -266,6 +287,7 @@
       "hometown": "San Mateo, CA",
       "jersey": "28",
       "lastSchool": "St. Francis HS",
+      "batsThrows": "",
       "weightLbs": 180
     },
     {
@@ -278,6 +300,7 @@
       "hometown": "Lompoc, CA",
       "jersey": "31",
       "lastSchool": "Cabrillo HS (Allan Hancock College)",
+      "batsThrows": "",
       "weightLbs": 175
     },
     {
@@ -290,6 +313,7 @@
       "hometown": "Paso Robles CA",
       "jersey": "32",
       "lastSchool": "Paso Robles HS (Oklahoma)",
+      "batsThrows": "",
       "weightLbs": 240
     },
     {
@@ -302,6 +326,7 @@
       "hometown": "Visalia CA",
       "jersey": "33",
       "lastSchool": "Redwood HS",
+      "batsThrows": "",
       "weightLbs": 190
     },
     {
@@ -314,6 +339,7 @@
       "hometown": "Fair Oaks CA",
       "jersey": "35",
       "lastSchool": "Bella Vista HS (Sierra College)",
+      "batsThrows": "",
       "weightLbs": 185
     },
     {
@@ -326,6 +352,7 @@
       "hometown": "Elk Grove, CA",
       "jersey": "36",
       "lastSchool": "Cosumnes Oaks HS",
+      "batsThrows": "",
       "weightLbs": 205
     },
     {
@@ -338,6 +365,7 @@
       "hometown": "San Jose, CA",
       "jersey": "37",
       "lastSchool": "Bellarmine Prep",
+      "batsThrows": "",
       "weightLbs": 215
     },
     {
@@ -350,6 +378,7 @@
       "hometown": "Morgan Hill, CA",
       "jersey": "38",
       "lastSchool": "Ann Sobrato HS",
+      "batsThrows": "",
       "weightLbs": 225
     },
     {
@@ -362,6 +391,7 @@
       "hometown": "Sacramento, CA",
       "jersey": "40",
       "lastSchool": "River City HS",
+      "batsThrows": "",
       "weightLbs": 195
     },
     {
@@ -374,6 +404,7 @@
       "hometown": "Honolulu, HI",
       "jersey": "41",
       "lastSchool": "Rancho Cucamonga HS",
+      "batsThrows": "",
       "weightLbs": 190
     },
     {
@@ -386,6 +417,7 @@
       "hometown": "Alameda, CA",
       "jersey": "43",
       "lastSchool": "Alameda HS",
+      "batsThrows": "",
       "weightLbs": 190
     },
     {
@@ -398,6 +430,7 @@
       "hometown": "Long Beach, CA",
       "jersey": "44",
       "lastSchool": "Wilson HS",
+      "batsThrows": "",
       "weightLbs": 190
     },
     {
@@ -410,6 +443,7 @@
       "hometown": "Santa Rosa, CA",
       "jersey": "45",
       "lastSchool": "Maria Carrillo Pumas",
+      "batsThrows": "",
       "weightLbs": 200
     },
     {
@@ -422,6 +456,7 @@
       "hometown": "San Diego, CA",
       "jersey": "46",
       "lastSchool": "La Costa Canyon HS",
+      "batsThrows": "",
       "weightLbs": 200
     },
     {
@@ -434,6 +469,7 @@
       "hometown": "Los Altos, CA",
       "jersey": "47",
       "lastSchool": "Los Altos HS (College of San Mateo)",
+      "batsThrows": "",
       "weightLbs": 180
     },
     {
@@ -446,6 +482,7 @@
       "hometown": "Walnut Creek, CA",
       "jersey": "48",
       "lastSchool": "Northgate HS",
+      "batsThrows": "",
       "weightLbs": 210
     },
     {
@@ -458,6 +495,7 @@
       "hometown": "Pacifica, CA",
       "jersey": "49",
       "lastSchool": "Burlingame HS",
+      "batsThrows": "",
       "weightLbs": 190
     },
     {
@@ -470,6 +508,7 @@
       "hometown": "Campbell, CA",
       "jersey": "55",
       "lastSchool": "Archbishop Mitty HS (Boise State)",
+      "batsThrows": "",
       "weightLbs": 270
     }
   ],

@@ -115,7 +115,7 @@ def parse_sidearm_roster_view2(html: str):
 
     headers = [norm(th.get_text()).lower() for th in header_row.find_all(["th", "td"])]
 
-    jersey_idx = name_idx = pos_idx = ht_idx = wt_idx = yr_idx = home_idx = school_idx = None
+    jersey_idx = name_idx = pos_idx = ht_idx = wt_idx = yr_idx = home_idx = school_idx = bt_idx = None
 
     for idx, h in enumerate(headers):
             if "jersey" in h or h == "#" or h.startswith("no."):
@@ -128,17 +128,17 @@ def parse_sidearm_roster_view2(html: str):
                 ht_idx = idx
             elif h.startswith("wt") or "weight" in h:
                 wt_idx = idx
-            # ⬇️ bardziej łapczywe łapanie kolumny z rokiem (Yr., Year, Class, Cl.)
             elif "yr" in h or "year" in h or "class" in h or h.startswith("cl"):
                 yr_idx = idx
-            # ⬇️ pojedyncza kolumna 'Hometown / High School'
+            elif "b/t" in h or "bats" in h or "throws" in h:
+                bt_idx = idx          # 👈 NOWA KOLUMNA
             elif "hometown" in h and "school" in h:
                 home_idx = idx
-                # UWAGA: tutaj NIE ustawiamy school_idx – jedna kolumna będzie splitowana
             elif "hometown" in h:
                 home_idx = idx
             elif "high school" in h or "previous school" in h:
                 school_idx = idx
+
 
 
     players = []
@@ -173,6 +173,7 @@ def parse_sidearm_roster_view2(html: str):
         if weight and weight.isdigit():
             weight = weight + " lbs"
         class_year = get(yr_idx)
+        bt = get(bt_idx)
 
 
         hometown = ""
@@ -201,6 +202,7 @@ def parse_sidearm_roster_view2(html: str):
                 "weight": weight,
                 "hometown": hometown,
                 "last_school": last_school,
+                "bats_throws": bt,   # 👈 DODANE
             }
         )
 

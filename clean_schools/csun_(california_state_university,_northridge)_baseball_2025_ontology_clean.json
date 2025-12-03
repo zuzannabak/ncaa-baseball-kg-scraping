@@ -1,0 +1,672 @@
+{
+  "School": {
+    "schoolId": "CSUN_(California_State_University,_Northridge)",
+    "name": "CSUN (California State University, Northridge)"
+  },
+  "Conference": {
+    "conferenceId": "Big_West_Conference",
+    "conferenceName": "Big West Conference"
+  },
+  "Season": {
+    "seasonId": "2025",
+    "seasonYear": 2025
+  },
+  "Team": {
+    "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025",
+    "teamName": "CSUN (California State University, Northridge) Baseball",
+    "seasonYear": 2025
+  },
+  "Players": [
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_1",
+      "fullName": "Andrew Rivera",
+      "classYear": "",
+      "position": "",
+      "height": "",
+      "weight": "",
+      "hometown": "San Fernando Valley, CA",
+      "jersey": "0",
+      "lastSchool": "",
+      "batsThrows": "",
+      "weightLbs": null
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_2",
+      "fullName": "Brandon Leon",
+      "classYear": "R-So",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "158 lbs",
+      "hometown": "La Quinta, CA",
+      "jersey": "2",
+      "lastSchool": "La Quinta HS",
+      "batsThrows": "",
+      "weightLbs": 158
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_3",
+      "fullName": "Cameron Calvillo",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "190 lbs",
+      "hometown": "Casto Valley, CA",
+      "jersey": "3",
+      "lastSchool": "Castro Valley HS",
+      "batsThrows": "",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_4",
+      "fullName": "Will Linberg",
+      "classYear": "Jr",
+      "position": "1B/OF",
+      "height": "6-2",
+      "weight": "185 lbs",
+      "hometown": "Sacramento, CA",
+      "jersey": "6",
+      "lastSchool": "Rio Americano HS",
+      "batsThrows": "",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_5",
+      "fullName": "Jon Mocherman",
+      "classYear": "R-Jr",
+      "position": "LHP",
+      "height": "5-11",
+      "weight": "185 lbs",
+      "hometown": "Phelan, CA",
+      "jersey": "7",
+      "lastSchool": "Serrano HS",
+      "batsThrows": "",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_6",
+      "fullName": "Hayden Hall",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "175 lbs",
+      "hometown": "Elk Grove, CA",
+      "jersey": "8",
+      "lastSchool": "Pleasant Grove HS",
+      "batsThrows": "",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_7",
+      "fullName": "Xavier Rios",
+      "classYear": "R-Fr",
+      "position": "C/INF",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "Castro Valley, CA",
+      "jersey": "9",
+      "lastSchool": "Moreau Catholic HS",
+      "batsThrows": "",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_8",
+      "fullName": "Bren Wilkinson",
+      "classYear": "Jr",
+      "position": "C",
+      "height": "5-10",
+      "weight": "180 lbs",
+      "hometown": "Long Beach, CA",
+      "jersey": "11",
+      "lastSchool": "Cypress HS",
+      "batsThrows": "",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_9",
+      "fullName": "Andrew Gauna",
+      "classYear": "Sr",
+      "position": "OF",
+      "height": "6-4",
+      "weight": "205 lbs",
+      "hometown": "San Diego, CA",
+      "jersey": "12",
+      "lastSchool": "Patrick Henry HS",
+      "batsThrows": "",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_10",
+      "fullName": "Matthew Pena",
+      "classYear": "So",
+      "position": "1B/DH",
+      "height": "6-0",
+      "weight": "220 lbs",
+      "hometown": "Hollister, CA",
+      "jersey": "13",
+      "lastSchool": "San Benito HS",
+      "batsThrows": "",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_11",
+      "fullName": "Trent Abel",
+      "classYear": "So",
+      "position": "INF",
+      "height": "5-11",
+      "weight": "170 lbs",
+      "hometown": "San Diego, CA",
+      "jersey": "14",
+      "lastSchool": "Rancho Bernardo HS",
+      "batsThrows": "",
+      "weightLbs": 170
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_12",
+      "fullName": "Diego Gutierrez",
+      "classYear": "R-Jr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "180 lbs",
+      "hometown": "Norwalk, CA",
+      "jersey": "15",
+      "lastSchool": "Lakewood HS",
+      "batsThrows": "",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_13",
+      "fullName": "Jehee Lee",
+      "classYear": "So",
+      "position": "C/OF",
+      "height": "5-10",
+      "weight": "185 lbs",
+      "hometown": "San Diego, CA",
+      "jersey": "16",
+      "lastSchool": "Rancho Bernardo HS",
+      "batsThrows": "",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_14",
+      "fullName": "Kyle Panganiban",
+      "classYear": "R-Fr",
+      "position": "INF/OF",
+      "height": "5-11",
+      "weight": "175 lbs",
+      "hometown": "Cerritos, CA",
+      "jersey": "17",
+      "lastSchool": "Gahr HS",
+      "batsThrows": "",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_15",
+      "fullName": "Jarren Sanderson",
+      "classYear": "So",
+      "position": "OF",
+      "height": "6-6",
+      "weight": "220 lbs",
+      "hometown": "Torrance, CA",
+      "jersey": "18",
+      "lastSchool": "Junipero Serra HS",
+      "batsThrows": "",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_16",
+      "fullName": "Noah Rinehart",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "Rancho Cucamonga, CA",
+      "jersey": "19",
+      "lastSchool": "Rancho Cucamonga HS",
+      "batsThrows": "",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_17",
+      "fullName": "Max Mendes",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "196 lbs",
+      "hometown": "Fresno, CA",
+      "jersey": "20",
+      "lastSchool": "San Joaquin Memorial HS",
+      "batsThrows": "",
+      "weightLbs": 196
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_18",
+      "fullName": "Nicholas Santivanez",
+      "classYear": "Fr",
+      "position": "1B/RHP",
+      "height": "6-3",
+      "weight": "185 lbs",
+      "hometown": "Orange, CA",
+      "jersey": "21",
+      "lastSchool": "El Modena HS",
+      "batsThrows": "",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_19",
+      "fullName": "Destin Allen-Fox",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "5-11",
+      "weight": "174 lbs",
+      "hometown": "Alpine, CA",
+      "jersey": "22",
+      "lastSchool": "Santana HS",
+      "batsThrows": "",
+      "weightLbs": 174
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_20",
+      "fullName": "Matthew Kurata",
+      "classYear": "Sr",
+      "position": "C",
+      "height": "5-9",
+      "weight": "195 lbs",
+      "hometown": "Cerritos, CA",
+      "jersey": "23",
+      "lastSchool": "Gahr HS",
+      "batsThrows": "",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_21",
+      "fullName": "Elijah Fairchild",
+      "classYear": "So",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "175 lbs",
+      "hometown": "Berkeley, CA",
+      "jersey": "25",
+      "lastSchool": "Berkeley HS",
+      "batsThrows": "",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_22",
+      "fullName": "Tyler Mejia",
+      "classYear": "Jr",
+      "position": "OF/LHP",
+      "height": "6-3",
+      "weight": "195 lbs",
+      "hometown": "Castle Rock, CO",
+      "jersey": "26",
+      "lastSchool": "Mountain Vista HS",
+      "batsThrows": "",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_23",
+      "fullName": "Andrew Becker",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "6-1",
+      "weight": "175 lbs",
+      "hometown": "Solana Beach, CA",
+      "jersey": "27",
+      "lastSchool": "Canyon Crest Academy",
+      "batsThrows": "",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_24",
+      "fullName": "Angel Cortez",
+      "classYear": "So",
+      "position": "C/INF",
+      "height": "5-10",
+      "weight": "200 lbs",
+      "hometown": "Lynwood, CA",
+      "jersey": "28",
+      "lastSchool": "Gahr HS",
+      "batsThrows": "",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_25",
+      "fullName": "Colton Boardman",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "5-9",
+      "weight": "168 lbs",
+      "hometown": "Las Vegas, NV",
+      "jersey": "29",
+      "lastSchool": "Bishop Gorman HS",
+      "batsThrows": "",
+      "weightLbs": 168
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_26",
+      "fullName": "Gabriel Hernandez",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "5-10",
+      "weight": "175 lbs",
+      "hometown": "Barstow, CA",
+      "jersey": "30",
+      "lastSchool": "Barstow HS",
+      "batsThrows": "",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_27",
+      "fullName": "Dante Zamudio",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "190 lbs",
+      "hometown": "Sylmar, CA",
+      "jersey": "31",
+      "lastSchool": "Grace Brethren HS",
+      "batsThrows": "",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_28",
+      "fullName": "Kody King",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "200 lbs",
+      "hometown": "San Dimas, CA",
+      "jersey": "32",
+      "lastSchool": "San Dimas HS",
+      "batsThrows": "",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_29",
+      "fullName": "Calix Armijo",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "5-10",
+      "weight": "205 lbs",
+      "hometown": "Redondo Beach, CA",
+      "jersey": "34",
+      "lastSchool": "Mary Star of the Sea HS",
+      "batsThrows": "",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_30",
+      "fullName": "Logan Miller",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "200 lbs",
+      "hometown": "Boise, ID",
+      "jersey": "35",
+      "lastSchool": "Timberline HS",
+      "batsThrows": "",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_31",
+      "fullName": "Blake Ignaciak",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "210 lbs",
+      "hometown": "Oceanside, CA",
+      "jersey": "36",
+      "lastSchool": "El Camino HS",
+      "batsThrows": "",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_32",
+      "fullName": "Jason Davis",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "220 lbs",
+      "hometown": "Torrance, CA",
+      "jersey": "45",
+      "lastSchool": "South Torrance HS",
+      "batsThrows": "",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_33",
+      "fullName": "Royce Clayton, Jr.",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "5-10",
+      "weight": "170 lbs",
+      "hometown": "Westlake Village, CA",
+      "jersey": "47",
+      "lastSchool": "Oaks Christian School",
+      "batsThrows": "",
+      "weightLbs": 170
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_34",
+      "fullName": "Roberto Gonzalez",
+      "classYear": "Sr",
+      "position": "INF",
+      "height": "5-7",
+      "weight": "156 lbs",
+      "hometown": "Imperial, CA",
+      "jersey": "51",
+      "lastSchool": "Imperial HS",
+      "batsThrows": "",
+      "weightLbs": 156
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_35",
+      "fullName": "Jesus Liera",
+      "classYear": "Sr",
+      "position": "C",
+      "height": "5-10",
+      "weight": "200 lbs",
+      "hometown": "Guasave, Sinaloa, Mexico",
+      "jersey": "52",
+      "lastSchool": "Downey HS",
+      "batsThrows": "",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_36",
+      "fullName": "Ryan Halamicek",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "220 lbs",
+      "hometown": "Yucaipa, CA",
+      "jersey": "54",
+      "lastSchool": "Redlands East Valley HS",
+      "batsThrows": "",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_37",
+      "fullName": "Jackson Banuelos",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "5-11",
+      "weight": "175 lbs",
+      "hometown": "Canyon Country, CA",
+      "jersey": "55",
+      "lastSchool": "West Ranch HS",
+      "batsThrows": "",
+      "weightLbs": 175
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "CSUN_(California_State_University,_Northridge)",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "CSUN_(California_State_University,_Northridge)",
+        "conferenceId": "Big_West_Conference"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025",
+        "seasonId": "2025"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_1",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_2",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_3",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_4",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_5",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_6",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_7",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_8",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_9",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_10",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_11",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_12",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_13",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_14",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_15",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_16",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_17",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_18",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_19",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_20",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_21",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_22",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_23",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_24",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_25",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_26",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_27",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_28",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_29",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_30",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_31",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_32",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_33",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_34",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_35",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_36",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      },
+      {
+        "playerId": "CSUN_(California_State_University,_Northridge)_baseball_2025_player_37",
+        "teamId": "CSUN_(California_State_University,_Northridge)_baseball_2025"
+      }
+    ]
+  }
+}

@@ -13,7 +13,8 @@
   },
   "Team": {
     "teamId": "Mississippi_State_University_baseball_2024",
-    "teamName": "Mississippi State University Baseball"
+    "teamName": "Mississippi State University Baseball",
+    "seasonYear": 2024
   },
   "Players": [
     {
@@ -26,6 +27,7 @@
       "hometown": "Dorr, Mich.",
       "jersey": "2",
       "lastSchool": "Bryon Center HS / College of Central Florida",
+      "batsThrows": "R/R",
       "weightLbs": 195
     },
     {
@@ -38,6 +40,7 @@
       "hometown": "Taylors, S.C.",
       "jersey": "3",
       "lastSchool": "Eastside HS",
+      "batsThrows": "S/R",
       "weightLbs": 175
     },
     {
@@ -50,6 +53,7 @@
       "hometown": "Stockbridge, Ga.",
       "jersey": "4",
       "lastSchool": "Georgia Premier Academy",
+      "batsThrows": "R/R",
       "weightLbs": 215
     },
     {
@@ -62,6 +66,7 @@
       "hometown": "Pella, Iowa",
       "jersey": "5",
       "lastSchool": "Heritage Academy",
+      "batsThrows": "R/R",
       "weightLbs": 210
     },
     {
@@ -74,6 +79,7 @@
       "hometown": "D'Iberville, Miss.",
       "jersey": "6",
       "lastSchool": "D'Iberville HS",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -86,6 +92,7 @@
       "hometown": "Goffstown, N.H.",
       "jersey": "7",
       "lastSchool": "Goffstown HS / VCU",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -98,6 +105,7 @@
       "hometown": "Bossier City, La.",
       "jersey": "8",
       "lastSchool": "Parkway HS / East Central CC / New Orleans",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -110,6 +118,7 @@
       "hometown": "Verbena, Ala.",
       "jersey": "9",
       "lastSchool": "Chilton County HS",
+      "batsThrows": "L/L",
       "weightLbs": 200
     },
     {
@@ -122,6 +131,7 @@
       "hometown": "Cedartown, Ga.",
       "jersey": "10",
       "lastSchool": "Cedartown HS",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -134,6 +144,7 @@
       "hometown": "Brandon, Miss.",
       "jersey": "11",
       "lastSchool": "Brandon HS",
+      "batsThrows": "R/R",
       "weightLbs": 195
     },
     {
@@ -146,6 +157,7 @@
       "hometown": "Columbus, Miss.",
       "jersey": "12",
       "lastSchool": "Starkville Academy",
+      "batsThrows": "R/R",
       "weightLbs": 205
     },
     {
@@ -158,6 +170,7 @@
       "hometown": "Kansas City, Mo.",
       "jersey": "13",
       "lastSchool": "Liberty North HS / John A. Logan CC",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -170,6 +183,7 @@
       "hometown": "Williamsport, Ind.",
       "jersey": "14",
       "lastSchool": "Seeger HS / Purdue",
+      "batsThrows": "R/R",
       "weightLbs": 215
     },
     {
@@ -182,6 +196,7 @@
       "hometown": "Marietta, Ga.",
       "jersey": "15",
       "lastSchool": "Mount Paran Christian School",
+      "batsThrows": "L/L",
       "weightLbs": 210
     },
     {
@@ -194,6 +209,7 @@
       "hometown": "Ardmore, Ala.",
       "jersey": "16",
       "lastSchool": "Ardmore HS",
+      "batsThrows": "L/L",
       "weightLbs": 200
     },
     {
@@ -206,6 +222,7 @@
       "hometown": "Houston, Texas",
       "jersey": "17",
       "lastSchool": "The Kinkaid School / Furman",
+      "batsThrows": "R/R",
       "weightLbs": 235
     },
     {
@@ -218,6 +235,7 @@
       "hometown": "Naples, Fla.",
       "jersey": "18",
       "lastSchool": "Barron Collier HS / Pittsburgh",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -230,6 +248,7 @@
       "hometown": "Vancleave, Miss.",
       "jersey": "19",
       "lastSchool": "Vancleave HS",
+      "batsThrows": "L/L",
       "weightLbs": 205
     },
     {
@@ -242,6 +261,7 @@
       "hometown": "Mobile, Ala.",
       "jersey": "20",
       "lastSchool": "St. Paul's Episcopal School / Pear River CC",
+      "batsThrows": "R/R",
       "weightLbs": 215
     },
     {
@@ -254,6 +274,7 @@
       "hometown": "Florence, Ala.",
       "jersey": "21",
       "lastSchool": "Central HS / Northeast Mississippi CC",
+      "batsThrows": "R/R",
       "weightLbs": 250
     },
     {
@@ -266,6 +287,7 @@
       "hometown": "Madison, Miss.",
       "jersey": "22",
       "lastSchool": "Madison Central HS",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -278,6 +300,7 @@
       "hometown": "Starkville, Miss.",
       "jersey": "23",
       "lastSchool": "Starkville HS / Northeast Mississippi CC",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -290,6 +313,7 @@
       "hometown": "Auburn, Ala.",
       "jersey": "24",
       "lastSchool": "Auburn HS",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -302,6 +326,7 @@
       "hometown": "Zionsville, Ind.",
       "jersey": "25",
       "lastSchool": "Zionsville HS / Ball State",
+      "batsThrows": "R/R",
       "weightLbs": 210
     },
     {
@@ -314,6 +339,7 @@
       "hometown": "Dover, Fla.",
       "jersey": "26",
       "lastSchool": "Strawberry Crest HS / Daytona State College",
+      "batsThrows": "R/R",
       "weightLbs": 185
     },
     {
@@ -326,6 +352,7 @@
       "hometown": "Bogart, Ga.",
       "jersey": "27",
       "lastSchool": "North Oconee HS / NW Florida State College",
+      "batsThrows": "L/R",
       "weightLbs": 195
     },
     {
@@ -338,6 +365,7 @@
       "hometown": "Southaven, Miss.",
       "jersey": "28",
       "lastSchool": "Lewisburgh HS",
+      "batsThrows": "R/R",
       "weightLbs": 265
     },
     {
@@ -350,6 +378,7 @@
       "hometown": "Southaven, Miss.",
       "jersey": "30",
       "lastSchool": "DeSoto Central HS",
+      "batsThrows": "L/L",
       "weightLbs": 197
     },
     {
@@ -362,6 +391,7 @@
       "hometown": "Sarasota, Fla.",
       "jersey": "31",
       "lastSchool": "River View HS / Miami (Fla.)",
+      "batsThrows": "R/R",
       "weightLbs": 210
     },
     {
@@ -374,6 +404,7 @@
       "hometown": "River Ridge, La.",
       "jersey": "32",
       "lastSchool": "John Curtis Christian",
+      "batsThrows": "L/L",
       "weightLbs": 185
     },
     {
@@ -386,6 +417,7 @@
       "hometown": "Flowood, Miss.",
       "jersey": "33",
       "lastSchool": "Jackson Prep",
+      "batsThrows": "R/R",
       "weightLbs": 175
     },
     {
@@ -398,6 +430,7 @@
       "hometown": "Elk Grove, Calif.",
       "jersey": "36",
       "lastSchool": "Franklin HS",
+      "batsThrows": "L/L",
       "weightLbs": 210
     },
     {
@@ -410,6 +443,7 @@
       "hometown": "Hoschton, Ga.",
       "jersey": "37",
       "lastSchool": "Cherokee Bluff HS",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -422,6 +456,7 @@
       "hometown": "Ridgeland, Miss.",
       "jersey": "38",
       "lastSchool": "Madison-Ridgeland Academy",
+      "batsThrows": "R/R",
       "weightLbs": 180
     },
     {
@@ -434,6 +469,7 @@
       "hometown": "Little Elm, Texas",
       "jersey": "40",
       "lastSchool": "Little Elm HS / Memphis",
+      "batsThrows": "L/R",
       "weightLbs": 195
     },
     {
@@ -446,6 +482,7 @@
       "hometown": "Starkville, Miss.",
       "jersey": "41",
       "lastSchool": "Starkville HS",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -458,6 +495,7 @@
       "hometown": "Canton, Miss.",
       "jersey": "42",
       "lastSchool": "Jackson Academy",
+      "batsThrows": "R/R",
       "weightLbs": 220
     },
     {
@@ -470,6 +508,7 @@
       "hometown": "Mandeville, La.",
       "jersey": "43",
       "lastSchool": "Fontainbleau HS",
+      "batsThrows": "L/R",
       "weightLbs": 185
     },
     {
@@ -482,6 +521,7 @@
       "hometown": "Madison, Miss.",
       "jersey": "44",
       "lastSchool": "Madison Central HS",
+      "batsThrows": "L/R",
       "weightLbs": 210
     },
     {
@@ -494,6 +534,7 @@
       "hometown": "Newport News, Va.",
       "jersey": "45",
       "lastSchool": "Menchville HS / VCU",
+      "batsThrows": "L/L",
       "weightLbs": 210
     },
     {
@@ -506,6 +547,7 @@
       "hometown": "Pace, Fla.",
       "jersey": "46",
       "lastSchool": "Pace HS",
+      "batsThrows": "L/L",
       "weightLbs": 215
     },
     {
@@ -518,6 +560,7 @@
       "hometown": "Farmerville, La.",
       "jersey": "48",
       "lastSchool": "Cedar Creek HS / Hinds CC",
+      "batsThrows": "R/R",
       "weightLbs": 215
     },
     {
@@ -530,6 +573,7 @@
       "hometown": "Pembroke Pines, Fla.",
       "jersey": "50",
       "lastSchool": "Champagnat Catholic HS",
+      "batsThrows": "S/S",
       "weightLbs": 200
     },
     {
@@ -542,6 +586,7 @@
       "hometown": "Mason, Ohio",
       "jersey": "55",
       "lastSchool": "Mason HS",
+      "batsThrows": "R/R",
       "weightLbs": 185
     }
   ],

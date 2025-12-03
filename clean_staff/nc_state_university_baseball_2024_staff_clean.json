@@ -1,0 +1,156 @@
+{
+  "School": {
+    "schoolId": "NC_State_University",
+    "name": "NC State University",
+    "conference": "Atlantic Coast Conference (ACC)"
+  },
+  "Team": {
+    "teamId": "NC_State_University_baseball_2024",
+    "teamName": "NC State University Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_1",
+      "fullName": "Elliott Avent",
+      "role": "Head Coach",
+      "email": "ncstatebaseball@ncsu.edu",
+      "phone": "(919) 515-3613"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_2",
+      "fullName": "Chris Hart",
+      "role": "Associate Head Coach",
+      "email": "cjhart@ncsu.edu",
+      "phone": "(919) 515-3613"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_3",
+      "fullName": "Clint Chrysler",
+      "role": "Pitching Coach",
+      "email": "rcchrysl@ncsu.edu",
+      "phone": "(919) 515-3613"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_4",
+      "fullName": "Bo Robinson",
+      "role": "Assistant Coach",
+      "email": "barobin4@ncsu.edu",
+      "phone": "(919) 515-3613"
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_5",
+      "fullName": "Mason Cook",
+      "role": "Graduate Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_6",
+      "fullName": "Andrew Kissell",
+      "role": "Team Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_7",
+      "fullName": "Tyler DeJong",
+      "role": "Team Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_8",
+      "fullName": "Sam Thilman",
+      "role": "Team Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_9",
+      "fullName": "Eli McCoy",
+      "role": "Team Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "NC_State_University_baseball_2024_coach_10",
+      "fullName": "Dr. Ariane Smith Machin",
+      "role": "Sport Psychologist",
+      "email": "alsmithm@ncsu.edu",
+      "phone": "(919) 515-4658"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_1",
+      "fullName": "Michael Salamino",
+      "role": "Director of Operations",
+      "email": "mjsalami@ncsu.edu",
+      "phone": "(919) 515-5913"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_2",
+      "fullName": "Joshua Fisher",
+      "role": "Director of Baseball Analytics",
+      "email": "jofisher@ncsu.edu",
+      "phone": "(919) 515-5913"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_3",
+      "fullName": "J.T. Jarrett",
+      "role": "Director of Player & Program Development",
+      "email": "jtjarret@ncsu.edu",
+      "phone": "(919) 515-5913"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_4",
+      "fullName": "Gabe Button",
+      "role": "Associate Director of Strength & Conditioning (Baseball, Men's Tennis)",
+      "email": "grbutton@ncsu.edu",
+      "phone": "(919) 513-4324"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_5",
+      "fullName": "Scott Ensell",
+      "role": "Athletic Trainer",
+      "email": "sdensell@ncsu.edu",
+      "phone": "(919) 513-2111"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_6",
+      "fullName": "Haley Hart",
+      "role": "Director of Administration for Baseball & Tennis",
+      "email": "hewalke2@ncsu.edu",
+      "phone": "(919) 515-3613"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_7",
+      "fullName": "Tyler Stocum",
+      "role": "Graduate Manager/Equipment Manager",
+      "email": "tstocum@ncsu.edu",
+      "phone": "(919) 515-3613"
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_8",
+      "fullName": "Cal Tomasic",
+      "role": "Graduate Manager/Equipment Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_9",
+      "fullName": "Megan Johnston",
+      "role": "Assistant Director of Creative Video",
+      "email": "mmjohnst@ncsu.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "NC_State_University_baseball_2024_staff_10",
+      "fullName": "Tyler Hotz",
+      "role": "Assistant Athletics Communications Director (baseball / w. soccer)",
+      "email": "thotz@ncsu.edu",
+      "phone": ""
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "School": {
+    "schoolId": "University_of_Washington",
+    "name": "University of Washington",
+    "conference": "Pac-12 Conference"
+  },
+  "Team": {
+    "teamId": "University_of_Washington_baseball_2025",
+    "teamName": "University of Washington Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "University_of_Washington_baseball_2025_coach_1",
+      "fullName": "Eddie Smith",
+      "role": "Head Coach",
+      "email": "baseball@uw.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Washington_baseball_2025_coach_2",
+      "fullName": "Connor Lambert",
+      "role": "Pitching Coach",
+      "email": "lambo35@uw.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Washington_baseball_2025_coach_3",
+      "fullName": "Joe Murray",
+      "role": "Strength & Conditioning Coach",
+      "email": "jmurra43@uw.edu",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "University_of_Washington_baseball_2025_staff_1",
+      "fullName": "Mike Gange",
+      "role": "Recruiting Coordinator",
+      "email": "mrgange2@uw.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "University_of_Washington_baseball_2025_staff_2",
+      "fullName": "Damon Lessler",
+      "role": "Director of Player Development",
+      "email": "lessler5@uw.edu",
+      "phone": ""
+    }
+  ]
+}

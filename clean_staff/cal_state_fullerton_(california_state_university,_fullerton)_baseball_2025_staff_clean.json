@@ -1,0 +1,65 @@
+{
+  "School": {
+    "schoolId": "Cal_State_Fullerton_(California_State_University,_Fullerton)",
+    "name": "Cal State Fullerton (California State University, Fullerton)",
+    "conference": "Big West Conference"
+  },
+  "Team": {
+    "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025",
+    "teamName": "Cal State Fullerton (California State University, Fullerton) Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025_coach_1",
+      "fullName": "Jason Dietrich",
+      "role": "Head Coach (4th Season)",
+      "email": "csufbaseball@fullerton.edu",
+      "phone": "(657) 278-2777"
+    },
+    {
+      "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025_coach_2",
+      "fullName": "Neil Walton",
+      "role": "Assistant Coach (4th Season)",
+      "email": "nwalton@fullerton.edu",
+      "phone": "(657) 278-8449"
+    },
+    {
+      "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025_coach_3",
+      "fullName": "Josh Belovsky",
+      "role": "Assistant Coach (4th Season)",
+      "email": "jbelovsky@fullerton.edu",
+      "phone": "(657) 278-3789"
+    },
+    {
+      "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025_coach_4",
+      "fullName": "Ryan Day",
+      "role": "Assistant Coach (2nd Season)",
+      "email": "rday@fullerton.edu",
+      "phone": "(657) 278-3789"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025_staff_1",
+      "fullName": "Connor Spencer",
+      "role": "Director of Operations (3rd Season)",
+      "email": "cospencer@fullerton.edu",
+      "phone": "(657) 278-3789"
+    },
+    {
+      "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025_staff_2",
+      "fullName": "Sean Skelly",
+      "role": "Director of Player Development (1st Season)",
+      "email": "sskelly@fullerton.edu",
+      "phone": "(657) 278-3789"
+    },
+    {
+      "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2025_staff_3",
+      "fullName": "Tanner Carlson",
+      "role": "Assistant Director of Operations (1st Season)",
+      "email": "tacarlson@fullerton.edu",
+      "phone": ""
+    }
+  ]
+}

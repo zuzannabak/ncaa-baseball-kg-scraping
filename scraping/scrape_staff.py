@@ -16,154 +16,165 @@ HEADERS = {
 
 OUTPUT_DIR = "raw_staff"
 
-# --- 1) KONFIGURACJA SZKÓŁ -------------------------------------------------
+YEARS = [2024, 2025]
 
-@dataclass
-class SchoolConfig:
-    school_name: str
-    conference: str
-    season_year: int
-    roster_url: str
-    staff_url: Optional[str] = None  # jeśli None, użyj roster_url
+# --- 1) KONFIGURACJA SZKÓŁ (SZABLONY URL) ----------------------------------
 
-
-SCHOOLS: List[SchoolConfig] = [
+BASE_SCHOOLS: List[Dict] = [
     # ACC
-    SchoolConfig(
-        "Duke University",
-        "Atlantic Coast Conference (ACC)",
-        2024,
-        roster_url="https://goduke.com/sports/baseball/roster/2024",
-        staff_url="https://goduke.com/sports/baseball/coaches",
-    ),
-    SchoolConfig(
-        "Florida State University",
-        "Atlantic Coast Conference (ACC)",
-        2024,
-        roster_url="https://seminoles.com/sports/baseball/roster/2024",
-        staff_url="https://seminoles.com/sports/baseball/coaches",
-    ),
-    SchoolConfig(
-        "NC State University",
-        "Atlantic Coast Conference (ACC)",
-        2024,
-        roster_url="https://gopack.com/sports/baseball/roster/2024",
-        staff_url="https://gopack.com/sports/baseball/coaches",
-    ),
-    SchoolConfig(
-        "University of Louisville",
-        "Atlantic Coast Conference (ACC)",
-        2024,
-        roster_url="https://gocards.com/sports/baseball/roster",
-        staff_url="https://gocards.com/sports/baseball/coaches",
-    ),
-    SchoolConfig(
-        "University of North Carolina",
-        "Atlantic Coast Conference (ACC)",
-        2024,
-        roster_url="https://goheels.com/sports/baseball/roster",
-        staff_url="https://goheels.com/sports/baseball/coaches",
-    ),
+    {
+        "school_name": "Duke University",
+        "conference": "Atlantic Coast Conference (ACC)",
+        "roster_url_template": "https://goduke.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://goduke.com/sports/baseball/coaches/{year}",
+    },
+    {
+        "school_name": "Florida State University",
+        "conference": "Atlantic Coast Conference (ACC)",
+        "roster_url_template": "https://seminoles.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://seminoles.com/sports/baseball/coaches/{year}",
+    },
+    {
+        "school_name": "NC State University",
+        "conference": "Atlantic Coast Conference (ACC)",
+        "roster_url_template": "https://gopack.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://gopack.com/sports/baseball/coaches/{year}",
+    },
+    {
+        "school_name": "University of Louisville",
+        "conference": "Atlantic Coast Conference (ACC)",
+        "roster_url_template": "https://gocards.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://gocards.com/sports/baseball/coaches/{year}",
+    },
+    {
+        "school_name": "University of North Carolina",
+        "conference": "Atlantic Coast Conference (ACC)",
+        "roster_url_template": "https://goheels.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://goheels.com/sports/baseball/coaches/{year}",
+    },
 
     # Big West
-    SchoolConfig(
-        "Cal Poly (California Polytechnic State University)",
-        "Big West Conference",
-        2024,
-        roster_url="https://gopoly.com/sports/baseball/roster/2024",
-        staff_url="https://gopoly.com/sports/baseball/coaches",
-    ),
-    SchoolConfig(
-        "Cal State Fullerton (California State University, Fullerton)",
-        "Big West Conference",
-        2024,
-        roster_url="https://fullertontitans.com/sports/baseball/roster/2024",
-        staff_url="https://fullertontitans.com/sports/baseball/coaches",
-    ),
-    SchoolConfig(
-        "CSUN (California State University, Northridge)",
-        "Big West Conference",
-        2024,
-        roster_url="https://gomatadors.com/sports/baseball/roster/2024",
-        staff_url="https://gomatadors.com/sports/baseball/coaches",
-    ),
-    SchoolConfig(
-        "UC Santa Barbara (University of California, Santa Barbara)",
-        "Big West Conference",
-        2024,
-        roster_url="https://ucsbgauchos.com/sports/baseball/roster/2024",
-        staff_url="https://ucsbgauchos.com/sports/baseball/coaches",
-    ),
+    {
+        "school_name": "Cal Poly (California Polytechnic State University)",
+        "conference": "Big West Conference",
+        "roster_url_template": "https://gopoly.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://gopoly.com/sports/baseball/coaches/{year}",
+    },
+    {
+        "school_name": "Cal State Fullerton (California State University, Fullerton)",
+        "conference": "Big West Conference",
+        "roster_url_template": "https://fullertontitans.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://fullertontitans.com/sports/baseball/coaches/{year}",
+    },
+    {
+        "school_name": "CSUN (California State University, Northridge)",
+        "conference": "Big West Conference",
+        "roster_url_template": "https://gomatadors.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://gomatadors.com/sports/baseball/coaches/{year}",
+    },
+    {
+        "school_name": "UC Santa Barbara (University of California, Santa Barbara)",
+        "conference": "Big West Conference",
+        "roster_url_template": "https://ucsbgauchos.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://ucsbgauchos.com/sports/baseball/coaches/{year}",
+    },
 
     # MVC
-    SchoolConfig(
-        "Creighton University",
-        "Missouri Valley Conference (MVC)",
-        2024,
-        roster_url="https://gocreighton.com/sports/baseball/roster/2024",
-        staff_url="https://gocreighton.com/sports/baseball/coaches",
-    ),
-    SchoolConfig(
-        "Murray State University",
-        "Missouri Valley Conference (MVC)",
-        2024,
-        roster_url="https://goracers.com/sports/baseball/roster/2024",
-        staff_url="https://goracers.com/sports/baseball/coaches",
-    ),
-    SchoolConfig(
-        "University of Evansville",
-        "Missouri Valley Conference (MVC)",
-        2024,
-        roster_url="https://gopurpleaces.com/sports/baseball/roster/2024",
-        staff_url="https://gopurpleaces.com/sports/baseball/coaches",
-    ),
-    SchoolConfig(
-        "Wichita State University",
-        "Missouri Valley Conference (MVC)",
-        2024,
-        roster_url="https://goshockers.com/sports/baseball/roster/2024",
-        staff_url="https://goshockers.com/sports/baseball/coaches",
-    ),
+    {
+        "school_name": "Creighton University",
+        "conference": "Missouri Valley Conference (MVC)",
+        "roster_url_template": "https://gocreighton.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://gocreighton.com/sports/baseball/coaches/{year}",
+    },
+    {
+        "school_name": "Murray State University",
+        "conference": "Missouri Valley Conference (MVC)",
+        "roster_url_template": "https://goracers.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://goracers.com/sports/baseball/coaches/{year}",
+    },
+    {
+        "school_name": "University of Evansville",
+        "conference": "Missouri Valley Conference (MVC)",
+        "roster_url_template": "https://gopurpleaces.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://gopurpleaces.com/sports/baseball/coaches/{year}",
+    },
+    {
+        "school_name": "Wichita State University",
+        "conference": "Missouri Valley Conference (MVC)",
+        "roster_url_template": "https://goshockers.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://goshockers.com/sports/baseball/coaches/{year}",
+    },
 
     # Pac-12 / etc.
-    SchoolConfig(
-        "Oregon State University",
-        "Pac-12 Conference",
-        2026,  # ich aktualny roster jest 2026, ale staff i tak jest spójny
-        roster_url="https://osubeavers.com/sports/baseball/roster",
-        staff_url="https://osubeavers.com/sports/baseball/coaches",
-    ),
-    SchoolConfig(
-        "UCLA (University of California, Los Angeles)",
-        "Pac-12 Conference",
-        2024,
-        roster_url="https://uclabruins.com/sports/baseball/roster/2024",
-        staff_url="https://uclabruins.com/sports/baseball/coaches",
-    ),
-    SchoolConfig(
-        "University of Washington",
-        "Pac-12 Conference",
-        2024,
-        roster_url="https://gohuskies.com/sports/baseball/roster/2024",
-        staff_url="https://gohuskies.com/sports/baseball/coaches",
-    ),
+    {
+        "school_name": "Oregon State University",
+        "conference": "Pac-12 Conference",
+        "roster_url_template": "https://osubeavers.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://osubeavers.com/sports/baseball/coaches/{year}",
+    },
+    {
+        "school_name": "UCLA (University of California, Los Angeles)",
+        "conference": "Pac-12 Conference",
+        "roster_url_template": "https://uclabruins.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://uclabruins.com/sports/baseball/coaches/{year}",
+    },
+    {
+        "school_name": "University of Washington",
+        "conference": "Pac-12 Conference",
+        "roster_url_template": "https://gohuskies.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://gohuskies.com/sports/baseball/coaches/{year}",
+    },
 
     # SEC
-    SchoolConfig(
-        "Mississippi State University",
-        "Southeastern Conference (SEC)",
-        2024,
-        roster_url="https://hailstate.com/sports/baseball/roster/2024",
-        staff_url="https://hailstate.com/sports/baseball/coaches",
-    ),
-    SchoolConfig(
-        "University of Tennessee",
-        "Southeastern Conference (SEC)",
-        2024,
-        roster_url="https://utsports.com/sports/baseball/roster/2024",
-        staff_url="https://utsports.com/sports/baseball/coaches",
-    ),
+    {
+        "school_name": "Mississippi State University",
+        "conference": "Southeastern Conference (SEC)",
+        "roster_url_template": "https://hailstate.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://hailstate.com/sports/baseball/coaches/{year}",
+    },
+    {
+        "school_name": "University of Tennessee",
+        "conference": "Southeastern Conference (SEC)",
+        "roster_url_template": "https://utsports.com/sports/baseball/roster/{year}",
+        "staff_url_template": "https://utsports.com/sports/baseball/coaches/{year}",
+    },
 ]
+
+SCHOOLS: List[Dict] = []
+
+for base in BASE_SCHOOLS:
+    roster_t = base["roster_url_template"]
+    staff_t = base.get("staff_url_template")
+
+    for year in YEARS:
+        # roster url
+        if "{year}" in roster_t:
+            roster_url = roster_t.format(year=year)
+        else:
+            # jeśli roster URL nie ma {year}, bierzemy tylko pierwszy rok
+            if year != YEARS[0]:
+                continue
+            roster_url = roster_t
+
+        # staff url
+        staff_url = None
+        if staff_t:
+            if "{year}" in staff_t:
+                staff_url = staff_t.format(year=year)
+            else:
+                if year != YEARS[0]:
+                    continue
+                staff_url = staff_t
+
+        SCHOOLS.append(
+            {
+                "school_name": base["school_name"],
+                "conference": base["conference"],
+                "season_year": year,
+                "roster_url": roster_url,
+                "staff_url": staff_url,
+            }
+        )
 
 
 # --- 2) HELPERY HTTP / HTML -------------------------------------------------
@@ -262,6 +273,7 @@ def parse_staff_from_table(table) -> List[Tuple[str, str]]:
             continue
         staff.append((name, title))
 
+
     return staff
 
 
@@ -326,6 +338,62 @@ def parse_staff_generic_block(block) -> List[Tuple[str, str]]:
 
     return staff
 
+def find_email_for_name(soup: BeautifulSoup, name: str) -> str:
+    """Znajdź e-mail powiązany z daną osobą (heurystyka, nie musi działać wszędzie)."""
+    if not name:
+        return ""
+    name_lower = name.lower()
+
+    # 1) Szukamy <a href="mailto:..."> w tym samym bloku, gdzie pojawia się imię
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if not href.lower().startswith("mailto:"):
+            continue
+
+        # kontener: wiersz tabeli, div, paragraf itd.
+        container = a.find_parent(["tr", "div", "p", "li"]) or a.parent
+        text = container.get_text(" ").lower()
+        if name_lower in text:
+            email = href.split("mailto:", 1)[1]
+            email = email.split("?", 1)[0].strip()
+            return email
+
+    return ""
+
+
+def find_phone_for_name(soup: BeautifulSoup, name: str) -> str:
+    """
+    Znajdź numer telefonu powiązany z daną osobą.
+    Szukamy TYLKO w <tr> (wierszu tabeli), który zawiera jej imię.
+    Dzięki temu nie weźmiemy numeru z innej osoby / sekcji.
+    """
+    if not name:
+        return ""
+    name_lower = name.lower()
+
+    phone_pattern = re.compile(r"(\(?\d{3}\)?[-\s.]?\d{3}[-\s.]?\d{4})")
+
+    # przejdź po wszystkich wierszach tabeli
+    for tr in soup.find_all("tr"):
+        row_text = tr.get_text(" ")
+        if name_lower not in row_text.lower():
+            continue
+
+        # 1) spróbuj tel: w tym samym <tr>
+        for a in tr.find_all("a", href=True):
+            href = a["href"]
+            if href.lower().startswith("tel:"):
+                phone = href.split("tel:", 1)[1].strip()
+                return phone
+
+        # 2) jeśli nie ma tel:, szukaj wzorca numeru w tekście wiersza
+        m = phone_pattern.search(row_text)
+        if m:
+            return m.group(1).strip()
+
+    return ""
+
+
 
 def parse_staff_for_school(html: str) -> Tuple[List[Dict], List[Dict]]:
     """
@@ -375,7 +443,18 @@ def parse_staff_for_school(html: str) -> Tuple[List[Dict], List[Dict]]:
 
     for name, title in clean_pairs:
         kind = classify_role(title)
-        entry = {"fullName": name, "role": title}
+
+        # 🔹 TU dokładamy wyszukanie e-maila i telefonu
+        email = find_email_for_name(soup, name)
+        phone = find_phone_for_name(soup, name)
+
+        entry = {
+            "fullName": name,
+            "role": title,
+            "email": email,
+            "phone": phone,
+        }
+
         if kind == "coach":
             coaches.append(entry)
         else:
@@ -383,45 +462,51 @@ def parse_staff_for_school(html: str) -> Tuple[List[Dict], List[Dict]]:
 
     return coaches, support
 
+
 from typing import List, Dict, Tuple
 
 
 # --- 4) BUDOWANIE JSON POD KG ----------------------------------------------
 
-def build_staff_json_for_school(cfg: SchoolConfig,
+def build_staff_json_for_school(cfg: Dict,
                                 coaches: List[Dict],
                                 support: List[Dict]) -> Dict:
-    school_id = cfg.school_name.replace(" ", "_")
-    team_id = f"{school_id}_baseball_{cfg.season_year}"
+    school_id = cfg["school_name"].replace(" ", "_")
+    team_id = f"{school_id}_baseball_{cfg['season_year']}"
 
     return {
         "School": {
             "schoolId": school_id,
-            "name": cfg.school_name,
-            "conference": cfg.conference,
+            "name": cfg["school_name"],
+            "conference": cfg["conference"],
         },
         "Team": {
             "teamId": team_id,
-            "teamName": f"{cfg.school_name} Baseball",
-            "seasonYear": cfg.season_year,
+            "teamName": f"{cfg['school_name']} Baseball",
+            "seasonYear": cfg["season_year"],
         },
         "Coaches": [
             {
                 "coachId": f"{team_id}_coach_{i+1}",
-                "fullName": c["fullName"],
-                "role": c["role"],
+                "fullName": c.get("fullName", ""),
+                "role": c.get("role", ""),
+                "email": c.get("email", ""),
+                "phone": c.get("phone", ""),
             }
             for i, c in enumerate(coaches)
         ],
         "SupportStaff": [
             {
                 "staffId": f"{team_id}_staff_{i+1}",
-                "fullName": s["fullName"],
-                "role": s["role"],
+                "fullName": s.get("fullName", ""),
+                "role": s.get("role", ""),
+                "email": s.get("email", ""),
+                "phone": s.get("phone", ""),
             }
             for i, s in enumerate(support)
         ],
     }
+
 
 
 # --- 5) MAIN ---------------------------------------------------------------
@@ -429,12 +514,11 @@ def build_staff_json_for_school(cfg: SchoolConfig,
 def main():
     all_data = []
 
-    # utworzenie katalogu na surowe pliki staffu
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
     for cfg in SCHOOLS:
-        print(f"\n=== {cfg.school_name} ===")
-        base_url = cfg.staff_url or cfg.roster_url
+        print(f"\n=== {cfg['school_name']} ({cfg['season_year']}) ===")
+        base_url = cfg["staff_url"] or cfg["roster_url"]
         url = base_url
         if "roster" in base_url and "view=" not in base_url:
             url = ensure_view2(base_url)
@@ -457,19 +541,18 @@ def main():
         school_json = build_staff_json_for_school(cfg, coaches, support)
         all_data.append(school_json)
 
-        safe_name = cfg.school_name.replace(" ", "_").replace("/", "_")
-        filename = f"{safe_name.lower()}_baseball_{cfg.season_year}_staff.json"
+        safe_name = cfg["school_name"].replace(" ", "_").replace("/", "_")
+        filename = f"{safe_name.lower()}_baseball_{cfg['season_year']}_staff.json"
         out_path = os.path.join(OUTPUT_DIR, filename)
 
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(school_json, f, indent=2, ensure_ascii=False)
         print(f"  Saved to {out_path}")
 
-
-
     with open("all_schools_staff.json", "w", encoding="utf-8") as f:
         json.dump(all_data, f, indent=2, ensure_ascii=False)
     print("\nDone. Wrote all_schools_staff.json")
+
 
 
 if __name__ == "__main__":

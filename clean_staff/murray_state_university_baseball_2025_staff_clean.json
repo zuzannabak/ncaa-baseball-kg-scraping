@@ -1,0 +1,51 @@
+{
+  "School": {
+    "schoolId": "Murray_State_University",
+    "name": "Murray State University",
+    "conference": "Missouri Valley Conference (MVC)"
+  },
+  "Team": {
+    "teamId": "Murray_State_University_baseball_2025",
+    "teamName": "Murray State University Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "Murray_State_University_baseball_2025_coach_1",
+      "fullName": "Dan Skirka",
+      "role": "Head Coach",
+      "email": "msu.baseball@murraystate.edu",
+      "phone": "(270) 809-4892"
+    },
+    {
+      "coachId": "Murray_State_University_baseball_2025_coach_2",
+      "fullName": "Steve Adkins",
+      "role": "Assistant Coach",
+      "email": "sadkins6@murraystate.edu",
+      "phone": "(270) 809-3475"
+    },
+    {
+      "coachId": "Murray_State_University_baseball_2025_coach_3",
+      "fullName": "Hunter Wolfe",
+      "role": "Assistant Coach",
+      "email": "wwolfe@murraystate.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Murray_State_University_baseball_2025_coach_4",
+      "fullName": "Anthony Ortega",
+      "role": "Assistant Coach",
+      "email": "aortega@murraystate.edu",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Murray_State_University_baseball_2025_staff_1",
+      "fullName": "Hayden Cross",
+      "role": "Director of Player Development",
+      "email": "hcross3@murraystate.edu",
+      "phone": ""
+    }
+  ]
+}

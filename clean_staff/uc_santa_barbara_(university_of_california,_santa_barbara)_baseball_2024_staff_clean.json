@@ -1,0 +1,79 @@
+{
+  "School": {
+    "schoolId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)",
+    "name": "UC Santa Barbara (University of California, Santa Barbara)",
+    "conference": "Big West Conference"
+  },
+  "Team": {
+    "teamId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024",
+    "teamName": "UC Santa Barbara (University of California, Santa Barbara) Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_1",
+      "fullName": "Andrew Checketts",
+      "role": "Head Coach",
+      "email": "andrew.checketts@athletics.ucsb.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_2",
+      "fullName": "Matt Fonteno",
+      "role": "Associate Head Coach",
+      "email": "Matt.Fonteno@athletics.ucsb.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_3",
+      "fullName": "Dylan Jones",
+      "role": "Assistant Coach/Recruiting Coordinator",
+      "email": "Dylan.Jones@athletics.ucsb.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_4",
+      "fullName": "Spencer Erdman",
+      "role": "Assistant Coach",
+      "email": "spencer.erdman@athletics.ucsb.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_5",
+      "fullName": "Michael Marsh",
+      "role": "Undergraduate Assistant Coach",
+      "email": "michaelmarsh@ucsb.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_coach_6",
+      "fullName": "Justin Han",
+      "role": "Student Manager Lead",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_1",
+      "fullName": "Justin Jacome",
+      "role": "Director of Baseball Operations",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_2",
+      "fullName": "Kevin Cannon",
+      "role": "Director of Facilities",
+      "email": "kevin.cannon@athletics.ucsb.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "UC_Santa_Barbara_(University_of_California,_Santa_Barbara)_baseball_2024_staff_3",
+      "fullName": "Devon Kost",
+      "role": "Student Director of Analytics",
+      "email": "",
+      "phone": ""
+    }
+  ]
+}

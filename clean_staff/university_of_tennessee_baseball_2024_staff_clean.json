@@ -1,0 +1,93 @@
+{
+  "School": {
+    "schoolId": "University_of_Tennessee",
+    "name": "University of Tennessee",
+    "conference": "Southeastern Conference (SEC)"
+  },
+  "Team": {
+    "teamId": "University_of_Tennessee_baseball_2024",
+    "teamName": "University of Tennessee Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "University_of_Tennessee_baseball_2024_coach_1",
+      "fullName": "Tony Vitello",
+      "role": "Head Coach",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Tennessee_baseball_2024_coach_2",
+      "fullName": "Josh Elander",
+      "role": "Associate Head Coach/Recruiting Coordinator",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Tennessee_baseball_2024_coach_3",
+      "fullName": "Frank Anderson",
+      "role": "Assistant Coach/Pitching",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Tennessee_baseball_2024_coach_4",
+      "fullName": "Richard Jackson",
+      "role": "Assistant Coach",
+      "email": "rjacks53@tennessee.edu",
+      "phone": "(865) 974-2053"
+    },
+    {
+      "coachId": "University_of_Tennessee_baseball_2024_coach_5",
+      "fullName": "Parker Serrano",
+      "role": "Student Assistant Coach",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "University_of_Tennessee_baseball_2024_staff_1",
+      "fullName": "Luke Bonfield",
+      "role": "Director of Player Development",
+      "email": "Lbonfiel@tennessee.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "University_of_Tennessee_baseball_2024_staff_2",
+      "fullName": "Quentin Eberhardt",
+      "role": "Director of Baseball Sports Performance",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "staffId": "University_of_Tennessee_baseball_2024_staff_3",
+      "fullName": "Sean McCann",
+      "role": "Video Coordinator",
+      "email": "smccann3@utk.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "University_of_Tennessee_baseball_2024_staff_4",
+      "fullName": "Zach Stovall",
+      "role": "Director of Analytics",
+      "email": "Zstovall@utk.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "University_of_Tennessee_baseball_2024_staff_5",
+      "fullName": "Jeff Wood",
+      "role": "Associate Director of Sports Medicine - Baseball",
+      "email": "jwood8@utk.edu",
+      "phone": "(865) 974-1902"
+    },
+    {
+      "staffId": "University_of_Tennessee_baseball_2024_staff_6",
+      "fullName": "Adam Low",
+      "role": "Assistant Director of Baseball Operations",
+      "email": "alow1@utk.edu",
+      "phone": "(865) 974-2057"
+    }
+  ]
+}

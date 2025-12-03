@@ -62,6 +62,49 @@ def normalize_weight(w: str):
     val = int(m.group(1))
     return f"{val} lbs", val
 
+CLASS_YEAR_MAPPING = {
+    # zwykłe lata
+    "fr": "Fr",
+    "so": "So",
+    "jr": "Jr",
+    "sr": "Sr",
+    "gr": "Gr",
+    "5th": "5th",
+
+    # redshirt – różne warianty, z myślnikami / bez
+    "rfr": "R-Fr",
+    "rfrs": "R-Fr",   # na wszelki wypadek
+    "rso": "R-So",
+    "rjr": "R-Jr",
+    "rsr": "R-Sr",
+}
+
+def normalize_class_year(cy: str) -> str:
+    """
+    Ujednolica classYear:
+    - usuwa kropki (Sr. -> Sr)
+    - ujednolica redshirt (R-So., R So, RSo -> R-So)
+    - mapuje do kilku kanonicznych wartości (Fr, So, Jr, Sr, Gr, R-Fr...)
+    """
+    if not isinstance(cy, str):
+        return cy
+
+    s = cy.strip()
+    if not s:
+        return ""
+
+    # usuwamy kropki, spacje wokół, itp.
+    s = s.replace(".", "").strip()
+
+    # key do mapowania: małe litery, bez spacji i myślników
+    key = s.lower().replace("-", "").replace(" ", "")
+
+    if key in CLASS_YEAR_MAPPING:
+        return CLASS_YEAR_MAPPING[key]
+
+    # jeśli nie znamy – zostaw wersję bez kropek
+    return s
+
 
 def split_hometown_lastschool(hometown: str, last_school: str):
     """
@@ -84,10 +127,15 @@ def split_hometown_lastschool(hometown: str, last_school: str):
 def clean_player(player: dict) -> dict:
     """
     Zwraca nowego (lub zmodyfikowanego) playera z:
+      - classYear ujednoliconym (Fr/So/Jr/Sr/Gr, R-Fr, R-So, ...)
       - height w formacie F-I
       - weight w formacie "NNN lbs" + weightLbs (int)
       - poprawionym hometown / lastSchool gdy trzeba
     """
+    # classYear
+    cy = player.get("classYear", "")
+    player["classYear"] = normalize_class_year(cy)
+
     # height
     h = player.get("height", "")
     player["height"] = normalize_height(h)
@@ -96,7 +144,6 @@ def clean_player(player: dict) -> dict:
     w = player.get("weight", "")
     weight_str, weight_num = normalize_weight(w)
     player["weight"] = weight_str
-    # opcjonalne dodatkowe pole liczbowe
     player["weightLbs"] = weight_num
 
     # hometown / lastSchool (tylko jeśli lastSchool puste, a hometown ma " / ")
@@ -107,6 +154,7 @@ def clean_player(player: dict) -> dict:
     player["lastSchool"] = last_school
 
     return player
+
 
 
 def main():

@@ -1,0 +1,163 @@
+{
+  "School": {
+    "schoolId": "University_of_North_Carolina",
+    "name": "University of North Carolina",
+    "conference": "Atlantic Coast Conference (ACC)"
+  },
+  "Team": {
+    "teamId": "University_of_North_Carolina_baseball_2025",
+    "teamName": "University of North Carolina Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "University_of_North_Carolina_baseball_2025_coach_1",
+      "fullName": "Scott Forbes",
+      "role": "Head Coach",
+      "email": "cahicks@unc.edu",
+      "phone": "(919) 962-2351"
+    },
+    {
+      "coachId": "University_of_North_Carolina_baseball_2025_coach_2",
+      "fullName": "Bryant Gaines",
+      "role": "Associate Head Coach / Pitching Coach",
+      "email": "unc-baseball@unc.edu",
+      "phone": "(919) 962-2351"
+    },
+    {
+      "coachId": "University_of_North_Carolina_baseball_2025_coach_3",
+      "fullName": "Jesse Wierzbicki",
+      "role": "Assistant Coach / Hitting Coach / Infielders & Catchers",
+      "email": "unc-baseball@unc.edu",
+      "phone": "(919) 962-2351"
+    },
+    {
+      "coachId": "University_of_North_Carolina_baseball_2025_coach_4",
+      "fullName": "Scott Jackson",
+      "role": "Assistant Coach/Recruiting Coordinator",
+      "email": "unc-baseball@unc.edu",
+      "phone": "(919) 962-2351"
+    },
+    {
+      "coachId": "University_of_North_Carolina_baseball_2025_coach_5",
+      "fullName": "Carter Hicks",
+      "role": "General Manager",
+      "email": "cahicks@unc.edu",
+      "phone": "(919) 962-2351"
+    },
+    {
+      "coachId": "University_of_North_Carolina_baseball_2025_coach_6",
+      "fullName": "Daniel Wilkerson",
+      "role": "Assistant to the Head Coach and Clubhouse/Equipment Manager",
+      "email": "dwilk@unc.edu",
+      "phone": "(919) 962-2351"
+    },
+    {
+      "coachId": "University_of_North_Carolina_baseball_2025_coach_7",
+      "fullName": "Kate Douglas",
+      "role": "Administrative Assistant",
+      "email": "kdougla@unc.edu",
+      "phone": "(919) 962-2351"
+    },
+    {
+      "coachId": "University_of_North_Carolina_baseball_2025_coach_8",
+      "fullName": "Josie Carver",
+      "role": "Student Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_North_Carolina_baseball_2025_coach_9",
+      "fullName": "Grayson Guy",
+      "role": "Student Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_North_Carolina_baseball_2025_coach_10",
+      "fullName": "Sam Heimowitz",
+      "role": "Student Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_North_Carolina_baseball_2025_coach_11",
+      "fullName": "J.B. Sebastiano",
+      "role": "Student Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_North_Carolina_baseball_2025_coach_12",
+      "fullName": "Dylan Slowik",
+      "role": "Student Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_North_Carolina_baseball_2025_coach_13",
+      "fullName": "Will Staats",
+      "role": "Bullpen Catcher",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "University_of_North_Carolina_baseball_2025_staff_1",
+      "fullName": "Jason Howell",
+      "role": "Director of Pitching Performance, Development and Analytics",
+      "email": "unc-baseball@unc.edu",
+      "phone": "(919) 962-2351"
+    },
+    {
+      "staffId": "University_of_North_Carolina_baseball_2025_staff_2",
+      "fullName": "Dave Arendas",
+      "role": "Director of Baseball Operations",
+      "email": "arendas@unc.edu",
+      "phone": "(919) 962-6999"
+    },
+    {
+      "staffId": "University_of_North_Carolina_baseball_2025_staff_3",
+      "fullName": "Greg Gatz",
+      "role": "Assistant Athletic Director/Director of Strength & Conditioning for Olympic Sports",
+      "email": "ggg@uncaa.unc.edu",
+      "phone": "(919) 962-1402"
+    },
+    {
+      "staffId": "University_of_North_Carolina_baseball_2025_staff_4",
+      "fullName": "Terri Jo Rucinski",
+      "role": "Head Athletic Trainer",
+      "email": "tjrucinski@uncaa.unc.edu",
+      "phone": "(919) 962-2067"
+    },
+    {
+      "staffId": "University_of_North_Carolina_baseball_2025_staff_5",
+      "fullName": "Dr. Jeni Shannon",
+      "role": "Director, Mental Health and Performance Psychology",
+      "email": "jenishannon@unc.edu",
+      "phone": "(919) 966-3655"
+    },
+    {
+      "staffId": "University_of_North_Carolina_baseball_2025_staff_6",
+      "fullName": "Allison Keim",
+      "role": "Associate Director of Sports Nutrition",
+      "email": "keima@unc.edu",
+      "phone": "(919) 966-6548"
+    },
+    {
+      "staffId": "University_of_North_Carolina_baseball_2025_staff_7",
+      "fullName": "Megan Maxwell",
+      "role": "Graduate Assistant Athletic Trainer",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "staffId": "University_of_North_Carolina_baseball_2025_staff_8",
+      "fullName": "Hannah Scott",
+      "role": "Graduate Assistant Athletic Trainer",
+      "email": "",
+      "phone": ""
+    }
+  ]
+}

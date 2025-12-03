@@ -1,0 +1,65 @@
+{
+  "School": {
+    "schoolId": "Cal_State_Fullerton_(California_State_University,_Fullerton)",
+    "name": "Cal State Fullerton (California State University, Fullerton)",
+    "conference": "Big West Conference"
+  },
+  "Team": {
+    "teamId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024",
+    "teamName": "Cal State Fullerton (California State University, Fullerton) Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_coach_1",
+      "fullName": "Jason Dietrich",
+      "role": "Head Coach",
+      "email": "csufbaseball@fullerton.edu",
+      "phone": "(657) 278-2777"
+    },
+    {
+      "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_coach_2",
+      "fullName": "Neil Walton",
+      "role": "Assistant Coach",
+      "email": "nwalton@fullerton.edu",
+      "phone": "(657) 278-8449"
+    },
+    {
+      "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_coach_3",
+      "fullName": "Josh Belovsky",
+      "role": "Assistant Coach",
+      "email": "jbelovsky@fullerton.edu",
+      "phone": "(657) 278-3789"
+    },
+    {
+      "coachId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_coach_4",
+      "fullName": "Jake Pavletich",
+      "role": "Assistant Coach",
+      "email": "jpavletich@fullerton.edu",
+      "phone": "(657) 278-2777"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_staff_1",
+      "fullName": "Garrett Fisher",
+      "role": "Director of Operations",
+      "email": "gfisher@fullerton.edu",
+      "phone": "(657) 278-3789"
+    },
+    {
+      "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_staff_2",
+      "fullName": "Connor Spencer",
+      "role": "Director of Player Development",
+      "email": "cospencer@fullerton.edu",
+      "phone": "(657) 278-3789"
+    },
+    {
+      "staffId": "Cal_State_Fullerton_(California_State_University,_Fullerton)_baseball_2024_staff_3",
+      "fullName": "Ryan Day",
+      "role": "Assistant Director of Operations",
+      "email": "rday@fullerton.edu",
+      "phone": "(657) 278-3789"
+    }
+  ]
+}

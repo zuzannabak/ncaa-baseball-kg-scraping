@@ -1,0 +1,93 @@
+{
+  "School": {
+    "schoolId": "University_of_Louisville",
+    "name": "University of Louisville",
+    "conference": "Atlantic Coast Conference (ACC)"
+  },
+  "Team": {
+    "teamId": "University_of_Louisville_baseball_2024",
+    "teamName": "University of Louisville Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "University_of_Louisville_baseball_2024_coach_1",
+      "fullName": "Dan McDonnell",
+      "role": "Head Coach",
+      "email": "dan@GoCards.com",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Louisville_baseball_2024_coach_2",
+      "fullName": "Roger Williams",
+      "role": "Associate Head Coach/Pitching",
+      "email": "roger@GoCards.com",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Louisville_baseball_2024_coach_3",
+      "fullName": "Eric Snider",
+      "role": "Assistant Coach/Recruiting Coordinator",
+      "email": "eric@GoCards.com",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Louisville_baseball_2024_coach_4",
+      "fullName": "Adam Vrable",
+      "role": "Assistant Coach",
+      "email": "adamv@GoCards.com",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Louisville_baseball_2024_coach_5",
+      "fullName": "Savanah Feldpausch",
+      "role": "Sports Dietitian",
+      "email": "savanah@GoCards.com",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Louisville_baseball_2024_coach_6",
+      "fullName": "Rance Terry",
+      "role": "Senior Performance Coach",
+      "email": "rance@GoCards.com",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "University_of_Louisville_baseball_2024_staff_1",
+      "fullName": "Brian Mundorf",
+      "role": "Director of Operations",
+      "email": "brianm@GoCards.com",
+      "phone": ""
+    },
+    {
+      "staffId": "University_of_Louisville_baseball_2024_staff_2",
+      "fullName": "Michael Allman",
+      "role": "Director/Baseball Player Development",
+      "email": "michaela@GoCards.com",
+      "phone": ""
+    },
+    {
+      "staffId": "University_of_Louisville_baseball_2024_staff_3",
+      "fullName": "Oliver Cross",
+      "role": "Assistant Equipment Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "staffId": "University_of_Louisville_baseball_2024_staff_4",
+      "fullName": "Josh Gruber",
+      "role": "Athletic Trainer",
+      "email": "joshg@GoCards.com",
+      "phone": ""
+    },
+    {
+      "staffId": "University_of_Louisville_baseball_2024_staff_5",
+      "fullName": "Rachel Overton",
+      "role": "Associate Director/Academic Services",
+      "email": "rachelo@GoCards.com",
+      "phone": ""
+    }
+  ]
+}

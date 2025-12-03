@@ -1,0 +1,114 @@
+{
+  "School": {
+    "schoolId": "University_of_Washington",
+    "name": "University of Washington",
+    "conference": "Pac-12 Conference"
+  },
+  "Team": {
+    "teamId": "University_of_Washington_baseball_2024",
+    "teamName": "University of Washington Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "University_of_Washington_baseball_2024_coach_1",
+      "fullName": "Jason Kelly",
+      "role": "Head Coach",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Washington_baseball_2024_coach_2",
+      "fullName": "Jake Silverman",
+      "role": "Associate Head Coach",
+      "email": "silver19@uw.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Washington_baseball_2024_coach_3",
+      "fullName": "Joe DeMers",
+      "role": "Undergraduate Assistant",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Washington_baseball_2024_coach_4",
+      "fullName": "Joe Murray",
+      "role": "Strength & Conditioning Coach",
+      "email": "jmurra43@uw.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Washington_baseball_2024_coach_5",
+      "fullName": "Michael Schreiber",
+      "role": "Student Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Washington_baseball_2024_coach_6",
+      "fullName": "Ben Parker",
+      "role": "Student Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Washington_baseball_2024_coach_7",
+      "fullName": "Colton Steepy",
+      "role": "Student Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Washington_baseball_2024_coach_8",
+      "fullName": "Josh Wodka",
+      "role": "Student Manager",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "University_of_Washington_baseball_2024_coach_9",
+      "fullName": "Ashwin Rao, MD",
+      "role": "Team Physician",
+      "email": "ashwin@uw.edu",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "University_of_Washington_baseball_2024_staff_1",
+      "fullName": "Mike Gange",
+      "role": "Recruiting Coordinator",
+      "email": "mrgange2@uw.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "University_of_Washington_baseball_2024_staff_2",
+      "fullName": "Jason Ellison",
+      "role": "Hitting & Outfield Coordinator",
+      "email": "jje7@uw.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "University_of_Washington_baseball_2024_staff_3",
+      "fullName": "Jacob Hatloe",
+      "role": "Director of Baseball Operations",
+      "email": "jhatloe@uw.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "University_of_Washington_baseball_2024_staff_4",
+      "fullName": "Iain Mistrot",
+      "role": "Athletic Trainer",
+      "email": "imistrot@uw.edu",
+      "phone": "(206) 616-0156"
+    },
+    {
+      "staffId": "University_of_Washington_baseball_2024_staff_5",
+      "fullName": "Phil Mann",
+      "role": "Equipment Manager",
+      "email": "philmann@uw.edu",
+      "phone": "(206) 616-0167"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "School": {
+    "schoolId": "Florida_State_University",
+    "name": "Florida State University",
+    "conference": "Atlantic Coast Conference (ACC)"
+  },
+  "Team": {
+    "teamId": "Florida_State_University_baseball_2025",
+    "teamName": "Florida State University Baseball",
+    "seasonYear": 2025
+  },
+  "Coaches": [
+    {
+      "coachId": "Florida_State_University_baseball_2025_coach_1",
+      "fullName": "Link Jarrett",
+      "role": "Head Coach",
+      "email": "coachjarrett@fsu.edu",
+      "phone": "(850) 644-1073"
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2025_coach_2",
+      "fullName": "Ty Megahee",
+      "role": "Assistant Coach/Recruiting Coordinator",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2025_coach_3",
+      "fullName": "Micah Posey",
+      "role": "Assistant Coach/Pitching Coach",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2025_coach_4",
+      "fullName": "Brad Vanderglas",
+      "role": "Assistant Coach",
+      "email": "",
+      "phone": "(850) 644-1073"
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2025_coach_5",
+      "fullName": "Jamie Burleson",
+      "role": "Strength & Conditioning Coach",
+      "email": "jburleson@fsu.edu",
+      "phone": "(850) 645-4607"
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2025_coach_6",
+      "fullName": "Sebastian Jimenez",
+      "role": "Graduate Assistant",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2025_coach_7",
+      "fullName": "Nicki Bedgood",
+      "role": "Administrative Associate",
+      "email": "nbedgood@fsu.edu",
+      "phone": "(850) 644-1073"
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2025_coach_8",
+      "fullName": "Charlie Healy",
+      "role": "Public Relations",
+      "email": "chealy2@fsu.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Florida_State_University_baseball_2025_coach_9",
+      "fullName": "Stephen Ponder",
+      "role": "Baseball Oversight",
+      "email": "sb-president-ceo@fsu.edu",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Florida_State_University_baseball_2025_staff_1",
+      "fullName": "Rob Collison",
+      "role": "Quality Control & Catching, Pitching Analyst",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "staffId": "Florida_State_University_baseball_2025_staff_2",
+      "fullName": "Drew Linder",
+      "role": "Director of Baseball Operations",
+      "email": "klinder@fsu.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "Florida_State_University_baseball_2025_staff_3",
+      "fullName": "Randy Burdette",
+      "role": "Director of Program Development",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "staffId": "Florida_State_University_baseball_2025_staff_4",
+      "fullName": "Phil Montano",
+      "role": "Athletic Trainer",
+      "email": "pm23n@fsu.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "Florida_State_University_baseball_2025_staff_5",
+      "fullName": "Jacob Frye",
+      "role": "Equipment Coordinator",
+      "email": "jtfrye@fsu.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "Florida_State_University_baseball_2025_staff_6",
+      "fullName": "Andrew Zoch",
+      "role": "Creative Video Coordinator",
+      "email": "apz21@fsu.edu",
+      "phone": ""
+    },
+    {
+      "staffId": "Florida_State_University_baseball_2025_staff_7",
+      "fullName": "Logan Wesolowski",
+      "role": "Assistant Director of Marketing",
+      "email": "lmw23a@fsu.edu",
+      "phone": "(850) 644-8623"
+    }
+  ]
+}

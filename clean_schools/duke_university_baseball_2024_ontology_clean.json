@@ -13,7 +13,8 @@
   },
   "Team": {
     "teamId": "Duke_University_baseball_2024",
-    "teamName": "Duke University Baseball"
+    "teamName": "Duke University Baseball",
+    "seasonYear": 2024
   },
   "Players": [
     {
@@ -26,6 +27,7 @@
       "hometown": "Roseland, N.J.",
       "jersey": "1",
       "lastSchool": "Saint Joseph Regional",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -38,6 +40,7 @@
       "hometown": "Glen Mills, Pa.",
       "jersey": "2",
       "lastSchool": "William Penn Charter",
+      "batsThrows": "L/L",
       "weightLbs": 200
     },
     {
@@ -50,6 +53,7 @@
       "hometown": "Nashville, Tenn.",
       "jersey": "3",
       "lastSchool": "Ensworth",
+      "batsThrows": "R/R",
       "weightLbs": 220
     },
     {
@@ -62,6 +66,7 @@
       "hometown": "Shaker Heights, Ohio",
       "jersey": "4",
       "lastSchool": "St. Ignatius",
+      "batsThrows": "R/R",
       "weightLbs": 190
     },
     {
@@ -74,6 +79,7 @@
       "hometown": "Andover, N.J.",
       "jersey": "5",
       "lastSchool": "Newton",
+      "batsThrows": "R/R",
       "weightLbs": 235
     },
     {
@@ -86,6 +92,7 @@
       "hometown": "Hertford, N.C.",
       "jersey": "6",
       "lastSchool": "Perquimans County",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -98,6 +105,7 @@
       "hometown": "Tulsa, Okla.",
       "jersey": "7",
       "lastSchool": "Oklahoma",
+      "batsThrows": "S/R",
       "weightLbs": 180
     },
     {
@@ -110,6 +118,7 @@
       "hometown": "Oviedo, Fla.",
       "jersey": "8",
       "lastSchool": "Oviedo",
+      "batsThrows": "L/L",
       "weightLbs": 200
     },
     {
@@ -122,6 +131,7 @@
       "hometown": "Southlake, Texas",
       "jersey": "9",
       "lastSchool": "Carroll Senior",
+      "batsThrows": "L/L",
       "weightLbs": 225
     },
     {
@@ -134,6 +144,7 @@
       "hometown": "Jamison, Pa.",
       "jersey": "10",
       "lastSchool": "Central Bucks-East",
+      "batsThrows": "R/R",
       "weightLbs": 230
     },
     {
@@ -146,6 +157,7 @@
       "hometown": "San Antonio, Texas",
       "jersey": "11",
       "lastSchool": "Alamo Heights",
+      "batsThrows": "L/L",
       "weightLbs": 235
     },
     {
@@ -158,6 +170,7 @@
       "hometown": "Leominster, Mass.",
       "jersey": "12",
       "lastSchool": "Phillips Academy",
+      "batsThrows": "L/L",
       "weightLbs": 205
     },
     {
@@ -170,6 +183,7 @@
       "hometown": "Nashville, Tenn.",
       "jersey": "13",
       "lastSchool": "Ensworth",
+      "batsThrows": "R/R",
       "weightLbs": 215
     },
     {
@@ -182,6 +196,7 @@
       "hometown": "Leesburg, Va.",
       "jersey": "15",
       "lastSchool": "Riverside",
+      "batsThrows": "R/L",
       "weightLbs": 205
     },
     {
@@ -194,6 +209,7 @@
       "hometown": "Clinton, Mass.",
       "jersey": "16",
       "lastSchool": "Princeton",
+      "batsThrows": "S/R",
       "weightLbs": 240
     },
     {
@@ -206,6 +222,7 @@
       "hometown": "Arlington, Va.",
       "jersey": "17",
       "lastSchool": "Yorktown",
+      "batsThrows": "L/L",
       "weightLbs": 195
     },
     {
@@ -218,6 +235,7 @@
       "hometown": "Urbandale, Iowa",
       "jersey": "18",
       "lastSchool": "Urbandale",
+      "batsThrows": "L/L",
       "weightLbs": 220
     },
     {
@@ -230,6 +248,7 @@
       "hometown": "Needham, Mass.",
       "jersey": "19",
       "lastSchool": "Babson College",
+      "batsThrows": "R/L",
       "weightLbs": 190
     },
     {
@@ -242,6 +261,7 @@
       "hometown": "North Providence, R.I.",
       "jersey": "20",
       "lastSchool": "North Providence",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -254,6 +274,7 @@
       "hometown": "Mendota, Minn.",
       "jersey": "21",
       "lastSchool": "St. Thomas Academy",
+      "batsThrows": "L/R",
       "weightLbs": 220
     },
     {
@@ -266,6 +287,7 @@
       "hometown": "Suffolk, Va.",
       "jersey": "22",
       "lastSchool": "VMI",
+      "batsThrows": "R/R",
       "weightLbs": 185
     },
     {
@@ -278,6 +300,7 @@
       "hometown": "Andover, Mass.",
       "jersey": "23",
       "lastSchool": "Harvard",
+      "batsThrows": "R/R",
       "weightLbs": 215
     },
     {
@@ -290,6 +313,7 @@
       "hometown": "Westport, Conn.",
       "jersey": "24",
       "lastSchool": "Staples",
+      "batsThrows": "R/R",
       "weightLbs": 210
     },
     {
@@ -302,6 +326,7 @@
       "hometown": "Bridgeville, Pa.",
       "jersey": "25",
       "lastSchool": "South Fayette TWP",
+      "batsThrows": "L/L",
       "weightLbs": 205
     },
     {
@@ -314,6 +339,7 @@
       "hometown": "New Canaan, Conn.",
       "jersey": "27",
       "lastSchool": "St. Luke's",
+      "batsThrows": "R/R",
       "weightLbs": 210
     },
     {
@@ -326,6 +352,7 @@
       "hometown": "Monroe, N.J.",
       "jersey": "29",
       "lastSchool": "Ranney",
+      "batsThrows": "L/L",
       "weightLbs": 195
     },
     {
@@ -338,6 +365,7 @@
       "hometown": "Chesterfield, Mo.",
       "jersey": "30",
       "lastSchool": "Christian Brothers College",
+      "batsThrows": "L/L",
       "weightLbs": 215
     },
     {
@@ -350,6 +378,7 @@
       "hometown": "Phoenixville, Pa.",
       "jersey": "31",
       "lastSchool": "Malvern Prep",
+      "batsThrows": "R/R",
       "weightLbs": 230
     },
     {
@@ -362,6 +391,7 @@
       "hometown": "Harrisburg, N.C.",
       "jersey": "32",
       "lastSchool": "Central Cabarrus",
+      "batsThrows": "L/L",
       "weightLbs": 200
     },
     {
@@ -374,6 +404,7 @@
       "hometown": "Fairfield, Conn.",
       "jersey": "33",
       "lastSchool": "Fairfield Warde",
+      "batsThrows": "R/R",
       "weightLbs": 220
     },
     {
@@ -386,6 +417,7 @@
       "hometown": "Durham, N.C.",
       "jersey": "34",
       "lastSchool": "Penn",
+      "batsThrows": "R/R",
       "weightLbs": 225
     },
     {
@@ -398,6 +430,7 @@
       "hometown": "Charlotte, N.C.",
       "jersey": "35",
       "lastSchool": "Cannon School",
+      "batsThrows": "R/R",
       "weightLbs": 215
     },
     {
@@ -410,6 +443,7 @@
       "hometown": "Crozet, Va.",
       "jersey": "36",
       "lastSchool": "Pro5 Baseball Academy",
+      "batsThrows": "R/R",
       "weightLbs": 170
     },
     {
@@ -422,6 +456,7 @@
       "hometown": "Greensboro, N.C.",
       "jersey": "40",
       "lastSchool": "Grimsley",
+      "batsThrows": "R/L",
       "weightLbs": 200
     },
     {
@@ -434,6 +469,7 @@
       "hometown": "Norwalk, Conn.",
       "jersey": "45",
       "lastSchool": "Tufts University",
+      "batsThrows": "L/L",
       "weightLbs": 180
     },
     {
@@ -446,6 +482,7 @@
       "hometown": "Los Angeles, Calif.",
       "jersey": "47",
       "lastSchool": "Brown University",
+      "batsThrows": "R/R",
       "weightLbs": 215
     },
     {
@@ -458,6 +495,7 @@
       "hometown": "Stamford, Conn.",
       "jersey": "49",
       "lastSchool": "King & Low-Heywood Thomas School",
+      "batsThrows": "R/R",
       "weightLbs": 180
     },
     {
@@ -470,6 +508,7 @@
       "hometown": "San Diego, Calif.",
       "jersey": "50",
       "lastSchool": "Colorado Mesa",
+      "batsThrows": "L/R",
       "weightLbs": 185
     },
     {
@@ -482,6 +521,7 @@
       "hometown": "Doylestown, Pa.",
       "jersey": "51",
       "lastSchool": "Wheaton College",
+      "batsThrows": "L/L",
       "weightLbs": 185
     }
   ],

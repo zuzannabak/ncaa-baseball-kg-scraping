@@ -1,0 +1,261 @@
+{
+  "School": {
+    "schoolId": "Cal_Poly_(California_Polytechnic_State_University)",
+    "name": "Cal Poly (California Polytechnic State University)",
+    "conference": "Big West Conference"
+  },
+  "Team": {
+    "teamId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024",
+    "teamName": "Cal Poly (California Polytechnic State University) Baseball",
+    "seasonYear": 2024
+  },
+  "Coaches": [
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_1",
+      "fullName": "Larry Lee",
+      "role": "Head Coach",
+      "email": "llee@calpoly.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_2",
+      "fullName": "Seth Moir",
+      "role": "Assistant Coach (Pitchers)",
+      "email": "smoir@calpoly.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_3",
+      "fullName": "Jason Gill",
+      "role": "Assistant Coach",
+      "email": "jgill32@calpoly.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_4",
+      "fullName": "Logan Denholm",
+      "role": "Assistant Coach",
+      "email": "ldenholm@calpoly.edu",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_5",
+      "fullName": "Neal Mc Ivor",
+      "role": "Sports Medicine Professional",
+      "email": "nmcivor@calpoly.edu",
+      "phone": "(805) 756-5491"
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_6",
+      "fullName": "Ben Hamik",
+      "role": "Head Student Manager (field)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_7",
+      "fullName": "Alejo Rosas",
+      "role": "Student Manager (field)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_8",
+      "fullName": "Jack Bennett",
+      "role": "Student Manager (Field)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_9",
+      "fullName": "Matthew Karr",
+      "role": "Student Manager (Field)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_10",
+      "fullName": "Jonah Bronstone",
+      "role": "Student Manager (field)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_11",
+      "fullName": "Curran Bledsoe",
+      "role": "Student Manager (field)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_12",
+      "fullName": "Ellie Rashkin",
+      "role": "Student Manager (social media)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_13",
+      "fullName": "Bella Rinaldi",
+      "role": "Student Manager (social media)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_14",
+      "fullName": "Daniel Erro",
+      "role": "Head Student Manager (Statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_15",
+      "fullName": "Henry Peacock",
+      "role": "Student Manager (Statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_16",
+      "fullName": "Will Kapner",
+      "role": "Student Manager (Statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_17",
+      "fullName": "Myles Harp",
+      "role": "Student Manager (Statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_18",
+      "fullName": "Jason Blake",
+      "role": "Student Manager (Statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_19",
+      "fullName": "Adam Del Rio",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_20",
+      "fullName": "Cameron An",
+      "role": "Student Manager (Statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_21",
+      "fullName": "Luca Schoenwetter",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_22",
+      "fullName": "Emma Durler",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_23",
+      "fullName": "Mia Hodges",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_24",
+      "fullName": "Alex Klahr",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_25",
+      "fullName": "Gabe Riedel",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_26",
+      "fullName": "Curtis LeQuang",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_27",
+      "fullName": "Kylie Scharf",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_28",
+      "fullName": "Brandon Solari",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_29",
+      "fullName": "Deven Singh",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_30",
+      "fullName": "Carly Waldeck",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_31",
+      "fullName": "Jackson Scott",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_32",
+      "fullName": "Diego Jara",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_33",
+      "fullName": "Bowden Widmann",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "coachId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_coach_34",
+      "fullName": "Johnny Young",
+      "role": "Student Manager (statistics)",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "Cal_Poly_(California_Polytechnic_State_University)_baseball_2024_staff_1",
+      "fullName": "Mark Armstrong",
+      "role": "Director of Quality Control",
+      "email": "marmst11@calpoly.edu",
+      "phone": ""
+    }
+  ]
+}

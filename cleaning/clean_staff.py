@@ -1,11 +1,12 @@
 import json
-import pathlib
+import os
+import re
 
 # --- konfiguracja ---
-RAW_DIR = pathlib.Path("raw_staff")   # katalog z plikami *_staff.json
-ALL_FILE = pathlib.Path("all_schools_staff.json")  # zbiorczy plik
-OUT_DIR = pathlib.Path("clean_staff")
-OUT_DIR.mkdir(exist_ok=True)
+RAW_DIR = "raw_staff"                     # katalog z plikami *_staff.json
+ALL_FILE = "all_schools_staff.json"       # zbiorczy plik
+OUT_DIR = "clean_staff"
+os.makedirs(OUT_DIR, exist_ok=True)
 
 
 def clean_str(s):
@@ -14,6 +15,31 @@ def clean_str(s):
         return s
     # "  Director   of  Ops  " -> "Director of Ops"
     return " ".join(s.split()).strip()
+
+
+PHONE_RE = re.compile(r"\+?1?[\s\-\.]?\(?\d{3}\)?[\s\-\.]?\d{3}[\s\-\.]?\d{4}")
+
+
+def clean_phone(s):
+    """Wyciągnij i ładnie sformatuj numer telefonu, jeśli się da."""
+    if not isinstance(s, str):
+        return s
+    s = s.strip()
+    if not s:
+        return ""
+
+    m = PHONE_RE.search(s)
+    if not m:
+        return s  # zostaw jak jest
+
+    digits = re.sub(r"\D", "", m.group(0))
+
+    if len(digits) == 10:
+        return f"({digits[0:3]}) {digits[3:6]}-{digits[6:10]}"
+    if len(digits) == 11 and digits[0] == "1":
+        return f"+1 ({digits[1:4]}) {digits[4:7]}-{digits[7:11]}"
+
+    return m.group(0)
 
 
 def clean_entry(entry):
@@ -34,7 +60,8 @@ def clean_entry(entry):
         c["coachId"] = clean_str(c.get("coachId", ""))
         c["fullName"] = clean_str(c.get("fullName", ""))
         c["role"] = clean_str(c.get("role", ""))
-        # wyrzuć zupełnie puste rekordy
+        c["email"] = clean_str(c.get("email", ""))
+        c["phone"] = clean_phone(c.get("phone", ""))
         if c["fullName"]:
             cleaned_coaches.append(c)
 
@@ -43,6 +70,8 @@ def clean_entry(entry):
         s["staffId"] = clean_str(s.get("staffId", ""))
         s["fullName"] = clean_str(s.get("fullName", ""))
         s["role"] = clean_str(s.get("role", ""))
+        s["email"] = clean_str(s.get("email", ""))
+        s["phone"] = clean_phone(s.get("phone", ""))
         if s["fullName"]:
             cleaned_staff.append(s)
 
@@ -56,7 +85,10 @@ def clean_entry(entry):
 def load_from_raw_dir():
     """Przeczytaj wszystkie pliki JSON z raw_staff/ (jeśli tak chcesz)."""
     all_entries = []
-    for path in RAW_DIR.glob("*.json"):
+    for filename in os.listdir(RAW_DIR):
+        if not filename.endswith(".json"):
+            continue
+        path = os.path.join(RAW_DIR, filename)
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
 
@@ -94,8 +126,23 @@ def main(use_raw_dir=False):
         cleaned = clean_entry(entry)
         cleaned_all.append(cleaned)
 
-        school_id = cleaned.get("School", {}).get("schoolId", "unknown_school")
-        out_path = OUT_DIR / f"{school_id}_staff_clean.json"
+        school_obj = cleaned.get("School", {})
+        team_obj = cleaned.get("Team", {})
+
+        school_id = school_obj.get("schoolId", "unknown_school")
+        school_name = school_obj.get("name", school_id)
+        season_year = team_obj.get("seasonYear", "unknown_year")
+
+        # stringowo, żeby łatwo poszło do nazwy pliku
+        season_year_str = str(season_year)
+
+        # taki sam wzór nazwy jak w clean_rosters.py
+        safe_name = school_name.replace(" ", "_").replace("/", "_")
+
+        out_path = os.path.join(
+            OUT_DIR,
+            f"{safe_name.lower()}_baseball_{season_year_str}_staff_clean.json",
+        )
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(cleaned, f, ensure_ascii=False, indent=2)
 

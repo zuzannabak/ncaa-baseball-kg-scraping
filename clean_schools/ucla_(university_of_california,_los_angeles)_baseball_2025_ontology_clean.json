@@ -1,0 +1,723 @@
+{
+  "School": {
+    "schoolId": "UCLA_(University_of_California,_Los_Angeles)",
+    "name": "UCLA (University of California, Los Angeles)"
+  },
+  "Conference": {
+    "conferenceId": "Pac-12_Conference",
+    "conferenceName": "Pac-12 Conference"
+  },
+  "Season": {
+    "seasonId": "2025",
+    "seasonYear": 2025
+  },
+  "Team": {
+    "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025",
+    "teamName": "UCLA (University of California, Los Angeles) Baseball",
+    "seasonYear": 2025
+  },
+  "Players": [
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_1",
+      "fullName": "Roch Cholowsky",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "200 lbs",
+      "hometown": "Chandler, Ariz.",
+      "jersey": "1",
+      "lastSchool": "Hamilton HS",
+      "batsThrows": "R/R",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_2",
+      "fullName": "Cody Delvecchio",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "5-10",
+      "weight": "180 lbs",
+      "hometown": "San Marcos, Calif.",
+      "jersey": "2",
+      "lastSchool": "Mission Hills HS",
+      "batsThrows": "R/R",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_3",
+      "fullName": "Phoenix Call",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "190 lbs",
+      "hometown": "Porter Ranch, Calif.",
+      "jersey": "4",
+      "lastSchool": "Calabasas HS",
+      "batsThrows": "R/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_4",
+      "fullName": "Aidan Espinoza",
+      "classYear": "R-Fr",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "190 lbs",
+      "hometown": "Huntington Beach, Calif.",
+      "jersey": "5",
+      "lastSchool": "Huntington Beach HS",
+      "batsThrows": "L/L",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_5",
+      "fullName": "Grant Gray",
+      "classYear": "R-Fr",
+      "position": "INF",
+      "height": "6-4",
+      "weight": "205 lbs",
+      "hometown": "Norco, Calif.",
+      "jersey": "6",
+      "lastSchool": "Norco HS",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_6",
+      "fullName": "Roman Martin",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "200 lbs",
+      "hometown": "Whittier, Calif.",
+      "jersey": "7",
+      "lastSchool": "Servite HS",
+      "batsThrows": "R/R",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_7",
+      "fullName": "Kasen Khansarinia",
+      "classYear": "Fr",
+      "position": "C",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "Chino Hills, Calif.",
+      "jersey": "8",
+      "lastSchool": "San Dimas HS",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_8",
+      "fullName": "Cameron Kim",
+      "classYear": "So",
+      "position": "INF",
+      "height": "6-3",
+      "weight": "205 lbs",
+      "hometown": "Jurupa Valley, Calif.",
+      "jersey": "9",
+      "lastSchool": "Norco HS",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_9",
+      "fullName": "Ian May",
+      "classYear": "R-Jr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "185 lbs",
+      "hometown": "Laguna Niguel, Calif.",
+      "jersey": "10",
+      "lastSchool": "Dana Hills HS",
+      "batsThrows": "R/L",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_10",
+      "fullName": "Payton Brennan",
+      "classYear": "R-So",
+      "position": "OF",
+      "height": "6-3",
+      "weight": "200 lbs",
+      "hometown": "Rocklin, Calif.",
+      "jersey": "11",
+      "lastSchool": "Rocklin HS",
+      "batsThrows": "L/R",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_11",
+      "fullName": "Landon Stump",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "195 lbs",
+      "hometown": "Morgan Hill, Calif.",
+      "jersey": "14",
+      "lastSchool": "Live Oak HS",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_12",
+      "fullName": "Jarrod Hocking",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "5-9",
+      "weight": "175 lbs",
+      "hometown": "Anaheim Hills, Calif.",
+      "jersey": "15",
+      "lastSchool": "Servite HS",
+      "batsThrows": "R/R",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_13",
+      "fullName": "Jack O'Connor",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "215 lbs",
+      "hometown": "Palos Verdes, Calif.",
+      "jersey": "16",
+      "lastSchool": "Palos Verdes HS",
+      "batsThrows": "R/R",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_14",
+      "fullName": "Wylan Moss",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "185 lbs",
+      "hometown": "Tustin, Calif.",
+      "jersey": "18",
+      "lastSchool": "Mater Dei HS",
+      "batsThrows": "R/R",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_15",
+      "fullName": "David Mysza",
+      "classYear": "Fr",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "180 lbs",
+      "hometown": "Sierra Madre, Calif.",
+      "jersey": "19",
+      "lastSchool": "La Salle HS",
+      "batsThrows": "L/R",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_16",
+      "fullName": "Justin Lee",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "210 lbs",
+      "hometown": "Los Angeles, Calif.",
+      "jersey": "20",
+      "lastSchool": "Notre Dame HS",
+      "batsThrows": "R/R",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_17",
+      "fullName": "Josh Alger",
+      "classYear": "R-Jr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "230 lbs",
+      "hometown": "Roseville, Calif.",
+      "jersey": "21",
+      "lastSchool": "Roseville HS",
+      "batsThrows": "R/R",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_18",
+      "fullName": "AJ Salgado",
+      "classYear": "R-Sr",
+      "position": "INF/OF",
+      "height": "6-3",
+      "weight": "220 lbs",
+      "hometown": "Glendora, Calif.",
+      "jersey": "24",
+      "lastSchool": "Glendora HS",
+      "batsThrows": "L/R",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_19",
+      "fullName": "CJ Bott",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "190 lbs",
+      "hometown": "Scottsdale, Ariz.",
+      "jersey": "25",
+      "lastSchool": "Notre Dame Prep HS",
+      "batsThrows": "R/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_20",
+      "fullName": "Rex Solle",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "185 lbs",
+      "hometown": "Ross, Calif.",
+      "jersey": "26",
+      "lastSchool": "Redwood HS",
+      "batsThrows": "R/R",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_21",
+      "fullName": "Easton Hawk",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "205 lbs",
+      "hometown": "Granada Hills, Calif.",
+      "jersey": "27",
+      "lastSchool": "Granada Hills HS",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_22",
+      "fullName": "Cal Randall",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "210 lbs",
+      "hometown": "Discovery Bay, Calif.",
+      "jersey": "28",
+      "lastSchool": "De La Salle HS",
+      "batsThrows": "R/R",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_23",
+      "fullName": "Finn McIlroy",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-6",
+      "weight": "220 lbs",
+      "hometown": "Carlsbad, Calif.",
+      "jersey": "29",
+      "lastSchool": "Carlsbad HS",
+      "batsThrows": "R/R",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_24",
+      "fullName": "August Souza",
+      "classYear": "Gr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Reno, Nev.",
+      "jersey": "30",
+      "lastSchool": "Reno HS",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_25",
+      "fullName": "Chris Aldrich",
+      "classYear": "R-Sr",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "Oak Park, Calif.",
+      "jersey": "31",
+      "lastSchool": "Notre Dame HS",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_26",
+      "fullName": "James Hepp",
+      "classYear": "R-Jr",
+      "position": "RHP",
+      "height": "6-7",
+      "weight": "235 lbs",
+      "hometown": "Santa Clarita, Calif.",
+      "jersey": "32",
+      "lastSchool": "West Ranch HS",
+      "batsThrows": "R/R",
+      "weightLbs": 235
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_27",
+      "fullName": "Blake Balsz",
+      "classYear": "So",
+      "position": "C",
+      "height": "5-10",
+      "weight": "195 lbs",
+      "hometown": "Rancho Santa Margarita, Calif.",
+      "jersey": "33",
+      "lastSchool": "Santa Margarita HS",
+      "batsThrows": "L/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_28",
+      "fullName": "Luke Rodriguez",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "205 lbs",
+      "hometown": "Shafter, Calif.",
+      "jersey": "34",
+      "lastSchool": "Frontier HS",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_29",
+      "fullName": "Logan de Groot",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "6-3",
+      "weight": "210 lbs",
+      "hometown": "Coto de Caza, Calif.",
+      "jersey": "35",
+      "lastSchool": "Santa Margarita HS",
+      "batsThrows": "R/R",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_30",
+      "fullName": "Dean West",
+      "classYear": "So",
+      "position": "OF",
+      "height": "5-10",
+      "weight": "180 lbs",
+      "hometown": "Woodland Hills, Calif.",
+      "jersey": "36",
+      "lastSchool": "Notre Dame HS",
+      "batsThrows": "L/R",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_31",
+      "fullName": "Will Goldberg",
+      "classYear": "R-So",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "185 lbs",
+      "hometown": "Flossmoor, Ill.",
+      "jersey": "37",
+      "lastSchool": "Homewood-Flossmoor HS",
+      "batsThrows": "L/L",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_32",
+      "fullName": "Justin Cuellar",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "210 lbs",
+      "hometown": "Tulare, Calif.",
+      "jersey": "38",
+      "lastSchool": "Tulare Western HS",
+      "batsThrows": "L/L",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_33",
+      "fullName": "Mulivai Levu",
+      "classYear": "So",
+      "position": "1B",
+      "height": "6-1",
+      "weight": "205 lbs",
+      "hometown": "Huntington Beach, Calif.",
+      "jersey": "39",
+      "lastSchool": "Ocean View HS",
+      "batsThrows": "L/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_34",
+      "fullName": "Cashel Dugger",
+      "classYear": "So",
+      "position": "C",
+      "height": "6-2",
+      "weight": "200 lbs",
+      "hometown": "Castle Pines, Colo.",
+      "jersey": "40",
+      "lastSchool": "Valor Christian HS",
+      "batsThrows": "L/R",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_35",
+      "fullName": "Kaena Kiakona",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "180 lbs",
+      "hometown": "Kailua, Hawaii",
+      "jersey": "41",
+      "lastSchool": "Kamehameha Kapalama HS",
+      "batsThrows": "L/L",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_36",
+      "fullName": "Toussaint Bythewood",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "Encino, Calif.",
+      "jersey": "44",
+      "lastSchool": "Harvard-Westlake School",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_37",
+      "fullName": "Chris Grothues",
+      "classYear": "R-So",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "210 lbs",
+      "hometown": "Anaheim Hills, Calif.",
+      "jersey": "45",
+      "lastSchool": "Servite HS",
+      "batsThrows": "L/L",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_38",
+      "fullName": "Nate Leibold",
+      "classYear": "R-Jr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "210 lbs",
+      "hometown": "Seattle, Wash.",
+      "jersey": "50",
+      "lastSchool": "Ballard HS",
+      "batsThrows": "R/R",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_39",
+      "fullName": "Ryan Rissas",
+      "classYear": "Gr",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "205 lbs",
+      "hometown": "San Ramon, Calif.",
+      "jersey": "51",
+      "lastSchool": "California HS",
+      "batsThrows": "L/L",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_40",
+      "fullName": "Michael Barnett",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "220 lbs",
+      "hometown": "Lafayette, Calif.",
+      "jersey": "55",
+      "lastSchool": "College Park HS",
+      "batsThrows": "R/R",
+      "weightLbs": 220
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "UCLA_(University_of_California,_Los_Angeles)",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "UCLA_(University_of_California,_Los_Angeles)",
+        "conferenceId": "Pac-12_Conference"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025",
+        "seasonId": "2025"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_1",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_2",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_3",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_4",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_5",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_6",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_7",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_8",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_9",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_10",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_11",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_12",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_13",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_14",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_15",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_16",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_17",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_18",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_19",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_20",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_21",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_22",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_23",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_24",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_25",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_26",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_27",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_28",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_29",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_30",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_31",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_32",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_33",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_34",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_35",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_36",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_37",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_38",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_39",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      },
+      {
+        "playerId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025_player_40",
+        "teamId": "UCLA_(University_of_California,_Los_Angeles)_baseball_2025"
+      }
+    ]
+  }
+}

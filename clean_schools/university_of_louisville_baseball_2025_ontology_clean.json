@@ -1,0 +1,757 @@
+{
+  "School": {
+    "schoolId": "University_of_Louisville",
+    "name": "University of Louisville"
+  },
+  "Conference": {
+    "conferenceId": "Atlantic_Coast_Conference_(ACC)",
+    "conferenceName": "Atlantic Coast Conference (ACC)"
+  },
+  "Season": {
+    "seasonId": "2025",
+    "seasonYear": 2025
+  },
+  "Team": {
+    "teamId": "University_of_Louisville_baseball_2025",
+    "teamName": "University of Louisville Baseball",
+    "seasonYear": 2025
+  },
+  "Players": [
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_1",
+      "fullName": "Alex Alicea",
+      "classYear": "So",
+      "position": "INF",
+      "height": "5-8",
+      "weight": "165 lbs",
+      "hometown": "Milwaukee, Wis.",
+      "jersey": "0",
+      "lastSchool": "St. Thomas More",
+      "batsThrows": "S/R",
+      "weightLbs": 165
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_2",
+      "fullName": "Patrick Forbes",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "220 lbs",
+      "hometown": "Bowling Green, Ky.",
+      "jersey": "1",
+      "lastSchool": "Bowling Green",
+      "batsThrows": "R/R",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_3",
+      "fullName": "Garret Pike",
+      "classYear": "Sr",
+      "position": "OF",
+      "height": "6-2",
+      "weight": "190 lbs",
+      "hometown": "Monclova, Ohio",
+      "jersey": "2",
+      "lastSchool": "Anthony Wayne",
+      "batsThrows": "L/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_4",
+      "fullName": "Tanner Shiver",
+      "classYear": "Sr",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "185 lbs",
+      "hometown": "Maryville, Tenn.",
+      "jersey": "4",
+      "lastSchool": "Maryville",
+      "batsThrows": "R/R",
+      "weightLbs": 185
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_5",
+      "fullName": "Kamau Neighbors",
+      "classYear": "Sr",
+      "position": "INF",
+      "height": "5-10",
+      "weight": "165 lbs",
+      "hometown": "Carson, Calif.",
+      "jersey": "5",
+      "lastSchool": "Voyager Academy",
+      "batsThrows": "S/R",
+      "weightLbs": 165
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_6",
+      "fullName": "Ethan Edinger",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "190 lbs",
+      "hometown": "Troy, Mo.",
+      "jersey": "7",
+      "lastSchool": "Troy Buchanan",
+      "batsThrows": "R/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_7",
+      "fullName": "Jake Schweitzer",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "205 lbs",
+      "hometown": "Louisville, Ky.",
+      "jersey": "8",
+      "lastSchool": "Trinity",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_8",
+      "fullName": "Jack Brown",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "210 lbs",
+      "hometown": "Fishers, Ind.",
+      "jersey": "9",
+      "lastSchool": "Fishers",
+      "batsThrows": "R/R",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_9",
+      "fullName": "Eli Hoyt",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "205 lbs",
+      "hometown": "Waukesha, Wis.",
+      "jersey": "10",
+      "lastSchool": "Waukesha South",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_10",
+      "fullName": "Ty Starke",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-6",
+      "weight": "175 lbs",
+      "hometown": "Louisville, Ky.",
+      "jersey": "11",
+      "lastSchool": "St. Xavier",
+      "batsThrows": "L/L",
+      "weightLbs": 175
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_11",
+      "fullName": "Tague Davis",
+      "classYear": "Fr",
+      "position": "LHP/1B",
+      "height": "6-4",
+      "weight": "225 lbs",
+      "hometown": "Philadelphia, Pa.",
+      "jersey": "13",
+      "lastSchool": "Malvern Preperatory School",
+      "batsThrows": "L/L",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_12",
+      "fullName": "George Baker",
+      "classYear": "So",
+      "position": "C",
+      "height": "6-1",
+      "weight": "200 lbs",
+      "hometown": "Waldorf, Md.",
+      "jersey": "14",
+      "lastSchool": "Pro5 Baseball Academy",
+      "batsThrows": "L/R",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_13",
+      "fullName": "Colton Hartman",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "220 lbs",
+      "hometown": "Lebanon, Ohio",
+      "jersey": "15",
+      "lastSchool": "Lebanon",
+      "batsThrows": "L/L",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_14",
+      "fullName": "Michael Lippe",
+      "classYear": "Jr",
+      "position": "OF",
+      "height": "6-3",
+      "weight": "235 lbs",
+      "hometown": "Whitefish Bay, Wis.",
+      "jersey": "16",
+      "lastSchool": "Whitefish Bay",
+      "batsThrows": "R/R",
+      "weightLbs": 235
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_15",
+      "fullName": "Collin Mowry",
+      "classYear": "Fr",
+      "position": "C",
+      "height": "6-0",
+      "weight": "205 lbs",
+      "hometown": "Mokena, Ill.",
+      "jersey": "17",
+      "lastSchool": "Lincoln-Way Central",
+      "batsThrows": "R/R",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_16",
+      "fullName": "Griffin Crain",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "5-10",
+      "weight": "180 lbs",
+      "hometown": "Cranston, R.I.",
+      "jersey": "18",
+      "lastSchool": "Bishop Hendricken",
+      "batsThrows": "L/L",
+      "weightLbs": 180
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_17",
+      "fullName": "TJ Schlageter",
+      "classYear": "So",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "215 lbs",
+      "hometown": "Romeoville, Ill.",
+      "jersey": "19",
+      "lastSchool": "Joliet Catholic Academy",
+      "batsThrows": "L/L",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_18",
+      "fullName": "Jake Munroe",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "230 lbs",
+      "hometown": "Champaign, Ill.",
+      "jersey": "20",
+      "lastSchool": "Champaign Central",
+      "batsThrows": "R/R",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_19",
+      "fullName": "Tucker Biven",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "210 lbs",
+      "hometown": "New Albany, Ind.",
+      "jersey": "22",
+      "lastSchool": "New Albany",
+      "batsThrows": "R/R",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_20",
+      "fullName": "Wyatt Danilowicz",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-1",
+      "weight": "220 lbs",
+      "hometown": "Traverse City, Mich.",
+      "jersey": "24",
+      "lastSchool": "Traverse City West",
+      "batsThrows": "R/L",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_21",
+      "fullName": "Matt Klein",
+      "classYear": "Jr",
+      "position": "C/1B",
+      "height": "6-2",
+      "weight": "210 lbs",
+      "hometown": "Louisville, Ky.",
+      "jersey": "25",
+      "lastSchool": "Trinity",
+      "batsThrows": "L/R",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_22",
+      "fullName": "Nate Earley",
+      "classYear": "Jr",
+      "position": "1B",
+      "height": "6-3",
+      "weight": "230 lbs",
+      "hometown": "Cincinnati, Ohio",
+      "jersey": "26",
+      "lastSchool": "Moeller",
+      "batsThrows": "L/L",
+      "weightLbs": 230
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_23",
+      "fullName": "Bayram Hot",
+      "classYear": "Jr",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "210 lbs",
+      "hometown": "Queens, N.Y.",
+      "jersey": "27",
+      "lastSchool": "Archbishop Molloy",
+      "batsThrows": "R/R",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_24",
+      "fullName": "Parker Detmers",
+      "classYear": "So",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "235 lbs",
+      "hometown": "Chatham, Ill.",
+      "jersey": "28",
+      "lastSchool": "Glenwood",
+      "batsThrows": "R/R",
+      "weightLbs": 235
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_25",
+      "fullName": "Peter Michael",
+      "classYear": "Jr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "215 lbs",
+      "hometown": "Calabasas, Calif.",
+      "jersey": "29",
+      "lastSchool": "Chaminade College Prep",
+      "batsThrows": "R/R",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_26",
+      "fullName": "Cole Crafton",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "6-3",
+      "weight": "215 lbs",
+      "hometown": "Manhattan, Ill.",
+      "jersey": "31",
+      "lastSchool": "Lincoln-Way West",
+      "batsThrows": "L/R",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_27",
+      "fullName": "Zion Rose",
+      "classYear": "So",
+      "position": "OF/C",
+      "height": "6-1",
+      "weight": "210 lbs",
+      "hometown": "Chicago, Ill.",
+      "jersey": "32",
+      "lastSchool": "IMG Academy",
+      "batsThrows": "R/R",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_28",
+      "fullName": "Jared Lessman",
+      "classYear": "Sr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "hometown": "Cumberland, Wis.",
+      "jersey": "34",
+      "lastSchool": "St. Croix Falls",
+      "batsThrows": "L/L",
+      "weightLbs": 205
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_29",
+      "fullName": "Kyle Campbell",
+      "classYear": "Fr",
+      "position": "OF",
+      "height": "6-4",
+      "weight": "190 lbs",
+      "hometown": "Louisville, Ky.",
+      "jersey": "35",
+      "lastSchool": "Trinity",
+      "batsThrows": "R/R",
+      "weightLbs": 190
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_30",
+      "fullName": "Tagger Tyson",
+      "classYear": "So",
+      "position": "C",
+      "height": "6-1",
+      "weight": "200 lbs",
+      "hometown": "Mount Pleasant, S.C.",
+      "jersey": "36",
+      "lastSchool": "Oceanside Collegiate Academy",
+      "batsThrows": "R/R",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_31",
+      "fullName": "Brandin Crawford",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "225 lbs",
+      "hometown": "Manchester, Ky.",
+      "jersey": "39",
+      "lastSchool": "Clay County",
+      "batsThrows": "R/R",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_32",
+      "fullName": "Jake Gregor",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "235 lbs",
+      "hometown": "Louisville, Ky.",
+      "jersey": "40",
+      "lastSchool": "IMG Academy",
+      "batsThrows": "R/R",
+      "weightLbs": 235
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_33",
+      "fullName": "Alex Gay",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "215 lbs",
+      "hometown": "Clifton Park, N.Y.",
+      "jersey": "41",
+      "lastSchool": "IMG Academy",
+      "batsThrows": "R/R",
+      "weightLbs": 215
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_34",
+      "fullName": "Eddie King Jr.",
+      "classYear": "Sr",
+      "position": "OF",
+      "height": "6-2",
+      "weight": "220 lbs",
+      "hometown": "Lynwood, Ill.",
+      "jersey": "42",
+      "lastSchool": "Marian Catholic",
+      "batsThrows": "R/R",
+      "weightLbs": 220
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_35",
+      "fullName": "Kian Vorster",
+      "classYear": "Fr",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "195 lbs",
+      "hometown": "Louisville, Ky.",
+      "jersey": "44",
+      "lastSchool": "South Oldham",
+      "batsThrows": "R/R",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_36",
+      "fullName": "Casen Murphy",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "5-10",
+      "weight": "200 lbs",
+      "hometown": "Park Hills, Mo.",
+      "jersey": "45",
+      "lastSchool": "Park Hills Central",
+      "batsThrows": "L/L",
+      "weightLbs": 200
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_37",
+      "fullName": "Justin West",
+      "classYear": "Jr",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "195 lbs",
+      "hometown": "Paducah, Ky.",
+      "jersey": "46",
+      "lastSchool": "Paducah Tilghman",
+      "batsThrows": "R/L",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_38",
+      "fullName": "Aaron England",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "225 lbs",
+      "hometown": "Cincinnati, Ohio",
+      "jersey": "47",
+      "lastSchool": "Fairfield",
+      "batsThrows": "L/L",
+      "weightLbs": 225
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_39",
+      "fullName": "Brennyn Cutts",
+      "classYear": "Sr",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "240 lbs",
+      "hometown": "Greenup, Ill.",
+      "jersey": "50",
+      "lastSchool": "Cumberland",
+      "batsThrows": "R/R",
+      "weightLbs": 240
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_40",
+      "fullName": "Ethan Eberle",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-5",
+      "weight": "210 lbs",
+      "hometown": "Bloomington, Ill.",
+      "jersey": "51",
+      "lastSchool": "Normal Community",
+      "batsThrows": "L/L",
+      "weightLbs": 210
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_41",
+      "fullName": "Coen Evrard",
+      "classYear": "Fr",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "195 lbs",
+      "hometown": "Georgetown, Ind.",
+      "jersey": "52",
+      "lastSchool": "Floyd Central",
+      "batsThrows": "L/L",
+      "weightLbs": 195
+    },
+    {
+      "playerId": "University_of_Louisville_baseball_2025_player_42",
+      "fullName": "Lucas Moore",
+      "classYear": "So",
+      "position": "OF",
+      "height": "6-0",
+      "weight": "180 lbs",
+      "hometown": "Cincinnati, Ohio",
+      "jersey": "53",
+      "lastSchool": "Badin",
+      "batsThrows": "L/R",
+      "weightLbs": 180
+    }
+  ],
+  "Relationships": {
+    "HAS_TEAM": [
+      {
+        "schoolId": "University_of_Louisville",
+        "teamId": "University_of_Louisville_baseball_2025"
+      }
+    ],
+    "MEMBER_OF": [
+      {
+        "schoolId": "University_of_Louisville",
+        "conferenceId": "Atlantic_Coast_Conference_(ACC)"
+      }
+    ],
+    "PARTICIPATES_IN": [
+      {
+        "teamId": "University_of_Louisville_baseball_2025",
+        "seasonId": "2025"
+      }
+    ],
+    "PLAYS_FOR": [
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_1",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_2",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_3",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_4",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_5",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_6",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_7",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_8",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_9",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_10",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_11",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_12",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_13",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_14",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_15",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_16",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_17",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_18",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_19",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_20",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_21",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_22",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_23",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_24",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_25",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_26",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_27",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_28",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_29",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_30",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_31",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_32",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_33",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_34",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_35",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_36",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_37",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_38",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_39",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_40",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_41",
+        "teamId": "University_of_Louisville_baseball_2025"
+      },
+      {
+        "playerId": "University_of_Louisville_baseball_2025_player_42",
+        "teamId": "University_of_Louisville_baseball_2025"
+      }
+    ]
+  }
+}

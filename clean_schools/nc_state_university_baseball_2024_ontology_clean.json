@@ -13,7 +13,8 @@
   },
   "Team": {
     "teamId": "NC_State_University_baseball_2024",
-    "teamName": "NC State University Baseball"
+    "teamName": "NC State University Baseball",
+    "seasonYear": 2024
   },
   "Players": [
     {
@@ -26,6 +27,7 @@
       "hometown": "Wilmington, N.C.",
       "jersey": "0",
       "lastSchool": "New Hanover Major Exploratory Studies",
+      "batsThrows": "L/R",
       "weightLbs": 162
     },
     {
@@ -38,6 +40,7 @@
       "hometown": "Newbury Park, Calif.",
       "jersey": "1",
       "lastSchool": "Newbury Park Major Business Administration",
+      "batsThrows": "R/R",
       "weightLbs": 172
     },
     {
@@ -50,6 +53,7 @@
       "hometown": "Thomasville, N.C.",
       "jersey": "2",
       "lastSchool": "Ledford Major Sport Management",
+      "batsThrows": "L/L",
       "weightLbs": 210
     },
     {
@@ -62,6 +66,7 @@
       "hometown": "Monroe, N.C.",
       "jersey": "3",
       "lastSchool": "Sun Valley (Western Carolina) Major Sport Management",
+      "batsThrows": "R/R",
       "weightLbs": 168
     },
     {
@@ -74,6 +79,7 @@
       "hometown": "Lincolnton, N.C.",
       "jersey": "6",
       "lastSchool": "North Lincoln Major Sport Management",
+      "batsThrows": "R/R",
       "weightLbs": 169
     },
     {
@@ -86,6 +92,7 @@
       "hometown": "Hickory, N.C.",
       "jersey": "7",
       "lastSchool": "Saint Stephens Major Sport Management",
+      "batsThrows": "L/R",
       "weightLbs": 180
     },
     {
@@ -98,6 +105,7 @@
       "hometown": "Drexel Hill, Pa.",
       "jersey": "8",
       "lastSchool": "Upper Darby Major Sport Management",
+      "batsThrows": "R/R",
       "weightLbs": 204
     },
     {
@@ -110,6 +118,7 @@
       "hometown": "Salisbury, N.C.",
       "jersey": "10",
       "lastSchool": "East Rowan Major Exploratory Studies",
+      "batsThrows": "R/R",
       "weightLbs": 195
     },
     {
@@ -122,6 +131,7 @@
       "hometown": "Charlottesville, Va.",
       "jersey": "11",
       "lastSchool": "Miller School of Albemarle Major Agricultural Business Management",
+      "batsThrows": "R/R",
       "weightLbs": 212
     },
     {
@@ -134,6 +144,7 @@
       "hometown": "Wilmington, N.C.",
       "jersey": "12",
       "lastSchool": "New Hanover Major Business Administration",
+      "batsThrows": "L/R",
       "weightLbs": 200
     },
     {
@@ -146,6 +157,7 @@
       "hometown": "Viera, Fla.",
       "jersey": "13",
       "lastSchool": "Viera Major Management",
+      "batsThrows": "L/R",
       "weightLbs": 207
     },
     {
@@ -158,6 +170,7 @@
       "hometown": "High Point, N.C.",
       "jersey": "14",
       "lastSchool": "Wesleyan Christian Academy Major Sport Management",
+      "batsThrows": "L/R",
       "weightLbs": 222
     },
     {
@@ -170,6 +183,7 @@
       "hometown": "Wendell, N.C.",
       "jersey": "15",
       "lastSchool": "East Wake Academy Major Sport Management",
+      "batsThrows": "L/R",
       "weightLbs": 190
     },
     {
@@ -182,6 +196,7 @@
       "hometown": "Fuquay-Varina, N.C.",
       "jersey": "16",
       "lastSchool": "Pro5 Baseball Academy Major Sport Management",
+      "batsThrows": "L/L",
       "weightLbs": 201
     },
     {
@@ -194,6 +209,7 @@
       "hometown": "Apex, N.C.",
       "jersey": "17",
       "lastSchool": "Apex Major Graduate: Business Analytics",
+      "batsThrows": "R/R",
       "weightLbs": 204
     },
     {
@@ -206,6 +222,7 @@
       "hometown": "Garner, N.C.",
       "jersey": "18",
       "lastSchool": "Garner Major Sport Management",
+      "batsThrows": "R/R",
       "weightLbs": 194
     },
     {
@@ -218,6 +235,7 @@
       "hometown": "Fincastle, Va.",
       "jersey": "19",
       "lastSchool": "James River Major Sport Management",
+      "batsThrows": "R/R",
       "weightLbs": 196
     },
     {
@@ -230,6 +248,7 @@
       "hometown": "Chantilly, Va.",
       "jersey": "20",
       "lastSchool": "Freedom Major Sport Management",
+      "batsThrows": "L/L",
       "weightLbs": 192
     },
     {
@@ -242,6 +261,7 @@
       "hometown": "North Palm Beach, Fla.",
       "jersey": "22",
       "lastSchool": "Palm Beach Gardens Major Communication",
+      "batsThrows": "L/R",
       "weightLbs": 192
     },
     {
@@ -254,6 +274,7 @@
       "hometown": "Holly Springs, N.C.",
       "jersey": "23",
       "lastSchool": "Holly Springs Major Business Administration",
+      "batsThrows": "R/R",
       "weightLbs": 188
     },
     {
@@ -266,6 +287,7 @@
       "hometown": "Sanford, N.C.",
       "jersey": "24",
       "lastSchool": "Lee County Major Business Administration",
+      "batsThrows": "R/R",
       "weightLbs": 200
     },
     {
@@ -278,6 +300,7 @@
       "hometown": "White Bear Lake, Minn.",
       "jersey": "25",
       "lastSchool": "White Bear Lake Major Sport Management",
+      "batsThrows": "R/R",
       "weightLbs": 219
     },
     {
@@ -290,6 +313,7 @@
       "hometown": "Jamestown, N.C.",
       "jersey": "27",
       "lastSchool": "Ragsdale Major Business Administration",
+      "batsThrows": "L/L",
       "weightLbs": 212
     },
     {
@@ -302,6 +326,7 @@
       "hometown": "Palm Harbor, Fla.",
       "jersey": "28",
       "lastSchool": "East Lake/IMG Academy Major Sport Management",
+      "batsThrows": "L/L",
       "weightLbs": 192
     },
     {
@@ -314,6 +339,7 @@
       "hometown": "Winston-Salem, N.C.",
       "jersey": "29",
       "lastSchool": "Ledford Major Post-Baccalaureate Studies",
+      "batsThrows": "R/R",
       "weightLbs": 221
     },
     {
@@ -326,6 +352,7 @@
       "hometown": "Lighthouse Point, Fla.",
       "jersey": "30",
       "lastSchool": "Westminister Academy Major Sport Management",
+      "batsThrows": "L/R",
       "weightLbs": 194
     },
     {
@@ -338,6 +365,7 @@
       "hometown": "Cranford, N.J.",
       "jersey": "31",
       "lastSchool": "Cranford Major Sport Management",
+      "batsThrows": "R/R",
       "weightLbs": 198
     },
     {
@@ -350,6 +378,7 @@
       "hometown": "Lenexa, Kan.",
       "jersey": "33",
       "lastSchool": "Shawnee Mission West (Wichita State/Central Missouri) Major Graduate: Sport & Entertainment Venue Management",
+      "batsThrows": "R/R",
       "weightLbs": 224
     },
     {
@@ -362,6 +391,7 @@
       "hometown": "Bradenton, Fla.",
       "jersey": "34",
       "lastSchool": "Cardinal Mooney Catholic (Clemson) Major Parks, Recreation & Tourism Management",
+      "batsThrows": "L/L",
       "weightLbs": 223
     },
     {
@@ -374,6 +404,7 @@
       "hometown": "Locust, N.C.",
       "jersey": "36",
       "lastSchool": "West Stanly Major Sport Management",
+      "batsThrows": "S/R",
       "weightLbs": 233
     },
     {
@@ -386,6 +417,7 @@
       "hometown": "Gastonia, N.C.",
       "jersey": "40",
       "lastSchool": "Northern Guilford Major Communication",
+      "batsThrows": "R/R",
       "weightLbs": 195
     },
     {
@@ -398,6 +430,7 @@
       "hometown": "Huntersville, N.C.",
       "jersey": "41",
       "lastSchool": "Lake Norman Charter Major Sport Management",
+      "batsThrows": "L/R",
       "weightLbs": 191
     },
     {
@@ -410,6 +443,7 @@
       "hometown": "Wilson, N.C.",
       "jersey": "42",
       "lastSchool": "Wake County Home School Major Business Administration",
+      "batsThrows": "L/L",
       "weightLbs": 204
     },
     {
@@ -422,6 +456,7 @@
       "hometown": "Charlotte, N.C.",
       "jersey": "43",
       "lastSchool": "Providence Day Major Business Administration",
+      "batsThrows": "R/L",
       "weightLbs": 250
     },
     {
@@ -434,6 +469,7 @@
       "hometown": "Lynchburg, Tenn.",
       "jersey": "45",
       "lastSchool": "Tullahoma (Tennessee) Major Forestry",
+      "batsThrows": "R/R",
       "weightLbs": 225
     },
     {
@@ -446,6 +482,7 @@
       "hometown": "Palm Harbor, Fla.",
       "jersey": "47",
       "lastSchool": "East Lake Major Sport Management",
+      "batsThrows": "R/R",
       "weightLbs": 230
     },
     {
@@ -458,6 +495,7 @@
       "hometown": "Elk Creek, Va.",
       "jersey": "48",
       "lastSchool": "Grayson County Major Sport Management",
+      "batsThrows": "L/R",
       "weightLbs": 184
     },
     {
@@ -470,6 +508,7 @@
       "hometown": "Fuquay-Varina, N.C.",
       "jersey": "51",
       "lastSchool": "Pro5 Baseball Academy Major Agricultural Business Management",
+      "batsThrows": "L/L",
       "weightLbs": 193
     },
     {
@@ -482,6 +521,7 @@
       "hometown": "Longwood, Fla.",
       "jersey": "99",
       "lastSchool": "Lake Brantley (East Carolina) Major Graduate: Sport & Entertainment Venue Management",
+      "batsThrows": "S/R",
       "weightLbs": 234
     }
   ],
